@@ -1,0 +1,781 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "clarksville-home",
+  "requestedURL": "https://urbanspacedesign.com/project/clarksville-home/",
+  "url": "https://urbanspacedesign.com/project/clarksville-home/",
+  "visitedAt": "2026-09-17T15:50:02.757Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_clarksville-home.png"
+  ],
+  "shots": [
+    {
+      "file": "clarksville-home_document-01.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 0 CSS px; sequential gallery coverage",
+      "y": 0,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-01.png"
+    },
+    {
+      "file": "clarksville-home_document-02.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 900 CSS px; sequential gallery coverage",
+      "y": 900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-02.png"
+    },
+    {
+      "file": "clarksville-home_document-03.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 1800 CSS px; sequential gallery coverage",
+      "y": 1800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-03.png"
+    },
+    {
+      "file": "clarksville-home_document-04.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 2700 CSS px; sequential gallery coverage",
+      "y": 2700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-04.png"
+    },
+    {
+      "file": "clarksville-home_document-05.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 3600 CSS px; sequential gallery coverage",
+      "y": 3600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-05.png"
+    },
+    {
+      "file": "clarksville-home_document-06.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 4500 CSS px; sequential gallery coverage",
+      "y": 4500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-06.png"
+    },
+    {
+      "file": "clarksville-home_document-07.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 5400 CSS px; sequential gallery coverage",
+      "y": 5400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-07.png"
+    },
+    {
+      "file": "clarksville-home_document-08.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 6300 CSS px; sequential gallery coverage",
+      "y": 6300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-08.png"
+    },
+    {
+      "file": "clarksville-home_document-09.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 7200 CSS px; sequential gallery coverage",
+      "y": 7200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-09.png"
+    },
+    {
+      "file": "clarksville-home_document-10.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 8100 CSS px; sequential gallery coverage",
+      "y": 8100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-10.png"
+    },
+    {
+      "file": "clarksville-home_document-11.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 9000 CSS px; sequential gallery coverage",
+      "y": 9000,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-11.png"
+    },
+    {
+      "file": "clarksville-home_document-12.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 9900 CSS px; sequential gallery coverage",
+      "y": 9900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-12.png"
+    },
+    {
+      "file": "clarksville-home_document-13.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 10800 CSS px; sequential gallery coverage",
+      "y": 10800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-13.png"
+    },
+    {
+      "file": "clarksville-home_document-14.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 11700 CSS px; sequential gallery coverage",
+      "y": 11700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-14.png"
+    },
+    {
+      "file": "clarksville-home_document-15.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 12600 CSS px; sequential gallery coverage",
+      "y": 12600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-15.png"
+    },
+    {
+      "file": "clarksville-home_document-16.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 13500 CSS px; sequential gallery coverage",
+      "y": 13500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-16.png"
+    },
+    {
+      "file": "clarksville-home_document-17.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 13858 CSS px; sequential gallery coverage",
+      "y": 13858,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_document-17.png"
+    },
+    {
+      "file": "clarksville-home_gallery-01.png",
+      "type": "gallery",
+      "section": "Clarksville Home",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0036_K-1536x1024.jpg",
+      "width": 1440,
+      "height": 800,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_gallery-01.png"
+    },
+    {
+      "file": "clarksville-home_gallery-02.png",
+      "type": "gallery",
+      "section": "Clarksville Home",
+      "imageIndex": 9,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0177_K-768x512.jpg",
+      "width": 850,
+      "height": 567,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_gallery-02.png"
+    },
+    {
+      "file": "clarksville-home_gallery-03.png",
+      "type": "gallery",
+      "section": "Clarksville Home",
+      "imageIndex": 16,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0310_K-768x1152.jpg",
+      "width": 444,
+      "height": 666,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_gallery-03.png"
+    },
+    {
+      "file": "clarksville-home_gallery-04.png",
+      "type": "gallery",
+      "section": "Clarksville Home",
+      "imageIndex": 23,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0435_K-768x960.jpg",
+      "width": 638,
+      "height": 797,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "clarksville-home_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/clarksville-home_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page PNG rejected after visual review because gallery content below the opening failed to paint; complete overlapping viewport segments replace it"
+  ],
+  "state": {
+    "height": 14858,
+    "beforeY": null,
+    "title": "Clarksville Home – Urbanspace Design Studio",
+    "text": "Skip to content\nCLARKSVILLE HOME\nPREVIOUS PROJECT\nModern Penthouse\nNEXT PROJECT\nModern Bar\n301 West Ave #100, Austin, TX 78701\ndesign@urbanspaceinteriors.com · 512.457.0014\n©2026 Urbanspace Design Studio",
+    "images": [
+      {
+        "i": 2,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0036_K-1536x1024.jpg",
+        "x": 0,
+        "y": 150,
+        "w": 1425,
+        "h": 800,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0048_K-1638x2048.jpg",
+        "x": 60.5,
+        "y": 998,
+        "w": 1304,
+        "h": 1629.734375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0064_K-768x512.jpg",
+        "x": 60.5,
+        "y": 2657.734375,
+        "w": 849.328125,
+        "h": 566.21875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0091_K-768x1024.jpg",
+        "x": 939.828125,
+        "y": 2657.734375,
+        "w": 424.671875,
+        "h": 566.21875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0110_K-768x768.jpg",
+        "x": 60.5,
+        "y": 3253.953125,
+        "w": 566.265625,
+        "h": 566.265625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0121_K2-768x614.jpg",
+        "x": 656.765625,
+        "y": 3253.953125,
+        "w": 707.734375,
+        "h": 565.8125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0138_K2-768x1024.jpg",
+        "x": 60.5,
+        "y": 3850.21875,
+        "w": 424.671875,
+        "h": 566.21875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0177_K-768x512.jpg",
+        "x": 515.171875,
+        "y": 3850.21875,
+        "w": 849.328125,
+        "h": 566.21875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K2-768x1024.jpg",
+        "x": 60.5,
+        "y": 4446.4375,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K4-768x1024.jpg",
+        "x": 727.5,
+        "y": 4446.4375,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K5-768x1024.jpg",
+        "x": 60.5,
+        "y": 5325.765625,
+        "w": 444.375,
+        "h": 592.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0272_K-768x549.jpg",
+        "x": 534.875,
+        "y": 5325.765625,
+        "w": 829.625,
+        "h": 593.046875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0236_K-1-768x768.jpg",
+        "x": 60.5,
+        "y": 5948.8125,
+        "w": 707.734375,
+        "h": 707.734375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0290_K-1-768x960.jpg",
+        "x": 798.234375,
+        "y": 5948.8125,
+        "w": 566.265625,
+        "h": 707.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0310_K-768x1152.jpg",
+        "x": 60.5,
+        "y": 6686.640625,
+        "w": 443.171875,
+        "h": 664.75,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0363_K-768x614.jpg",
+        "x": 533.671875,
+        "y": 6686.640625,
+        "w": 830.828125,
+        "h": 664.21875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K2-731x1024.jpg",
+        "x": 60.5,
+        "y": 7381.390625,
+        "w": 637,
+        "h": 892.3125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K4-731x1024.jpg",
+        "x": 727.5,
+        "y": 7381.390625,
+        "w": 637,
+        "h": 892.3125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K6-731x1024.jpg",
+        "x": 60.5,
+        "y": 8303.703125,
+        "w": 621.421875,
+        "h": 870.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 21,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0402_K-768x1024.jpg",
+        "x": 711.921875,
+        "y": 8303.703125,
+        "w": 652.578125,
+        "h": 870.09375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 22,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0418_K-768x960.jpg",
+        "x": 60.5,
+        "y": 9204.203125,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 23,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0435_K-768x960.jpg",
+        "x": 727.5,
+        "y": 9204.203125,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 24,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0452_K-768x1024.jpg",
+        "x": 60.5,
+        "y": 10030.453125,
+        "w": 477.796875,
+        "h": 637.0625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 25,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0477_K2-768x614.jpg",
+        "x": 568.296875,
+        "y": 10030.453125,
+        "w": 796.203125,
+        "h": 636.546875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 26,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0495_K-768x960.jpg",
+        "x": 60.5,
+        "y": 10697.515625,
+        "w": 673.15625,
+        "h": 841.4375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 27,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0520_K2-731x1024.jpg",
+        "x": 763.65625,
+        "y": 10697.515625,
+        "w": 600.84375,
+        "h": 841.671875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 28,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0520_K3-731x1024.jpg",
+        "x": 60.5,
+        "y": 11569.1875,
+        "w": 600.84375,
+        "h": 841.671875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 29,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0544_K-768x960.jpg",
+        "x": 691.34375,
+        "y": 11569.1875,
+        "w": 673.15625,
+        "h": 841.4375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 30,
+        "alt": "Clarksville Home",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0558_K-scaled.jpg",
+        "x": 60.5,
+        "y": 12440.859375,
+        "w": 1304,
+        "h": 1955.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": [
+      "clarksville-home_gallery-02.png"
+    ]
+  }
+}

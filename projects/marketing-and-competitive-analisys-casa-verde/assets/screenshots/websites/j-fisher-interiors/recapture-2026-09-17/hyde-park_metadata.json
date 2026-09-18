@@ -1,0 +1,422 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "hyde-park",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/hyde-park/",
+  "url": "https://jfisherinteriors.com/portfolio/hyde-park/",
+  "visitedAt": "2026-09-17T15:13:23.947Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_hyde-park.png"
+  ],
+  "shots": [
+    {
+      "file": "hyde-park_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 11511,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "hyde-park_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/hyde-park_full-page.png"
+    },
+    {
+      "file": "hyde-park_gallery-01.png",
+      "type": "gallery",
+      "section": "Dinning_1_w_2 copy",
+      "imageIndex": 3,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Dinning_1_w_2-copy-scaled.jpeg",
+      "width": 662,
+      "height": 993,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "hyde-park_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/hyde-park_gallery-01.png"
+    },
+    {
+      "file": "hyde-park_gallery-02.png",
+      "type": "gallery",
+      "section": "Dinning_2_w_2 copy",
+      "imageIndex": 6,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Dinning_2_w_2-copy-scaled.jpeg",
+      "width": 662,
+      "height": 993,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "hyde-park_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/hyde-park_gallery-02.png"
+    },
+    {
+      "file": "hyde-park_gallery-03.png",
+      "type": "gallery",
+      "section": "Bathroom_3_sinks_REVISE_2",
+      "imageIndex": 9,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_sinks_REVISE_2-scaled.jpeg",
+      "width": 662,
+      "height": 437,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "hyde-park_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/hyde-park_gallery-03.png"
+    },
+    {
+      "file": "hyde-park_gallery-04.png",
+      "type": "gallery",
+      "section": "Bathroom_3_alt2_REVISE_2",
+      "imageIndex": 12,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_alt2_REVISE_2-scaled.jpeg",
+      "width": 662,
+      "height": 993,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "hyde-park_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/hyde-park_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 11511,
+    "beforeY": 7078.765625,
+    "title": "Hyde Park Project | Historic Austin Home Tour",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nHYDE PARK \n\nA builder-grade 2,000-square-foot condo in Hyde Park was transformed into a custom, light-filled home, finally giving the space a pulse through thoughtful architecture and richly layered materials. The renovation replaced standard finishes with bespoke design ",
+    "images": [
+      {
+        "i": 3,
+        "alt": "Dinning_1_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Dinning_1_w_2-copy-scaled.jpeg",
+        "x": 38,
+        "y": 1042.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Kitchen_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Kitchen_w_2-copy-scaled.jpeg",
+        "x": 725,
+        "y": 1042.796875,
+        "w": 661.5,
+        "h": 441.078125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "bathroom mirror with gold",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_Mirror_w_2-copy-scaled.jpeg",
+        "x": 725,
+        "y": 1509.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Dinning_2_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Dinning_2_w_2-copy-scaled.jpeg",
+        "x": 38,
+        "y": 2060.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Bathroom_Sink_From Door_w_2 2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_Sink_From-Door_w_2-2-copy-scaled.jpeg",
+        "x": 725,
+        "y": 2527.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Dinning_3_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Dinning_3_w_2-copy-scaled.jpeg",
+        "x": 38,
+        "y": 3078.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Bathroom_3_sinks_REVISE_2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_sinks_REVISE_2-scaled.jpeg",
+        "x": 725,
+        "y": 3545.796875,
+        "w": 661.5,
+        "h": 435.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "Bathroom_3_alt1_REVISE_2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_alt1_REVISE_2-scaled.jpeg",
+        "x": 725,
+        "y": 4006.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "Bathroom_3_alt4_REVISE_2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_alt4_REVISE_2-scaled.jpeg",
+        "x": 38,
+        "y": 4096.796875,
+        "w": 661.5,
+        "h": 441.078125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Bathroom_3_alt2_REVISE_2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_alt2_REVISE_2-scaled.jpeg",
+        "x": 38,
+        "y": 4563.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "Bathroom_3_REVISE_2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_REVISE_2-scaled.jpeg",
+        "x": 725,
+        "y": 5024.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Bathroom2_Sink_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom2_Sink_w_2-copy-scaled.jpeg",
+        "x": 38,
+        "y": 5581.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "Bathroom2_tub_w_2 copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom2_tub_w_2-copy-scaled.jpeg",
+        "x": 725,
+        "y": 6042.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "IMG_3223",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3223-scaled.jpeg",
+        "x": 38,
+        "y": 7125.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "IMG_3216",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3216-scaled.jpeg",
+        "x": 496,
+        "y": 7125.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "IMG_5859",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_5859.webp",
+        "x": 954,
+        "y": 7125.5625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "IMG_3224",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3224-scaled.jpeg",
+        "x": 954,
+        "y": 7475.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "IMG_3213",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3213-scaled.jpeg",
+        "x": 38,
+        "y": 7727.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "IMG_3218",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3218-scaled.jpeg",
+        "x": 496,
+        "y": 7727.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 22,
+        "alt": "IMG_3219",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3219-scaled.jpeg",
+        "x": 954,
+        "y": 8077.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 23,
+        "alt": "IMG_3220",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3220-scaled.jpeg",
+        "x": 38,
+        "y": 8329.5625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "IMG_3215",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3215-scaled.jpeg",
+        "x": 496,
+        "y": 8329.5625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "IMG_3211",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3211-scaled.jpeg",
+        "x": 38,
+        "y": 8680.5625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 26,
+        "alt": "IMG_3210",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_3210-scaled.jpeg",
+        "x": 954,
+        "y": 8680.5625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "hyde-park_gallery-03.png"
+    ]
+  }
+}

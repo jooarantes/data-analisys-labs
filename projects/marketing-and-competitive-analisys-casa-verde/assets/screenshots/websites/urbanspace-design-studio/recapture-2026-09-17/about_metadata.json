@@ -1,0 +1,206 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "about",
+  "requestedURL": "https://urbanspacedesign.com/about/",
+  "url": "https://urbanspacedesign.com/about/",
+  "visitedAt": "2026-09-17T15:42:57.187Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_about.png"
+  ],
+  "shots": [
+    {
+      "file": "about_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 1651,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/about_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 1651,
+    "beforeY": null,
+    "title": "About – Urbanspace Design Studio",
+    "text": "Skip to content\nTHE STUDIO\n\nOur work is all about lifestyle and purpose; which covers everything from large mixed-use developments to cozy single-family homes, hotels, restaurants, workspaces, and custom furniture design. We’re based in Austin, Texas, but we love working with clients from all over the country.\n\nAt the heart of what we do is a simpl",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/11/DSC03575.jpg",
+        "x": 112.5,
+        "y": 369.03125,
+        "w": 298,
+        "h": 406.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/12/UrbDesignHoverHeadshots-751x1024.jpg",
+        "x": 112.5,
+        "y": 369.03125,
+        "w": 298,
+        "h": 406.3125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": false
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/11/V1.jpg",
+        "x": 442.5,
+        "y": 369.03125,
+        "w": 298,
+        "h": 406.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/12/UrbDesignHoverHeadshots2-751x1024.jpg",
+        "x": 442.5,
+        "y": 369.03125,
+        "w": 298,
+        "h": 406.3125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": false
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/11/N1.jpg",
+        "x": 112.5,
+        "y": 798.359375,
+        "w": 298,
+        "h": 406.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/11/DSC03287.jpg",
+        "x": 112.5,
+        "y": 798.359375,
+        "w": 298,
+        "h": 406.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": false
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/12/UrbDesignHoverHeadshots6-751x1024.jpg",
+        "x": 442.5,
+        "y": 798.359375,
+        "w": 298,
+        "h": 406.3125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/11/G1.jpg",
+        "x": 442.5,
+        "y": 798.359375,
+        "w": 298,
+        "h": 406.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": false
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/07/images-300x300.png",
+        "x": 804.5,
+        "y": 1082.71875,
+        "w": 300,
+        "h": 300,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Close Modal"
+      },
+      {
+        "text": "",
+        "aria": "Close Modal"
+      },
+      {
+        "text": "",
+        "aria": "Close Modal"
+      },
+      {
+        "text": "",
+        "aria": "Close Modal"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

@@ -1,0 +1,121 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+  - text:       
+- text: /
+- heading "Ready to Hire an Interior Designer?" [level=1]
+- heading "A clear introduction to how professional design projects actually work" [level=2]
+- paragraph: If you’re considering working with an interior designer, this complimentary guide offers a practical overview of the design process. It’s designed to help you understand how projects are structured, what to expect at each stage, and how to choose the right design partner for your goals.
+- paragraph: "Inside the guide, you’ll learn about:"
+- list:
+  - paragraph: How designers and clients typically collaborate
+  - paragraph: What influences timelines and investment levels
+  - paragraph: How to evaluate designers for your project
+  - paragraph: What the design and construction process really looks like
+- paragraph:
+  - text: A well-informed client makes for a smoother, more successful project. This guide is a helpful first step and can help with
+  - link "briefing your interior designer":
+    - /url: /luxury-interior-design-process/how-to-brief-your-designer/
+  - text: .
+- heading "Download the guide" [level=2]:
+  - strong: Download the guide
+- paragraph: A behind-the-scenes look at how professional interior design projects actually work.
+- status
+- list
+- form "Contact form":
+  - paragraph:
+    - textbox "First Name"
+  - paragraph:
+    - textbox "Last Name"
+  - paragraph:
+    - textbox "Email"
+  - paragraph:
+    - checkbox "Stay updated! Sign up here to get our latest news, special offers, and more straight to your inbox." [checked]
+    - text: Stay updated! Sign up here to get our latest news, special offers, and more straight to your inbox.
+  - paragraph:
+    - button "Get Your Guide"
+- paragraph:
+  - emphasis: The details are not the details. They make the design.
+- paragraph:
+  - strong: – Charles Eames
+- region "Image Carousel":
+  - group "1 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio.jpg
+      - figure:
+        - img "LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio"
+  - group "2 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres.jpg
+      - figure:
+        - img "230919_JFisher__0184_lowres"
+  - group "3 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0027_lowres.jpg
+      - figure:
+        - img "230919_JFisher__0027_lowres"
+  - group "4 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0208_lowres.jpg
+      - figure:
+        - img "230919_JFisher_0208_lowres"
+  - group "5 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/10/commercial.jpg
+      - figure:
+        - img "J. Fisher Interiors - Commercial Interior Design"
+  - group "6 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/10/JenniferFisher_BellMountain-5-opt.jpg
+      - figure:
+        - img "JenniferFisher_BellMountain-5-opt"
+  - group "7 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2020/12/Kitchen1-scaled-1.jpg
+      - figure:
+        - img "Kitchen1"
+  - group "8 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/05/East-Austin-Interior-Design-Services-image.png
+      - figure:
+        - img "East Austin Interior Design Services"
+  - group "9 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/05/How-Do-I-Choose-a-Good-Interior-Designer.jpg
+      - figure:
+        - img "How Do I Choose a Good Interior Designer"
+  - group "10 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/01/Proper-LVR.jpeg
+      - figure:
+        - img "Proper LVR"
+  - group "11 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-1.jpg
+      - figure:
+        - img "Outdoor Living Room"
+  - group "12 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Kitchen-scaled-2.jpg
+      - figure:
+        - img "Outdoor Kitchen"
+  - group "13 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-2.jpg
+      - figure:
+        - img "Outdoor Living Room"
+  - group "14 of 14":
+    - link:
+      - /url: https://jfisherinteriors.com/wp-content/uploads/2023/01/Main-Bed.jpg
+      - figure:
+        - img "Main Bed"
+  - button:
+    - generic: 
+  - button:
+    - generic: 
+- generic: mobile

@@ -1,0 +1,233 @@
+{
+  "slug": "urbane-design",
+  "stem": "homepage",
+  "requestedURL": "https://urbanedesignstudios.com/",
+  "url": "https://urbanedesignstudios.com/",
+  "visitedAt": "2026-09-17T15:40:50.099Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_homepage.png"
+  ],
+  "shots": [
+    {
+      "file": "homepage_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 6043,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of all recorded page sections and supplemental images",
+        "limitations": [
+          "Embedded video appears blank in the full-page image; section-01 preserves its loaded poster. Video playback was not captured"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/homepage_full-page.png"
+    },
+    {
+      "file": "homepage_section-01.png",
+      "type": "section",
+      "section": "Document offset 1261 CSS px",
+      "y": 1261,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of all recorded page sections and supplemental images",
+        "limitations": [
+          "Embedded video appears blank in the full-page image; section-01 preserves its loaded poster. Video playback was not captured"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/homepage_section-01.png"
+    },
+    {
+      "file": "homepage_section-02.png",
+      "type": "section",
+      "section": "Document offset 2522 CSS px",
+      "y": 2522,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of all recorded page sections and supplemental images",
+        "limitations": [
+          "Embedded video appears blank in the full-page image; section-01 preserves its loaded poster. Video playback was not captured"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/homepage_section-02.png"
+    },
+    {
+      "file": "homepage_section-03.png",
+      "type": "section",
+      "section": "Document offset 3782 CSS px",
+      "y": 3782,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of all recorded page sections and supplemental images",
+        "limitations": [
+          "Embedded video appears blank in the full-page image; section-01 preserves its loaded poster. Video playback was not captured"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/homepage_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 6043,
+    "beforeY": null,
+    "title": "Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\n\nUrbane Design is a full-service interior design firm based in Austin, TX. We specialize in new home construction, remodels and furniture. Our collaborative process creates interiors that empower you to become the best version of yourself—at home and beyond.\n\nAward-Winnin",
+    "images": [
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-6-555x782.jpg",
+        "x": -932,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2019/03/DSC7725-555x782.jpg",
+        "x": -382,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-555x782.jpg",
+        "x": 168,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-6-555x782.jpg",
+        "x": 718,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2019/03/DSC7725-555x782.jpg",
+        "x": 1268,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-555x782.jpg",
+        "x": 1818,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-6-555x782.jpg",
+        "x": 2368,
+        "y": 2466.625,
+        "w": 539,
+        "h": 759.453125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "Previous",
+        "aria": null
+      },
+      {
+        "text": "Next",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of all recorded page sections and supplemental images",
+    "limitations": [
+      "Embedded video appears blank in the full-page image; section-01 preserves its loaded poster. Video playback was not captured"
+    ],
+    "preferred": []
+  }
+}

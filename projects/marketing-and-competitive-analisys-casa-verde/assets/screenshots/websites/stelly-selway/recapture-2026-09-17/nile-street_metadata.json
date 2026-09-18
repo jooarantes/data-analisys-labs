@@ -1,0 +1,141 @@
+{
+  "slug": "stelly-selway",
+  "stem": "nile-street",
+  "requestedURL": "https://www.stellyselway.com/project/nile-street",
+  "url": "https://www.stellyselway.com/project/nile-street",
+  "visitedAt": "2026-09-17T15:25:43.403Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_nile-street.png"
+  ],
+  "shots": [
+    {
+      "file": "nile-street_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 2738,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "nile-street_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/nile-street_full-page.png"
+    },
+    {
+      "file": "nile-street_gallery-01.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 0,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F63f3194b12e143bf987bc79a33eebd59",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "nile-street_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/nile-street_gallery-01.png"
+    },
+    {
+      "file": "nile-street_gallery-02.png",
+      "type": "gallery",
+      "section": "Image 2",
+      "imageIndex": 1,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F716d194b5f8a4275bede8e9924fab6c7",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "nile-street_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/nile-street_gallery-02.png"
+    },
+    {
+      "file": "nile-street_gallery-03.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 2,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F67dbd3877f1d49be81b481adf90ed285",
+      "width": 1425,
+      "height": 802,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "nile-street_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/nile-street_gallery-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 2738,
+    "beforeY": null,
+    "title": "Stelly Selway | Nile Street",
+    "text": "Back\nNile Street\nNile Street\nINTERIOR RENOVATION IN AUSTIN, TEXAS\n\nA thoughtful renovation in Austin, Texas for private clients, designed as a calm and materially expressive urban home. Stelly Selway reworked the kitchen and dining space as the centre of the home, balancing functionality with a refined, layered aesthetic. Lighting plays a defining ",
+    "images": [
+      {
+        "i": 0,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F63f3194b12e143bf987bc79a33eebd59",
+        "x": 0,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F716d194b5f8a4275bede8e9924fab6c7",
+        "x": 712.5,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F67dbd3877f1d49be81b481adf90ed285",
+        "x": 0,
+        "y": 1625.21875,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "nile-street_gallery-03.png"
+    ]
+  }
+}

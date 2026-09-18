@@ -1,0 +1,94 @@
+- link:
+  - /url: /
+- link:
+  - /url: /accounts/login/?next=%2Fstardustranchtx%2Fp%2FDdWc3UFEhct%2F&source=desktop_nav
+  - text: Entrar
+- link:
+  - /url: /accounts/emailsignup/
+  - text: Cadastre-se
+- main:
+  - article:
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - link:
+      - link:
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - text: stardustranchtx
+    - generic: e
+    - link:
+      - /url: /theurbanedesign/
+      - generic: theurbanedesign
+    - generic: •
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Seguir
+    - link:
+      - /url: /explore/locations/686060884583264/stardust-ranch/
+      - text: Stardust Ranch
+    - button:
+    - list:
+    - button
+    - button:
+    - button:
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+    - generic: 19 curtidas
+    - link:
+      - /url: /stardustranchtx/
+      - generic: stardustranchtx
+    - heading [level=1]: The en suite at Stardust Ranch has everything you need for your stay, plus a little more.
+    - text: ...
+    - button:
+      - generic: mais
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Ver todos os 5 comentários
+    - link:
+      - /url: intent://instagram.com/stardustranchtx/p/DdWc3UFEhct?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - time: há 8 horas
+  - separator
+  - text: Mais posts de
+  - link:
+    - /url: /stardustranchtx/
+    - text: stardustranchtx
+  - link:
+    - /url: /stardustranchtx/p/Db8ZMcwDhlI/
+  - link:
+    - /url: /stardustranchtx/reel/DRKmYCrFJc8/
+  - link:
+    - /url: /stardustranchtx/p/DaNb5pZjovy/
+  - link:
+    - /url: /theurbanedesign/p/DdUI3YlCjij/
+  - link:
+    - /url: /stardustranchtx/p/DdRroqtI7di/
+  - link:
+    - /url: /stardustranchtx/reel/DdGe7BDhlW7/
+  - link:
+    - /url: /theurbanedesign/p/DdHbIL8Ghe-/
+  - link:
+    - /url: /stardustranchtx/p/DdEbU3Ejtaf/
+  - link:
+    - /url: /stardustranchtx/p/DdEeIIljkyj/
+  - link:
+    - /url: /stardustranchtx/
+    - generic: Ver mais posts
+  - separator
+- dialog:
+  - button "Fechar" [active]:
+    - img "Fechar"
+  - button "Ir para o aplicativo":
+    - img "Ir para o aplicativo"
+  - generic: Tenha a experiência completa
+  - generic: Entre ou cadastre-se para ter a experiência completa.
+  - text: Ao continuar, você concorda com os
+  - link "Termos de Uso":
+    - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+  - text: e a
+  - link "Política de Privacidade":
+    - /url: https://privacycenter.instagram.com/policy/
+  - text: do Instagram.
+  - button "Cadastre-se"
+  - button "Entrar"

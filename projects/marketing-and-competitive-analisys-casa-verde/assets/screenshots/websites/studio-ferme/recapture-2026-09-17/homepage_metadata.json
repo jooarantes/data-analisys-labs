@@ -1,0 +1,147 @@
+{
+  "slug": "studio-ferme",
+  "stem": "homepage",
+  "requestedURL": "https://www.studioferme.com/",
+  "url": "https://www.studioferme.com/",
+  "visitedAt": "2026-09-17T15:29:45.829Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_homepage.png"
+  ],
+  "shots": [
+    {
+      "file": "homepage_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "Three carousel cover states recorded. Europe and The Monochrome Series are portfolio covers, not additional residential case studies"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/homepage_full-page.png"
+    },
+    {
+      "file": "homepage_carousel-02.png",
+      "type": "carousel",
+      "section": "PORTFOLIO / EUROPE",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "Three carousel cover states recorded. Europe and The Monochrome Series are portfolio covers, not additional residential case studies"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/homepage_carousel-02.png"
+    },
+    {
+      "file": "homepage_carousel-03.png",
+      "type": "carousel",
+      "section": "PORTFOLIO / THE MONOCHROME SERIES",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "Three carousel cover states recorded. Europe and The Monochrome Series are portfolio covers, not additional residential case studies"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/homepage_carousel-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 1000,
+    "beforeY": null,
+    "title": "STUDIO FERME",
+    "text": "STUDIO FERME\n\t\nPortfolio\n About Blog Contact \nPORTFOLIO / THERESA PASSIVE HOUSE",
+    "images": [
+      {
+        "i": 0,
+        "alt": "  Theresa Passive House | Studio Ferme | Interior Design   Theresa Passive House is a high-performance renovation and addition that blends the historic preservation of a 1914 Craftsman bungalow and a modern volume highlighting cutting-edge sustainabl",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1635301285603-OUX1YN042L8HFNWQU58T/image-asset.jpeg?format=1500w",
+        "x": 0,
+        "y": -59.1875,
+        "w": 1440,
+        "h": 1118.390625,
+        "loaded": true,
+        "opacity": "0"
+      },
+      {
+        "i": 1,
+        "alt": "20250513_Forge Craft_W 7th2163.jpg",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/d9324407-c89f-4ccc-974a-2a9dc4468f02/20250513_Forge+Craft_W+7th2163.jpg?format=1500w",
+        "x": 0,
+        "y": -334.234375,
+        "w": 1440,
+        "h": 1668.46875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Maude St. Millwork",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1556468361794-QI28JIJ4L61OSJLA0CB7/Leonid_Furmansky_2019_Mar+19+201916850Mar+19+2019.jpg?format=1500w",
+        "x": -24.484375,
+        "y": 0,
+        "w": 1488.96875,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "Cedar Sukkah",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1539986691185-FKC04UGAGOD34PNJBEZ7/AT-Wedding-450+copy.jpg?format=1500w",
+        "x": -29.84375,
+        "y": 0,
+        "w": 1499.6875,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Travels and study in Europe, 2015",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1537012528931-WSHJRLQMW3EC9JXGKS8J/IMG_3004.jpg?format=1500w",
+        "x": -29.84375,
+        "y": 0,
+        "w": 1499.6875,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Selections from the Monochrome Series",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1578366191922-BBT474O42TEIKHX421I8/image-asset.jpeg?format=1500w",
+        "x": -29.84375,
+        "y": 0,
+        "w": 1499.6875,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": []
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "Three carousel cover states recorded. Europe and The Monochrome Series are portfolio covers, not additional residential case studies"
+    ],
+    "preferred": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "sourcing-claims",
+  "requestedURL": "https://jfisherinteriors.com/services/residential/architectural/",
+  "url": "https://jfisherinteriors.com/services/residential/architectural/",
+  "visitedAt": "2026-09-17T15:18:05.455Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_sourcing-claims.png"
+  ],
+  "shots": [
+    {
+      "file": "sourcing-claims_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 5371,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/sourcing-claims_full-page.png"
+    },
+    {
+      "file": "sourcing-claims_section-01.png",
+      "type": "section",
+      "section": "Document offset 1093 CSS px",
+      "y": 1093,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/sourcing-claims_section-01.png"
+    },
+    {
+      "file": "sourcing-claims_section-02.png",
+      "type": "section",
+      "section": "Document offset 2186 CSS px",
+      "y": 2186,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/sourcing-claims_section-02.png"
+    },
+    {
+      "file": "sourcing-claims_section-03.png",
+      "type": "section",
+      "section": "Document offset 3278 CSS px",
+      "y": 3278,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/sourcing-claims_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 5371,
+    "beforeY": null,
+    "title": "Architectural Interior Design Services | Austin, TX",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nARCHITECTURAL INTERIOR DESIGNERS\n\nRejuvenate your home with J.Fisher Interiors, Austin’s trusted architectural interior designer. We specialize in transforming existing residences into one-of-a-kind spaces that combine architectural precision with inspired style. From the",
+    "images": [
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/JenniferFisher_RedbudTrail-3-1024x683.jpg",
+        "x": 75,
+        "y": 1589.1875,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/JenniferFisher_RedbudTrail-1-1024x683.jpg",
+        "x": 712.5,
+        "y": 1549.59375,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

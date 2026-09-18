@@ -1,0 +1,51 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - article:
+    - figure
+    - figure
+    - link:
+      - /url: javascript:;
+    - figure
+    - figure
+    - link:
+      - /url: javascript:;
+    - figure
+    - figure
+    - link:
+      - /url: javascript:;
+    - figure
+    - figure
+    - link:
+      - /url: javascript:;
+    - heading "THE STUDIO" [level=2]
+    - paragraph: Our work is all about lifestyle and purpose; which covers everything from large mixed-use developments to cozy single-family homes, hotels, restaurants, workspaces, and custom furniture design. We’re based in Austin, Texas, but we love working with clients from all over the country.
+    - paragraph: "At the heart of what we do is a simple goal: creating spaces that bring people together, and show how thoughtful design can make life better for everyone. We want you to feel like part of the team, sharing the fun and excitement as your ideas take shape."
+    - paragraph:
+      - strong: "Discover the heart of Austin’s urban core:"
+      - text: Our design studio is just one piece of the Urbanspace story. We invite you to shop our globally inspired furniture showroom at
+      - strong:
+        - link "Urbanspace Interiors":
+          - /url: https://urbanspaceinteriors.com/
+      - text: or explore
+      - strong:
+        - link "Urbanspace Lifestyle":
+          - /url: https://urbanspacelifestyle.com/
+      - text: for an all-encompassing look at our work. There, you can dive into our residential and commercial real estate services, hospitality concepts, and neighborhood guides that define the Austin urban lifestyle.
+    - paragraph:
+      - text: As a full-service interior design studio, we’ve got you covered—from dreaming up the concept and putting together detailed plans to sourcing materials and managing the whole project. We’ll take care of construction oversight, handle installations, and even design custom pieces to make sure everything fits your style perfectly.
+      - text: Read our profile on
+      - link "Architectural Digest":
+        - /url: https://www.architecturaldigest.com/adpro/directory/profile/urbanspace-design-studio
+    - figure
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

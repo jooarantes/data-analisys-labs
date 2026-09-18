@@ -1,0 +1,289 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "woodview",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/woodview/",
+  "url": "https://jfisherinteriors.com/portfolio/woodview/",
+  "visitedAt": "2026-09-17T15:18:56.716Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_woodview.png"
+  ],
+  "shots": [
+    {
+      "file": "woodview_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 8025,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/woodview_full-page.png"
+    },
+    {
+      "file": "woodview_gallery-01.png",
+      "type": "gallery",
+      "section": "Woodview | J.Fisher Interiors",
+      "imageIndex": 3,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-1.jpg",
+      "width": 669,
+      "height": 499,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/woodview_gallery-01.png"
+    },
+    {
+      "file": "woodview_gallery-02.png",
+      "type": "gallery",
+      "section": "Living Room Woodview",
+      "imageIndex": 6,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-7.jpg",
+      "width": 669,
+      "height": 440,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/woodview_gallery-02.png"
+    },
+    {
+      "file": "woodview_gallery-03.png",
+      "type": "gallery",
+      "section": "Woodview | J.Fisher Interiors",
+      "imageIndex": 9,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-10.jpg",
+      "width": 662,
+      "height": 841,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/woodview_gallery-03.png"
+    },
+    {
+      "file": "woodview_gallery-04.png",
+      "type": "gallery",
+      "section": "Woodview | J.Fisher Interiors",
+      "imageIndex": 12,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-4.jpg",
+      "width": 662,
+      "height": 474,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/woodview_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 8025,
+    "beforeY": null,
+    "title": "Woodview Project Portfolio | J. Fisher Interiors",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nWOODVIEW\n\nA spec home in Austin became the starting point for creating a space that feels entirely personal to the homeowners. The vision was to design a home that could move easily between daily life and entertaining, offering comfort for working and relaxing while still",
+    "images": [
+      {
+        "i": 3,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-1.jpg",
+        "x": 38,
+        "y": 934,
+        "w": 661.5,
+        "h": 492.59375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-8.jpg",
+        "x": 725,
+        "y": 934,
+        "w": 661.5,
+        "h": 876,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-2.jpg",
+        "x": 38,
+        "y": 1452,
+        "w": 661.5,
+        "h": 484.859375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Living Room Woodview",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-7.jpg",
+        "x": 725,
+        "y": 1836,
+        "w": 661.5,
+        "h": 434.375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Woodview dining room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-3.jpg",
+        "x": 38,
+        "y": 1963,
+        "w": 661.5,
+        "h": 892.078125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-9.jpg",
+        "x": 725,
+        "y": 2296,
+        "w": 661.5,
+        "h": 471.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-10.jpg",
+        "x": 725,
+        "y": 2793,
+        "w": 661.5,
+        "h": 840.09375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-6.jpg",
+        "x": 38,
+        "y": 2881,
+        "w": 661.5,
+        "h": 812.6875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-5.jpg",
+        "x": 725,
+        "y": 3659,
+        "w": 661.5,
+        "h": 467.25,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-4.jpg",
+        "x": 38,
+        "y": 3720,
+        "w": 661.5,
+        "h": 473.453125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-12.jpg",
+        "x": 725,
+        "y": 4152,
+        "w": 661.5,
+        "h": 939.328125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-11.jpg",
+        "x": 38,
+        "y": 4219,
+        "w": 661.5,
+        "h": 476.875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "Woodview | J.Fisher Interiors",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-14.jpg",
+        "x": 38,
+        "y": 4722,
+        "w": 661.5,
+        "h": 897.75,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

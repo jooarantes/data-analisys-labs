@@ -1,0 +1,97 @@
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Urbanspace Design Studio":
+    - /url: https://urbanspacedesign.com/
+    - img "Urbanspace Design Studio"
+- main:
+  - main:
+    - article:
+      - region "Project hero":
+        - img "The East Residence"
+        - heading "The East Residence" [level=1]
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3416_lights-on_01-1536x1097.jpg
+        - img "The East Residence"
+      - paragraph:
+        - text: Originally part of a multi-family tower development
+        - emphasis: ","
+        - text: this downtown condo renovation was reimagined to break free from the standard units. The design team completely transformed this space to reflect the client’s lifestyle through enlarging the kitchen, designing custom millwork, and updating finishes, while prioritizing sustainable design.
+      - paragraph:
+        - text: In the kitchen, new panels were matched to the existing panels, blending seamlessly with the custom pantry and wine fridge
+        - emphasis: ;
+        - text: framed by a Taj Mahal stone that unified the space. The adjacent cocktail bar featured stone extending across the ceiling and floating shelves, illuminated by integrated lighting. The built-in booth highlights a picturesque view of Lady Bird Lake, supporting the ritual of a morning cup of coffee and evening cocktail at sunset.
+      - paragraph: In the primary suite, several custom features blended every inch of the space to feel seamless; a striking 9-foot wooden door with a custom handmade handle crafted from reclaimed wood, and floor-to-ceiling scalloped wood panels extending through the bedroom and closet. The primary bathroom is enclosed by a Rimadesio sliding glass door system, offering a sophisticated balance of privacy and openness —allowing views outward while maintaining discretion from the outside.
+      - paragraph:
+        - strong: COMPLETED
+        - text: "2024"
+      - paragraph:
+        - strong: LOCATION
+        - text: Austin, TX
+      - paragraph:
+        - strong: TYPE
+        - text: Residential
+      - paragraph:
+        - strong: DESIGNER
+        - text: Merrill Alley, Grace Crews, & Jacqueline Hunt Bradley
+      - paragraph:
+        - strong: PHOTOGRAPHER
+        - text: Likeness Studio
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3311-1152x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3387-1_lights_01-1024x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3345_lights-1536x1097.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1536x1024.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3330_lights-on_01-1152x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3299_01-1152x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3436-1229x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3436_door-closed_lights-on_01-1229x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3496_remove-towel-holder-1536x1229.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3522-1536x1152.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3539-1024x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3561-1-1097x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3602-lights-1229x1536.jpg
+        - img "The East Residence"
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3617-lights-1024x1536.jpg
+        - img "The East Residence"
+      - navigation "Project navigation":
+        - link "Previous Project West Ave Penthouse":
+          - /url: https://urbanspacedesign.com/project/westavepenthouse/
+          - generic: Previous Project
+          - generic: West Ave Penthouse
+        - link "Next Project Seaholm Penthouse":
+          - /url: https://urbanspacedesign.com/project/seaholmpenthouse/
+          - generic: Next Project
+          - generic: Seaholm Penthouse
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

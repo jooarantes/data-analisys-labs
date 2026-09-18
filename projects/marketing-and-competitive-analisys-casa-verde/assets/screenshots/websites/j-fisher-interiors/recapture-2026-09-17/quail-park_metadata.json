@@ -1,0 +1,355 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "quail-park",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/quail-park/",
+  "url": "https://jfisherinteriors.com/portfolio/quail-park/",
+  "visitedAt": "2026-09-17T15:17:21.505Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_quail-park.png"
+  ],
+  "shots": [
+    {
+      "file": "quail-park_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 8452,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/quail-park_full-page.png"
+    },
+    {
+      "file": "quail-park_gallery-01.png",
+      "type": "gallery",
+      "section": "Final entry copy",
+      "imageIndex": 3,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Final-entry-copy.jpeg",
+      "width": 669,
+      "height": 858,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/quail-park_gallery-01.png"
+    },
+    {
+      "file": "quail-park_gallery-02.png",
+      "type": "gallery",
+      "section": "Kitchen island 2",
+      "imageIndex": 4,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Kitchen-island-2-1-scaled.jpg",
+      "width": 669,
+      "height": 456,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/quail-park_gallery-02.png"
+    },
+    {
+      "file": "quail-park_gallery-03.png",
+      "type": "gallery",
+      "section": "Dining into entry final",
+      "imageIndex": 6,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Dining-into-entry-final-scaled.jpeg",
+      "width": 669,
+      "height": 1005,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/quail-park_gallery-03.png"
+    },
+    {
+      "file": "quail-park_gallery-04.png",
+      "type": "gallery",
+      "section": "Final Family Room",
+      "imageIndex": 8,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/Final-Family-Room-scaled.jpg",
+      "width": 669,
+      "height": 474,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/quail-park_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 8452,
+    "beforeY": 4379.953125,
+    "title": "Quail Park | J.Fisher Interiors",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nQUAIL PARK (MORE COMING SOON)\n\nI bought this 1971 midcentury home knowing it would be a long conversation, not a quick renovation. Once a group residence for adults with disabilities, the house was divided into six bedrooms, 2.5 baths, and a series of disconnected additio",
+    "images": [
+      {
+        "i": 3,
+        "alt": "Final entry copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Final-entry-copy.jpeg",
+        "x": 38,
+        "y": 1090.796875,
+        "w": 661.5,
+        "h": 847.40625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Kitchen island 2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Kitchen-island-2-1-scaled.jpg",
+        "x": 725,
+        "y": 1090.796875,
+        "w": 661.5,
+        "h": 449.609375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "50mm range shot",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/50mm-range-shot-scaled.jpg",
+        "x": 725,
+        "y": 1565.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Dining into entry final",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Dining-into-entry-final-scaled.jpeg",
+        "x": 38,
+        "y": 1963.796875,
+        "w": 661.5,
+        "h": 992.046875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Living room corner",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Living-room-corner-scaled.jpg",
+        "x": 725,
+        "y": 2583.796875,
+        "w": 661.5,
+        "h": 807.15625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Final Family Room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Final-Family-Room-scaled.jpg",
+        "x": 38,
+        "y": 2981.796875,
+        "w": 661.5,
+        "h": 467.6875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Quail Park-2067",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Quail-Park-2067-scaled.jpg",
+        "x": 725,
+        "y": 3416.796875,
+        "w": 661.5,
+        "h": 919.34375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "DSC 1096 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1096-Edit.jpeg",
+        "x": 38,
+        "y": 4426.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "DSC 1121 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1121-Edit.jpeg",
+        "x": 496,
+        "y": 4426.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "DSC 1131 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1131-Edit.jpeg",
+        "x": 954,
+        "y": 4426.75,
+        "w": 432.328125,
+        "h": 288.890625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "DSC 1106 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1106-Edit.jpeg",
+        "x": 38,
+        "y": 4740.75,
+        "w": 432.328125,
+        "h": 287.875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "DSC 1111 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1111-Edit.jpeg",
+        "x": 496,
+        "y": 4740.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "DSC 1116 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1116-Edit.jpeg",
+        "x": 954,
+        "y": 4740.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "DSC 1071 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1071-Edit.jpeg",
+        "x": 38,
+        "y": 5054.75,
+        "w": 432.328125,
+        "h": 288.546875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "DSC 1192 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1192-Edit.jpeg",
+        "x": 496,
+        "y": 5054.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "DSC 1066 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1066-Edit.jpeg",
+        "x": 954,
+        "y": 5055.75,
+        "w": 432.328125,
+        "h": 288.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "DSC 1086 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1086-Edit.jpeg",
+        "x": 38,
+        "y": 5368.75,
+        "w": 432.328125,
+        "h": 290.921875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "DSC 1081 Edit",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/DSC-1081-Edit.jpeg",
+        "x": 496,
+        "y": 5368.75,
+        "w": 432.328125,
+        "h": 287.875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "IMG_1393",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/IMG_1393-scaled.jpeg",
+        "x": 954,
+        "y": 5369.75,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

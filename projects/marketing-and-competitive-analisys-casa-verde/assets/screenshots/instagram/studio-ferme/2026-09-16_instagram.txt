@@ -1,0 +1,98 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fstudioferme%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - link "Foto do perfil de studioferme":
+    - /url: /studioferme/
+    - img "Foto do perfil de studioferme"
+  - heading "studioferme" [level=2]:
+    - generic: studioferme
+  - list:
+    - link "1.455 seguidores":
+      - /url: "#"
+      - generic "1.455"
+      - text: seguidores
+    - link "625 seguindo":
+      - /url: "#"
+      - generic: "625"
+      - text: seguindo
+  - generic: S T U D I O F E R M E
+  - generic: she/her
+  - button "adrienne // interior design M I N D F U L ➕ D E S I G N for & with nature, resiliency, regeneration, wellbeing,":
+    - text: adrienne // interior design
+    - text: M I N D F U L ➕ D E S I G N
+    - text: for & with nature, resiliency, regeneration, wellbeing,
+  - text: ...
+  - button "mais":
+    - generic: mais
+  - button "Ícone de link linktr.ee/studioferme e mais 1":
+    - img "Ícone de link"
+    - generic: linktr.ee/studioferme e mais 1
+  - menu:
+    - list:
+      - link "Ver destaque de Excitement":
+        - /url: /stories/highlights/18162981466214067/
+        - button "Foto do story no destaque de studioferme Excitement":
+          - button "Foto do story no destaque de studioferme":
+            - img "Foto do story no destaque de studioferme"
+          - generic: Excitement
+      - link "Ver destaque de Moments":
+        - /url: /stories/highlights/18224626882139990/
+        - button "Foto do story no destaque de studioferme Moments":
+          - button "Foto do story no destaque de studioferme":
+            - img "Foto do story no destaque de studioferme"
+          - generic: Moments
+  - tablist:
+    - link "Posts":
+      - /url: /studioferme/
+      - img "Posts"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - separator
+  - link "Photo by S T U D I O F E R M E on April 28, 2025.":
+    - /url: /studioferme/p/DI_lKDyNSV-/
+    - img "Photo by S T U D I O F E R M E on April 28, 2025."
+  - link "Photo by S T U D I O F E R M E on January 13, 2024.":
+    - /url: /studioferme/p/C2DRfL0OGTD/
+    - img "Photo by S T U D I O F E R M E on January 13, 2024."
+  - link "Photo by S T U D I O F E R M E on January 09, 2024.":
+    - /url: /studioferme/p/C14zEyRO4dM/
+    - img "Photo by S T U D I O F E R M E on January 09, 2024."
+  - link "Photo by S T U D I O F E R M E on July 28, 2023.":
+    - /url: /studioferme/p/CvQYea2PkBa/
+    - img "Photo by S T U D I O F E R M E on July 28, 2023."
+  - link "Photo by S T U D I O F E R M E on April 19, 2023.":
+    - /url: /studioferme/p/CrOxa_BJNSP/
+    - img "Photo by S T U D I O F E R M E on April 19, 2023."
+  - link "Photo by S T U D I O F E R M E on March 19, 2023.":
+    - /url: /studioferme/p/Cp-nfm9umOo/
+    - img "Photo by S T U D I O F E R M E on March 19, 2023."
+  - link "Photo by S T U D I O F E R M E on January 01, 2023. Carrossel":
+    - /url: /studioferme/p/Cm40twPp_3Y/
+    - img "Photo by S T U D I O F E R M E on January 01, 2023."
+    - img "Carrossel"
+  - link "Photo by S T U D I O F E R M E on October 24, 2022.":
+    - /url: /studioferme/p/CkHVr0TsJtQ/
+    - img "Photo by S T U D I O F E R M E on October 24, 2022."
+  - link "Photo by S T U D I O F E R M E on October 20, 2022. Carrossel":
+    - /url: /studioferme/p/Cj9RLcMt2Tg/
+    - img "Photo by S T U D I O F E R M E on October 20, 2022."
+    - img "Carrossel"
+  - link "Photo by S T U D I O F E R M E on September 22, 2022. Carrossel":
+    - /url: /studioferme/p/Ci02ZN9Jug7/
+    - img "Photo by S T U D I O F E R M E on September 22, 2022."
+    - img "Carrossel"
+  - link "Photo by S T U D I O F E R M E on August 12, 2022.":
+    - /url: /studioferme/p/ChKeXUNObfg/
+    - img "Photo by S T U D I O F E R M E on August 12, 2022."
+  - link "Photo by S T U D I O F E R M E on June 10, 2022.":
+    - /url: /studioferme/p/CeotRwCObHJ/
+    - img "Photo by S T U D I O F E R M E on June 10, 2022."
+  - button "Mostrar mais posts de studioferme":
+    - generic: Mostrar mais posts de studioferme

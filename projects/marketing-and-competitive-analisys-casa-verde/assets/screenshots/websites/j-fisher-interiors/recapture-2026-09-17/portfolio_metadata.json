@@ -1,0 +1,336 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "portfolio",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/",
+  "url": "https://jfisherinteriors.com/portfolio/",
+  "visitedAt": "2026-09-17T15:16:17.954Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_portfolio.png"
+  ],
+  "shots": [
+    {
+      "file": "portfolio_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 9593,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/portfolio_full-page.png"
+    },
+    {
+      "file": "portfolio_section-01.png",
+      "type": "section",
+      "section": "Document offset 2148 CSS px",
+      "y": 2148,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/portfolio_section-01.png"
+    },
+    {
+      "file": "portfolio_section-02.png",
+      "type": "section",
+      "section": "Document offset 4297 CSS px",
+      "y": 4297,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/portfolio_section-02.png"
+    },
+    {
+      "file": "portfolio_section-03.png",
+      "type": "section",
+      "section": "Document offset 6445 CSS px",
+      "y": 6445,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/portfolio_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 9593,
+    "beforeY": null,
+    "title": "Check Our Portfolio | Premium Interior Design Company",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nPORTFOLIO\nJ.Fisher Interiors Work\nHEART & SOIL SUPPLEMENTS\n\n \n\nHYDE PARK\n\n \n\n \n\nMID-ATLANTIC\n\n \n\nJUDGES HILL\n\n \n\nWOODVIEW\n\n \n\nQUAIL PARK (MORE COMING SOON)\n\n \n\nAUSTIN PROPER RESIDENCES\nWILLOW CITY RANCH\n\nSILVER HILL\n\n \n\nBELL MOUNTAIN\n\nLBJ’S MOM’S HOUSE\n\nLAKE AUSTIN REMODE",
+    "images": [
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Back-lounge-no-fan-1000x500.jpeg",
+        "x": 50,
+        "y": 550,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Bathroom_3_sinks_REVISE_2-1000x500.jpeg",
+        "x": 737.5,
+        "y": 550,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "best metallic gold paint for walls",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/jfisher-interiors-1000x500.jpg",
+        "x": 50,
+        "y": 1100.546875,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Austin interior designer j fisher",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/09/judge-hill-00000-1000x500.jpg",
+        "x": 737.5,
+        "y": 1100.546875,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Living Room Woodview",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-7-1000x500.jpg",
+        "x": 50,
+        "y": 1617.09375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Kitchen-island-2-1000x500.jpg",
+        "x": 737.5,
+        "y": 1617.09375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/P1020573_wip2-a-1000x500.webp",
+        "x": 50,
+        "y": 2133.640625,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Llano-7-1000x500.jpg",
+        "x": 737.5,
+        "y": 2133.640625,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Library-2-1000x500.jpg",
+        "x": 50,
+        "y": 2626.1875,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Interior Design Downtown Austin",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/02/bell-mountain-j-fisher-interiors-img_4f2135b30fc52eeb_14-7170-1-b3911f1-1000x500.jpg",
+        "x": 737.5,
+        "y": 2626.1875,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "kitchen dining corner",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2020/12/Kitchen-Booth-scaled-1-1000x500.jpg",
+        "x": 50,
+        "y": 3142.734375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2019/06/4-2-1000x500.jpg",
+        "x": 737.5,
+        "y": 3142.734375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2020/11/JenniferFisherLakeway-2-scaled-1-1000x500.jpg",
+        "x": 50,
+        "y": 3635.28125,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "calm bedroom",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2019/06/j-fisher-interiors-012-1000x500.jpg",
+        "x": 737.5,
+        "y": 3635.28125,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2017/11/jfisherinteriors-westlake-livingroom2-1-1000x500.jpg",
+        "x": 50,
+        "y": 4127.828125,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2017/12/Jennifer-Fisher-Austin-Loft-195-Edit-Edit-1000x500.jpg",
+        "x": 737.5,
+        "y": 4127.828125,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/J.Fisher-Home-7-1-1000x500.png",
+        "x": 50,
+        "y": 4620.375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2017/11/4-1024x678-1-1000x500.jpg",
+        "x": 737.5,
+        "y": 4620.375,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2017/11/static1.squarespace-8-1000x500.jpg",
+        "x": 50,
+        "y": 5112.921875,
+        "w": 637.5,
+        "h": 318.75,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

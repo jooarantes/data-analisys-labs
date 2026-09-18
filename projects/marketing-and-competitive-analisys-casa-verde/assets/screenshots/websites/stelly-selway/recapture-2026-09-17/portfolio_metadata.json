@@ -1,0 +1,238 @@
+{
+  "slug": "stelly-selway",
+  "stem": "portfolio",
+  "requestedURL": "https://www.stellyselway.com/projects",
+  "url": "https://www.stellyselway.com/projects",
+  "visitedAt": "2026-09-17T15:26:12.803Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_portfolio.png"
+  ],
+  "shots": [
+    {
+      "file": "portfolio_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 13212,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/portfolio_full-page.png"
+    },
+    {
+      "file": "portfolio_section-01.png",
+      "type": "section",
+      "section": "Document offset 3053 CSS px",
+      "y": 3053,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/portfolio_section-01.png"
+    },
+    {
+      "file": "portfolio_section-02.png",
+      "type": "section",
+      "section": "Document offset 6106 CSS px",
+      "y": 6106,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/portfolio_section-02.png"
+    },
+    {
+      "file": "portfolio_section-03.png",
+      "type": "section",
+      "section": "Document offset 9159 CSS px",
+      "y": 9159,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/portfolio_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 13212,
+    "beforeY": null,
+    "title": "Stelly Selway | Home",
+    "text": "Rosedale\n\nAUSTIN\n\n10:25:55 am\n\n805 1/2 W 16th Street\n\nThe Perch\n\nAustin, TX 78701\n\ninfo@stellyselway.com\n\nLONDON\n\n4:25:55 pm\n\n4 Bramber Court\n\n2 Bramber Road\n\nLondon W14 9PW",
+    "images": [
+      {
+        "i": 0,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F406077d428ac411397100dc256e556fe%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 0,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F5cbaece7d06844b5a7482487156617ee%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 1000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F880d20808b1a41ea9ecf3fd31dbefddc%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 2000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Fe69ab4b21e8f447ba3a2a278fb87a656%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 3000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Fdb60ebdf81414fdda1c8739807ea02c6%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 4000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Fa190fe970beb48988dc58640bf0ba023%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 5000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Fa40d22eaeeaa4b9ba42c999b0f84bdf7%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 6000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F871856f9f01b4fb88e29e55432691df7%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 7000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F4a1a30efd3284e01bb7d00a32f9e304a%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 8000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Ffcdc8350e934400ca623376b2fa2ea00%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 9000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252Fca8f75f63ada4490aa5446249a5d5a76%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 10000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F04b41a3123914578b0033e411d4334e1%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 11000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "project",
+        "src": "https://www.stellyselway.com/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F7e232d41c2494e9f92e68456d83a886c%252F02be482c2ec64596861764e9f751c949%3Fwidth%3D1920%26height%3D1080%26quality%3D100%26format%3Dwebp&w=1920&q=75",
+        "x": 0,
+        "y": 12000,
+        "w": 1425,
+        "h": 1000,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

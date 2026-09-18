@@ -1,0 +1,191 @@
+{
+  "slug": "stelly-selway",
+  "stem": "lafayette-avenue",
+  "requestedURL": "https://www.stellyselway.com/project/lafayette-avenue-austin",
+  "url": "https://www.stellyselway.com/project/lafayette-avenue-austin",
+  "visitedAt": "2026-09-17T15:25:29.994Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_lafayette-avenue.png"
+  ],
+  "shots": [
+    {
+      "file": "lafayette-avenue_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 5093,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/lafayette-avenue_full-page.png"
+    },
+    {
+      "file": "lafayette-avenue_gallery-01.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 0,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F089ad85ef8764cbdabfb51d999ed9882",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/lafayette-avenue_gallery-01.png"
+    },
+    {
+      "file": "lafayette-avenue_gallery-02.png",
+      "type": "gallery",
+      "section": "Image 2",
+      "imageIndex": 1,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F55af276513134580b958cab8c0e9393f",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/lafayette-avenue_gallery-02.png"
+    },
+    {
+      "file": "lafayette-avenue_gallery-03.png",
+      "type": "gallery",
+      "section": "Image 2",
+      "imageIndex": 3,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F04e760ce365b4382857e3e61575bda5e",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/lafayette-avenue_gallery-03.png"
+    },
+    {
+      "file": "lafayette-avenue_gallery-04.png",
+      "type": "gallery",
+      "section": "Image 4",
+      "imageIndex": 5,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1d7bcde8d14d48a8a9482abeff0e0564",
+      "width": 1425,
+      "height": 803,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/lafayette-avenue_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 5093,
+    "beforeY": null,
+    "title": "Stelly Selway | Lafayette Avenue",
+    "text": "Back\nLafayette Avenue\nLafayette Avenue\nCHERRYWOOD BUNGALOW IN AUSTIN, TEXAS\n\nA 1940s bungalow renovation in Austin’s Cherrywood neighborhood for artist RF. Alvarez and husband, reimagined as a vibrant, salon-style home for hosting and creative living. Stelly Selway transformed a disconnected layout into a flowing sequence of spaces, layering color,",
+    "images": [
+      {
+        "i": 0,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F089ad85ef8764cbdabfb51d999ed9882",
+        "x": 0,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F55af276513134580b958cab8c0e9393f",
+        "x": 712.5,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fe399f15786b1409a94e90b52f53aad87",
+        "x": 0,
+        "y": 1526,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F04e760ce365b4382857e3e61575bda5e",
+        "x": 0,
+        "y": 2327.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Image 3",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Ff223bc932f7b429fb6b4cd84b611a1f2",
+        "x": 712.5,
+        "y": 2327.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Image 4",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1d7bcde8d14d48a8a9482abeff0e0564",
+        "x": 0,
+        "y": 3277.5625,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Image 5",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F7a2ba358586e43d18116bde2e7be9c36",
+        "x": 0,
+        "y": 4079.125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

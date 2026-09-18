@@ -1,0 +1,38 @@
+- banner:
+  - link:
+    - /url: /
+  - button:
+- link "Back":
+  - /url: /
+- heading "Whitehall Road" [level=1]
+- heading "Whitehall Road" [level=2]
+- generic: Classical Contemporary Family Townhouse in Chiswick, West London
+- paragraph: A West London family townhouse designed through close collaboration with a young family. Stelly Selway blended classical rigor and contemporary vitality to create an interior that grows with its residents. Bauwerk limewash walls and original millwork provide a unifying throughline. Shaker cabinetry with custom hardware, woven raffia sconces, knife-pleated flax wall panels, and a bold block print headboard give each room its own distinct character.
+- contentinfo:
+  - link "Austin":
+    - /url: /Austin
+    - paragraph: Austin
+  - generic: 12:23:52 pm
+  - paragraph: 805 1/2 W 16th Street
+  - paragraph: The Perch
+  - paragraph: Austin, TX 78701
+  - link:
+    - /url: https://www.instagram.com/stellyselway/
+  - link:
+    - /url: https://www.facebook.com/stellyselway/
+  - link:
+    - /url: https://www.linkedin.com/company/stelly-selway
+  - link:
+    - /url: https://open.spotify.com/user/pm8hdcrx8dasi7f3jy1qtbdnf?si=IzkO2TJeSdKVfUnjuS13bQ
+  - link:
+    - /url: https://mailchi.mp/stellyselway/subscribe-to-the-newsletter
+  - link "info@stellyselway.com":
+    - /url: mailto:info@stellyselway.com
+  - link "London":
+    - /url: /London
+    - paragraph: London
+  - generic: 6:23:52 pm
+  - paragraph: 4 Bramber Court
+  - paragraph: 2 Bramber Road
+  - paragraph: London W14 9PW
+- alert

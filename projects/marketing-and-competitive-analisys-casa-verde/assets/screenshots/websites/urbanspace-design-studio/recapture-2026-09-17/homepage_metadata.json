@@ -1,0 +1,375 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "homepage",
+  "requestedURL": "https://urbanspacedesign.com/",
+  "url": "https://urbanspacedesign.com/",
+  "visitedAt": "2026-09-17T15:44:12.070Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_homepage.png"
+  ],
+  "shots": [
+    {
+      "file": "homepage_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 6105,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/homepage_full-page.png"
+    },
+    {
+      "file": "homepage_section-01.png",
+      "type": "section",
+      "section": "Document offset 1276 CSS px",
+      "y": 1276,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/homepage_section-01.png"
+    },
+    {
+      "file": "homepage_section-02.png",
+      "type": "section",
+      "section": "Document offset 2553 CSS px",
+      "y": 2553,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/homepage_section-02.png"
+    },
+    {
+      "file": "homepage_section-03.png",
+      "type": "section",
+      "section": "Document offset 3829 CSS px",
+      "y": 3829,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/homepage_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 6105,
+    "beforeY": null,
+    "title": "Urbanspace Design Studio",
+    "text": "Skip to content\n\n\n\n\n\n\nEXPLORE OUR PORTFOLIO\nALL PROJECTS\nRESIDENTIAL\nCOMMERCIAL\nTHE HILLS\nMODERN BAR\nCLARKSVILLE HOME\nMODERN PENTHOUSE\nTHE MODERN AUSTIN RESIDENCES\nAVON RETREAT\nSEAHOLM PENTHOUSE\nTHE EAST RESIDENCE\nWEST AVE PENTHOUSE\nROCK CREEK DRIVE\nSECOND STREET CONDO\nBACALAR\nINDEPENDENT PENTHOUSE\nMOUNTAIN RETREAT\nW RESIDENCES\nSKI HOME\nCIELO HQ\nIN",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-1-1024x768.jpg",
+        "x": 87.5,
+        "y": 1104.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260408_Urbanspace_Modern-Bar11547_K-1024x768.jpg",
+        "x": 718.5,
+        "y": 1104.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0036_K-1536x1024.jpg",
+        "x": 87.5,
+        "y": 1580.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-679x1024.jpg",
+        "x": 718.5,
+        "y": 1580.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/12/Level-1-Exterior-Modern-Bar-patio-with-model-20250714_TheModern8052_K2-web-1024x683.jpeg",
+        "x": 87.5,
+        "y": 2057.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-758x1024.jpg",
+        "x": 718.5,
+        "y": 2057.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Seaholm-Penthouse_20240624_Urbanspace_Seaholm-Penthouse7801-Base-1024x819.jpg",
+        "x": 87.5,
+        "y": 2533.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1536x1024.jpg",
+        "x": 718.5,
+        "y": 2533.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/sophieeptonphotographyindependentpenthouse-79-1024x683.jpg",
+        "x": 87.5,
+        "y": 3009.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Final-Images__DSF7211-1024x732.jpg",
+        "x": 718.5,
+        "y": 3009.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/12/Urbanspace_W-16-1024x779.jpg",
+        "x": 87.5,
+        "y": 3485.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/bacalarheader-1024x528.jpg",
+        "x": 718.5,
+        "y": 3485.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "Contemporary living room with floor-to-ceiling windows and a city view",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/05/3_Urbanspace_TheIndependent-8Edit2-e1715362164504-1024x538.jpg",
+        "x": 87.5,
+        "y": 3962.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/urban-retreat-01-1024x682.jpg",
+        "x": 718.5,
+        "y": 3962.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/W-Residence-1024x719.jpg",
+        "x": 87.5,
+        "y": 4438.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/Ski-Home-1024x355.jpg",
+        "x": 718.5,
+        "y": 4438.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/Cielo-HQ-1024x719.jpg",
+        "x": 87.5,
+        "y": 4914.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/Independent-Terrace-1024x719.jpg",
+        "x": 718.5,
+        "y": 4914.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/The-Proper-Residence-1024x719.jpg",
+        "x": 87.5,
+        "y": 5390.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 21,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/CE4A0003-1024x683.jpg",
+        "x": 718.5,
+        "y": 5390.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

@@ -1,0 +1,72 @@
+- banner:
+  - heading "STUDIO FERME" [level=1]:
+    - link "STUDIO FERME":
+      - /url: /
+  - generic: 
+  - text: +
+- navigation:
+  - list:
+    - text: +
+    - link "Portfolio":
+      - /url: /
+    - list:
+      - link "Theresa Passive House":
+        - /url: /theresa-passive-house
+      - link "7th Street Cottage":
+        - /url: /7th-street-cottage
+      - link "Maude Street Millwork":
+        - /url: /maude-st-millwork
+      - link "Cedar Sukkah":
+        - /url: /cedarsukkah
+      - link "Europe":
+        - /url: /beast
+      - link "The Monochrome Series":
+        - /url: /monochrome-series-food
+    - link "About":
+      - /url: /about
+    - link "Blog":
+      - /url: /blog
+    - link "Contact":
+      - /url: /contact
+  - link:
+    - /url: https://www.instagram.com/studioferme/
+- main:
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - generic: 7th Street Cottage | Studio Ferme | Interior Design
+  - paragraph:
+    - text: In the bustling historic Castle Hill neighborhood of Austin, Texas, a tricky, steep site was transformed by Forge Craft Architecture + Design, constructing a new, modern certified Passive House duplex behind an existing bungalow originally built in 1924.
+    - text: Designed in 2021 and completely renovated in 2025 with mindful, humble materials and sustainable practices, the cottage feels true to Studio Ferme’s ethos and warm, welcoming aesthetic.
+    - text: In collaboration with Forge Craft on the interior architecture and overall vision for the 7th Street project, Studio Ferme invigorated the worn cottage while preserving historic traits, and inviting density among the high-performance residences on a fully-utilized lot near downtown.
+    - text: The modest 1,024 sq ft cottage retained the same footprint in the renovation, while the floorplan was opened in the main living space and a second full bathroom was added. Though the spaces are compact, the home feels cozy, inviting and more than just enough for future renters.
+  - paragraph: The cottage has become a thoughtful and cheerful home, infused with natural light, particularly the addition of a vaulted ceiling with a light well over the kitchen, and clad in painted shiplap repurposed from the original home.
+  - paragraph
+  - paragraph: "Interior Design / Styling : Studio Ferme"
+  - paragraph: "Architecture : Forge Craft Architecture + Design"
+  - paragraph: "Builder : Form to Finish"
+  - paragraph: "Photography: Likeness Studio"
+  - paragraph: "Residential Staging : Soso Spiffy"
+  - paragraph
+  - paragraph:
+    - text: "Recognition and Media :"
+    - link "Featured in Preservation Austin’s 2025 Homes Tour":
+      - /url: https://www.preservationaustin.org/events/2025-homes-tour
+      - text: Featured in Preservation Austin’s 2025 Homes Tour
+  - paragraph:
+    - link "Austin Home Magazine 2026 Home and Design Awards":
+      - /url: https://www.austinhomemag.com/finalists-of-the-2026-home-design-awards/
+    - text: ", in collaboration with Forge Craft Architecture + Design"
+  - paragraph:
+    - text: Won — “Climate Conscious”
+    - text: Nominated — “Historic Preservation” & “Use of Daylight/Fenestration”
+  - paragraph
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - paragraph: 7th Street Cottage | Studio Ferme | Interior Design
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - paragraph: 7th Street Cottage | Studio Ferme | Interior Design
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - paragraph: 7th Street Cottage | Studio Ferme | Interior Design
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - paragraph: 7th Street Cottage | Studio Ferme | Interior Design
+  - img "7th Street Cottage | Studio Ferme | Interior Design"
+  - paragraph: 7th Street Cottage | Studio Ferme | Interior Design
+  - text: 

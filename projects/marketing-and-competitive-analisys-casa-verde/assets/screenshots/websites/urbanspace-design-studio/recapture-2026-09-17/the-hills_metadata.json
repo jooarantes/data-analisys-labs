@@ -1,0 +1,362 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "the-hills",
+  "requestedURL": "https://urbanspacedesign.com/project/the-hills/",
+  "url": "https://urbanspacedesign.com/project/the-hills/",
+  "visitedAt": "2026-09-17T15:44:56.177Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_the-hills.png"
+  ],
+  "shots": [
+    {
+      "file": "the-hills_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 8603,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/the-hills_full-page.png"
+    },
+    {
+      "file": "the-hills_gallery-01.png",
+      "type": "gallery",
+      "section": "The Hills",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-1-1536x1152.jpg",
+      "width": 1440,
+      "height": 800,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/the-hills_gallery-01.png"
+    },
+    {
+      "file": "the-hills_gallery-02.png",
+      "type": "gallery",
+      "section": "The Hills",
+      "imageIndex": 6,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-6-1-768x1024.jpg",
+      "width": 445,
+      "height": 594,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/the-hills_gallery-02.png"
+    },
+    {
+      "file": "the-hills_gallery-03.png",
+      "type": "gallery",
+      "section": "The Hills",
+      "imageIndex": 11,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-15-1-768x1024.jpg",
+      "width": 637,
+      "height": 850,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/the-hills_gallery-03.png"
+    },
+    {
+      "file": "the-hills_gallery-04.png",
+      "type": "gallery",
+      "section": "The Hills",
+      "imageIndex": 15,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-4-1-768x960.jpg",
+      "width": 637,
+      "height": 797,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/the-hills_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 8603,
+    "beforeY": null,
+    "title": "The Hills – Urbanspace Design Studio",
+    "text": "Skip to content\nTHE HILLS\nPREVIOUS PROJECT\nModern Bar\n301 West Ave #100, Austin, TX 78701\ndesign@urbanspaceinteriors.com · 512.457.0014\n©2026 Urbanspace Design Studio",
+    "images": [
+      {
+        "i": 2,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-1-1536x1152.jpg",
+        "x": 0,
+        "y": 150,
+        "w": 1425,
+        "h": 800,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-1-1-1536x1152.jpg",
+        "x": 60.5,
+        "y": 998,
+        "w": 1304,
+        "h": 978,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-2-1-768x1015.jpg",
+        "x": 60.5,
+        "y": 2006,
+        "w": 639.75,
+        "h": 845.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-5-1-768x1024.jpg",
+        "x": 730.25,
+        "y": 2006,
+        "w": 634.25,
+        "h": 845.65625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-6-1-768x1024.jpg",
+        "x": 60.5,
+        "y": 2881.65625,
+        "w": 444.375,
+        "h": 592.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-7-1-768x549.jpg",
+        "x": 534.875,
+        "y": 2881.65625,
+        "w": 829.625,
+        "h": 593.046875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-11-1-768x1152.jpg",
+        "x": 60.5,
+        "y": 3504.703125,
+        "w": 599.53125,
+        "h": 899.296875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-12-1-768x1024.jpg",
+        "x": 690.03125,
+        "y": 3504.703125,
+        "w": 674.46875,
+        "h": 899.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-14-1-768x1024.jpg",
+        "x": 60.5,
+        "y": 4434,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-15-1-768x1024.jpg",
+        "x": 727.5,
+        "y": 4434,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-17-1-731x1024.jpg",
+        "x": 60.5,
+        "y": 5313.328125,
+        "w": 430.328125,
+        "h": 602.8125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-18-1-768x549.jpg",
+        "x": 520.828125,
+        "y": 5313.328125,
+        "w": 843.671875,
+        "h": 603.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-19-1-768x960.jpg",
+        "x": 60.5,
+        "y": 5946.40625,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-4-1-768x960.jpg",
+        "x": 727.5,
+        "y": 5946.40625,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-9-1-768x1024.jpg",
+        "x": 60.5,
+        "y": 6772.65625,
+        "w": 546,
+        "h": 728,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-10-1-768x768.jpg",
+        "x": 636.5,
+        "y": 6772.65625,
+        "w": 728,
+        "h": 728,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-13-1-768x1024.jpg",
+        "x": 60.5,
+        "y": 7530.65625,
+        "w": 458.640625,
+        "h": 611.515625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "The Hills",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-16-1-768x576.jpg",
+        "x": 549.140625,
+        "y": 7530.65625,
+        "w": 815.359375,
+        "h": 611.515625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

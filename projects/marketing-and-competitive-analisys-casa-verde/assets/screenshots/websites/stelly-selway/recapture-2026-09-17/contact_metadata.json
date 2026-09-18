@@ -1,0 +1,53 @@
+{
+  "slug": "stelly-selway",
+  "stem": "contact",
+  "requestedURL": "https://www.stellyselway.com/contact",
+  "url": "https://www.stellyselway.com/contact",
+  "visitedAt": "2026-09-17T15:25:00.657Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_contact.png"
+  ],
+  "shots": [
+    {
+      "file": "contact_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "One embedded map panel has incomplete tiles; contact text is visible"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/contact_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 1000,
+    "beforeY": null,
+    "title": "Stelly Selway | Contact",
+    "text": "Please reach out to us at\n\nINFO@STELLYSELWAY.COM\n\nWe very much look forward to hearing from you.\n\nAUSTIN\n\n10:24:59 am\n\n805 1/2 W 16th Street\n\nThe Perch\n\nAustin, TX 78701\n\ninfo@stellyselway.com\n\nLONDON\n\n4:24:59 pm\n\n4 Bramber Court\n\n2 Bramber Road\n\nLondon W14 9PW",
+    "images": [],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "One embedded map panel has incomplete tiles; contact text is visible"
+    ],
+    "preferred": []
+  }
+}

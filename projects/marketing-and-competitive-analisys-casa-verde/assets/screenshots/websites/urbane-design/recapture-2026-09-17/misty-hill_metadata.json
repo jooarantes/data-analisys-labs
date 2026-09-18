@@ -1,0 +1,294 @@
+{
+  "slug": "urbane-design",
+  "stem": "misty-hill",
+  "requestedURL": "https://urbanedesignstudios.com/project/misty-hill-remodel/",
+  "url": "https://urbanedesignstudios.com/project/misty-hill-remodel/",
+  "visitedAt": "2026-09-17T15:41:08.874Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_misty-hill.png"
+  ],
+  "shots": [
+    {
+      "file": "misty-hill_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 9403,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "misty-hill_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/misty-hill_full-page.png"
+    },
+    {
+      "file": "misty-hill_gallery-01.png",
+      "type": "gallery",
+      "section": "Visible project photograph 1",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/bedroom-in-bathroom.jpg",
+      "width": 499,
+      "height": 664,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "misty-hill_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/misty-hill_gallery-01.png"
+    },
+    {
+      "file": "misty-hill_gallery-02.png",
+      "type": "gallery",
+      "section": "Visible project photograph 3",
+      "imageIndex": 4,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/interior-bath-door.jpg",
+      "width": 499,
+      "height": 665,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "misty-hill_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/misty-hill_gallery-02.png"
+    },
+    {
+      "file": "misty-hill_gallery-03.png",
+      "type": "gallery",
+      "section": "Visible project photograph 6",
+      "imageIndex": 7,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-and-wc-2.jpg",
+      "width": 499,
+      "height": 333,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "misty-hill_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/misty-hill_gallery-03.png"
+    },
+    {
+      "file": "misty-hill_gallery-04.png",
+      "type": "gallery",
+      "section": "Visible project photograph 9",
+      "imageIndex": 10,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-niche.jpg",
+      "width": 499,
+      "height": 665,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "misty-hill_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/misty-hill_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 9403,
+    "beforeY": null,
+    "title": "Misty Hill – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nMisty Hill\n\nLOCATION\nAUSTIN, TX\n\nYEAR\n2019\n\nCATEGORY\nREMODEL\n\nPHOTOGRAPHER\nCHASE DANIEL\n\nThe owners of this Northwest Austin home came to Urbane Design with a challenge: They needed to move their laundry room from the first floor to their second floor master bathroom. Thi",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/bedroom-in-bathroom.jpg",
+        "x": 198.5,
+        "y": 1817,
+        "w": 497.984375,
+        "h": 663.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/faucet.jpg",
+        "x": 198.5,
+        "y": 2512.828125,
+        "w": 1000,
+        "h": 667,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/interior-bath-door.jpg",
+        "x": 198.5,
+        "y": 3211.828125,
+        "w": 497.984375,
+        "h": 663.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower.jpg",
+        "x": 728.5,
+        "y": 3211.828125,
+        "w": 497.984375,
+        "h": 663.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-and-wc.jpg",
+        "x": 198.5,
+        "y": 3907.65625,
+        "w": 1000,
+        "h": 667,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-and-wc-2.jpg",
+        "x": 198.5,
+        "y": 4606.65625,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-close.jpg",
+        "x": 728.5,
+        "y": 4606.65625,
+        "w": 497.984375,
+        "h": 663.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-details.jpg",
+        "x": 198.5,
+        "y": 5302.484375,
+        "w": 1000,
+        "h": 1333,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/shower-niche.jpg",
+        "x": 198.5,
+        "y": 6667.484375,
+        "w": 497.984375,
+        "h": 664.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/vanity.jpg",
+        "x": 728.5,
+        "y": 6667.484375,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/vanity-closed.jpg",
+        "x": 198.5,
+        "y": 7363.8125,
+        "w": 1000,
+        "h": 667,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "misty-hill_gallery-01.png"
+    ]
+  }
+}

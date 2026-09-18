@@ -1,0 +1,441 @@
+{
+  "slug": "urbane-design",
+  "stem": "barton-creek",
+  "requestedURL": "https://urbanedesignstudios.com/project/barton-creek/",
+  "url": "https://urbanedesignstudios.com/project/barton-creek/",
+  "visitedAt": "2026-09-17T15:46:31.589Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_barton-creek.png"
+  ],
+  "shots": [
+    {
+      "file": "barton-creek_document-01.png",
+      "type": "document-segment",
+      "section": "Document offset 0 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 0,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_document-01.png"
+    },
+    {
+      "file": "barton-creek_document-02.png",
+      "type": "document-segment",
+      "section": "Document offset 3850 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 3850,
+      "width": 1425,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_document-02.png"
+    },
+    {
+      "file": "barton-creek_document-03.png",
+      "type": "document-segment",
+      "section": "Document offset 7700 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 7700,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_document-03.png"
+    },
+    {
+      "file": "barton-creek_document-04.png",
+      "type": "document-segment",
+      "section": "Document offset 11550 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 11550,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_document-04.png"
+    },
+    {
+      "file": "barton-creek_document-05.png",
+      "type": "document-segment",
+      "section": "Document offset 15400 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 15400,
+      "width": 1440,
+      "height": 1317,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_document-05.png"
+    },
+    {
+      "file": "barton-creek_gallery-01.png",
+      "type": "gallery",
+      "section": "Visible project photograph 1",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-19-scaled.jpg",
+      "width": 498,
+      "height": 747,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_gallery-01.png"
+    },
+    {
+      "file": "barton-creek_gallery-02.png",
+      "type": "gallery",
+      "section": "Visible project photograph 5",
+      "imageIndex": 6,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-20-scaled.jpg",
+      "width": 1028,
+      "height": 1543,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_gallery-02.png"
+    },
+    {
+      "file": "barton-creek_gallery-03.png",
+      "type": "gallery",
+      "section": "Visible project photograph 10",
+      "imageIndex": 11,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-7-scaled.jpg",
+      "width": 498,
+      "height": 747,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_gallery-03.png"
+    },
+    {
+      "file": "barton-creek_gallery-04.png",
+      "type": "gallery",
+      "section": "Visible project photograph 15",
+      "imageIndex": 16,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-13-scaled.jpg",
+      "width": 498,
+      "height": 747,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/barton-creek_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page capture unavailable; sequential document segments used"
+  ],
+  "state": {
+    "height": 16717,
+    "beforeY": null,
+    "title": "Barton Creek – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nBarton Creek\n\nLOCATION\nDRIPPING SPRINGS, TX\n\nYEAR\n2023\n\nCATEGORY\nNEW CONSTRUCTION\n\nPHOTOGRAPHER\n\n\nContact Us\n\nInterested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.\n\nemail: jlove@urbanedesignstudios.com",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-19-scaled.jpg",
+        "x": 198.5,
+        "y": 1337,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-11.jpg",
+        "x": 198.5,
+        "y": 2115.84375,
+        "w": 1027.984375,
+        "h": 687.171875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-4-scaled.jpg",
+        "x": 198.5,
+        "y": 2835.015625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-16-scaled.jpg",
+        "x": 728.5,
+        "y": 2835.015625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-20-scaled.jpg",
+        "x": 198.5,
+        "y": 3613.859375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-23-scaled.jpg",
+        "x": 198.5,
+        "y": 5187.546875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-17-scaled.jpg",
+        "x": 728.5,
+        "y": 5187.546875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-11-scaled.jpg",
+        "x": 198.5,
+        "y": 5966.390625,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-2-scaled.jpg",
+        "x": 198.5,
+        "y": 7540.078125,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-7-scaled.jpg",
+        "x": 728.5,
+        "y": 7540.078125,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-4-scaled.jpg",
+        "x": 198.5,
+        "y": 8318.921875,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-6-scaled.jpg",
+        "x": 198.5,
+        "y": 9892.609375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-8-scaled.jpg",
+        "x": 728.5,
+        "y": 9892.609375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-10-scaled.jpg",
+        "x": 198.5,
+        "y": 10671.453125,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-13-scaled.jpg",
+        "x": 198.5,
+        "y": 12245.140625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-14-scaled.jpg",
+        "x": 728.5,
+        "y": 12245.140625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-16-scaled.jpg",
+        "x": 198.5,
+        "y": 13023.984375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-3-scaled.jpg",
+        "x": 198.5,
+        "y": 14597.671875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-Dripping-Springs-TX-2023-15-scaled.jpg",
+        "x": 728.5,
+        "y": 14597.671875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": []
+  }
+}

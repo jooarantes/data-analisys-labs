@@ -1,0 +1,166 @@
+{
+  "slug": "urbane-design",
+  "stem": "residential",
+  "requestedURL": "https://urbanedesignstudios.com/residential-projects/",
+  "url": "https://urbanedesignstudios.com/residential-projects/",
+  "visitedAt": "2026-09-17T15:41:33.136Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_residential.png"
+  ],
+  "shots": [
+    {
+      "file": "residential_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 2740,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "Initial six-project grid recorded; See More was not expanded"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/residential_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 2740,
+    "beforeY": null,
+    "title": "Residential Projects – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\n\nOur clients do not fit a particular mold, and neither should their homes. Below are a select few of our most recent projects. Find more of our work on Houzz.\n\n360 CONDO | REMODEL\n\nALLIUM DRIVE | REMODEL\n\nBARTON CREEK | NEW CONSTRUCTION\n\nBIG VIEW | REMODEL\n\nCAIRA COVE | R",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-6-200x300.jpg",
+        "x": 182.5,
+        "y": 429,
+        "w": 333.328125,
+        "h": 380,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/Award_1708-Allium-Drive-Austin-TX-2023-22-600x900.jpg",
+        "x": 545.828125,
+        "y": 429,
+        "w": 333.328125,
+        "h": 380,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-18-600x900.jpg",
+        "x": 909.15625,
+        "y": 429,
+        "w": 333.328125,
+        "h": 380,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-6-600x900.jpg",
+        "x": 182.5,
+        "y": 885,
+        "w": 333.328125,
+        "h": 380,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2024/02/Award_JessicaLove_CairaCove-2-min-600x676.jpg",
+        "x": 545.828125,
+        "y": 885,
+        "w": 333.328125,
+        "h": 375.921875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2019/03/Dusky-Thrush-New-ConstructionKitchen-to-front-door-600x899.jpg",
+        "x": 909.15625,
+        "y": 885,
+        "w": 333.328125,
+        "h": 380,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "SEE MORE",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "Initial six-project grid recorded; See More was not expanded"
+    ],
+    "preferred": []
+  }
+}

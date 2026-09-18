@@ -1,0 +1,193 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+  - text:       
+- text: /
+- heading "Woodview" [level=1]
+- paragraph: A spec home in Austin became the starting point for creating a space that feels entirely personal to the homeowners. The vision was to design a home that could move easily between daily life and entertaining, offering comfort for working and relaxing while still feeling vibrant and welcoming when filled with guests.
+- paragraph: Over the course of two years, the interiors were thoughtfully layered with bespoke furnishings, bold lighting, and distinctive wallpaper that bring pattern and personality into each space. Earthy tones, warm wood elements, and rich textures create a sense of depth and ease, while curated details ensure the home never feels predictable. Most of the key pieces were installed within a few months, allowing the home to come together quickly while continuing to evolve in a natural way.
+- paragraph: The result is a home that feels collected and lived in, a reflection of the clients and the way they move through their space, grounded in comfort, character, and thoughtful Austin interior design.
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-1.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-8.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-2.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Living Room Woodview":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-7.jpg
+  - img "Living Room Woodview"
+- link "Woodview dining room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-3.jpg
+  - img "Woodview dining room"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-9.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-10.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-6.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-5.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-4.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-12.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-11.jpg
+  - img "Woodview | J.Fisher Interiors"
+- link "Woodview | J.Fisher Interiors":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-14.jpg
+  - img "Woodview | J.Fisher Interiors"
+- region "Slides":
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - group "2 / 7":
+    - generic: "\"We worked with Jennifer and her team on designing and furnishing the interior of our new home over the course of 2 years. While we thought that we wanted a look that mimicked the style of homes we had seen in magazines, Jennifer had a unique vision that captured the essence of our home and who we are. She was able to understand our style and design the interior based on the features of our home, which made a significant difference. Our home was featured on the 2024 Modern Homes Tour, which showcased Jennifer’s exceptional work. Visitors praised the beautiful yet functional interior, highlighting the creative use of color and patterns. Highly recommend!\""
+    - img "Joanna Hackney"
+    - generic: Joanna Hackney
+  - group "3 / 7":
+    - generic: "\"Very professional, reasonable and creative services. Worked within my budget and was always timely on requests and suggestions while meeting the decor selections for my contractors scheduling deadlines. I would recommend J.Fisher Interiors to all of my friends.\""
+    - generic: Marc Buffkin
+  - group "4 / 7":
+    - generic: "\"My husband and I worked with J.Fisher Interiors to remodel our kitchen and baths and give our builder-grade home a much-needed facelift. Because we were out of state during the design and construction process, having Jennifer at the helm made all the difference. I genuinely don't know how anyone would complete a project like this without an experienced designer like her guiding the process. I come from a creative background (read: I have a lot of opinions), and Jennifer was great about collaborating to bring our vision to life, while still offering thoughtful guidance and knowing when to step in with her expertise. She helped us navigate millions of details, big and small, and introduced ideas that pushed us far enough out of our comfort zone to make the end result truly special. She also connected us with an incredible contractor and carpenter, some of the best we’ve ever worked with and acted as our eyes and ears on-site, ensuring everything came together beautifully. We’re so happy with how our home has transformed. It feels elevated, personal, and uniquely ours.\""
+    - img "Emily S."
+    - generic: Emily S.
+  - group "5 / 7":
+    - generic: "\"Can’t say enough great things about J. Fisher Interiors! Jennifer and her team have worked on several jobs for me and my clients over the years and they always take on a fresh perspective with timeless design elements in their approach, which I really appreciate. Additionally, they are a joy to work with and make sure that you end up loving your new space.\""
+    - generic: Wade Giles
+  - group "6 / 7":
+    - generic: "\"Jennifer jumped in to do a project for our office, and we couldn't be happier with the level of professionalism and skill with which she operates. She got the job done in a timely manner, her pricing was reasonable, and now, our team has been enjoying the space so much more. I'd highly recommend her expertise to other companies or individuals looking to freshen up their space.\""
+    - generic: NadaMoo Ice Cream
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - button "Previous slide":
+    - generic: 
+  - button "Next slide":
+    - generic: 
+  - button "Go to slide 1"
+  - button "Go to slide 2"
+  - button "Go to slide 3"
+  - button "Go to slide 4"
+  - button "Go to slide 5"
+  - button "Go to slide 6"
+  - button "Go to slide 7"
+- heading "Let’s Start The Conversation" [level=2]
+- paragraph: We take on a limited number of projects each year to ensure a high level of attention and care.
+- paragraph: If our approach resonates, we’d love to learn more about your project. Please share a few details below so we can determine whether we’re the right fit.
+- status
+- list
+- form "Contact form":
+  - paragraph: J.Fisher Interiors offers full-service interior design and thoughtful project guidance tailored to each client’s needs.
+  - paragraph:
+    - textbox "First Name"
+  - paragraph:
+    - textbox "Last Name"
+  - paragraph: Project Type
+  - paragraph:
+    - checkbox "Residential Interior Design"
+    - text: Residential Interior Design
+    - checkbox "Commercial Interior Design"
+    - text: Commercial Interior Design
+    - checkbox "Furnishings & Styling"
+    - text: Furnishings & Styling
+    - checkbox "Not sure yet — looking for guidance"
+    - text: Not sure yet — looking for guidance
+  - paragraph: Where are you in the process?
+  - paragraph:
+    - checkbox "Actively planning a project and looking for a designer"
+    - text: Actively planning a project and looking for a designer
+    - checkbox "In early planning and gathering information"
+    - text: In early planning and gathering information
+    - checkbox "Just exploring ideas"
+    - text: Just exploring ideas
+  - paragraph:
+    - textbox "Email"
+  - paragraph:
+    - textbox "Phone (for scheduling if needed)"
+  - paragraph:
+    - textbox "Tell us briefly about your project — location, scope, timeline, and what prompted you to reach out now."
+  - paragraph
+  - paragraph:
+    - button "Submit Inquiry"
+  - paragraph: Submitting this form does not guarantee availability. We personally review every inquiry and respond to projects that align with our services.
+- contentinfo:
+  - heading "Subscribe To Our Newsletter" [level=4]
+  - generic: "* indicates required"
+  - generic: First Name
+  - textbox "First Name"
+  - generic: Last Name
+  - textbox "Last Name"
+  - generic: Email Address *
+  - textbox "Email Address *"
+  - text: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+  - textbox
+  - button "Subscribe"
+  - paragraph:
+    - link "Mailchimp - email marketing made easy and fun":
+      - /url: https://mailchimp.com/solutions/email-marketing-platform/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=4a0f3f8e26ae022398715e24f&afl=1
+  - heading "Follow Us" [level=4]
+  - list:
+    - link "":
+      - /url: https://www.instagram.com/jfisherinteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.facebook.com/JFisherInteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.houzz.com/professionals/interior-designers-and-decorators/j-fisher-interiors-pfvwus-pf~2047964054
+      - generic: 
+    - link "":
+      - /url: https://www.linkedin.com/company/j-fisher-interiors
+      - generic: 
+    - link "":
+      - /url: https://www.pinterest.com/jfisherinteriors/
+      - generic: 
+  - heading "Company Links" [level=4]
+  - link "Our Privacy Policy":
+    - /url: https://jfisherinteriors.com/privacy-policy/
+  - heading "Menu" [level=4]
+  - list:
+    - link "Portfolio":
+      - /url: https://jfisherinteriors.com/portfolio/
+    - link "Process":
+      - /url: https://jfisherinteriors.com/luxury-interior-design-process/
+    - link "Services":
+      - /url: https://jfisherinteriors.com/services/
+    - link "About":
+      - /url: https://jfisherinteriors.com/about/
+    - link "Press":
+      - /url: https://jfisherinteriors.com/press/
+    - link "Blog":
+      - /url: https://jfisherinteriors.com/blog/
+    - link "Contact":
+      - /url: https://jfisherinteriors.com/contact/
+    - link "Newsletter":
+      - /url: /contact/
+  - generic: © Copyright 2026 J.Fisher Interiors. All rights reserved
+- generic: mobile
+- iframe [name="a-vijfw18uwyl7"]:
+  - text: protegido por
+  - strong: reCAPTCHA

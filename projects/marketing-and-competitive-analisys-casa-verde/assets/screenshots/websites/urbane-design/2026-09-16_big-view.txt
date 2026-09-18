@@ -1,0 +1,139 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+    - img "Urbane Design"
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- generic "Heading":
+  - heading "Big View" [level=1]
+- generic "Text Editor":
+  - paragraph:
+    - text: location
+    - text: Austin, TX
+  - paragraph:
+    - text: year
+    - text: "2020"
+  - paragraph:
+    - text: category
+    - text: Remodel
+  - paragraph:
+    - text: photographer
+    - text: Sarah Natsumi Moore
+- generic "Text Editor":
+  - paragraph: The owners of this Northwest Austin home needed a major revamp to their master and guest bathroom.These rooms were uninspired with large, outdated appliances and not enough functional storage space—leaving our clients feeling stressed in the space where they begin and end their day. Urbane Design was hired to conduct a full remodel of each room. We handled everything from design concepting, finish selection, choosing contractors, and final installment.
+  - paragraph:
+    - text: "Services offered:"
+    - text: Measurements
+    - text: Floor plans
+    - text: Permitting Documents
+    - text: Contractor Bidding
+    - text: Finish selection
+    - text: Project management
+  - paragraph: Our client’s style is modern meets big Texas personality, with a huge importance on details. We worked hand-in-hand with our client to create the perfect blend of classic design with details that add visual interest. We started by getting rid of a large, outdated and rarely used tub in the master bathroom. By freeing up this space, we were able to expand the shower and add a large window—allowing natural light to pour into the room. We created stylish, functional storage options by installing custom cabinets made from naturally stained white oak. Inside, we installed outlets, charging stations, and pull-out storage for brushes, hair dryers and other accessories. The walls are a concrete finish—a subtle, interesting backdrop for the entire room.
+  - paragraph: The real star of the master bathroom is the tile selection. We sourced hand-made imported tile from Austin’s own Clay Imports for the shower walls and a triple hexagon porcelain for the bathroom floor. The shower wall tiles are laid in a double herringbone pattern to contrast a large, dramatic black hexagon pattern on the bathroom floor. We accented the black tiling with two black barn doors at the bathroom’s entrance, which at a distance, meets with the flooring and creates satisfying cohesion throughout the room.
+  - paragraph: While the guest bathroom is smaller, it is definitely not lacking in drama. We chose natural Brazilian black slate tile for the floor and imported triangular tiles for the shower—from Clay Imports. The cabinets are stained white oak topped with a gray quartz vanity. Black fixtures add contrast to the countertops, while the abstract wallpaper, flown in from the UK, in various shades of blue bring dramatic visual interest. The entire bathroom is finished off with an organically-shaped brass mirror that adds just the right element of surprise and mix of metals.
+  - paragraph: With their remodeled master and guest bathroom, our client is able to begin and end their day in the most functional room in the home. The unique style brought to these spaces are a display of their vibrant personalities to all who enter their home.
+- generic "HTML":
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

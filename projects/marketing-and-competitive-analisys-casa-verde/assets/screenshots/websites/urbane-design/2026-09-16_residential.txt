@@ -1,0 +1,158 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+    - img "Urbane Design"
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- main:
+  - article:
+    - generic "Fancy Text":
+      - heading "Prefix Suffix" [level=1]:
+        - generic "Prefix"
+        - generic "Suffix"
+    - generic "Text Editor":
+      - paragraph:
+        - text: Our clients do not fit a particular mold, and neither should their homes. Below are a select few of our most recent projects.
+        - link "Find more of our work on Houzz.":
+          - /url: https://www.houzz.com/professionals/interior-designers-and-decorators/urbane-design-pfvwus-pf~1921367566
+    - generic "Posts":
+      - link:
+        - /url: https://urbanedesignstudios.com/project/360-condo/
+      - paragraph:
+        - link "360 Condo":
+          - /url: https://urbanedesignstudios.com/project/360-condo/
+        - text: "| REMODEL"
+      - link:
+        - /url: https://urbanedesignstudios.com/project/allium-drive/
+      - paragraph:
+        - link "Allium Drive":
+          - /url: https://urbanedesignstudios.com/project/allium-drive/
+        - text: "| REMODEL"
+      - link:
+        - /url: https://urbanedesignstudios.com/project/barton-creek/
+      - paragraph:
+        - link "Barton Creek":
+          - /url: https://urbanedesignstudios.com/project/barton-creek/
+        - text: "| NEW CONSTRUCTION"
+      - link:
+        - /url: https://urbanedesignstudios.com/project/big-view-remodel/
+      - paragraph:
+        - link "Big View":
+          - /url: https://urbanedesignstudios.com/project/big-view-remodel/
+        - text: "| Remodel"
+      - link:
+        - /url: https://urbanedesignstudios.com/project/caira-cove/
+      - paragraph:
+        - link "Caira Cove":
+          - /url: https://urbanedesignstudios.com/project/caira-cove/
+        - text: "| REMODEL"
+      - link:
+        - /url: https://urbanedesignstudios.com/project/dusky-thrush-residence/
+      - paragraph:
+        - link "Dusky Thrush":
+          - /url: https://urbanedesignstudios.com/project/dusky-thrush-residence/
+        - text: "| New Construction"
+      - button "See More"
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

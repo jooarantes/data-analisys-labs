@@ -1,0 +1,296 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "pricing-guide",
+  "requestedURL": "https://jfisherinteriors.com/the-interior-design-process-demystified/",
+  "url": "https://jfisherinteriors.com/the-interior-design-process-demystified/",
+  "visitedAt": "2026-09-17T15:16:30.835Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_pricing-guide.png"
+  ],
+  "shots": [
+    {
+      "file": "pricing-guide_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 1698,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/pricing-guide_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 1698,
+    "beforeY": null,
+    "title": "Interior Design Process | J.Fisher Interiors",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nREADY TO HIRE AN INTERIOR DESIGNER?\nA Clear Introduction To How Professional Design Projects Actually Work\n\nIf you’re considering working with an interior designer, this complimentary guide offers a practical overview of the design process. It’s designed to help you under",
+    "images": [
+      {
+        "i": 4,
+        "alt": "Outdoor Living Room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-1-600x400.jpg",
+        "x": -1355,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Outdoor Kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Kitchen-scaled-2-600x400.jpg",
+        "x": -1010,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Outdoor Living Room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-2-600x400.jpg",
+        "x": -665,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Main Bed",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Main-Bed-600x400.jpg",
+        "x": -320,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio-600x400.jpg",
+        "x": 25,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "230919_JFisher__0184_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres-600x400.jpg",
+        "x": 370,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "230919_JFisher__0027_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0027_lowres-600x400.jpg",
+        "x": 715,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "230919_JFisher_0208_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0208_lowres-600x400.jpg",
+        "x": 1060,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "J. Fisher Interiors - Commercial Interior Design",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/10/commercial-600x400.jpg",
+        "x": 1405,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "JenniferFisher_BellMountain-5-opt",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/10/JenniferFisher_BellMountain-5-opt-600x400.jpg",
+        "x": 1750,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Kitchen1",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2020/12/Kitchen1-scaled-1-600x400.jpg",
+        "x": 2095,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "East Austin Interior Design Services",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/05/East-Austin-Interior-Design-Services-image-600x400.png",
+        "x": 2440,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "How Do I Choose a Good Interior Designer",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/05/How-Do-I-Choose-a-Good-Interior-Designer-600x400.jpg",
+        "x": 2785,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "Proper LVR",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Proper-LVR-600x400.jpeg",
+        "x": 3130,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "Outdoor Living Room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-1-600x400.jpg",
+        "x": 3475,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "Outdoor Kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Kitchen-scaled-2-600x400.jpg",
+        "x": 3820,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "Outdoor Living Room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Outdoor-Living-Room-scaled-2-600x400.jpg",
+        "x": 4165,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "Main Bed",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/01/Main-Bed-600x400.jpg",
+        "x": 4510,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 22,
+        "alt": "LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/LX_COM37_RED_Bathrooms_JFisherInteriors-AustinSanAntonio-600x400.jpg",
+        "x": 4855,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 23,
+        "alt": "230919_JFisher__0184_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres-600x400.jpg",
+        "x": 5200,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "230919_JFisher__0027_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0027_lowres-600x400.jpg",
+        "x": 5545,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "230919_JFisher_0208_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0208_lowres-600x400.jpg",
+        "x": 5890,
+        "y": 1430.875,
+        "w": 339.984375,
+        "h": 226.65625,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

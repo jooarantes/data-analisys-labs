@@ -1,0 +1,516 @@
+{
+  "slug": "urbane-design",
+  "stem": "allium-drive",
+  "requestedURL": "https://urbanedesignstudios.com/project/allium-drive/",
+  "url": "https://urbanedesignstudios.com/project/allium-drive/",
+  "visitedAt": "2026-09-17T15:46:00.413Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_allium-drive.png"
+  ],
+  "shots": [
+    {
+      "file": "allium-drive_document-01.png",
+      "type": "document-segment",
+      "section": "Document offset 0 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 0,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-01.png"
+    },
+    {
+      "file": "allium-drive_document-02.png",
+      "type": "document-segment",
+      "section": "Document offset 3850 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 3850,
+      "width": 1425,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-02.png"
+    },
+    {
+      "file": "allium-drive_document-03.png",
+      "type": "document-segment",
+      "section": "Document offset 7700 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 7700,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-03.png"
+    },
+    {
+      "file": "allium-drive_document-04.png",
+      "type": "document-segment",
+      "section": "Document offset 11550 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 11550,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-04.png"
+    },
+    {
+      "file": "allium-drive_document-05.png",
+      "type": "document-segment",
+      "section": "Document offset 15400 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 15400,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-05.png"
+    },
+    {
+      "file": "allium-drive_document-06.png",
+      "type": "document-segment",
+      "section": "Document offset 19250 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 19250,
+      "width": 1440,
+      "height": 2613,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_document-06.png"
+    },
+    {
+      "file": "allium-drive_gallery-01.png",
+      "type": "gallery",
+      "section": "Visible project photograph 1",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/Award_1708-Allium-Drive-Austin-TX-2023-22-scaled.jpg",
+      "width": 498,
+      "height": 747,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_gallery-01.png"
+    },
+    {
+      "file": "allium-drive_gallery-02.png",
+      "type": "gallery",
+      "section": "Visible project photograph 7",
+      "imageIndex": 8,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-25.jpg",
+      "width": 498,
+      "height": 332,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_gallery-02.png"
+    },
+    {
+      "file": "allium-drive_gallery-03.png",
+      "type": "gallery",
+      "section": "Visible project photograph 13",
+      "imageIndex": 14,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-15-scaled.jpg",
+      "width": 498,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_gallery-03.png"
+    },
+    {
+      "file": "allium-drive_gallery-04.png",
+      "type": "gallery",
+      "section": "Visible project photograph 19",
+      "imageIndex": 20,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-5.jpg",
+      "width": 498,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/allium-drive_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page capture unavailable; sequential document segments used"
+  ],
+  "state": {
+    "height": 21863,
+    "beforeY": null,
+    "title": "Allium Drive – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nAllium Drive\n\nLOCATION\nAUSTIN, TX\n\nYEAR\n2023\n\nCATEGORY\nREMODEL\n\nPHOTOGRAPHER\n\n\nContact Us\n\nInterested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.\n\nemail: jlove@urbanedesignstudios.com\n\ncall: 512-522-603",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/Award_1708-Allium-Drive-Austin-TX-2023-22-scaled.jpg",
+        "x": 198.5,
+        "y": 1337,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-21-scaled.jpg",
+        "x": 198.5,
+        "y": 2115.84375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-23-scaled.jpg",
+        "x": 198.5,
+        "y": 3689.53125,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-1.jpg",
+        "x": 728.5,
+        "y": 3689.53125,
+        "w": 497.96875,
+        "h": 331.90625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-5-scaled.jpg",
+        "x": 198.5,
+        "y": 4468.375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-2.jpg",
+        "x": 198.5,
+        "y": 6042.0625,
+        "w": 497.96875,
+        "h": 331.90625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-25.jpg",
+        "x": 728.5,
+        "y": 6042.0625,
+        "w": 497.96875,
+        "h": 331.90625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-18-scaled.jpg",
+        "x": 198.5,
+        "y": 6405.96875,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-19-scaled.jpg",
+        "x": 198.5,
+        "y": 7979.65625,
+        "w": 497.984375,
+        "h": 745.96875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-14-scaled.jpg",
+        "x": 728.5,
+        "y": 7979.65625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-10-scaled.jpg",
+        "x": 198.5,
+        "y": 8758.5,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-16-scaled.jpg",
+        "x": 198.5,
+        "y": 10332.1875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-15-scaled.jpg",
+        "x": 728.5,
+        "y": 10332.1875,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/1708-Allium-Drive-Austin-TX-2023-17-scaled.jpg",
+        "x": 198.5,
+        "y": 11111.03125,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-1.jpg",
+        "x": 198.5,
+        "y": 12684.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-2.jpg",
+        "x": 728.5,
+        "y": 12684.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-3.jpg",
+        "x": 198.5,
+        "y": 13463.71875,
+        "w": 1028,
+        "h": 1542,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-4.jpg",
+        "x": 198.5,
+        "y": 15037.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-5.jpg",
+        "x": 728.5,
+        "y": 15037.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 21,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-6.jpg",
+        "x": 198.5,
+        "y": 15816.71875,
+        "w": 1028,
+        "h": 1542,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 22,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-7.jpg",
+        "x": 198.5,
+        "y": 17390.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 23,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-8.jpg",
+        "x": 728.5,
+        "y": 17390.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 24,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-9.jpg",
+        "x": 198.5,
+        "y": 18169.71875,
+        "w": 1028,
+        "h": 1542,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 25,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2025/01/Allium-Drive-2024-10.jpg",
+        "x": 198.5,
+        "y": 19743.71875,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": []
+  }
+}

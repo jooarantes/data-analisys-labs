@@ -1,0 +1,175 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "homepage",
+  "requestedURL": "https://jfisherinteriors.com/",
+  "url": "https://jfisherinteriors.com/",
+  "visitedAt": "2026-09-17T15:12:03.844Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_homepage.png"
+  ],
+  "shots": [
+    {
+      "file": "homepage_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 7892,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "The full page records one homepage image and one project carousel state; project detail pages provide additional views"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/homepage_full-page.png"
+    },
+    {
+      "file": "homepage_section-01.png",
+      "type": "section",
+      "section": "Document offset 1723 CSS px",
+      "y": 1723,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "The full page records one homepage image and one project carousel state; project detail pages provide additional views"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/homepage_section-01.png"
+    },
+    {
+      "file": "homepage_section-02.png",
+      "type": "section",
+      "section": "Document offset 3446 CSS px",
+      "y": 3446,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "The full page records one homepage image and one project carousel state; project detail pages provide additional views"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/homepage_section-02.png"
+    },
+    {
+      "file": "homepage_section-03.png",
+      "type": "section",
+      "section": "Document offset 5169 CSS px",
+      "y": 5169,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "The full page records one homepage image and one project carousel state; project detail pages provide additional views"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/homepage_section-03.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 7892,
+    "beforeY": null,
+    "title": "Luxury Interior Designers in Austin, Tx | J.Fisher Interiors",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nARCHITECTURAL DIGEST-APPROVED LUXURY INTERIOR DESIGNER IN AUSTIN, TX\nEvery space deserves a soul\nREFINED LUXURY INTERIOR DESIGN ROOTED IN ART, CULTURE & LIVED CHARACTER.\n\nAs luxury interior designers in Austin, Texas, we create homes with presence, spaces that feel lived ",
+    "images": [
+      {
+        "i": 23,
+        "alt": "best metallic gold paint for walls",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/elementor/thumbs/230919_JFisher_4912MacArthurBlvd_0027b_lowres-r10ki5xm3ylx5cezdzxda8av9teyegro76nv2t9ji8.jpg",
+        "x": 75,
+        "y": 3138.984375,
+        "w": 600,
+        "h": 398.265625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "fisherinterior-Heart-soil",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/elementor/thumbs/fisherinterior-Heart-soil-riyhczicsv9ij3v1usq8yqz8am5p79y05gskaekf7k.png",
+        "x": 750,
+        "y": 3138.984375,
+        "w": 600,
+        "h": 398.265625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "Custom bookcases in the library of a 5,500 square foot Westlake estate",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Library-1024x761.jpg",
+        "x": 75,
+        "y": 3887.578125,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 26,
+        "alt": "Living Room Woodview",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Woodview_LOWRES-7-1024x672.jpg",
+        "x": 712.5,
+        "y": 3887.578125,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 27,
+        "alt": "",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_Llano-7-1024x770.jpg",
+        "x": 75,
+        "y": 4816.171875,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 28,
+        "alt": "Interior Design Downtown Austin",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/JenniferFisher_BellMountain-5-opt.jpg",
+        "x": 712.5,
+        "y": 4816.171875,
+        "w": 587.5,
+        "h": 400,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "The full page records one homepage image and one project carousel state; project detail pages provide additional views"
+    ],
+    "preferred": []
+  }
+}

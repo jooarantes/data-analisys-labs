@@ -1,0 +1,308 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- main:
+  - article:
+    - generic "Fancy Text":
+      - heading "Prefix Suffix" [level=1]:
+        - generic "Prefix"
+        - generic "Suffix"
+    - generic "Text Editor":
+      - paragraph: Urbane Design is a full-service interior design firm based in Austin, TX. We specialize in new home construction, remodels and furniture. Our collaborative process creates interiors that empower you to become the best version of yourself—at home and beyond.
+    - generic "Video":
+      - iframe [name="fitvid0"]
+    - heading "Heading" [level=2]: Award-Winning Interiors by Degreed Interior Design Professionals
+    - generic "Text Editor":
+      - paragraph: We believe great design is more than following trends. Our team of degreed interior designers consider your lifestyle, habits and personality to create spaces that make life flow seamlessly. Whether you are building your home from the ground up or want to breathe new life into an existing space, we are able to blend styles and elements to create rooms that could only belong to you.
+    - generic "HTML":
+      - link "Our Services":
+        - /url: /services/
+        - text: Our Services
+    - heading "Heading" [level=2]: Sustainable Design
+    - generic "Text Editor":
+      - paragraph: Stunning homes should not come at the expense of our environment. Our approach to sustainable interior design includes sourcing furniture, textiles and materials that are built to endure decades and recycling antique pieces as much as possible. When we marry aesthetics, function and responsibility, we are able to create beautiful spaces that benefit your wellbeing and our planet.
+    - generic "HTML":
+      - link "Our Approach":
+        - /url: /approach/
+        - text: Our Approach
+    - heading "Heading" [level=2]: Recent Projects
+    - generic "Content Grid"
+    - generic "Separator"
+    - heading "Heading" [level=2]: Voted Best of Houzz Since 2014
+    - generic "Text Editor":
+      - paragraph: We are proud to be voted the ‘Best of Houzz’ in a mix of service, design and influencer categories since 2014 for our dedication to client relationships and outstanding interior design.
+    - figure "Photo":
+      - link "Houzz_BestService_2026 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2026"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2025 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2025"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestDesign_2024 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestDesign_2024"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2024 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2024"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2023 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2023"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2022 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2022"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2021 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2021"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestDesign_2020 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestDesign_2020"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2020 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2020"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestDesign_2019 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestDesign_2019"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2018 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2018"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestDesign_2018 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestDesign_2018"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2017 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2017"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2016 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2016"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2015 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2015"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "Houzz_BestService_2014 (opens in new tab)":
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design#credentials
+        - img "Houzz_BestService_2014"
+        - generic: (opens in new tab)
+    - heading "Heading" [level=2]: Other Awards & Recognitions
+    - figure "Photo":
+      - link "PNG2025-RotY-NationalWinner-Kitchen150200-CLR (opens in new tab)":
+        - /url: https://remodelingdoneright.nari.org/RotY-Award-Winning-Designs/Residential-Kitchens/2025-en/Q-Construction-Solutions?_gl=1*1ldj7n4*_gcl_au*MTAwNDAxODMzMi4xNzQ0NzM4MTUz
+        - img "PNG2025-RotY-NationalWinner-Kitchen150200-CLR"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "2025NARIAwards_500k_Web (opens in new tab)":
+        - /url: https://www.nari.org/Awards-Recognition/CotY/2024-List-of-Regional-CotY-Winners#Entire%20House%20$500,001%20to%20$750,000
+        - img "2025NARIAwards_500k_Web"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "2025NARIAwards_Bath_70k_Web (opens in new tab)":
+        - /url: https://www.nari.org/Awards-Recognition/CotY/2024-List-of-Regional-CotY-Winners#Residential%20Kitchen%20$60,001%20to%20$100,000
+        - img "2025NARIAwards_Bath_70k_Web"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "NARI 2024 CotY_Entire House $500k-750k_Regional Winner_color_72dpi (opens in new tab)":
+        - /url: https://www.nari.org/Awards-Recognition/CotY/2024-List-of-Regional-CotY-Winners#Entire%20House%20$500,001%20to%20$750,000
+        - img "NARI 2024 CotY_Entire House $500k-750k_Regional Winner_color_72dpi"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "NARI 2024 CotY_Residential Kitchen $100k-150k_Regional Winner_color_27dpi (opens in new tab)":
+        - /url: https://www.nari.org/Awards-Recognition/CotY/2024-List-of-Regional-CotY-Winners#Residential%20Kitchen%20$60,001%20to%20$100,000
+        - img "NARI 2024 CotY_Residential Kitchen $100k-150k_Regional Winner_color_27dpi"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "NARI 2024 CotY_Residential Kitchen $50k-100k_Regional Winner_color_72dpi (opens in new tab)":
+        - /url: https://www.nari.org/2024-List-of-Regional-CotY-Winners#Residential%20Kitchen%20$30,000%20to%20$60,000
+        - img "NARI 2024 CotY_Residential Kitchen $50k-100k_Regional Winner_color_72dpi"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "2023_NARI_AUSTIN_CotY_Residential Kitchen $100,000 to $150,000_color (opens in new tab)":
+        - /url: https://austinnari.org/members/awards/contractor-of-the-year-awards/
+        - img "2023_NARI_AUSTIN_CotY_Residential Kitchen $100,000 to $150,000_color"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "2023_NARI_AUSTIN_CotY_Entire House $500,000 to $750,000_color (opens in new tab)":
+        - /url: https://austinnari.org/members/awards/contractor-of-the-year-awards/
+        - img "2023_NARI_AUSTIN_CotY_Entire House $500,000 to $750,000_color"
+        - generic: (opens in new tab)
+    - generic "Photo":
+      - figure:
+        - link "ADPRO_Directory_MemberBadge2026_Black_WEB (opens in new tab)":
+          - /url: https://www.architecturaldigest.com/adpro/directory/profile/urbane-design
+          - img "ADPRO_Directory_MemberBadge2026_Black_WEB"
+          - generic: (opens in new tab)
+    - generic "Photo":
+      - figure:
+        - link "fixr-list2026interior-design-expert_badge_db (opens in new tab)":
+          - /url: https://urbanedesignstudios.com/jessica-love-named-as-a-leading-expert-in-interior-design-industry-for-2026/
+          - img "fixr-list2026interior-design-expert_badge_db"
+          - generic: (opens in new tab)
+    - generic "Photo":
+      - figure:
+        - link "From-Where-Best-Interior-Designer-Austin-2025-Badge (opens in new tab)":
+          - /url: https://fromwhere.com/blogs/best-interior-designer/tx-austin
+          - img "From-Where-Best-Interior-Designer-Austin-2025-Badge"
+          - generic: (opens in new tab)
+    - generic "Photo":
+      - figure:
+        - link "Austin-Home-2025-Best-Interior-Designers-Badge_WEB (opens in new tab)":
+          - /url: https://www.austinhomemag.com/best-interior-designers/urbane-design/
+          - img "Austin-Home-2025-Best-Interior-Designers-Badge_WEB"
+          - generic: (opens in new tab)
+    - figure "Photo":
+      - link "ThreeBestRated_2025InteriorDesigners (opens in new tab)":
+        - /url: https://threebestrated.com/interior-designers-in-austin-tx
+        - img "ThreeBestRated_2025InteriorDesigners"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "WBE_Seal_BLACK (opens in new tab)":
+        - /url: https://www.wbenc.org/
+        - img "WBE_Seal_BLACK"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "BizwomenLeadershipCouncil-Horizontal-Badge-Black (opens in new tab)":
+        - /url: https://www.build-review.com/issues/architecture-awards-2021/26/
+        - img "BizwomenLeadershipCouncil-Horizontal-Badge-Black"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "NARI_Austin_Logo_2016_Black (opens in new tab)":
+        - /url: https://www.nari.org/
+        - img "NARI_Austin_Logo_2016_Black"
+        - generic: (opens in new tab)
+    - figure "Photo":
+      - link "ASID (opens in new tab)":
+        - /url: https://www.asid.org/
+        - img "ASID"
+        - generic: (opens in new tab)
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

@@ -1,0 +1,114 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fjfisherinteriors%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - button "Ver story do perfil":
+    - link "Foto do perfil de jfisherinteriors":
+      - img "Foto do perfil de jfisherinteriors"
+  - heading "jfisherinteriors" [level=2]:
+    - generic: jfisherinteriors
+  - img "Verificado"
+  - list:
+    - link "12 mil seguidores":
+      - /url: "#"
+      - generic "12.005": 12 mil
+      - text: seguidores
+    - link "2.790 seguindo":
+      - /url: "#"
+      - generic: "2.790"
+      - text: seguindo
+  - generic: J.Fisher Interiors
+  - button "Austin-based interior designer creating soulful spaces built on craftsmanship, heart & great stories in Austin and"
+  - text: ...
+  - button "mais":
+    - generic: mais
+  - button "Ícone de link jfisherinteriors.com e mais 1":
+    - img "Ícone de link"
+    - generic: jfisherinteriors.com e mais 1
+  - menu:
+    - list:
+      - link "Ver destaque de Reposts":
+        - /url: /stories/highlights/18101669926760923/
+        - button "Foto do story no destaque de jfisherinteriors Reposts":
+          - button "Foto do story no destaque de jfisherinteriors":
+            - img "Foto do story no destaque de jfisherinteriors"
+          - generic: Reposts
+      - link "Ver destaque de My Home":
+        - /url: /stories/highlights/18047426825395483/
+        - button "Foto do story no destaque de jfisherinteriors My Home":
+          - button "Foto do story no destaque de jfisherinteriors":
+            - img "Foto do story no destaque de jfisherinteriors"
+          - generic: My Home
+      - link "Ver destaque de 🦋Nursery":
+        - /url: /stories/highlights/17996523317282432/
+        - button "Foto do story no destaque de jfisherinteriors 🦋Nursery":
+          - button "Foto do story no destaque de jfisherinteriors":
+            - img "Foto do story no destaque de jfisherinteriors"
+          - generic: 🦋Nursery
+      - link "Ver destaque de Pretty in Pink":
+        - /url: /stories/highlights/17883534977292654/
+        - button "Foto do story no destaque de jfisherinteriors Pretty in Pink":
+          - button "Foto do story no destaque de jfisherinteriors":
+            - img "Foto do story no destaque de jfisherinteriors"
+          - generic: Pretty in Pink
+  - tablist:
+    - link "Posts":
+      - /url: /jfisherinteriors/
+      - img "Posts"
+    - link "Reels":
+      - /url: "#"
+      - img "Reels"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - separator
+  - link "Photo by J.Fisher Interiors on September 16, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/DdWWizeIC7U/
+    - img "Photo by J.Fisher Interiors on September 16, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by J.Fisher Interiors on September 14, 2026. Pode ser uma imagem de mesa de jantar, sofá, sala de estar, ambiente fechado e texto.":
+    - /url: /jfisherinteriors/p/DdRPM7voMra/
+    - img "Photo by J.Fisher Interiors on September 14, 2026. Pode ser uma imagem de mesa de jantar, sofá, sala de estar, ambiente fechado e texto."
+  - 'link "Photo by J.Fisher Interiors on September 11, 2026. Pode ser uma imagem de revista, móveis, ambiente fechado, sala de estar e texto que diz \"DESIGN VOICES Southwestern South western style Many are drawn the Southwest, with its wide open unique landscape climate. Designers Texas. Arizona and Nevada shared ora- jects and their thought nthe region they home with us this issue. Nancy talks about her cover design career. -Anc Jennifer kicks off witha what nas planned or 2024. TRAVELHOMIE TPAVELHOVE IOME Baan 26 DESIGNERS TODAY 다 Phato: Fisher. in Jennifer कিत from design\"."':
+    - /url: /jfisherinteriors/p/DdJiiVeG8LJ/
+    - 'img "Photo by J.Fisher Interiors on September 11, 2026. Pode ser uma imagem de revista, móveis, ambiente fechado, sala de estar e texto que diz \"DESIGN VOICES Southwestern South western style Many are drawn the Southwest, with its wide open unique landscape climate. Designers Texas. Arizona and Nevada shared ora- jects and their thought nthe region they home with us this issue. Nancy talks about her cover design career. -Anc Jennifer kicks off witha what nas planned or 2024. TRAVELHOMIE TPAVELHOVE IOME Baan 26 DESIGNERS TODAY 다 Phato: Fisher. in Jennifer कিत from design\"."'
+  - link "Photo by J.Fisher Interiors on September 08, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/DdB1UN6Dafz/
+    - img "Photo by J.Fisher Interiors on September 08, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by J.Fisher Interiors on September 05, 2026. Pode ser uma imagem de sofá, cabine para banhistas, casa de barcos e texto.":
+    - /url: /jfisherinteriors/p/Dc6JMp5DgdH/
+    - img "Photo by J.Fisher Interiors on September 05, 2026. Pode ser uma imagem de sofá, cabine para banhistas, casa de barcos e texto."
+  - link "Video by J.Fisher Interiors on September 04, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, ambiente fechado, cozinha e texto que diz \"- After\". Clipe":
+    - /url: /jfisherinteriors/reel/Dc3ZAgeBK6X/
+    - img "Video by J.Fisher Interiors on September 04, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, ambiente fechado, cozinha e texto que diz \"- After\"."
+    - img "Clipe"
+  - link "Photo by J.Fisher Interiors on September 03, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/Dc1UZ2GIKbx/
+    - img "Photo by J.Fisher Interiors on September 03, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by J.Fisher Interiors on August 31, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/Dcta-zjGbPU/
+    - img "Photo by J.Fisher Interiors on August 31, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Video by J.Fisher Interiors on August 29, 2026. Pode ser um gráfico de móveis, ambiente fechado e texto que diz \"In\". Clipe":
+    - /url: /jfisherinteriors/reel/DcoDp5qBiCT/
+    - img "Video by J.Fisher Interiors on August 29, 2026. Pode ser um gráfico de móveis, ambiente fechado e texto que diz \"In\"."
+    - img "Clipe"
+  - link "Photo by J.Fisher Interiors on August 28, 2026. Pode ser uma imagem de sofá, sala de estar, ambiente fechado e texto.":
+    - /url: /jfisherinteriors/p/DclpIb_HDwE/
+    - img "Photo by J.Fisher Interiors on August 28, 2026. Pode ser uma imagem de sofá, sala de estar, ambiente fechado e texto."
+  - link "Photo by J.Fisher Interiors on August 26, 2026. Pode ser uma imagem de cama, escada, beliche, ambiente fechado e texto.":
+    - /url: /jfisherinteriors/p/Dcgb6aXIJ-0/
+    - img "Photo by J.Fisher Interiors on August 26, 2026. Pode ser uma imagem de cama, escada, beliche, ambiente fechado e texto."
+  - link "Photo by J.Fisher Interiors on August 24, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/DcbTsKkm9JE/
+    - img "Photo by J.Fisher Interiors on August 24, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - progressbar:
+    - img "Carregando..."

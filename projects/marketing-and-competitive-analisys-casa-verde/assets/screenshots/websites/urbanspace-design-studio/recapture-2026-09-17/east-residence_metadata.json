@@ -1,0 +1,338 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "east-residence",
+  "requestedURL": "https://urbanspacedesign.com/project/eastresidence/",
+  "url": "https://urbanspacedesign.com/project/eastresidence/",
+  "visitedAt": "2026-09-17T15:43:59.115Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_east-residence.png"
+  ],
+  "shots": [
+    {
+      "file": "east-residence_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 7527,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/east-residence_full-page.png"
+    },
+    {
+      "file": "east-residence_gallery-01.png",
+      "type": "gallery",
+      "section": "The East Residence",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1536x1024.jpg",
+      "width": 1440,
+      "height": 800,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/east-residence_gallery-01.png"
+    },
+    {
+      "file": "east-residence_gallery-02.png",
+      "type": "gallery",
+      "section": "The East Residence",
+      "imageIndex": 5,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3387-1_lights_01-768x1152.jpg",
+      "width": 600,
+      "height": 901,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/east-residence_gallery-02.png"
+    },
+    {
+      "file": "east-residence_gallery-03.png",
+      "type": "gallery",
+      "section": "The East Residence",
+      "imageIndex": 10,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3436-768x960.jpg",
+      "width": 637,
+      "height": 797,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/east-residence_gallery-03.png"
+    },
+    {
+      "file": "east-residence_gallery-04.png",
+      "type": "gallery",
+      "section": "The East Residence",
+      "imageIndex": 14,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3539-768x1152.jpg",
+      "width": 616,
+      "height": 924,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/east-residence_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 7527,
+    "beforeY": null,
+    "title": "The East Residence – Urbanspace Design Studio",
+    "text": "Skip to content\nTHE EAST RESIDENCE\n\nOriginally part of a multi-family tower development, this downtown condo renovation was reimagined to break free from the standard units. The design team completely transformed this space to reflect the client’s lifestyle through enlarging the kitchen, designing custom millwork, and updating finishes, while prior",
+    "images": [
+      {
+        "i": 2,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1536x1024.jpg",
+        "x": 0,
+        "y": 150,
+        "w": 1425,
+        "h": 800,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3416_lights-on_01-768x549.jpg",
+        "x": 60.5,
+        "y": 998,
+        "w": 508.328125,
+        "h": 588.71875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3311-768x1024.jpg",
+        "x": 60.5,
+        "y": 1616.71875,
+        "w": 674.46875,
+        "h": 899.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3387-1_lights_01-768x1152.jpg",
+        "x": 764.96875,
+        "y": 1616.71875,
+        "w": 599.53125,
+        "h": 899.296875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3345_lights-768x549.jpg",
+        "x": 60.5,
+        "y": 2546.015625,
+        "w": 615.078125,
+        "h": 439.671875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1536x1024.jpg",
+        "x": 705.578125,
+        "y": 2546.015625,
+        "w": 658.921875,
+        "h": 439.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3330_lights-on_01-768x1024.jpg",
+        "x": 60.5,
+        "y": 3015.6875,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3299_01-768x1024.jpg",
+        "x": 727.5,
+        "y": 3015.6875,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3436-768x960.jpg",
+        "x": 60.5,
+        "y": 3895.015625,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3436_door-closed_lights-on_01-768x960.jpg",
+        "x": 727.5,
+        "y": 3895.015625,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3496_remove-towel-holder-768x614.jpg",
+        "x": 60.5,
+        "y": 4721.265625,
+        "w": 616.40625,
+        "h": 492.796875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3522-768x576.jpg",
+        "x": 706.90625,
+        "y": 4721.265625,
+        "w": 657.59375,
+        "h": 493.1875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3539-768x1152.jpg",
+        "x": 60.5,
+        "y": 5244.453125,
+        "w": 615.078125,
+        "h": 922.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3561-1-731x1024.jpg",
+        "x": 705.578125,
+        "y": 5244.453125,
+        "w": 658.921875,
+        "h": 923.03125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3602-lights-768x960.jpg",
+        "x": 60.5,
+        "y": 6197.484375,
+        "w": 694.953125,
+        "h": 868.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "The East Residence",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3617-lights-768x1152.jpg",
+        "x": 785.453125,
+        "y": 6197.484375,
+        "w": 579.046875,
+        "h": 868.5625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

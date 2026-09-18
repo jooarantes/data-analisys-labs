@@ -1,0 +1,208 @@
+- link:
+  - /url: /
+- link:
+  - /url: /accounts/login/?next=%2Ftheurbanedesign%2F&source=desktop_nav
+  - text: Entrar
+- link:
+  - /url: /accounts/emailsignup/
+  - text: Cadastre-se
+- main:
+  - button:
+    - link:
+  - heading [level=2]:
+    - generic: theurbanedesign
+  - list:
+    - link:
+      - /url: "#"
+      - generic: 22,5 mil
+      - text: seguidores
+    - link:
+      - /url: "#"
+      - generic: "5.632"
+      - text: seguindo
+  - generic: Jessica Love
+  - link:
+    - /url: https://www.threads.com/@theurbanedesign?xmt=AQG0-gpeefz_XamYAlb9VkV560F834Nxc3PCrxh93dejJHo
+    - generic: theurbanedesign
+  - button:
+    - generic: Award-Winning Interior Design Since 2004 New Construction I Remodels I Furniture Interior Designer of the Year 2025 &
+  - text: ...
+  - button:
+    - generic: mais
+  - button:
+    - generic: urbanedesignstudios.com e mais 3
+  - menu:
+    - list:
+      - link:
+        - /url: /stories/highlights/18051066268155491/
+        - button:
+          - button:
+          - generic: UD Team
+      - link:
+        - /url: /stories/highlights/18512232448056002/
+        - button:
+          - button:
+          - generic: Stardust
+      - link:
+        - /url: /stories/highlights/17946639518519315/
+        - button:
+          - button:
+          - generic: BTS
+      - link:
+        - /url: /stories/highlights/17902455970307918/
+        - button:
+          - button:
+          - generic: Travel Inspo
+      - link:
+        - /url: /stories/highlights/18319674199012779/
+        - button:
+          - button:
+          - generic: BTS
+      - link:
+        - /url: /stories/highlights/17934313739303254/
+        - button:
+          - button:
+          - generic: B&A
+      - link:
+        - /url: /stories/highlights/18011604181406622/
+        - button:
+          - button:
+          - generic: BTS
+      - link:
+        - /url: /stories/highlights/18082959172051897/
+        - button:
+          - button:
+          - generic: BTS
+      - link:
+        - /url: /stories/highlights/17917681042429643/
+        - button:
+          - button:
+          - generic: B&A
+      - link:
+        - /url: /stories/highlights/18076174558096282/
+        - button:
+          - button:
+          - generic: Approach
+    - button
+  - tablist:
+    - link:
+      - /url: /theurbanedesign/
+    - link:
+      - /url: "#"
+    - link:
+      - /url: "#"
+  - link:
+    - /url: /theurbanedesign/p/DWrdpktAmml/
+  - link:
+    - /url: /theurbanedesign/p/Db3zfCKC7oy/
+  - link:
+    - /url: /theurbanedesign/reel/DblXmb3hLCJ/
+  - link:
+    - /url: /stardustranchtx/p/DdWc3UFEhct/
+  - link:
+    - /url: /theurbanedesign/p/DdUI3YlCjij/
+  - link:
+    - /url: /theurbanedesign/p/DdHbIL8Ghe-/
+  - link:
+    - /url: /stardustranchtx/p/DdEeIIljkyj/
+  - link:
+    - /url: /theurbanedesign/p/DctXtruMUX_/
+  - link:
+    - /url: /theurbanedesign/reel/DcpHyqtK-h_/
+  - link:
+    - /url: /theurbanedesign/p/Dcn-D3QMs8r/
+  - link:
+    - /url: /theurbanedesign/p/DcMxVbxiIKI/
+  - link:
+    - /url: /theurbanedesign/p/DcJwvAZGoB7/
+  - link:
+    - /url: /theurbanedesign/p/DbGYWdvmjrh/
+  - link:
+    - /url: /theurbanedesign/reel/DbBGvCCBpdR/
+  - link:
+    - /url: /stardustranchtx/reel/Da3LOgAOFu0/
+  - link:
+    - /url: /theurbanedesign/reel/Datei4fisaw/
+  - link:
+    - /url: /theurbanedesign/p/DaksWb4Hxqo/
+  - link:
+    - /url: /hostievacationrentals/p/Dait_vslGHf/
+  - link:
+    - /url: /theurbanedesign/p/DaiYEqLFrVw/
+  - link:
+    - /url: /theurbanedesign/p/DafrSrZlpB0/
+  - link:
+    - /url: /stardustranchtx/p/DaStIB0O-CO/
+  - link:
+    - /url: /theurbanedesign/p/DaQR5IbkuJX/
+  - link:
+    - /url: /theurbanedesign/p/DZ8VoIniOUl/
+  - link:
+    - /url: /stardustranchtx/p/DZxvpvKFkfy/
+- contentinfo:
+  - link:
+    - /url: https://about.meta.com/
+    - generic: Meta
+  - link:
+    - /url: https://about.instagram.com/
+    - generic: Sobre
+  - link:
+    - /url: https://about.instagram.com/blog/
+    - generic: Blog
+  - link:
+    - /url: https://about.instagram.com/about-us/careers
+    - generic: Carreiras
+  - link:
+    - /url: https://help.instagram.com/
+    - generic: Ajuda
+  - link:
+    - /url: https://developers.facebook.com/docs/instagram
+    - generic: API
+  - link:
+    - /url: /legal/privacy/
+    - generic: Privacidade
+  - link:
+    - /url: /legal/terms/
+    - generic: Termos
+  - link:
+    - /url: /explore/locations/
+    - generic: Localizações
+  - link:
+    - /url: /popular/
+    - generic: Popular
+  - link:
+    - /url: /web/lite/
+    - generic: Instagram Lite
+  - link:
+    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+    - generic: Meta AI
+  - link:
+    - /url: https://muse.ai/
+    - generic: Muse
+  - link:
+    - /url: https://www.threads.com/
+    - generic: Threads
+  - link:
+    - /url: https://www.facebook.com/help/instagram/261704639352628
+    - generic: Upload de contatos e não usuários
+  - link:
+    - /url: /accounts/meta_verified/?entrypoint=web_footer
+    - generic: Meta Verified
+  - generic: Português (Brasil)
+  - combobox
+  - generic: © 2026 Instagram from Meta
+- dialog:
+  - img "Ilustração para fazer o upsell de Ver este story"
+  - generic: Continuar assistindo
+  - text: Mais fotos, vídeos e maneiras de se conectar com
+  - strong: theurbanedesign
+  - text: .
+  - text: Ao continuar, você concorda com os
+  - link "Termos de Uso" [active]:
+    - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+  - text: e a
+  - link "Política de Privacidade":
+    - /url: https://privacycenter.instagram.com/policy/
+  - text: do Instagram.
+  - button "Cadastre-se"
+  - button "Entrar"

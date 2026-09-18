@@ -1,0 +1,771 @@
+{
+  "slug": "stelly-selway",
+  "stem": "upper-mall",
+  "requestedURL": "https://www.stellyselway.com/project/upper-mall-london",
+  "url": "https://www.stellyselway.com/project/upper-mall-london",
+  "visitedAt": "2026-09-17T15:29:14.198Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_upper-mall.png"
+  ],
+  "shots": [
+    {
+      "file": "upper-mall_document-01.png",
+      "type": "document-segment",
+      "section": "Document offset 0 CSS px, 100 px overlap",
+      "y": 0,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-01.png"
+    },
+    {
+      "file": "upper-mall_document-02.png",
+      "type": "document-segment",
+      "section": "Document offset 900 CSS px, 100 px overlap",
+      "y": 900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-02.png"
+    },
+    {
+      "file": "upper-mall_document-03.png",
+      "type": "document-segment",
+      "section": "Document offset 1800 CSS px, 100 px overlap",
+      "y": 1800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-03.png"
+    },
+    {
+      "file": "upper-mall_document-04.png",
+      "type": "document-segment",
+      "section": "Document offset 2700 CSS px, 100 px overlap",
+      "y": 2700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-04.png"
+    },
+    {
+      "file": "upper-mall_document-05.png",
+      "type": "document-segment",
+      "section": "Document offset 3600 CSS px, 100 px overlap",
+      "y": 3600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-05.png"
+    },
+    {
+      "file": "upper-mall_document-06.png",
+      "type": "document-segment",
+      "section": "Document offset 4500 CSS px, 100 px overlap",
+      "y": 4500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-06.png"
+    },
+    {
+      "file": "upper-mall_document-07.png",
+      "type": "document-segment",
+      "section": "Document offset 5400 CSS px, 100 px overlap",
+      "y": 5400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-07.png"
+    },
+    {
+      "file": "upper-mall_document-08.png",
+      "type": "document-segment",
+      "section": "Document offset 6300 CSS px, 100 px overlap",
+      "y": 6300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-08.png"
+    },
+    {
+      "file": "upper-mall_document-09.png",
+      "type": "document-segment",
+      "section": "Document offset 7200 CSS px, 100 px overlap",
+      "y": 7200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-09.png"
+    },
+    {
+      "file": "upper-mall_document-10.png",
+      "type": "document-segment",
+      "section": "Document offset 8100 CSS px, 100 px overlap",
+      "y": 8100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-10.png"
+    },
+    {
+      "file": "upper-mall_document-11.png",
+      "type": "document-segment",
+      "section": "Document offset 9000 CSS px, 100 px overlap",
+      "y": 9000,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-11.png"
+    },
+    {
+      "file": "upper-mall_document-12.png",
+      "type": "document-segment",
+      "section": "Document offset 9900 CSS px, 100 px overlap",
+      "y": 9900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-12.png"
+    },
+    {
+      "file": "upper-mall_document-13.png",
+      "type": "document-segment",
+      "section": "Document offset 10800 CSS px, 100 px overlap",
+      "y": 10800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-13.png"
+    },
+    {
+      "file": "upper-mall_document-14.png",
+      "type": "document-segment",
+      "section": "Document offset 11700 CSS px, 100 px overlap",
+      "y": 11700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-14.png"
+    },
+    {
+      "file": "upper-mall_document-15.png",
+      "type": "document-segment",
+      "section": "Document offset 12600 CSS px, 100 px overlap",
+      "y": 12600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-15.png"
+    },
+    {
+      "file": "upper-mall_document-16.png",
+      "type": "document-segment",
+      "section": "Document offset 13500 CSS px, 100 px overlap",
+      "y": 13500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-16.png"
+    },
+    {
+      "file": "upper-mall_document-17.png",
+      "type": "document-segment",
+      "section": "Document offset 14400 CSS px, 100 px overlap",
+      "y": 14400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-17.png"
+    },
+    {
+      "file": "upper-mall_document-18.png",
+      "type": "document-segment",
+      "section": "Document offset 15300 CSS px, 100 px overlap",
+      "y": 15300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-18.png"
+    },
+    {
+      "file": "upper-mall_document-19.png",
+      "type": "document-segment",
+      "section": "Document offset 16200 CSS px, 100 px overlap",
+      "y": 16200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-19.png"
+    },
+    {
+      "file": "upper-mall_document-20.png",
+      "type": "document-segment",
+      "section": "Document offset 17100 CSS px, 100 px overlap",
+      "y": 17100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_document-20.png"
+    },
+    {
+      "file": "upper-mall_gallery-01.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 0,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F83c5dc75047f47a0898c30719faafe5b",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_gallery-01.png"
+    },
+    {
+      "file": "upper-mall_gallery-02.png",
+      "type": "gallery",
+      "section": "Image 6",
+      "imageIndex": 7,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F8a6d304f03e943c8bbceb1a25662c2fb",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_gallery-02.png"
+    },
+    {
+      "file": "upper-mall_gallery-03.png",
+      "type": "gallery",
+      "section": "Image 13",
+      "imageIndex": 14,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F86860f3adf764c5fa15f75d6aad4d418",
+      "width": 1425,
+      "height": 802,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_gallery-03.png"
+    },
+    {
+      "file": "upper-mall_gallery-04.png",
+      "type": "gallery",
+      "section": "Image 20",
+      "imageIndex": 21,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F81a56a5a08d14b488246b838e591dc0b",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "upper-mall_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/upper-mall_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page capture unavailable; sequential document segments used"
+  ],
+  "state": {
+    "height": 17997,
+    "beforeY": null,
+    "title": "Stelly Selway | Upper Mall",
+    "text": "Back\nUpper Mall\nUpper Mall\nVICTORIAN TOWNHOUSE INTERIOR DESIGN AND ARCHITECTURE IN WEST LONDON\n\nA Victorian townhouse interior design and interior architecture project on Upper Mall, West London, overlooking the River Thames. This full gut renovation included a new basement, loft and rear extension, transforming the property into a refined family h",
+    "images": [
+      {
+        "i": 0,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F83c5dc75047f47a0898c30719faafe5b",
+        "x": 0,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F82292a5e125243a8a0de9cfd6a783a98",
+        "x": 712.5,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F684a93208a25492a85f2bb12699db8a1",
+        "x": 0,
+        "y": 2674,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F78824a5744644f0abba63bcbf606c078",
+        "x": 0,
+        "y": 3475.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Image 3",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fdd86fece5b104ab1ac74031098c016d6",
+        "x": 712.5,
+        "y": 3475.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Image 4",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4d9fe20f85474603a08c451c337d7e72",
+        "x": 0,
+        "y": 4425.5625,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Image 5",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fea17c6d18cb24cfebea5dcceeaf0c6a2",
+        "x": 0,
+        "y": 5227.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Image 6",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F8a6d304f03e943c8bbceb1a25662c2fb",
+        "x": 712.5,
+        "y": 5227.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Image 7",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fb8a8a2c1c1b94df9b7bfbd4e216e4652",
+        "x": 0,
+        "y": 6177.125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Image 8",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fe692b9a765294ff79fec1d24aaa36dcf",
+        "x": 0,
+        "y": 6978.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "Image 9",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1ecbbc89e5d34596ab33a934f7e93596",
+        "x": 712.5,
+        "y": 6978.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "Image 10",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fd1568ce428fd476792cf654bfc4a8d78",
+        "x": 0,
+        "y": 7928.6875,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Image 11",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fbb9009d642414d4b965a3aa2ce34a551",
+        "x": 0,
+        "y": 8730.25,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "Image 12",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F04b6e22c742849b5abc8c243248b8e58",
+        "x": 712.5,
+        "y": 8730.25,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Image 13",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F86860f3adf764c5fa15f75d6aad4d418",
+        "x": 0,
+        "y": 9680.25,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "Image 14",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fcddc7d59982f4627a66102dccaa0aa82",
+        "x": 0,
+        "y": 10481.8125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "Image 15",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fd14e440eb0c34c41a78d928e57fb1cfd",
+        "x": 712.5,
+        "y": 10481.8125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "Image 16",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F0b80a745fb064d2b804d0eef78af90ba",
+        "x": 0,
+        "y": 11431.8125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "Image 17",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1e55b51c412d4aceb9020a271d4a7c65",
+        "x": 0,
+        "y": 12233.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "Image 18",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F2b483da6c5484b1b9c605dbcd7708e65",
+        "x": 712.5,
+        "y": 12233.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "Image 19",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F6a0ac05877714b23b40cc94d9a6a4062",
+        "x": 0,
+        "y": 13183.375,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "Image 20",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F81a56a5a08d14b488246b838e591dc0b",
+        "x": 0,
+        "y": 13984.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 22,
+        "alt": "Image 21",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fce7f032409cb47698e1f9debb7c643cc",
+        "x": 712.5,
+        "y": 13984.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 23,
+        "alt": "Image 22",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F50d66f8603354a1181baa1e4f0db1806",
+        "x": 0,
+        "y": 14934.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "Image 23",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fee026a0b79864ab180d987c092681aa9",
+        "x": 712.5,
+        "y": 14934.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "Image 24",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fb8dd95aa596c45709ffb1d6dacd77249",
+        "x": 0,
+        "y": 15884.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 26,
+        "alt": "Image 25",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F9f5436d7269e43308997e6cf269e4b2c",
+        "x": 712.5,
+        "y": 15884.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 27,
+        "alt": "Image 26",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fab649c50d9224343900a5508ece49660",
+        "x": 0,
+        "y": 16834.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 28,
+        "alt": "Image 27",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fc00380552f6c4fac94a8adb26577b11a",
+        "x": 712.5,
+        "y": 16834.9375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": [
+      "upper-mall_gallery-03.png"
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Ftheurbanedesign%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - button "Ver story do perfil":
+    - link "Foto do perfil de theurbanedesign":
+      - img "Foto do perfil de theurbanedesign"
+  - heading "theurbanedesign" [level=2]:
+    - generic: theurbanedesign
+  - img "Verificado"
+  - list:
+    - link "22,5 mil seguidores":
+      - /url: "#"
+      - generic "22.561": 22,5 mil
+      - text: seguidores
+    - link "5.632 seguindo":
+      - /url: "#"
+      - generic: "5.632"
+      - text: seguindo
+  - generic: Jessica Love
+  - link "Threads theurbanedesign":
+    - /url: https://www.threads.com/@theurbanedesign?xmt=AQG0NfKs-FHasVycZeogpE_8MPYGhHKlbJkB8qKyUguke2k
+    - img "Threads"
+    - generic: theurbanedesign
+  - button "Award-Winning Interior Design Since 2004 New Construction I Remodels I Furniture Interior Designer of the Year 2025 &":
+    - text: Award-Winning Interior Design Since 2004
+    - text: New Construction I Remodels I Furniture
+    - text: Interior Designer of the Year 2025 &
+  - text: ...
+  - button "mais":
+    - generic: mais
+  - button "Ícone de link urbanedesignstudios.com e mais 3":
+    - img "Ícone de link"
+    - generic: urbanedesignstudios.com e mais 3
+  - menu:
+    - list:
+      - link "Ver destaque de UD Team":
+        - /url: /stories/highlights/18051066268155491/
+        - button "Foto do story no destaque de theurbanedesign UD Team":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: UD Team
+      - link "Ver destaque de Stardust":
+        - /url: /stories/highlights/18512232448056002/
+        - button "Foto do story no destaque de theurbanedesign Stardust":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: Stardust
+      - link "Ver destaque de BTS":
+        - /url: /stories/highlights/17946639518519315/
+        - button "Foto do story no destaque de theurbanedesign BTS":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: BTS
+      - link "Ver destaque de Travel Inspo":
+        - /url: /stories/highlights/17902455970307918/
+        - button "Foto do story no destaque de theurbanedesign Travel Inspo":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: Travel Inspo
+      - link "Ver destaque de BTS":
+        - /url: /stories/highlights/18319674199012779/
+        - button "Foto do story no destaque de theurbanedesign BTS":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: BTS
+      - link "Ver destaque de B&A":
+        - /url: /stories/highlights/17934313739303254/
+        - button "Foto do story no destaque de theurbanedesign B&A":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: B&A
+      - link "Ver destaque de BTS":
+        - /url: /stories/highlights/18011604181406622/
+        - button "Foto do story no destaque de theurbanedesign BTS":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: BTS
+      - link "Ver destaque de BTS":
+        - /url: /stories/highlights/18082959172051897/
+        - button "Foto do story no destaque de theurbanedesign BTS":
+          - button "Foto do story no destaque de theurbanedesign":
+            - img "Foto do story no destaque de theurbanedesign"
+          - generic: BTS
+  - tablist:
+    - link "Posts":
+      - /url: /theurbanedesign/
+      - img "Posts"
+    - link "Reels":
+      - /url: "#"
+      - img "Reels"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - separator
+  - link "Photo by Jessica Love on April 03, 2026.":
+    - /url: /theurbanedesign/p/DWrdpktAmml/
+    - img "Photo by Jessica Love on April 03, 2026."
+  - 'link "Photo by Jessica Love on August 11, 2026. Pode ser uma imagem de revista, lareira e texto que diz \"HAVEN homes+lifestyles homes lifestyles 茶 紫 I2 INO COVER PRESENTED: COVERPRESENTEDBY BY Jessica JessicaLove Love URBANE URBANEDESIGN DESIGN Spaces That Foster Connection\"."':
+    - /url: /theurbanedesign/p/Db3zfCKC7oy/
+    - 'img "Photo by Jessica Love on August 11, 2026. Pode ser uma imagem de revista, lareira e texto que diz \"HAVEN homes+lifestyles homes lifestyles 茶 紫 I2 INO COVER PRESENTED: COVERPRESENTEDBY BY Jessica JessicaLove Love URBANE URBANEDESIGN DESIGN Spaces That Foster Connection\"."'
+  - link "Video by Jessica Love on August 03, 2026. Pode ser uma imagem de xadrez, tabuleiro de damas, cadeira de balanço e texto. Clipe":
+    - /url: /theurbanedesign/reel/DblXmb3hLCJ/
+    - img "Video by Jessica Love on August 03, 2026. Pode ser uma imagem de xadrez, tabuleiro de damas, cadeira de balanço e texto."
+    - img "Clipe"
+  - link "Photo by Stardust Ranch on September 16, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stardustranchtx/p/DdWc3UFEhct/
+    - img "Photo by Stardust Ranch on September 16, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Jessica Love on September 15, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, mesa de cozinha, ambiente fechado, cozinha e texto.":
+    - /url: /theurbanedesign/p/DdUI3YlCjij/
+    - img "Photo by Jessica Love on September 15, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, mesa de cozinha, ambiente fechado, cozinha e texto."
+  - link "Photo by Jessica Love on September 10, 2026. Carrossel":
+    - /url: /theurbanedesign/p/DdHbIL8Ghe-/
+    - img "Photo by Jessica Love on September 10, 2026."
+    - img "Carrossel"
+  - link "Photo by Stardust Ranch on September 09, 2026. Carrossel":
+    - /url: /stardustranchtx/p/DdEeIIljkyj/
+    - img "Photo by Stardust Ranch on September 09, 2026."
+    - img "Carrossel"
+  - link "Photo by Jessica Love on August 31, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, meia, revista, gola alta e texto que diz \"STRIOR TERIOR ERIOR 1( IN 20 DESIGN D DES 0 55 S 2 26 austin austinhome aust in nhome\".":
+    - /url: /theurbanedesign/p/DctXtruMUX_/
+    - img "Photo by Jessica Love on August 31, 2026. Pode ser uma imagem de uma ou mais pessoas, maquiagem, meia, revista, gola alta e texto que diz \"STRIOR TERIOR ERIOR 1( IN 20 DESIGN D DES 0 55 S 2 26 austin austinhome aust in nhome\"."
+  - link "Video by Jessica Love on August 29, 2026. Pode ser uma imagem de costa, Durdle Door e texto. Clipe":
+    - /url: /theurbanedesign/reel/DcpHyqtK-h_/
+    - img "Video by Jessica Love on August 29, 2026. Pode ser uma imagem de costa, Durdle Door e texto."
+    - img "Clipe"
+  - link "Photo by Jessica Love on August 29, 2026. Pode ser uma imagem de pia, torneira, ambiente fechado e texto que diz \"01 三 四\".":
+    - /url: /theurbanedesign/p/Dcn-D3QMs8r/
+    - img "Photo by Jessica Love on August 29, 2026. Pode ser uma imagem de pia, torneira, ambiente fechado e texto que diz \"01 三 四\"."
+  - link "Photo by Jessica Love on August 21, 2026. Pode ser uma imagem de revista, pôster, móveis, ambiente fechado e texto.":
+    - /url: /theurbanedesign/p/DcMxVbxiIKI/
+    - img "Photo by Jessica Love on August 21, 2026. Pode ser uma imagem de revista, pôster, móveis, ambiente fechado e texto."
+  - link "Photo by Jessica Love on August 17, 2026. Carrossel":
+    - /url: /theurbanedesign/p/DcJwvAZGoB7/
+    - img "Photo by Jessica Love on August 17, 2026."
+    - img "Carrossel"
+  - button "Mostrar mais posts de theurbanedesign":
+    - generic: Mostrar mais posts de theurbanedesign

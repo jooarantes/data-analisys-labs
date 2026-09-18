@@ -1,0 +1,110 @@
+{
+  "slug": "urbane-design",
+  "stem": "portfolio",
+  "requestedURL": "https://urbanedesignstudios.com/projects/",
+  "url": "https://urbanedesignstudios.com/projects/",
+  "visitedAt": "2026-09-17T15:41:15.602Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_portfolio.png"
+  ],
+  "shots": [
+    {
+      "file": "portfolio_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 2559,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/portfolio_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 2559,
+    "beforeY": null,
+    "title": "Projects – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\n\nOur projects range from full construction to remodels and from traditional to modern design. Each collaboration is an opportunity to bring our clients’ personalities to life, no matter if it's in their personal or professional space. Below are a select few of our most re",
+    "images": [
+      {
+        "i": 2,
+        "alt": "Residential Projects",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2021/03/residentialprojects-OVERLAY-1.jpg",
+        "x": 182.5,
+        "y": 477,
+        "w": 510,
+        "h": 765,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "Commercial Projects",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2021/03/commercialprojects-overlay-1.jpg",
+        "x": 732.5,
+        "y": 477,
+        "w": 510,
+        "h": 765,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

@@ -1,0 +1,32 @@
+- banner:
+  - link:
+    - /url: /
+  - button:
+- contentinfo:
+  - link "Austin":
+    - /url: /Austin
+    - paragraph: Austin
+  - generic: 12:23:50 pm
+  - paragraph: 805 1/2 W 16th Street
+  - paragraph: The Perch
+  - paragraph: Austin, TX 78701
+  - link:
+    - /url: https://www.instagram.com/stellyselway/
+  - link:
+    - /url: https://www.facebook.com/stellyselway/
+  - link:
+    - /url: https://www.linkedin.com/company/stelly-selway
+  - link:
+    - /url: https://open.spotify.com/user/pm8hdcrx8dasi7f3jy1qtbdnf?si=IzkO2TJeSdKVfUnjuS13bQ
+  - link:
+    - /url: https://mailchi.mp/stellyselway/subscribe-to-the-newsletter
+  - link "info@stellyselway.com":
+    - /url: mailto:info@stellyselway.com
+  - link "London":
+    - /url: /London
+    - paragraph: London
+  - generic: 6:23:50 pm
+  - paragraph: 4 Bramber Court
+  - paragraph: 2 Bramber Road
+  - paragraph: London W14 9PW
+- alert

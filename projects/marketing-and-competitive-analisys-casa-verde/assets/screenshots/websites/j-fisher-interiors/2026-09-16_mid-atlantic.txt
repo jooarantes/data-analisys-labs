@@ -1,0 +1,305 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+  - text:       
+- text: /
+- heading "Mid Atlantic" [level=1]
+- paragraph: An empty 6,000-square-foot residence became a jewel-toned retreat defined by bold color, custom design, and richly layered interiors. Working with a repeat client, the goal was to transform a blank property into a home full of warmth and character. With no budget limitations, the design embraced the use of bespoke furnishings, custom rugs, and unique furniture pieces to ensure that every space felt both distinctive and deeply personal.
+- paragraph: Each room was infused with vibrant color and expressive textures, accented by statement lighting and carefully chosen accessories. The effect is a home that is lively and engaging yet sophisticated and comfortable. Designed as both a retreat and a reflection of the client’s appreciation for unique design, the Mid-Atlantic residence is a striking example of luxury interiors brought to life through personality and detail.
+- separator
+- heading "After" [level=3]
+- link "230919_JFisher__0451_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0451_lowres.jpg
+  - img "230919_JFisher__0451_lowres"
+- link "230919_JFisher__0090_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0090_lowres.jpg
+  - img "230919_JFisher__0090_lowres"
+- link "230919_JFisher__0142_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0142_lowres.jpg
+  - img "230919_JFisher__0142_lowres"
+- link "230919_JFisher__0120_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0120_lowres.jpg
+  - img "230919_JFisher__0120_lowres"
+- link "230919_JFisher__0165_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0165_lowres.jpg
+  - img "230919_JFisher__0165_lowres"
+- link "230919_JFisher__0027b_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0027b_lowres.jpg
+  - img "230919_JFisher__0027b_lowres"
+- link "230919_JFisher_0037_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0037_lowres.jpg
+  - img "230919_JFisher_0037_lowres"
+- link "230919_JFisher__0071_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0071_lowres.jpg
+  - img "230919_JFisher__0071_lowres"
+- link "230919_JFisher_0309_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0309_lowres.jpg
+  - img "230919_JFisher_0309_lowres"
+- link "230919_JFisher__0329_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0329_lowres.jpg
+  - img "230919_JFisher__0329_lowres"
+- link "230919_JFisher__0285_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0285_lowres.jpg
+  - img "230919_JFisher__0285_lowres"
+- link "230919_JFisher__0274_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0274_lowres.jpg
+  - img "230919_JFisher__0274_lowres"
+- link "230919_JFisher__0184_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres.jpg
+  - img "230919_JFisher__0184_lowres"
+- link "230919_JFisher__0436_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0436_lowres.jpg
+  - img "230919_JFisher__0436_lowres"
+- link "best metallic gold paint for walls":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0229_lowres.jpg
+  - img "best metallic gold paint for walls"
+- link "230919_JFisher__0222_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0222_lowres.jpg
+  - img "230919_JFisher__0222_lowres"
+- link "230919_JFisher_0208_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0208_lowres.jpg
+  - img "230919_JFisher_0208_lowres"
+- link "230919_JFisher__0413_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0413_lowres-scaled.jpg
+  - img "230919_JFisher__0413_lowres"
+- link "230919_JFisher__0405_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0405_lowres.jpg
+  - img "230919_JFisher__0405_lowres"
+- link "bedroom pink bed":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0389_lowres.jpg
+  - img "bedroom pink bed"
+- link "230919_JFisher__0257_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0257_lowres.jpg
+  - img "230919_JFisher__0257_lowres"
+- link "230919_JFisher__0242_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0242_lowres.jpg
+  - img "230919_JFisher__0242_lowres"
+- link "230919_JFisher__0253_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0253_lowres.jpg
+  - img "230919_JFisher__0253_lowres"
+- link "230919_JFisher__0347_lowres":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0347_lowres.jpg
+  - img "230919_JFisher__0347_lowres"
+- heading "Before" [level=3]
+- link "3rd floor landing":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/3rd-floor-landing-scaled.jpg
+  - img "3rd floor landing"
+- link "billiard room to hall":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/billiard-room-to-hall-scaled.jpg
+  - img "billiard room to hall"
+- link "Billiard room 1":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Billiard-room-1-scaled.jpg
+  - img "Billiard room 1"
+- link "dining room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/dining-room-1-scaled.jpg
+  - img "dining room"
+- link "Screenshot 2026-03-17 at 4.03.42 PM":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Screenshot-2026-03-17-at-4.03.42-PM.png
+  - img "Screenshot 2026-03-17 at 4.03.42 PM"
+- link "billiard fireplace into lounge copy":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/billiard-fireplace-into-lounge-copy.jpg
+  - img "billiard fireplace into lounge copy"
+- link "game room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/game-room-scaled.jpg
+  - img "game room"
+- link "from kitchen into family room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/from-kitchen-into-family-room-scaled.jpg
+  - img "from kitchen into family room"
+- link "living room 4":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/living-room-4-scaled.jpg
+  - img "living room 4"
+- link "top level hall into office":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/top-level-hall-into-office-scaled.jpg
+  - img "top level hall into office"
+- link "from family room into kitchen":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/from-family-room-into-kitchen-scaled.jpg
+  - img "from family room into kitchen"
+- link "master suite 2 (2)":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/master-suite-2-2-scaled.jpg
+  - img "master suite 2 (2)"
+- link "from family room to front door":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/from-family-room-to-front-door-scaled.jpg
+  - img "from family room to front door"
+- link "office N":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/office-N-scaled.jpg
+  - img "office N"
+- link "living room 3":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/living-room-3-scaled.jpg
+  - img "living room 3"
+- link "downstairs guests room bed wall":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/downstairs-guests-room-bed-wall-scaled.jpg
+  - img "downstairs guests room bed wall"
+- link "master suite 5":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/master-suite-5-scaled.jpg
+  - img "master suite 5"
+- link "living room into dining":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/living-room-into-dining-scaled.jpg
+  - img "living room into dining"
+- link "office 5":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/office-5-scaled.jpg
+  - img "office 5"
+- link "lounge bookshelf wall":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/lounge-bookshelf-wall-scaled.jpg
+  - img "lounge bookshelf wall"
+- link "dining room 2":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/dining-room-2-scaled.jpg
+  - img "dining room 2"
+- link "master suite 3":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/master-suite-3-scaled.jpg
+  - img "master suite 3"
+- link "from 3rd floor landing downstairs":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/from-3rd-floor-landing-downstairs-scaled.jpg
+  - img "from 3rd floor landing downstairs"
+- link "from foyer to kitchen":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/from-foyer-to-kitchen-scaled.jpg
+  - img "from foyer to kitchen"
+- link "library 1":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/library-1-scaled.jpg
+  - img "library 1"
+- link "family room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/family-room-1-scaled.jpg
+  - img "family room"
+- separator
+- region "Slides":
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - group "2 / 7":
+    - generic: "\"We worked with Jennifer and her team on designing and furnishing the interior of our new home over the course of 2 years. While we thought that we wanted a look that mimicked the style of homes we had seen in magazines, Jennifer had a unique vision that captured the essence of our home and who we are. She was able to understand our style and design the interior based on the features of our home, which made a significant difference. Our home was featured on the 2024 Modern Homes Tour, which showcased Jennifer’s exceptional work. Visitors praised the beautiful yet functional interior, highlighting the creative use of color and patterns. Highly recommend!\""
+    - img "Joanna Hackney"
+    - generic: Joanna Hackney
+  - group "3 / 7":
+    - generic: "\"Very professional, reasonable and creative services. Worked within my budget and was always timely on requests and suggestions while meeting the decor selections for my contractors scheduling deadlines. I would recommend J.Fisher Interiors to all of my friends.\""
+    - generic: Marc Buffkin
+  - group "4 / 7":
+    - generic: "\"My husband and I worked with J.Fisher Interiors to remodel our kitchen and baths and give our builder-grade home a much-needed facelift. Because we were out of state during the design and construction process, having Jennifer at the helm made all the difference. I genuinely don't know how anyone would complete a project like this without an experienced designer like her guiding the process. I come from a creative background (read: I have a lot of opinions), and Jennifer was great about collaborating to bring our vision to life, while still offering thoughtful guidance and knowing when to step in with her expertise. She helped us navigate millions of details, big and small, and introduced ideas that pushed us far enough out of our comfort zone to make the end result truly special. She also connected us with an incredible contractor and carpenter, some of the best we’ve ever worked with and acted as our eyes and ears on-site, ensuring everything came together beautifully. We’re so happy with how our home has transformed. It feels elevated, personal, and uniquely ours.\""
+    - img "Emily S."
+    - generic: Emily S.
+  - group "5 / 7":
+    - generic: "\"Can’t say enough great things about J. Fisher Interiors! Jennifer and her team have worked on several jobs for me and my clients over the years and they always take on a fresh perspective with timeless design elements in their approach, which I really appreciate. Additionally, they are a joy to work with and make sure that you end up loving your new space.\""
+    - generic: Wade Giles
+  - group "6 / 7":
+    - generic: "\"Jennifer jumped in to do a project for our office, and we couldn't be happier with the level of professionalism and skill with which she operates. She got the job done in a timely manner, her pricing was reasonable, and now, our team has been enjoying the space so much more. I'd highly recommend her expertise to other companies or individuals looking to freshen up their space.\""
+    - generic: NadaMoo Ice Cream
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - button "Previous slide":
+    - generic: 
+  - button "Next slide":
+    - generic: 
+  - button "Go to slide 1"
+  - button "Go to slide 2"
+  - button "Go to slide 3"
+  - button "Go to slide 4"
+  - button "Go to slide 5"
+  - button "Go to slide 6"
+  - button "Go to slide 7"
+- heading "Let’s Start The Conversation" [level=2]
+- paragraph: We take on a limited number of projects each year to ensure a high level of attention and care.
+- paragraph: If our approach resonates, we’d love to learn more about your project. Please share a few details below so we can determine whether we’re the right fit.
+- status
+- list
+- form "Contact form":
+  - paragraph: J.Fisher Interiors offers full-service interior design and thoughtful project guidance tailored to each client’s needs.
+  - paragraph:
+    - textbox "First Name"
+  - paragraph:
+    - textbox "Last Name"
+  - paragraph: Project Type
+  - paragraph:
+    - checkbox "Residential Interior Design"
+    - text: Residential Interior Design
+    - checkbox "Commercial Interior Design"
+    - text: Commercial Interior Design
+    - checkbox "Furnishings & Styling"
+    - text: Furnishings & Styling
+    - checkbox "Not sure yet — looking for guidance"
+    - text: Not sure yet — looking for guidance
+  - paragraph: Where are you in the process?
+  - paragraph:
+    - checkbox "Actively planning a project and looking for a designer"
+    - text: Actively planning a project and looking for a designer
+    - checkbox "In early planning and gathering information"
+    - text: In early planning and gathering information
+    - checkbox "Just exploring ideas"
+    - text: Just exploring ideas
+  - paragraph:
+    - textbox "Email"
+  - paragraph:
+    - textbox "Phone (for scheduling if needed)"
+  - paragraph:
+    - textbox "Tell us briefly about your project — location, scope, timeline, and what prompted you to reach out now."
+  - paragraph
+  - paragraph:
+    - button "Submit Inquiry"
+  - paragraph: Submitting this form does not guarantee availability. We personally review every inquiry and respond to projects that align with our services.
+- contentinfo:
+  - heading "Subscribe To Our Newsletter" [level=4]
+  - generic: "* indicates required"
+  - generic: First Name
+  - textbox "First Name"
+  - generic: Last Name
+  - textbox "Last Name"
+  - generic: Email Address *
+  - textbox "Email Address *"
+  - text: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+  - textbox
+  - button "Subscribe"
+  - paragraph:
+    - link "Mailchimp - email marketing made easy and fun":
+      - /url: https://mailchimp.com/solutions/email-marketing-platform/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=4a0f3f8e26ae022398715e24f&afl=1
+  - heading "Follow Us" [level=4]
+  - list:
+    - link "":
+      - /url: https://www.instagram.com/jfisherinteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.facebook.com/JFisherInteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.houzz.com/professionals/interior-designers-and-decorators/j-fisher-interiors-pfvwus-pf~2047964054
+      - generic: 
+    - link "":
+      - /url: https://www.linkedin.com/company/j-fisher-interiors
+      - generic: 
+    - link "":
+      - /url: https://www.pinterest.com/jfisherinteriors/
+      - generic: 
+  - heading "Company Links" [level=4]
+  - link "Our Privacy Policy":
+    - /url: https://jfisherinteriors.com/privacy-policy/
+  - heading "Menu" [level=4]
+  - list:
+    - link "Portfolio":
+      - /url: https://jfisherinteriors.com/portfolio/
+    - link "Process":
+      - /url: https://jfisherinteriors.com/luxury-interior-design-process/
+    - link "Services":
+      - /url: https://jfisherinteriors.com/services/
+    - link "About":
+      - /url: https://jfisherinteriors.com/about/
+    - link "Press":
+      - /url: https://jfisherinteriors.com/press/
+    - link "Blog":
+      - /url: https://jfisherinteriors.com/blog/
+    - link "Contact":
+      - /url: https://jfisherinteriors.com/contact/
+    - link "Newsletter":
+      - /url: /contact/
+  - generic: © Copyright 2026 J.Fisher Interiors. All rights reserved
+- generic: mobile
+- iframe [name="a-erc2bk7vg69u"]

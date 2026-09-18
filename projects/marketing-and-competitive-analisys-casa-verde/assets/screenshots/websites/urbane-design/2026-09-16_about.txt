@@ -1,0 +1,124 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+    - img "Urbane Design"
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- main:
+  - article:
+    - generic "Fancy Text":
+      - heading "Prefix Suffix" [level=1]:
+        - generic "Prefix"
+        - generic "Suffix"
+    - generic "Photo":
+      - figure:
+        - img "JessicaLove_Headshot_web"
+    - generic "Smart Headings":
+      - heading "Jessica Love, Allied ASID INTERIOR DESIGNER / PRINCIPAL" [level=2]:
+        - generic: Jessica Love, Allied ASID
+        - generic: INTERIOR DESIGNER / PRINCIPAL
+      - paragraph: Jessica Love has the unique ability to harness what makes her clients truly unique and bring those traits to life through interior design. As a graduate of Sam Houston State University with a Bachelor of Science in Interior Design, she learned the rules of the trade at a young age so that she can now—strategically—break them. Jessica believes in individuality over trends and works to bring her client’s personalities through in each and every design. She is intensely creative and highly adaptable. These traits have built her a loyal clientele over the last 18 years who value her transparency and the ease she brings to the design process.
+      - paragraph: Jessica believes that confidence in our lives begin with a well-designed, carefully thought out home. She brings this sense of empowerment not only to her own clients, but to her community through volunteer positions with local non-profits like Big Brothers Big Sisters. Additionally, she serves on the board for Ten Thousand Villages and partners with Austin Habitat for Humanity as the beneficiary of her annual music showcase, Open Door Showcase, during SXSW. As a huge animal lover with two rescue pups of her own, Jessica has volunteered in the past for Austin Pets Alive! and Barkitecture. She also just launched her own 501c3 called Design Changes Lives, whose mission is to design spaces for children in order to build confidence, empower and improve the quality of their lives.
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

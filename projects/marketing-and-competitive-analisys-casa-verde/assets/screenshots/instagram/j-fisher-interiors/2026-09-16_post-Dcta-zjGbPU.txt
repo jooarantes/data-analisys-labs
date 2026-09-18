@@ -1,0 +1,94 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fjfisherinteriors%2Fp%2FDcta-zjGbPU%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - article:
+    - link "Foto do perfil de jfisherinteriors":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - link "Foto do perfil de jfisherinteriors":
+        - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+        - img "Foto do perfil de jfisherinteriors"
+    - link "jfisherinteriors":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+    - img "Verificado"
+    - generic: •
+    - link "Seguir":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Seguir
+    - link "Austin, Texas":
+      - /url: /explore/locations/194629377325278/austin-texas/
+    - button "Mais opções":
+      - img "Mais opções"
+    - list:
+      - img "Photo by J.Fisher Interiors on August 31, 2026. Pode ser uma imagem de ilha de cozinha, exaustor, iluminação, candelabro, bancada, ambiente fechado e texto."
+      - img "Photo by J.Fisher Interiors on August 31, 2026. Pode ser uma imagem de texto."
+    - button "Avançar"
+    - button "Curtir":
+      - img "Curtir"
+    - button "Comentar":
+      - img "Comentar"
+    - link "Compartilhar":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - img "Compartilhar"
+    - link "Salvar":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - img "Salvar"
+    - generic: 38 curtidas
+    - link "jfisherinteriors":
+      - /url: /jfisherinteriors/
+      - generic: jfisherinteriors
+    - img "Verificado"
+    - heading "Behind the scenes, where the dust has vision and the details are still negotiating.⁠ Stay tuned for the finished" [level=1]
+    - text: ...
+    - button "mais":
+      - generic: mais
+    - link "Ver todos os 2 comentários":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Ver todos os 2 comentários
+    - link "31 de agosto":
+      - /url: intent://instagram.com/jfisherinteriors/p/Dcta-zjGbPU?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - time: 31 de agosto
+  - separator
+  - text: Mais posts de
+  - link "jfisherinteriors":
+    - /url: /jfisherinteriors/
+  - link "Photo by J.Fisher Interiors on September 16, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/DdWWizeIC7U/
+    - img "Photo by J.Fisher Interiors on September 16, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by J.Fisher Interiors on September 14, 2026. Pode ser uma imagem de mesa de jantar, sofá, sala de estar, ambiente fechado e texto.":
+    - /url: /jfisherinteriors/p/DdRPM7voMra/
+    - img "Photo by J.Fisher Interiors on September 14, 2026. Pode ser uma imagem de mesa de jantar, sofá, sala de estar, ambiente fechado e texto."
+  - 'link "Photo by J.Fisher Interiors on September 11, 2026. Pode ser uma imagem de revista, móveis, ambiente fechado, sala de estar e texto que diz \"DESIGN VOICES Southwestern South western style Many are drawn the Southwest, with its wide open unique landscape climate. Designers Texas. Arizona and Nevada shared ora- jects and their thought nthe region they home with us this issue. Nancy talks about her cover design career. -Anc Jennifer kicks off witha what nas planned or 2024. TRAVELHOMIE TPAVELHOVE IOME Baan 26 DESIGNERS TODAY 다 Phato: Fisher. in Jennifer कিत from design\"."':
+    - /url: /jfisherinteriors/p/DdJiiVeG8LJ/
+    - 'img "Photo by J.Fisher Interiors on September 11, 2026. Pode ser uma imagem de revista, móveis, ambiente fechado, sala de estar e texto que diz \"DESIGN VOICES Southwestern South western style Many are drawn the Southwest, with its wide open unique landscape climate. Designers Texas. Arizona and Nevada shared ora- jects and their thought nthe region they home with us this issue. Nancy talks about her cover design career. -Anc Jennifer kicks off witha what nas planned or 2024. TRAVELHOMIE TPAVELHOVE IOME Baan 26 DESIGNERS TODAY 다 Phato: Fisher. in Jennifer कিत from design\"."'
+  - link "Photo by J.Fisher Interiors on September 08, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/DdB1UN6Dafz/
+    - img "Photo by J.Fisher Interiors on September 08, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by J.Fisher Interiors on September 05, 2026. Pode ser uma imagem de sofá, cabine para banhistas, casa de barcos e texto.":
+    - /url: /jfisherinteriors/p/Dc6JMp5DgdH/
+    - img "Photo by J.Fisher Interiors on September 05, 2026. Pode ser uma imagem de sofá, cabine para banhistas, casa de barcos e texto."
+  - link "Video by J.Fisher Interiors on September 04, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, ambiente fechado, cozinha e texto que diz \"- After\". Clipe":
+    - /url: /jfisherinteriors/reel/Dc3ZAgeBK6X/
+    - img "Video by J.Fisher Interiors on September 04, 2026. Pode ser uma imagem de exaustor, ilha de cozinha, bancada, ambiente fechado, cozinha e texto que diz \"- After\"."
+    - img "Clipe"
+  - link "Photo by J.Fisher Interiors on September 03, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /jfisherinteriors/p/Dc1UZ2GIKbx/
+    - img "Photo by J.Fisher Interiors on September 03, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Video by J.Fisher Interiors on August 29, 2026. Pode ser um gráfico de móveis, ambiente fechado e texto que diz \"In\". Clipe":
+    - /url: /jfisherinteriors/reel/DcoDp5qBiCT/
+    - img "Video by J.Fisher Interiors on August 29, 2026. Pode ser um gráfico de móveis, ambiente fechado e texto que diz \"In\"."
+    - img "Clipe"
+  - link "Photo by J.Fisher Interiors on August 28, 2026. Pode ser uma imagem de sofá, sala de estar, ambiente fechado e texto.":
+    - /url: /jfisherinteriors/p/DclpIb_HDwE/
+    - img "Photo by J.Fisher Interiors on August 28, 2026. Pode ser uma imagem de sofá, sala de estar, ambiente fechado e texto."
+  - link "Ver mais posts":
+    - /url: /jfisherinteriors/
+    - generic: Ver mais posts
+  - separator

@@ -1,0 +1,302 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "avon-retreat",
+  "requestedURL": "https://urbanspacedesign.com/project/avonretreat/",
+  "url": "https://urbanspacedesign.com/project/avonretreat/",
+  "visitedAt": "2026-09-17T15:43:14.934Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_avon-retreat.png"
+  ],
+  "shots": [
+    {
+      "file": "avon-retreat_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 8055,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/avon-retreat_full-page.png"
+    },
+    {
+      "file": "avon-retreat_gallery-01.png",
+      "type": "gallery",
+      "section": "Avon Retreat",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2.jpg",
+      "width": 1440,
+      "height": 800,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/avon-retreat_gallery-01.png"
+    },
+    {
+      "file": "avon-retreat_gallery-02.png",
+      "type": "gallery",
+      "section": "Avon Retreat",
+      "imageIndex": 5,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Bunk-Room-Seating-263mb-Corrected.jpg",
+      "width": 672,
+      "height": 933,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/avon-retreat_gallery-02.png"
+    },
+    {
+      "file": "avon-retreat_gallery-03.png",
+      "type": "gallery",
+      "section": "Avon Retreat",
+      "imageIndex": 8,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Secondary-Bedroom-183mb-Corrected-768x971.jpg",
+      "width": 692,
+      "height": 875,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/avon-retreat_gallery-03.png"
+    },
+    {
+      "file": "avon-retreat_gallery-04.png",
+      "type": "gallery",
+      "section": "Avon Retreat",
+      "imageIndex": 11,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-06-24-Kitchen-Detail-One-Point-129mb-Corrected-768x614.jpg",
+      "width": 580,
+      "height": 464,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/avon-retreat_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 8055,
+    "beforeY": null,
+    "title": "Avon Retreat – Urbanspace Design Studio",
+    "text": "Skip to content\nAVON RETREAT\n\nCOMPLETED\n2024\n\nLOCATION\nAvon, Colorado\n\nTYPE\nResidential\n\nDESIGNER\nMerrill Alley, Jessica Nash, Natalie Hardej, Laura Kucan\n\nPHOTOGRAPHER\nDavid Patterson, Photography\n\nPREVIOUS PROJECT\nSeaholm Penthouse\nNEXT PROJECT\nThe Modern Austin Residences\n301 West Ave #100, Austin, TX 78701\ndesign@urbanspaceinteriors.com · 512.4",
+    "images": [
+      {
+        "i": 2,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2.jpg",
+        "x": 0,
+        "y": 150,
+        "w": 1425,
+        "h": 800,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Living-Coffee-Table-Detail-3-175mb-Corrected-768x960.jpg",
+        "x": 60.5,
+        "y": 998,
+        "w": 622,
+        "h": 777.359375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Powder-Room-212mb-Corrected.jpg",
+        "x": 60.5,
+        "y": 1805.359375,
+        "w": 602.703125,
+        "h": 932.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Bunk-Room-Seating-263mb-Corrected.jpg",
+        "x": 693.203125,
+        "y": 1805.359375,
+        "w": 671.296875,
+        "h": 932.640625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Bunkbed-One-Point-235mb-Corrected.jpg",
+        "x": 60.5,
+        "y": 2768,
+        "w": 674.1875,
+        "h": 810.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-1-758x1024.jpg",
+        "x": 764.6875,
+        "y": 2768,
+        "w": 599.8125,
+        "h": 810.296875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Secondary-Bedroom-183mb-Corrected-768x971.jpg",
+        "x": 60.5,
+        "y": 3608.328125,
+        "w": 691.34375,
+        "h": 874.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-05-24-Hall-Primary-Bedroom-185mb-Corrected-768x1152.jpg",
+        "x": 781.84375,
+        "y": 3608.328125,
+        "w": 582.65625,
+        "h": 873.984375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-05-24-Primary-Bedroom-203mb-Corrected.jpg",
+        "x": 60.5,
+        "y": 4512.40625,
+        "w": 694.953125,
+        "h": 463.34375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-06-24-Kitchen-Detail-One-Point-129mb-Corrected-768x614.jpg",
+        "x": 785.453125,
+        "y": 4512.40625,
+        "w": 579.046875,
+        "h": 462.921875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-06-24-Living-Room-166mb-Corrected-768x960.jpg",
+        "x": 60.5,
+        "y": 5005.75,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-River-Front-05-05-24-Living-Coffee-Table-Detail-1-151mb-768x960.jpg",
+        "x": 727.5,
+        "y": 5005.75,
+        "w": 637,
+        "h": 796.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "Avon Retreat",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-2.jpg",
+        "x": 60.5,
+        "y": 5832,
+        "w": 1304,
+        "h": 1761.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

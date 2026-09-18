@@ -1,0 +1,106 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fstellyselway%2Fp%2FDb4yaKvm_4R%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - article:
+    - link "Foto do perfil de tanya.selway Foto do perfil de stellyselway":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - link "Foto do perfil de tanya.selway":
+        - img "Foto do perfil de tanya.selway"
+      - link "Foto do perfil de stellyselway":
+        - img "Foto do perfil de stellyselway"
+    - link "stellyselway":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - img "Verificado"
+    - generic: e
+    - link "tanya.selway":
+      - /url: /tanya.selway/
+      - generic: tanya.selway
+    - generic: •
+    - link "Seguir":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Seguir
+    - button "Mais opções":
+      - img "Mais opções"
+    - list:
+      - img "Photo by Stelly Selway on August 10, 2026. Pode ser uma imagem de banco, espreguiçadeira, escabelo e texto."
+      - img "Photo by Stelly Selway on August 10, 2026. Pode ser uma imagem de lã, carpete e texto."
+    - button "Avançar"
+    - button "Curtir":
+      - img "Curtir"
+    - button "Comentar":
+      - img "Comentar"
+    - link "Compartilhar":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Compartilhar"
+    - link "Salvar":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Salvar"
+    - link "stellyselway":
+      - /url: /stellyselway/
+      - generic: stellyselway
+    - img "Verificado"
+    - 'heading "It''s a piece of fabric that feels like a painting: The Gotland Turmeric from @jgswitzer – a @coupdetatsf exclusive –" [level=1]':
+      - text: "It's a piece of fabric that feels like a painting: The Gotland Turmeric from"
+      - link "@jgswitzer":
+        - /url: /jgswitzer/
+      - text: – a
+      - link "@coupdetatsf":
+        - /url: /coupdetatsf/
+      - text: exclusive –
+    - text: ...
+    - button "mais":
+      - generic: mais
+    - link "Ver todos os 3 comentários":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Ver todos os 3 comentários
+    - link "11 de agosto":
+      - /url: intent://instagram.com/stellyselway/p/Db4yaKvm_4R?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - time: 11 de agosto
+  - separator
+  - text: Mais posts de
+  - link "stellyselway":
+    - /url: /stellyselway/
+  - link "Photo by Stelly Selway on October 15, 2025. Carrossel":
+    - /url: /stellyselway/p/DP2D3OqEQaY/
+    - img "Photo by Stelly Selway on October 15, 2025."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 08, 2025. Carrossel":
+    - /url: /stellyselway/p/DNGoUEiJD94/
+    - img "Photo by Stelly Selway on August 08, 2025."
+    - img "Carrossel"
+  - link "Photo by Jessica Alexander on April 15, 2025. Carrossel":
+    - /url: /jessicajalexander/p/DIePpU8Jt5w/
+    - img "Photo by Jessica Alexander on April 15, 2025."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 05, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbrYI8EmfNl/
+    - img "Photo by Stelly Selway on August 05, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 04, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbnTME4E6Cl/
+    - img "Photo by Stelly Selway on August 04, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Video by Stelly Selway on July 28, 2026. Pode ser uma imagem de narguilé, abajur, lâmpada, vela, sofá, sala de estar, ambiente fechado e texto. Clipe":
+    - /url: /stellyselway/reel/DbVRnSOjhDZ/
+    - img "Video by Stelly Selway on July 28, 2026. Pode ser uma imagem de narguilé, abajur, lâmpada, vela, sofá, sala de estar, ambiente fechado e texto."
+    - img "Clipe"
+  - link "Photo by Stelly Selway on July 21, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbDQElcGXZE/
+    - img "Photo by Stelly Selway on July 21, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on July 16, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/Da2srRoH5jR/
+    - img "Photo by Stelly Selway on July 16, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on July 14, 2026. Pode ser uma imagem de poltrona, cadeira de balanço, espreguiçadeira e texto.":
+    - /url: /stellyselway/p/DaxOdshEmo0/
+    - img "Photo by Stelly Selway on July 14, 2026. Pode ser uma imagem de poltrona, cadeira de balanço, espreguiçadeira e texto."
+  - link "Ver mais posts":
+    - /url: /stellyselway/
+    - generic: Ver mais posts
+  - separator

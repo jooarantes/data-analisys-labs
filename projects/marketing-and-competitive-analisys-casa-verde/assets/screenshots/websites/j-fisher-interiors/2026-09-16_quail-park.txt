@@ -1,0 +1,190 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+- text: /
+- heading "Quail Park (more coming soon)" [level=1]
+- paragraph: I bought this 1971 midcentury home knowing it would be a long conversation, not a quick renovation. Once a group residence for adults with disabilities, the house was divided into six bedrooms, 2.5 baths, and a series of disconnected additions that had lost any sense of flow or gathering. There was no dining room, little light movement, and no clear heart to the home. But I could feel what it wanted to become.
+- paragraph: The transformation began by undoing years of patchwork decisions and rethinking how the house should live. I replaced all of the windows, changed the flooring throughout, and rebuilt the kitchen entirely, tearing down the wall that separated it from the addition and extending the fireplace wall to ground the main living space. A former front bedroom became a dining room, opened to the entry with a soft arch and connected to the rest of the home through a second arch, allowing light to move from the front door all the way to the backyard. I removed the awkward step at the entry and replaced the front door with a steel three-panel door that finally gives the house a sense of arrival.
+- paragraph: The kitchen now anchors the home, finished with custom white oak cabinetry and soapstone countertops chosen for their depth, durability, and timelessness. The secondary bath and powder bath were fully gutted and rebuilt, continuing the slow, intentional process of giving the home back its dignity and warmth.
+- paragraph: The work is not finished yet. The primary suite, a large new slider to the backyard, and the landscape beyond are still to come. But the house is already breathing differently. What was once a highly segmented, utilitarian structure is becoming a soulful family home shaped by patience, instinct, and the belief that houses, like people, can be restored when someone finally listens to what they need.
+- separator
+- heading "After" [level=3]
+- link "Final entry copy":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Final-entry-copy.jpeg
+  - img "Final entry copy"
+- link "Kitchen island 2":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Kitchen-island-2-1-scaled.jpg
+  - img "Kitchen island 2"
+- link "50mm range shot":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/50mm-range-shot-scaled.jpg
+  - img "50mm range shot"
+- link "Dining into entry final":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Dining-into-entry-final-scaled.jpeg
+  - img "Dining into entry final"
+- link "Living room corner":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Living-room-corner-scaled.jpg
+  - img "Living room corner"
+- link "Final Family Room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Final-Family-Room-scaled.jpg
+  - img "Final Family Room"
+- link "Quail Park-2067":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/Quail-Park-2067-scaled.jpg
+  - img "Quail Park-2067"
+- heading "Before" [level=3]
+- link "DSC 1096 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1096-Edit.jpeg
+  - img "DSC 1096 Edit"
+- link "DSC 1121 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1121-Edit.jpeg
+  - img "DSC 1121 Edit"
+- link "DSC 1131 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1131-Edit.jpeg
+  - img "DSC 1131 Edit"
+- link "DSC 1106 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1106-Edit.jpeg
+  - img "DSC 1106 Edit"
+- link "DSC 1111 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1111-Edit.jpeg
+  - img "DSC 1111 Edit"
+- link "DSC 1116 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1116-Edit.jpeg
+  - img "DSC 1116 Edit"
+- link "DSC 1071 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1071-Edit.jpeg
+  - img "DSC 1071 Edit"
+- link "DSC 1192 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1192-Edit.jpeg
+  - img "DSC 1192 Edit"
+- link "DSC 1066 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1066-Edit.jpeg
+  - img "DSC 1066 Edit"
+- link "DSC 1086 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1086-Edit.jpeg
+  - img "DSC 1086 Edit"
+- link "DSC 1081 Edit":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/DSC-1081-Edit.jpeg
+  - img "DSC 1081 Edit"
+- link "IMG_1393":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/IMG_1393-scaled.jpeg
+  - img "IMG_1393"
+- separator
+- region "Slides":
+  - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+  - generic: Chandler Wang
+  - generic: "\"We worked with Jennifer and her team on designing and furnishing the interior of our new home over the course of 2 years. While we thought that we wanted a look that mimicked the style of homes we had seen in magazines, Jennifer had a unique vision that captured the essence of our home and who we are. She was able to understand our style and design the interior based on the features of our home, which made a significant difference. Our home was featured on the 2024 Modern Homes Tour, which showcased Jennifer’s exceptional work. Visitors praised the beautiful yet functional interior, highlighting the creative use of color and patterns. Highly recommend!\""
+  - img "Joanna Hackney"
+  - generic: Joanna Hackney
+  - generic: "\"Very professional, reasonable and creative services. Worked within my budget and was always timely on requests and suggestions while meeting the decor selections for my contractors scheduling deadlines. I would recommend J.Fisher Interiors to all of my friends.\""
+  - generic: Marc Buffkin
+  - generic: "\"My husband and I worked with J.Fisher Interiors to remodel our kitchen and baths and give our builder-grade home a much-needed facelift. Because we were out of state during the design and construction process, having Jennifer at the helm made all the difference. I genuinely don't know how anyone would complete a project like this without an experienced designer like her guiding the process. I come from a creative background (read: I have a lot of opinions), and Jennifer was great about collaborating to bring our vision to life, while still offering thoughtful guidance and knowing when to step in with her expertise. She helped us navigate millions of details, big and small, and introduced ideas that pushed us far enough out of our comfort zone to make the end result truly special. She also connected us with an incredible contractor and carpenter, some of the best we’ve ever worked with and acted as our eyes and ears on-site, ensuring everything came together beautifully. We’re so happy with how our home has transformed. It feels elevated, personal, and uniquely ours.\""
+  - img "Emily S."
+  - generic: Emily S.
+  - generic: "\"Can’t say enough great things about J. Fisher Interiors! Jennifer and her team have worked on several jobs for me and my clients over the years and they always take on a fresh perspective with timeless design elements in their approach, which I really appreciate. Additionally, they are a joy to work with and make sure that you end up loving your new space.\""
+  - generic: Wade Giles
+  - generic: "\"Jennifer jumped in to do a project for our office, and we couldn't be happier with the level of professionalism and skill with which she operates. She got the job done in a timely manner, her pricing was reasonable, and now, our team has been enjoying the space so much more. I'd highly recommend her expertise to other companies or individuals looking to freshen up their space.\""
+  - generic: NadaMoo Ice Cream
+  - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+  - img "best metallic gold paint for walls"
+  - generic: Jeff Binder
+  - button "Previous":
+    - generic: 
+  - button "Next":
+    - generic: 
+- heading "Let’s Start The Conversation" [level=2]
+- paragraph: We take on a limited number of projects each year to ensure a high level of attention and care.
+- paragraph: If our approach resonates, we’d love to learn more about your project. Please share a few details below so we can determine whether we’re the right fit.
+- status
+- list
+- form "Contact form":
+  - paragraph: J.Fisher Interiors offers full-service interior design and thoughtful project guidance tailored to each client’s needs.
+  - paragraph:
+    - textbox "First Name"
+  - paragraph:
+    - textbox "Last Name"
+  - paragraph: Project Type
+  - paragraph:
+    - checkbox "Residential Interior Design"
+    - text: Residential Interior Design
+    - checkbox "Commercial Interior Design"
+    - text: Commercial Interior Design
+    - checkbox "Furnishings & Styling"
+    - text: Furnishings & Styling
+    - checkbox "Not sure yet — looking for guidance"
+    - text: Not sure yet — looking for guidance
+  - paragraph: Where are you in the process?
+  - paragraph:
+    - checkbox "Actively planning a project and looking for a designer"
+    - text: Actively planning a project and looking for a designer
+    - checkbox "In early planning and gathering information"
+    - text: In early planning and gathering information
+    - checkbox "Just exploring ideas"
+    - text: Just exploring ideas
+  - paragraph:
+    - textbox "Email"
+  - paragraph:
+    - textbox "Phone (for scheduling if needed)"
+  - paragraph:
+    - textbox "Tell us briefly about your project — location, scope, timeline, and what prompted you to reach out now."
+  - paragraph
+  - paragraph:
+    - button "Submit Inquiry"
+  - paragraph: Submitting this form does not guarantee availability. We personally review every inquiry and respond to projects that align with our services.
+- contentinfo:
+  - heading "Subscribe To Our Newsletter" [level=4]
+  - generic: "* indicates required"
+  - generic: First Name
+  - textbox "First Name"
+  - generic: Last Name
+  - textbox "Last Name"
+  - generic: Email Address *
+  - textbox "Email Address *"
+  - text: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+  - textbox
+  - button "Subscribe"
+  - paragraph:
+    - link "Mailchimp - email marketing made easy and fun":
+      - /url: https://mailchimp.com/solutions/email-marketing-platform/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=4a0f3f8e26ae022398715e24f&afl=1
+  - heading "Follow Us" [level=4]
+  - list:
+    - link "":
+      - /url: https://www.instagram.com/jfisherinteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.facebook.com/JFisherInteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.houzz.com/professionals/interior-designers-and-decorators/j-fisher-interiors-pfvwus-pf~2047964054
+      - generic: 
+    - link "":
+      - /url: https://www.linkedin.com/company/j-fisher-interiors
+      - generic: 
+    - link "":
+      - /url: https://www.pinterest.com/jfisherinteriors/
+      - generic: 
+  - heading "Company Links" [level=4]
+  - link "Our Privacy Policy":
+    - /url: https://jfisherinteriors.com/privacy-policy/
+  - heading "Menu" [level=4]
+  - list:
+    - link "Portfolio":
+      - /url: https://jfisherinteriors.com/portfolio/
+    - link "Process":
+      - /url: https://jfisherinteriors.com/luxury-interior-design-process/
+    - link "Services":
+      - /url: https://jfisherinteriors.com/services/
+    - link "About":
+      - /url: https://jfisherinteriors.com/about/
+    - link "Press":
+      - /url: https://jfisherinteriors.com/press/
+    - link "Blog":
+      - /url: https://jfisherinteriors.com/blog/
+    - link "Contact":
+      - /url: https://jfisherinteriors.com/contact/
+    - link "Newsletter":
+      - /url: /contact/
+  - generic: © Copyright 2026 J.Fisher Interiors. All rights reserved

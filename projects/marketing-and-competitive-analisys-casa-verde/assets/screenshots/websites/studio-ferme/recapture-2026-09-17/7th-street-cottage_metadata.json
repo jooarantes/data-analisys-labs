@@ -1,0 +1,114 @@
+{
+  "slug": "studio-ferme",
+  "stem": "7th-street-cottage",
+  "url": "https://www.studioferme.com/7th-street-cottage",
+  "requestedURL": "https://www.studioferme.com/7th-street-cottage",
+  "visitedAt": "2026-09-17T15:33:48.234Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_7th-street-cottage.png"
+  ],
+  "shots": [
+    {
+      "file": "7th-street-cottage_full-page.png",
+      "type": "full-page",
+      "section": "Opening state of horizontal gallery",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "7th-street-cottage_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/7th-street-cottage_full-page.png"
+    },
+    {
+      "file": "7th-street-cottage_gallery-01.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 1 of 6",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1775159049733-5NRS4I6IRSVJ9RTOVS9D/image-asset.jpeg?format=500w",
+      "width": 432,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "7th-street-cottage_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/7th-street-cottage_gallery-01.png"
+    },
+    {
+      "file": "7th-street-cottage_gallery-02.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 2 of 6",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1775159136729-L9MCGXFFNO3WB0KPOY9D/20250513_Forge+Craft_W+7th2207+1.jpg?format=500w",
+      "width": 401,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "7th-street-cottage_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/7th-street-cottage_gallery-02.png"
+    },
+    {
+      "file": "7th-street-cottage_gallery-03.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 4 of 6",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1775159157740-EHB9CQHNXINI50LE9TJ6/20250513_Forge+Craft_W+7th2174+1.jpg?format=750w",
+      "width": 669,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "7th-street-cottage_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/7th-street-cottage_gallery-03.png"
+    },
+    {
+      "file": "7th-street-cottage_gallery-04.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 5 of 6",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1775159170643-LKWP0MQQDHUW5724W98U/20250513_Forge+Craft_W+7th2169+1.jpg?format=500w",
+      "width": 358,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "7th-street-cottage_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/7th-street-cottage_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Horizontal gallery: the complete document screenshot records the opening state; supplemental photographs cover selected gallery positions"
+  ],
+  "state": {
+    "height": 1000,
+    "galleryImageCount": 6
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "7th-street-cottage_gallery-01.png"
+    ]
+  }
+}

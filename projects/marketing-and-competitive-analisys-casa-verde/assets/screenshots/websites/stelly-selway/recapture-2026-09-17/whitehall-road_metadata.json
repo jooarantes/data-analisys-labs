@@ -1,0 +1,356 @@
+{
+  "slug": "stelly-selway",
+  "stem": "whitehall-road",
+  "requestedURL": "https://www.stellyselway.com/project/whitehall-road-london",
+  "url": "https://www.stellyselway.com/project/whitehall-road-london",
+  "visitedAt": "2026-09-17T15:27:12.438Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_whitehall-road.png"
+  ],
+  "shots": [
+    {
+      "file": "whitehall-road_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 12653,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/whitehall-road_full-page.png"
+    },
+    {
+      "file": "whitehall-road_gallery-01.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 0,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F2855c92562964aadb12b17cf99042cb5",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/whitehall-road_gallery-01.png"
+    },
+    {
+      "file": "whitehall-road_gallery-02.png",
+      "type": "gallery",
+      "section": "Image 4",
+      "imageIndex": 5,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F0e412ba2fd634c1db327052ee4512b3e",
+      "width": 1425,
+      "height": 803,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/whitehall-road_gallery-02.png"
+    },
+    {
+      "file": "whitehall-road_gallery-03.png",
+      "type": "gallery",
+      "section": "Image 10",
+      "imageIndex": 11,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F8bef9bbc965045299ca7ecabfacbd187",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/whitehall-road_gallery-03.png"
+    },
+    {
+      "file": "whitehall-road_gallery-04.png",
+      "type": "gallery",
+      "section": "Image 15",
+      "imageIndex": 16,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F52104d9bbdb040f987ab45dd15d9656c",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/whitehall-road_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 12653,
+    "beforeY": null,
+    "title": "Stelly Selway | Whitehall Road",
+    "text": "Back\nWhitehall Road\nWhitehall Road\nCLASSICAL CONTEMPORARY FAMILY TOWNHOUSE IN CHISWICK, WEST LONDON\n\nA West London family townhouse designed through close collaboration with a young family. Stelly Selway blended classical rigor and contemporary vitality to create an interior that grows with its residents. Bauwerk limewash walls and original millwor",
+    "images": [
+      {
+        "i": 0,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F2855c92562964aadb12b17cf99042cb5",
+        "x": 0,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4e4d876641124792bb6e610c49ea9016",
+        "x": 712.5,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fb34d393b889a4e8b95b5677cdd210fe1",
+        "x": 0,
+        "y": 1486,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4873b1c0686940bea8bbff75ddf11d29",
+        "x": 0,
+        "y": 2287.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Image 3",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fbf66e271055b423e9c2052ff2b0ae3b4",
+        "x": 712.5,
+        "y": 2287.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Image 4",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F0e412ba2fd634c1db327052ee4512b3e",
+        "x": 0,
+        "y": 3237.5625,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Image 5",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F7687bc9d1f634672ab405461bcf163cf",
+        "x": 0,
+        "y": 4039.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Image 6",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F90e3c720c6a84eef9c9ab307e7eb7794",
+        "x": 712.5,
+        "y": 4039.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Image 7",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fcf50cdf642204daf90f008e99c98af03",
+        "x": 0,
+        "y": 4989.125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Image 8",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fb647e42728454567bbb70329588bcae6",
+        "x": 0,
+        "y": 5790.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "Image 9",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F740c7307ec0046aebf7d880c3ffd6b84",
+        "x": 712.5,
+        "y": 5790.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "Image 10",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F8bef9bbc965045299ca7ecabfacbd187",
+        "x": 0,
+        "y": 6740.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Image 11",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fa7c62b0dd4994ed38cbe8fbf5df46488",
+        "x": 712.5,
+        "y": 6740.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "Image 12",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F942e222a204f43858cf59d4ec59e1d9b",
+        "x": 0,
+        "y": 7690.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Image 13",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F73be9b6284474767aac4dad5be50bb40",
+        "x": 712.5,
+        "y": 7690.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "Image 14",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fa5b991b6bf6040228d62c00e51133a7e",
+        "x": 0,
+        "y": 8640.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "Image 15",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F52104d9bbdb040f987ab45dd15d9656c",
+        "x": 712.5,
+        "y": 8640.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "Image 16",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4285b16ec84a4e31b9b6aa29a4248216",
+        "x": 0,
+        "y": 9590.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "Image 17",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F2a11d1db1e2645f4969182d8f38fb50c",
+        "x": 712.5,
+        "y": 9590.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "Image 18",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fec86aa504f2845c5bc1ed954e3b81b22",
+        "x": 0,
+        "y": 10540.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "Image 19",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F545eefe45cb74a7480130db24f583678",
+        "x": 712.5,
+        "y": 10540.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "Image 20",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F3c406b28339c42beaea66401112ebe64",
+        "x": 0,
+        "y": 11490.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

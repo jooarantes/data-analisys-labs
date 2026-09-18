@@ -1,0 +1,121 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fstellyselway%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - link "Foto do perfil de stellyselway":
+    - /url: /stellyselway/
+    - img "Foto do perfil de stellyselway"
+  - heading "stellyselway" [level=2]:
+    - generic: stellyselway
+  - img "Verificado"
+  - list:
+    - link "3.996 seguidores":
+      - /url: "#"
+      - generic "3.996"
+      - text: seguidores
+    - link "2.230 seguindo":
+      - /url: "#"
+      - generic: "2.230"
+      - text: seguindo
+  - generic: Stelly Selway
+  - link "Threads stellyselway":
+    - /url: https://www.threads.com/@stellyselway?xmt=AQG0uTEDIZ4AVHHDtQneReWaWwrNZw9ZxKZTB8IRVz-LQXE
+    - img "Threads"
+    - generic: stellyselway
+  - button "Austin, London Seen in @tmagazine @ft_houseandhome @archdigest @austin_home":
+    - text: Austin, London
+    - text: Seen in @tmagazine @ft_houseandhome @archdigest @austin_home
+  - button "Ícone de link www.architecturaldigest.com/story/creative-couples-texas-craftsman-stelly-selway e mais 4":
+    - img "Ícone de link"
+    - generic: www.architecturaldigest.com/story/creative-couples-texas-craftsman-stelly-selway e mais 4
+  - menu:
+    - list:
+      - link "Ver destaque de As Seen In":
+        - /url: /stories/highlights/18050148032605711/
+        - button "Foto do story no destaque de stellyselway As Seen In":
+          - button "Foto do story no destaque de stellyselway":
+            - img "Foto do story no destaque de stellyselway"
+          - generic: As Seen In
+      - link "Ver destaque de Sights/Sound":
+        - /url: /stories/highlights/18145611202386638/
+        - button "Foto do story no destaque de stellyselway Sights/Sound":
+          - button "Foto do story no destaque de stellyselway":
+            - img "Foto do story no destaque de stellyselway"
+          - generic: Sights/Sound
+      - link "Ver destaque de On Site":
+        - /url: /stories/highlights/18033726260400348/
+        - button "Foto do story no destaque de stellyselway On Site":
+          - button "Foto do story no destaque de stellyselway":
+            - img "Foto do story no destaque de stellyselway"
+          - generic: On Site
+      - link "Ver destaque de Spaces":
+        - /url: /stories/highlights/17956012376950803/
+        - button "Foto do story no destaque de stellyselway Spaces":
+          - button "Foto do story no destaque de stellyselway":
+            - img "Foto do story no destaque de stellyselway"
+          - generic: Spaces
+  - tablist:
+    - link "Posts":
+      - /url: /stellyselway/
+      - img "Posts"
+    - link "Reels":
+      - /url: "#"
+      - img "Reels"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - separator
+  - link "Photo by Stelly Selway on October 15, 2025. Carrossel":
+    - /url: /stellyselway/p/DP2D3OqEQaY/
+    - img "Photo by Stelly Selway on October 15, 2025."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 08, 2025. Carrossel":
+    - /url: /stellyselway/p/DNGoUEiJD94/
+    - img "Photo by Stelly Selway on August 08, 2025."
+    - img "Carrossel"
+  - link "Photo by Jessica Alexander on April 15, 2025. Carrossel":
+    - /url: /jessicajalexander/p/DIePpU8Jt5w/
+    - img "Photo by Jessica Alexander on April 15, 2025."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 10, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/Db4yaKvm_4R/
+    - img "Photo by Stelly Selway on August 10, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 05, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbrYI8EmfNl/
+    - img "Photo by Stelly Selway on August 05, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on August 04, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbnTME4E6Cl/
+    - img "Photo by Stelly Selway on August 04, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Video by Stelly Selway on July 28, 2026. Pode ser uma imagem de narguilé, abajur, lâmpada, vela, sofá, sala de estar, ambiente fechado e texto. Clipe":
+    - /url: /stellyselway/reel/DbVRnSOjhDZ/
+    - img "Video by Stelly Selway on July 28, 2026. Pode ser uma imagem de narguilé, abajur, lâmpada, vela, sofá, sala de estar, ambiente fechado e texto."
+    - img "Clipe"
+  - link "Photo by Stelly Selway on July 21, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/DbDQElcGXZE/
+    - img "Photo by Stelly Selway on July 21, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on July 16, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /stellyselway/p/Da2srRoH5jR/
+    - img "Photo by Stelly Selway on July 16, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Stelly Selway on July 14, 2026. Pode ser uma imagem de poltrona, cadeira de balanço, espreguiçadeira e texto.":
+    - /url: /stellyselway/p/DaxOdshEmo0/
+    - img "Photo by Stelly Selway on July 14, 2026. Pode ser uma imagem de poltrona, cadeira de balanço, espreguiçadeira e texto."
+  - link "Video by Stelly Selway on July 08, 2026. Pode ser uma imagem de pia, banheira e chuveiro. Clipe":
+    - /url: /stellyselway/reel/DaitBcmv9Va/
+    - img "Video by Stelly Selway on July 08, 2026. Pode ser uma imagem de pia, banheira e chuveiro."
+    - img "Clipe"
+  - link "Photo by Stelly Selway on July 07, 2026. Carrossel":
+    - /url: /stellyselway/p/DafM8IpEuG_/
+    - img "Photo by Stelly Selway on July 07, 2026."
+    - img "Carrossel"
+  - button "Mostrar mais posts de stellyselway":
+    - generic: Mostrar mais posts de stellyselway

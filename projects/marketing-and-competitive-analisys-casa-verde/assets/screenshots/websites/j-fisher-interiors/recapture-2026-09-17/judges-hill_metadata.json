@@ -1,0 +1,1289 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "judges-hill",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/judges-hill/",
+  "url": "https://jfisherinteriors.com/portfolio/judges-hill/",
+  "visitedAt": "2026-09-17T15:21:39.671Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_judges-hill.png"
+  ],
+  "shots": [
+    {
+      "file": "judges-hill_document-01.png",
+      "type": "document-segment",
+      "section": "Document offset 0 CSS px, 100 px overlap",
+      "y": 0,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-01.png"
+    },
+    {
+      "file": "judges-hill_document-02.png",
+      "type": "document-segment",
+      "section": "Document offset 900 CSS px, 100 px overlap",
+      "y": 900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-02.png"
+    },
+    {
+      "file": "judges-hill_document-03.png",
+      "type": "document-segment",
+      "section": "Document offset 1800 CSS px, 100 px overlap",
+      "y": 1800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-03.png"
+    },
+    {
+      "file": "judges-hill_document-04.png",
+      "type": "document-segment",
+      "section": "Document offset 2700 CSS px, 100 px overlap",
+      "y": 2700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-04.png"
+    },
+    {
+      "file": "judges-hill_document-05.png",
+      "type": "document-segment",
+      "section": "Document offset 3600 CSS px, 100 px overlap",
+      "y": 3600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-05.png"
+    },
+    {
+      "file": "judges-hill_document-06.png",
+      "type": "document-segment",
+      "section": "Document offset 4500 CSS px, 100 px overlap",
+      "y": 4500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-06.png"
+    },
+    {
+      "file": "judges-hill_document-07.png",
+      "type": "document-segment",
+      "section": "Document offset 5400 CSS px, 100 px overlap",
+      "y": 5400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-07.png"
+    },
+    {
+      "file": "judges-hill_document-08.png",
+      "type": "document-segment",
+      "section": "Document offset 6300 CSS px, 100 px overlap",
+      "y": 6300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-08.png"
+    },
+    {
+      "file": "judges-hill_document-09.png",
+      "type": "document-segment",
+      "section": "Document offset 7200 CSS px, 100 px overlap",
+      "y": 7200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-09.png"
+    },
+    {
+      "file": "judges-hill_document-10.png",
+      "type": "document-segment",
+      "section": "Document offset 8100 CSS px, 100 px overlap",
+      "y": 8100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-10.png"
+    },
+    {
+      "file": "judges-hill_document-11.png",
+      "type": "document-segment",
+      "section": "Document offset 9000 CSS px, 100 px overlap",
+      "y": 9000,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-11.png"
+    },
+    {
+      "file": "judges-hill_document-12.png",
+      "type": "document-segment",
+      "section": "Document offset 9900 CSS px, 100 px overlap",
+      "y": 9900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-12.png"
+    },
+    {
+      "file": "judges-hill_document-13.png",
+      "type": "document-segment",
+      "section": "Document offset 10800 CSS px, 100 px overlap",
+      "y": 10800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-13.png"
+    },
+    {
+      "file": "judges-hill_document-14.png",
+      "type": "document-segment",
+      "section": "Document offset 11700 CSS px, 100 px overlap",
+      "y": 11700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-14.png"
+    },
+    {
+      "file": "judges-hill_document-15.png",
+      "type": "document-segment",
+      "section": "Document offset 12600 CSS px, 100 px overlap",
+      "y": 12600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-15.png"
+    },
+    {
+      "file": "judges-hill_document-16.png",
+      "type": "document-segment",
+      "section": "Document offset 13500 CSS px, 100 px overlap",
+      "y": 13500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-16.png"
+    },
+    {
+      "file": "judges-hill_document-17.png",
+      "type": "document-segment",
+      "section": "Document offset 14400 CSS px, 100 px overlap",
+      "y": 14400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-17.png"
+    },
+    {
+      "file": "judges-hill_document-18.png",
+      "type": "document-segment",
+      "section": "Document offset 15300 CSS px, 100 px overlap",
+      "y": 15300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-18.png"
+    },
+    {
+      "file": "judges-hill_document-19.png",
+      "type": "document-segment",
+      "section": "Document offset 16200 CSS px, 100 px overlap",
+      "y": 16200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-19.png"
+    },
+    {
+      "file": "judges-hill_document-20.png",
+      "type": "document-segment",
+      "section": "Document offset 17100 CSS px, 100 px overlap",
+      "y": 17100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-20.png"
+    },
+    {
+      "file": "judges-hill_document-21.png",
+      "type": "document-segment",
+      "section": "Document offset 18000 CSS px, 100 px overlap",
+      "y": 18000,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-21.png"
+    },
+    {
+      "file": "judges-hill_document-22.png",
+      "type": "document-segment",
+      "section": "Document offset 18900 CSS px, 100 px overlap",
+      "y": 18900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_document-22.png"
+    },
+    {
+      "file": "judges-hill_gallery-01.png",
+      "type": "gallery",
+      "section": "entry way",
+      "imageIndex": 3,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00013-819x1024.jpg",
+      "width": 662,
+      "height": 828,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_gallery-01.png"
+    },
+    {
+      "file": "judges-hill_gallery-02.png",
+      "type": "gallery",
+      "section": "cabinets",
+      "imageIndex": 7,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00020-819x1024.jpg",
+      "width": 662,
+      "height": 828,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_gallery-02.png"
+    },
+    {
+      "file": "judges-hill_gallery-03.png",
+      "type": "gallery",
+      "section": "sitting room",
+      "imageIndex": 26,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00026-1024x731.jpg",
+      "width": 662,
+      "height": 474,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_gallery-03.png"
+    },
+    {
+      "file": "judges-hill_gallery-04.png",
+      "type": "gallery",
+      "section": "patio seating by pool",
+      "imageIndex": 30,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2022/04/30-1024x731.jpg",
+      "width": 662,
+      "height": 474,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "judges-hill_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/judges-hill_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page capture failed twice; sequential document segments used"
+  ],
+  "state": {
+    "height": 19446,
+    "beforeY": 11058.34375,
+    "title": "Interior Design Judges Hill | Premium Interior Design Firm",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nJUDGES HILL\n\nThis 5,500-square-foot Judges Hill residence was remodeled in close collaboration with a longtime friend who lovingly refers to me as her “housewife.” The project carried the ease and joy of working with family, making the process as meaningful as the finishe",
+    "images": [
+      {
+        "i": 3,
+        "alt": "entry way",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00013-819x1024.jpg",
+        "x": 38,
+        "y": 940.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "dining room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00000-1024x731.jpg",
+        "x": 725,
+        "y": 940.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "view of living room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00001-819x1024.jpg",
+        "x": 725,
+        "y": 1438.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "living room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00002-1024x731.jpg",
+        "x": 38,
+        "y": 1793.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "cabinets",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00020-819x1024.jpg",
+        "x": 38,
+        "y": 2291.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00005-1024x731.jpg",
+        "x": 725,
+        "y": 2291.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00004-1024x731.jpg",
+        "x": 725,
+        "y": 2789.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "sitting room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00018-1024x731.jpg",
+        "x": 38,
+        "y": 3144.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "office",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00019-1024x731.jpg",
+        "x": 725,
+        "y": 3287.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "guest room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00028-1024x731.jpg",
+        "x": 38,
+        "y": 3642.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "vanity",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00012-819x1024.jpg",
+        "x": 725,
+        "y": 3785.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "hall way",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/13-819x1024.jpg",
+        "x": 38,
+        "y": 4140.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "vanity",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/24-819x1024.jpg",
+        "x": 725,
+        "y": 4639.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "vanity",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00011-819x1024.jpg",
+        "x": 38,
+        "y": 4993.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "bedroom",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/23-1024x731.jpg",
+        "x": 725,
+        "y": 5492.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "walk-in closet",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/25-1024x731.jpg",
+        "x": 38,
+        "y": 5846.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "small table",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00006-1024x731.jpg",
+        "x": 725,
+        "y": 5990.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "bedroom",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00008-1024x731.jpg",
+        "x": 38,
+        "y": 6345.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "kitchen and living room connection",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00010-819x1024.jpg",
+        "x": 725,
+        "y": 6488.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 22,
+        "alt": "kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00009-1024x731.jpg",
+        "x": 38,
+        "y": 6843.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 23,
+        "alt": "bedroom",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00007-819x1024.jpg",
+        "x": 38,
+        "y": 7341.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "game room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/26-1024x731.jpg",
+        "x": 725,
+        "y": 7341.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "game room sitting area",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00025-819x1024.jpg",
+        "x": 725,
+        "y": 7839.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 26,
+        "alt": "sitting room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00026-1024x731.jpg",
+        "x": 38,
+        "y": 8194.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 27,
+        "alt": "lighting fixture",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00029-819x1024.jpg",
+        "x": 38,
+        "y": 8692.796875,
+        "w": 661.5,
+        "h": 827.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 28,
+        "alt": "patio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00003-1024x731.jpg",
+        "x": 725,
+        "y": 8692.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 29,
+        "alt": "patio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00016-1024x731.jpg",
+        "x": 725,
+        "y": 9191.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 30,
+        "alt": "patio seating by pool",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/30-1024x731.jpg",
+        "x": 38,
+        "y": 9545.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 31,
+        "alt": "backyard pool",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00014-1024x731.jpg",
+        "x": 725,
+        "y": 9689.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 32,
+        "alt": "patio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00015-1024x731.jpg",
+        "x": 38,
+        "y": 10044.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 33,
+        "alt": "patio",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00017-1024x731.jpg",
+        "x": 725,
+        "y": 10187.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 34,
+        "alt": "patio with view of pool",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00027-1024x731.jpg",
+        "x": 38,
+        "y": 10542.796875,
+        "w": 661.5,
+        "h": 472.21875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 35,
+        "alt": "IMG_0907",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0907-scaled-1.jpeg",
+        "x": 38,
+        "y": 11105.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 36,
+        "alt": "IMG_0872",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0872.jpeg",
+        "x": 496,
+        "y": 11105.140625,
+        "w": 432.328125,
+        "h": 391.453125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 37,
+        "alt": "IMG_0871",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0871-scaled-1.jpeg",
+        "x": 954,
+        "y": 11105.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 38,
+        "alt": "IMG_0876",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0876-scaled-1.jpeg",
+        "x": 496,
+        "y": 11522.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 39,
+        "alt": "IMG_0880",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0880-scaled-1.jpeg",
+        "x": 38,
+        "y": 11707.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 40,
+        "alt": "IMG_0886",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0886-scaled-1.jpeg",
+        "x": 954,
+        "y": 11707.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 41,
+        "alt": "IMG_0901",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0901-scaled-1.jpeg",
+        "x": 496,
+        "y": 11872.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 42,
+        "alt": "IMG_0889",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0889-scaled-1.jpeg",
+        "x": 954,
+        "y": 12057.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 43,
+        "alt": "IMG_0899",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0899-scaled-1.jpeg",
+        "x": 496,
+        "y": 12222.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 44,
+        "alt": "IMG_0893",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0893-scaled-1.jpeg",
+        "x": 38,
+        "y": 12309.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 45,
+        "alt": "IMG_0871",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0871-scaled-1.jpg",
+        "x": 954,
+        "y": 12407.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 46,
+        "alt": "IMG_0872",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0872.jpg",
+        "x": 496,
+        "y": 12573.140625,
+        "w": 432.328125,
+        "h": 391.453125,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 47,
+        "alt": "IS62ljwz0cu68i0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IS62ljwz0cu68i0000000000.jpg",
+        "x": 38,
+        "y": 12660.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 48,
+        "alt": "IMG_0873",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0873-scaled-1.jpg",
+        "x": 38,
+        "y": 12974.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 49,
+        "alt": "IMG_0875",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0875-scaled-1.jpg",
+        "x": 496,
+        "y": 12990.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 50,
+        "alt": "IMG_0878",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0878-scaled-1.jpg",
+        "x": 954,
+        "y": 13010.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 51,
+        "alt": "IMG_0879",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0879-scaled-1.jpg",
+        "x": 954,
+        "y": 13360.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 52,
+        "alt": "IMG_0880",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0880-scaled-1.jpg",
+        "x": 38,
+        "y": 13576.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 53,
+        "alt": "IMG_0909",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0909.jpg",
+        "x": 496,
+        "y": 13593.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 54,
+        "alt": "IMG_0912",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0912.jpg",
+        "x": 496,
+        "y": 13943.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 55,
+        "alt": "IMG_0920",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0920-scaled-1.jpg",
+        "x": 954,
+        "y": 13963.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 56,
+        "alt": "IMG_0913",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0913.jpg",
+        "x": 38,
+        "y": 14179.140625,
+        "w": 432.328125,
+        "h": 576.28125,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 57,
+        "alt": "IMG_0917 2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0917-2-scaled-1.jpg",
+        "x": 496,
+        "y": 14293.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 58,
+        "alt": "IMG_0915",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0915.jpg",
+        "x": 954,
+        "y": 14313.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 59,
+        "alt": "IMG_0928",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0928-scaled-1.jpg",
+        "x": 954,
+        "y": 14663.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 60,
+        "alt": "IMG_0930",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0930-scaled-1.jpg",
+        "x": 38,
+        "y": 14781.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 61,
+        "alt": "IMG_0931 2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0931-2-scaled-1.jpg",
+        "x": 496,
+        "y": 14895.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 62,
+        "alt": "IMG_0939",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0939-scaled-1.jpg",
+        "x": 954,
+        "y": 15265.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 63,
+        "alt": "IMG_0948",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0948-scaled-1.jpg",
+        "x": 38,
+        "y": 15384.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 64,
+        "alt": "ISaxnhy6fzzbvh0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/ISaxnhy6fzzbvh0000000000-1.jpg",
+        "x": 496,
+        "y": 15498.140625,
+        "w": 432.328125,
+        "h": 287.921875,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 65,
+        "alt": "ISijejdgon5f8i0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/ISijejdgon5f8i0000000000-1.jpg",
+        "x": 38,
+        "y": 15734.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 66,
+        "alt": "IMG_0949",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0949-scaled-1.jpg",
+        "x": 496,
+        "y": 15812.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 67,
+        "alt": "IMG_0952",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0952-scaled-1.jpg",
+        "x": 954,
+        "y": 15868.140625,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 68,
+        "alt": "IMG_0959",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0959-scaled-1.jpg",
+        "x": 38,
+        "y": 16048.140625,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 69,
+        "alt": "IS62ljwz0cu68i0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/IS62ljwz0cu68i0000000000-1.jpg",
+        "x": 954,
+        "y": 16218.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 70,
+        "alt": "ISqlhpgqakryfi0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/ISqlhpgqakryfi0000000000-1.jpg",
+        "x": 496,
+        "y": 16414.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 71,
+        "alt": "ISqpgvvmsvdc8i0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/ISqpgvvmsvdc8i0000000000-1.jpg",
+        "x": 954,
+        "y": 16532.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      },
+      {
+        "i": 72,
+        "alt": "ISyrj1zweszvfi0000000000",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2022/06/ISyrj1zweszvfi0000000000-1.jpg",
+        "x": 38,
+        "y": 16651.140625,
+        "w": 432.328125,
+        "h": 288.359375,
+        "loaded": false,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "loadingNote": "Initial image inventory had 50 pending images. Later sequential segment captures show the photographs loaded; inspected across all 22 segments.",
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": [
+      "judges-hill_gallery-03.png"
+    ]
+  }
+}

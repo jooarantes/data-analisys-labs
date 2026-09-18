@@ -1,111 +1,92 @@
 # Data Analysis Labs
 
-Hands-on analytical projects focused on transforming data into
-insights, business understanding and decision support.
+A collection of analytical projects organized by decision context: customer,
+business, and operations. Each project presents the question being explored,
+the analytical approach, and the resulting evidence or deliverables.
 
-## About
-
-This repository contains small data analysis projects covering
-exploratory analysis, statistical analysis, visualization,
-business analytics and analytical applications.
-
-Projects are organized primarily by analytical context rather than
-by the technologies used.
+This repository is a curated lab and portfolio hub. Some projects live here,
+while selected analyses remain in their own repositories and are referenced
+when that structure provides a clearer project boundary.
 
 ## Repository Scope
 
-- Exploratory Data Analysis
-- Business Analytics
-- Marketing Analytics
-- Customer Analytics
-- Product Analytics
-- Financial Analysis
-- Statistical Analysis
-- SQL Analytics
-- Data Visualization
-- Analytical Dashboards
+- **Customer Analysis:** marketing, behavior, journey, retention, and
+  descriptive customer segmentation.
+- **Business Analysis:** commercial performance, competitive intelligence,
+  product questions, financial analysis, and business indicators.
+- **Operations & People Analysis:** service levels, operational efficiency,
+  capacity, healthcare costs, and people-related analysis.
 
----
+## Technologies and Tools
 
-# Projects
+Python · pandas · NumPy · SQL · Jupyter Notebook · statistical inference ·
+data visualization · structured research · analytical reports
 
-## Marketing Analytics
+The tools listed for each project reflect the documented implementation and
+deliverables available for that project.
 
-| Project | Objective | Techniques |
-|---|---|---|
-| [Customer Segmentation](...) | Identify customer profiles for campaigns | EDA, PCA, K-Means |
-| [Campaign Performance](...) | Evaluate marketing performance | SQL, KPIs, Visualization |
+## Projects
 
-## Customer Analytics
+### Business Analysis
 
-| Project | Objective | Techniques |
-|---|---|---|
-| [Customer Churn Analysis](...) | Identify churn patterns | EDA, Statistics |
-| [Customer Lifetime Value](...) | Identify high-value customers | CLV, Cohort Analysis |
+| Project | Problem addressed | Methods and tools | Deliverables |
+| --- | --- | --- | --- |
+| [Casa Verde Competitive Intelligence](./projects/marketing-and-competitive-analisys-casa-verde/) | Build an evidence-led view of sustainable residential interior design in Austin and the nearby Hill Country to support positioning decisions. | Structured competitive research, primary-source review, evidence capture, comparison, and visual reporting. | Research framework, competitor profiles, comparison materials, positioning deck, white paper, infographic, and sharing copy. |
 
-## Sales Analytics
+### Operations & People Analysis
 
-| Project | Objective | Techniques |
-|---|---|---|
-| [E-commerce Sales Analysis](...) | Analyze commercial performance | SQL, pandas |
-| [Sales Dashboard](...) | Monitor sales KPIs | Streamlit |
+| Project | Problem addressed | Methods and tools | Deliverables |
+| --- | --- | --- | --- |
+| [Healthcare Costs Inferential Analysis](https://github.com/jooarantes/healthcare-costs-inferential-analysis) | Identify variables associated with higher healthcare costs and translate statistically supported findings into practical recommendations. | Exploratory data analysis, statistical tests, confidence intervals, bootstrap, GLMs, residual analysis, Python, pandas, scikit-learn, statsmodels, SciPy, Matplotlib, Seaborn, and Jupyter Notebook. | Analytical notebook, statistical and visual reports, model coefficient interpretation, and an action plan. |
 
-## Product Analytics
+> Healthcare Costs Inferential Analysis is maintained in its own GitHub
+> repository and is referenced here as part of the Data Analysis Labs catalog.
+> Its current repository status indicates that modularization and project
+> structuring are still in progress.
 
-...
+## How to Add a New Project
 
-## Financial Analytics
+1. Choose the category that best represents the project's primary decision
+   context.
+2. Create the project directory and its own README when the project is hosted
+   in this repository.
+3. Add one row to the relevant category table with a verifiable problem,
+   methods, and deliverables.
+4. Link to the external repository when the project is intentionally maintained
+   elsewhere.
+5. Keep claims aligned with the current artifacts and clearly identify work in
+   progress.
 
-...
-
-## Experimentation & Statistics
-
-### A/B Testing
-...
-
-### Hypothesis Testing
-...
-
-## SQL Analytics
-
-...
-
-## Dashboards & Data Visualization
-
-...
-
-# Technologies
-
-Python · SQL · pandas · NumPy · Matplotlib ·
-Plotly · Streamlit · Power BI · scikit-learn
-
-# Repository Structure
-
-data-analysis-labs/
-├── README.md
-├── marketing-customer-segmentation/
-├── ecommerce-sales-analysis/
-├── ab-testing-analysis/
-├── customer-retention-analysis/
-└── ...
-
-# Conventions
+## Project Conventions
 
 Each project should communicate:
 
-- Business Question
-- Dataset
-- Analytical Approach
-- Key Findings
-- Visualizations
-- Business Recommendations
+- Business or analytical question
+- Dataset and data limitations
+- Analytical approach
+- Key findings
+- Visualizations or reports
+- Recommendations or decision implications
+- Reproduction instructions, when applicable
 
-# Related Repositories
+## Repository Structure
 
-→ Machine Learning Labs
-→ Generative AI Labs
-→ End-to-End Projects
+```text
+data-analisys-labs/
+├── README.md
+├── LICENSE
+└── projects/
+    └── marketing-and-competitive-analisys-casa-verde/
+```
 
-# Author
+## Related Repositories
 
-João Carlos Arantes
+- [Machine Learning Labs](https://github.com/jooarantes/machine-learning-labs)
+- [Data Engineering Labs](https://github.com/jooarantes/data-engineering-labs)
+- [AI Generation Labs](https://github.com/jooarantes/ai-gen-labs)
+- [End-to-End MLOps Systems](https://github.com/jooarantes/e2e-mlops-systems)
+
+## Author and Contact
+
+- **Author:** [João Carlos Arantes](https://github.com/jooarantes)
+- **LinkedIn:** [João Arantes](https://www.linkedin.com/in/joao-arantes-ds/)

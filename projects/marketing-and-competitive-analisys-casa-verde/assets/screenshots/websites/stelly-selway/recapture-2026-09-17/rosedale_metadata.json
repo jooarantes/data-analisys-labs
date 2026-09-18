@@ -1,0 +1,374 @@
+{
+  "slug": "stelly-selway",
+  "stem": "rosedale",
+  "requestedURL": "https://www.stellyselway.com/project/rosedale",
+  "url": "https://www.stellyselway.com/project/rosedale",
+  "visitedAt": "2026-09-17T15:26:40.075Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_rosedale.png"
+  ],
+  "shots": [
+    {
+      "file": "rosedale_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 13197,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "rosedale_gallery-02.png",
+          "rosedale_gallery-04.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/rosedale_full-page.png"
+    },
+    {
+      "file": "rosedale_gallery-01.png",
+      "type": "gallery",
+      "section": "Image 1",
+      "imageIndex": 0,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F16131d4e72fc42dba216f94286a9ef7e",
+      "width": 713,
+      "height": 950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "rosedale_gallery-02.png",
+          "rosedale_gallery-04.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/rosedale_gallery-01.png"
+    },
+    {
+      "file": "rosedale_gallery-02.png",
+      "type": "gallery",
+      "section": "Image 4",
+      "imageIndex": 5,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F94db10eb6db74f20877e6eb5a9a9021e",
+      "width": 1425,
+      "height": 803,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "rosedale_gallery-02.png",
+          "rosedale_gallery-04.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/rosedale_gallery-02.png"
+    },
+    {
+      "file": "rosedale_gallery-03.png",
+      "type": "gallery",
+      "section": "Image 9",
+      "imageIndex": 10,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Ff81a17e856f1407f95f542a5b30d223e",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "rosedale_gallery-02.png",
+          "rosedale_gallery-04.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/rosedale_gallery-03.png"
+    },
+    {
+      "file": "rosedale_gallery-04.png",
+      "type": "gallery",
+      "section": "Image 14",
+      "imageIndex": 15,
+      "sourceImage": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F03c859c2a7d147ceb47aa81a8a75549b",
+      "width": 713,
+      "height": 951,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "rosedale_gallery-02.png",
+          "rosedale_gallery-04.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/rosedale_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 13197,
+    "beforeY": null,
+    "title": "Stelly Selway | Rosedale",
+    "text": "Back\nRosedale\nRosedale\n1940S CRAFTSMAN BUNGALOW RENOVATION IN AUSTIN, TEXAS\nA craftsman bungalow renovation in Austin's Rosedale neighborhood for artist Dominic Haury and floral designer Kelsey Saikami. Stelly Selway transformed a crammped, dim interior into an open, light-filled creative home and gather space. The renovation of lofted ceilings, sk",
+    "images": [
+      {
+        "i": 0,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F16131d4e72fc42dba216f94286a9ef7e",
+        "x": 0,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F2a5b7c3e5ce247049f23200d945109b1",
+        "x": 712.5,
+        "y": 0,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "Image 1",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4372feb0611f4f1d8f02618a98dcbde5",
+        "x": 0,
+        "y": 1526,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 3,
+        "alt": "Image 2",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F73bf5aad1c4241278aaac9d280cb641b",
+        "x": 0,
+        "y": 2327.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "Image 3",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F92ce0538272f45aaac4a8660ceb9182f",
+        "x": 712.5,
+        "y": 2327.5625,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "Image 4",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F94db10eb6db74f20877e6eb5a9a9021e",
+        "x": 0,
+        "y": 3277.5625,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "Image 5",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F87921a067d62411ca59d9d7e02dca935",
+        "x": 0,
+        "y": 4079.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "Image 6",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F043e3616e3a047cf8af88f7364a1f177",
+        "x": 712.5,
+        "y": 4079.125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "Image 7",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F88194cf41ec1470fbb0131f6241e9538",
+        "x": 0,
+        "y": 5029.125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "Image 8",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F24b42bc27126448e8138a8bdf5241edc",
+        "x": 0,
+        "y": 5830.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "Image 9",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Ff81a17e856f1407f95f542a5b30d223e",
+        "x": 712.5,
+        "y": 5830.6875,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "Image 10",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1bcb8f46a2784efa81e8c307c36ea97c",
+        "x": 0,
+        "y": 6780.6875,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "Image 11",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1df6b6669fd243cc8d7c9bc55bc24633",
+        "x": 0,
+        "y": 7582.25,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "Image 12",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F0096f0f4014744ea9e1eb7a4fc1e08ba",
+        "x": 712.5,
+        "y": 7582.25,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "Image 13",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F99f6cf14e6b34b62b01a7e624d1f98e0",
+        "x": 0,
+        "y": 8532.25,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "Image 14",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F03c859c2a7d147ceb47aa81a8a75549b",
+        "x": 0,
+        "y": 9333.8125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "Image 15",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4a95aa45fae9468ba58648e5904a0748",
+        "x": 712.5,
+        "y": 9333.8125,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "Image 16",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F99f6cf14e6b34b62b01a7e624d1f98e0",
+        "x": 0,
+        "y": 10283.8125,
+        "w": 1425,
+        "h": 801.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "Image 17",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F3839c2ef06f24eafb5d06adc4437cbfe",
+        "x": 0,
+        "y": 11085.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "Image 18",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F44474c4d62504ce1923136e82b7eb3c6",
+        "x": 712.5,
+        "y": 11085.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "Image 19",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F1497a0a2ebd6430390c1ba3b3f7e5d91",
+        "x": 0,
+        "y": 12035.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "Image 20",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2Fea9696afb1b14f88a362aee048e43387",
+        "x": 712.5,
+        "y": 12035.375,
+        "w": 712.5,
+        "h": 950,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "rosedale_gallery-02.png",
+      "rosedale_gallery-04.png"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Notebook-generated state
+**/.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+ENV/
+**/.venv/
+**/venv/
+**/env/
+.env
+.env.*
+!.env.example
+
+# Local secrets and private credentials
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+**/secrets/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+**/.tmp/
+**/.playwright-mcp/
+
+# IDE and editor metadata
+.idea/
+.vscode/
+*.code-workspace
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/

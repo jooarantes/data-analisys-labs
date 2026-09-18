@@ -1,0 +1,182 @@
+{
+  "slug": "urbane-design",
+  "stem": "remodeling-services",
+  "requestedURL": "https://urbanedesignstudios.com/remodeling-services/",
+  "url": "https://urbanedesignstudios.com/remodeling-services/",
+  "visitedAt": "2026-09-17T15:41:25.498Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_remodeling-services.png"
+  ],
+  "shots": [
+    {
+      "file": "remodeling-services_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 3927,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/remodeling-services_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 3927,
+    "beforeY": null,
+    "title": "Remodeling Services – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nRemodeling\nFurniture\nNew Construction\nConcept Development\n\nA strong concept is critical to the success of a project. We translate your ideas and inspirations into a detailed design plan that represents your unique budget, personality, habits and priorities. We help you di",
+    "images": [
+      {
+        "i": 2,
+        "alt": "JessicaLove_Pemberton-6",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/JessicaLove_Pemberton-6-1.jpg",
+        "x": 183.5,
+        "y": 376,
+        "w": 324.625,
+        "h": 487.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "JessicaLove_Pemberton-2",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/12/JessicaLove_Pemberton-2-682x1024.jpg",
+        "x": 550.125,
+        "y": 376,
+        "w": 324.625,
+        "h": 487.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "(new construction) 465-Barton-Creek-Drive-2022-5",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/new-construction-465-Barton-Creek-Drive-2022-5-600x900.jpg",
+        "x": 916.75,
+        "y": 376,
+        "w": 324.625,
+        "h": 486.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "ConceptDevelopmenResizedt",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/06/ConceptDevelopmenResizedt.jpg",
+        "x": 182.5,
+        "y": 944.078125,
+        "w": 326.734375,
+        "h": 261.375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "breakfast",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/04/breakfast-768x512.jpg",
+        "x": 182.5,
+        "y": 1326.453125,
+        "w": 326.734375,
+        "h": 217.984375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "465-Barton-Creek-Drive-2022-9",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/465-Barton-Creek-Drive-2022-9-600x400.jpg",
+        "x": 182.5,
+        "y": 1665.4375,
+        "w": 326.734375,
+        "h": 217.765625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "2",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2019/02/2.jpg",
+        "x": 182.5,
+        "y": 2004.203125,
+        "w": 326.734375,
+        "h": 218.078125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "(Photo-Realistic-3D-Rendering)01-PERAGINE-1",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/05/Photo-Realistic-3D-Rendering01-PERAGINE-1.jpg",
+        "x": 182.5,
+        "y": 2385.0625,
+        "w": 326.734375,
+        "h": 183.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

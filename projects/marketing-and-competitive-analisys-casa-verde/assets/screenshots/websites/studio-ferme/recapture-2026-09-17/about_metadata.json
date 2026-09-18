@@ -1,0 +1,78 @@
+{
+  "slug": "studio-ferme",
+  "stem": "about",
+  "requestedURL": "https://www.studioferme.com/about",
+  "url": "https://www.studioferme.com/about",
+  "visitedAt": "2026-09-17T15:29:32.789Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_about.png"
+  ],
+  "shots": [
+    {
+      "file": "about_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 4916,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/about_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 4916,
+    "beforeY": null,
+    "title": "About | Healthy Homes | Sustainable Design | — STUDIO FERME",
+    "text": "STUDIO FERME\n\t\nPortfolio\n About Blog Contact \nS T U D I O  F E R M E  is an award-winning, full-service interior design studio based in Austin, Texas. We offer residential design services, including new construction, renovations and additions, custom millwork and furniture design, interior decoration and styling. Our ethos is ‘mindful design’ — a h",
+    "images": [
+      {
+        "i": 0,
+        "alt": "",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1670088512441-3YH3FU2BPXDAISUUK97T/Studio+Ferme+Theresa+Passive+House+Designer+in+Kitchen.jpg?format=1000w",
+        "x": 352.5,
+        "y": 1802.828125,
+        "w": 468.65625,
+        "h": 585.8125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1670088306686-WNF5NSZ2OU7L7F7HQUL0/Studio+Ferme+Theresa+Passive+House+Playroom.jpg?format=1000w",
+        "x": 352.5,
+        "y": 3204.078125,
+        "w": 468.65625,
+        "h": 585.8125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/571e2902-4ad8-4463-a3a6-0d9911bf0aca/2CB56966-DA6D-44AE-9050-4883B9B54FC5.jpg?format=1000w",
+        "x": 352.5,
+        "y": 4238.78125,
+        "w": 468.65625,
+        "h": 468.65625,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": []
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

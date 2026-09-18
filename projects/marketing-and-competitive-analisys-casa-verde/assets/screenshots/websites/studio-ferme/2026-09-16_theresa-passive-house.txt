@@ -1,0 +1,174 @@
+- banner:
+  - heading "STUDIO FERME" [level=1]:
+    - link "STUDIO FERME":
+      - /url: /
+  - generic: 
+  - text: +
+- navigation:
+  - list:
+    - text: +
+    - link "Portfolio":
+      - /url: /
+    - list:
+      - link "Theresa Passive House":
+        - /url: /theresa-passive-house
+      - link "7th Street Cottage":
+        - /url: /7th-street-cottage
+      - link "Maude Street Millwork":
+        - /url: /maude-st-millwork
+      - link "Cedar Sukkah":
+        - /url: /cedarsukkah
+      - link "Europe":
+        - /url: /beast
+      - link "The Monochrome Series":
+        - /url: /monochrome-series-food
+    - link "About":
+      - /url: /about
+    - link "Blog":
+      - /url: /blog
+    - link "Contact":
+      - /url: /contact
+  - link:
+    - /url: https://www.instagram.com/studioferme/
+- main:
+  - img "Theresa Passive House | Studio Ferme | Interior Design Theresa Passive House is a high-performance renovation and addition that blends the historic preservation of a 1914 Craftsman bungalow and a modern volume highlighting cutting-edge sustainabl"
+  - paragraph:
+    - strong: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House is a high-performance renovation and addition that blends the historic preservation of a 1914 Craftsman bungalow and a modern volume highlighting cutting-edge sustainable design. The 2100-sf residence committed to best practices in designing for climate resiliency and health. Completed in 2020, this Passive House certified home is a pilot project for the PHIUS 2018+ Source Zero standard and one of the first Passive House projects located in a hot, humid climate. It received the highest rating by Austin Energy Green Building to date, and consumes 75% less energy than a typical new home. Rigorous targets in energy efficiency, indoor air quality, thermal comfort, embodied carbon, and responsible materials sourcing enhance the project’s programmatic and aesthetic goals. The result is a resilient, healthy and relaxing home for a busy family – that is both energized by its urban setting and connected to nature and serenity. The project offers a path to engaging homebuilding with more mindfulness and persistence in climate action at this scale.
+  - paragraph:
+    - text: "Interior Design:"
+    - link "Studio Ferme":
+      - /url: https://www.studioferme.com
+  - paragraph:
+    - text: "Architecture:"
+    - link "Forge Craft Architecture + Design":
+      - /url: http://forgecraftarchitecture.com/project/theresa-passive/
+  - paragraph:
+    - text: and
+    - link "Hugh Jefferson Randolph Architects":
+      - /url: https://austinarchitect.com
+  - paragraph:
+    - text: "Builder:"
+    - link "Clean Tag":
+      - /url: https://cleantag.net/project/theresa-passive-house/
+    - text: and LVL on the LVL
+    - text: Photography by
+    - link "Casey Dunn":
+      - /url: https://caseydunn.net
+    - text: and
+    - link "Leonid Furmansky":
+      - /url: http://leonidfurmansky.com
+  - paragraph
+  - paragraph
+  - paragraph: "Awards and Media:"
+  - paragraph:
+    - link "American Institute of Architects / AIA National Housing Award 2024":
+      - /url: https://www.aia.org/design-excellence/award-winners/theresa-passive-house
+    - text: presented by the
+    - link "AIA Housing and Community Development Knowledge Community":
+      - /url: https://network.aia.org/communities/community-home?CommunityKey=3934f0d4-c0c1-4600-b8a2-844131ba8365
+    - text: ", emphasize the importance of good housing as a necessity of life, a sanctuary for the human spirit, and a valuable national resource."
+  - paragraph: ‘A Southern Bungalow That’s Hyper-Energy Efficient’ by Lauren Jones, in print, Metropolis Magazine, Design the Future, Spring 2024
+  - paragraph:
+    - link "Theresa Passive in House in Dwell's 'The 20 Most-Liked Homes on Our Instagram in 2023'":
+      - /url: https://www.dwell.com/article/most-liked-homes-on-instagram-dwell-magazine-b3420495/7054217727544799232
+  - paragraph:
+    - 'link "Dwell + Budget Breakdown: An Austin Couple Give a Century-Old Craftsman a Passive House Upgrade for $836K"':
+      - /url: https://www.dwell.com/article/budget-breakdown-theresa-passive-house-forge-craft-architecture-and-design-austin-7fd31c6e
+  - paragraph:
+    - link "2022 AIA Austin Homes Tour":
+      - /url: https://aiaaustinhomestour.com
+    - text: //
+    - link "Webinar":
+      - /url: https://www.youtube.com/watch?v=dl_dbJRtpl8
+    - text: with Trey Farmer, Adrienne Farmer & Hugh Jefferson Randolph
+  - paragraph:
+    - link "2022 DOE Zero Energy Ready Home Housing Innovation Award":
+      - /url: https://www1.eere.energy.gov/buildings/residential/pdfs/doe_ch_case_studies/2022hiawinner-forge-poster.pdf
+  - paragraph:
+    - link "2022 AIA Austin Design Award":
+      - /url: https://vimeo.com/showcase/9547008/video/711742373
+  - paragraph:
+    - link "2022 AIA Austin Design Award of Merit":
+      - /url: https://vimeo.com/showcase/9547008/video/711742373
+  - paragraph:
+    - link "2022 Preservation Austin Award for Sustainability":
+      - /url: https://www.preservationaustin.org/news/2022pmawinners
+      - text: 2022 Preservation Austin Award for Sustainability
+  - paragraph:
+    - link "2022 PHIUS Passive Projects Design Competition Winner / Archinect":
+      - /url: https://archinect.com/news/bustler/8990/phius-awards-the-best-passive-projects-of-2022-in-north-america
+  - paragraph:
+    - text: 2022 Austin Home & Design Awards /
+    - link "Readers Choice for Best Overall Design":
+      - /url: https://www.austinhomemag.com/austin-home-design-award-winners-readers-choice-for-best-overall-home/
+    - text: ","
+    - link "Best Historic Preservation Project":
+      - /url: https://www.austinhomemag.com/austin-home-design-award-winners-home-2/
+    - text: ","
+    - link "Best Specialty Room":
+      - /url: https://www.austinhomemag.com/austin-home-design-award-winners-interiors-2/
+    - text: ", finalist for Best Interior Design, Best Kitchen and Primary Suite"
+    - link "Texas Architect / There Will Come Soft Rains":
+      - /url: https://magazine.texasarchitects.org/2022/11/07/there-will-come-soft-rains/
+    - 'link "Green Builder / Age of Resilience: Cold Case"':
+      - /url: https://www.greenbuildermedia.com/blog/age-of-resilience-cold-case
+    - link "Metropolis Magazine / In Texas, a Passive House Blends Style and Sustainability":
+      - /url: https://metropolismag.com/projects/theresa-passive-house-texas-forge-craft-architecture/
+  - paragraph:
+    - link "Passive House Accelerator / A Remodel Designed for the Austin Market":
+      - /url: https://passivehouseaccelerator.com/articles/a-remodel-designed-for-the-austin-market
+  - paragraph:
+    - link "Build With Rise / How A Texas Passive House Survived the 2021 Deep Freeze":
+      - /url: https://www.buildwithrise.com/stories/texas-passive-house-weathered-the-2021-storm
+  - paragraph:
+    - link "Austin Home / AIA Homes Tour Feature":
+      - /url: https://www.austinhomemag.com/check-out-the-nine-impressive-homes-on-the-2022-aia-austin-homes-tour/
+    - link "Fine Homebuilding / Passive-House Remodel in A Historic Neighborhood":
+      - /url: https://www.finehomebuilding.com/2022/10/12/passive-house-remodel-in-a-historic-neighborhood
+    - link "Fine Homebuilding / Timeless and Modern Bucket Sinks":
+      - /url: https://www.finehomebuilding.com/2023/01/30/timeless-and-modern-bucket-sinks
+    - text: Build Show /
+    - link "Passive House Remodel":
+      - /url: https://www.youtube.com/watch?t=9s&v=HWsbNuss9_A
+    - text: ","
+    - link "Passive House HVAC":
+      - /url: https://www.youtube.com/watch?t=2s&v=8f6Ih09uaDw
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - img "Theresa Passive House | Studio Ferme | Interior Design"
+  - paragraph: Theresa Passive House | Studio Ferme | Interior Design
+  - text: 

@@ -1,0 +1,108 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fskellybuild%2Freel%2FDanRRXyRnVU%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - dialog:
+    - button "Fechar":
+      - img "Fechar"
+    - link "Foto do perfil de skellybuild":
+      - img "Foto do perfil de skellybuild"
+    - generic: Não perca nenhum post de skellybuild
+    - generic: Cadastre-se no Instagram para ficar por dentro das novidades.
+    - text: Ao continuar, você concorda com os
+    - link "Termos de Uso":
+      - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+    - text: e a
+    - link "Política de Privacidade":
+      - /url: https://privacycenter.instagram.com/policy/
+    - text: do Instagram.
+    - link "Cadastre-se":
+      - /url: /accounts/emailsignup/
+    - link "Entrar":
+      - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+  - article:
+    - link "Foto do perfil de urbanspacedesignstudio Foto do perfil de skellybuild":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - link "Foto do perfil de urbanspacedesignstudio":
+        - img "Foto do perfil de urbanspacedesignstudio"
+      - link "Foto do perfil de skellybuild":
+        - img "Foto do perfil de skellybuild"
+    - link "skellybuild":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+    - generic: e
+    - link "urbanspacedesignstudio":
+      - /url: /urbanspacedesignstudio/
+      - generic: urbanspacedesignstudio
+    - generic: •
+    - link "Seguir":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Seguir
+    - link "Austin":
+      - /url: /explore/locations/106224666074625/austin/
+    - button "Mais opções":
+      - img "Mais opções"
+    - button "Curtir":
+      - img "Curtir"
+    - button "Comentar":
+      - img "Comentar"
+    - link "Compartilhar":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - img "Compartilhar"
+    - link "Salvar":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - img "Salvar"
+    - link "skellybuild":
+      - /url: /skellybuild/
+      - generic: skellybuild
+    - heading "With the help of @urbanspacedesignstudio , our clients dreamt of transforming a blank white room into the ultimate" [level=1]:
+      - text: With the help of
+      - link "@urbanspacedesignstudio":
+        - /url: /urbanspacedesignstudio/
+      - text: ", our clients dreamt of transforming a blank white room into the ultimate"
+    - text: ...
+    - button "mais":
+      - generic: mais
+    - link "Ver todos os 6 comentários":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - generic: Ver todos os 6 comentários
+    - link "10 de julho":
+      - /url: intent://instagram.com/?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3DNaN%2CNaN%2CNaN%2CNaN;end
+      - time: 10 de julho
+  - separator
+  - text: Mais posts de
+  - link "skellybuild":
+    - /url: /skellybuild/
+  - link "Carrossel":
+    - /url: /skellybuild/p/DIwF9ZXzfO8/
+    - img "Carrossel"
+  - link:
+    - /url: /skellybuild/p/DUlIUK6DTEx/
+  - link "Carrossel":
+    - /url: /skellybuild/p/DdWbiydkSch/
+    - img "Carrossel"
+  - link "Clipe":
+    - /url: /skellybuild/reel/DdRVkFHxF6a/
+    - img "Clipe"
+  - link "Carrossel":
+    - /url: /madelineharperphoto/p/DdHd8dlHfCD/
+    - img "Carrossel"
+  - link "Clipe":
+    - /url: /skellybuild/reel/DdEUZ2hRe-u/
+    - img "Clipe"
+  - link "Clipe":
+    - /url: /skellybuild/reel/DdCLeFcxUHO/
+    - img "Clipe"
+  - link "Clipe":
+    - /url: /skellybuild/reel/Dc0-eDtx3vC/
+    - img "Clipe"
+  - link "Carrossel":
+    - /url: /skellybuild/p/Dcyj56bEZPT/
+    - img "Carrossel"
+  - link "Ver mais posts":
+    - /url: /skellybuild/
+    - generic: Ver mais posts
+  - separator

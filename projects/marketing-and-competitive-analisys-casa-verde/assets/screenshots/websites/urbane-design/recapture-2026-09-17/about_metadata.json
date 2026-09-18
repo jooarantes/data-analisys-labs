@@ -1,0 +1,98 @@
+{
+  "slug": "urbane-design",
+  "stem": "about",
+  "requestedURL": "https://urbanedesignstudios.com/about/",
+  "url": "https://urbanedesignstudios.com/about/",
+  "visitedAt": "2026-09-17T15:40:01.312Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_about.png"
+  ],
+  "shots": [
+    {
+      "file": "about_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 2374,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/about_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 2374,
+    "beforeY": null,
+    "title": "Our Team – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nJessica Love, Allied ASID\nINTERIOR DESIGNER / PRINCIPAL\n\nJessica Love has the unique ability to harness what makes her clients truly unique and bring those traits to life through interior design. As a graduate of Sam Houston State University with a Bachelor of Science in ",
+    "images": [
+      {
+        "i": 2,
+        "alt": "JessicaLove_Headshot_web",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2026/08/JessicaLove_Headshot_web.jpg",
+        "x": 182.5,
+        "y": 329,
+        "w": 510,
+        "h": 679.828125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

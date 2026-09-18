@@ -1,0 +1,89 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - article:
+    - region "Homepage images":
+      - paragraph:
+        - button "Previous slide"
+        - button "Next slide"
+    - region "Explore Our Portfolio":
+      - heading "Explore Our Portfolio" [level=1]
+      - group "Filter projects":
+        - link "All Projects":
+          - /url: https://urbanspacedesign.com/portfolio/
+        - link "Residential":
+          - /url: https://urbanspacedesign.com/portfolio/residential/
+        - link "Commercial":
+          - /url: https://urbanspacedesign.com/portfolio/commercial/
+      - link "The Hills":
+        - /url: https://urbanspacedesign.com/project/the-hills/
+        - generic: The Hills
+      - link "Modern Bar":
+        - /url: https://urbanspacedesign.com/project/modern-bar/
+        - generic: Modern Bar
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/project/clarksville-home/
+        - generic: Clarksville Home
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/project/modern-penthouse/
+        - generic: Modern Penthouse
+      - link "The Modern Austin Residences":
+        - /url: https://urbanspacedesign.com/project/themodern/
+        - generic: The Modern Austin Residences
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/project/avonretreat/
+        - generic: Avon Retreat
+      - link "Seaholm Penthouse":
+        - /url: https://urbanspacedesign.com/project/seaholmpenthouse/
+        - generic: Seaholm Penthouse
+      - link "The East Residence":
+        - /url: https://urbanspacedesign.com/project/eastresidence/
+        - generic: The East Residence
+      - link "West Ave Penthouse":
+        - /url: https://urbanspacedesign.com/project/westavepenthouse/
+        - generic: West Ave Penthouse
+      - link "Rock Creek Drive":
+        - /url: https://urbanspacedesign.com/project/rockcreek/
+        - generic: Rock Creek Drive
+      - link "Second Street Condo":
+        - /url: https://urbanspacedesign.com/project/second-st/
+        - generic: Second Street Condo
+      - link "Bacalar":
+        - /url: https://urbanspacedesign.com/project/balacar/
+        - generic: Bacalar
+      - link "Contemporary living room with floor-to-ceiling windows and a city view Independent Penthouse":
+        - /url: https://urbanspacedesign.com/project/independent-penthouse/
+        - img "Contemporary living room with floor-to-ceiling windows and a city view"
+        - generic: Independent Penthouse
+      - link "Mountain Retreat":
+        - /url: https://urbanspacedesign.com/project/mountain-retreat/
+        - generic: Mountain Retreat
+      - link "W Residences":
+        - /url: https://urbanspacedesign.com/project/w-residences/
+        - generic: W Residences
+      - link "Ski Home":
+        - /url: https://urbanspacedesign.com/project/skihome/
+        - generic: Ski Home
+      - link "Cielo HQ":
+        - /url: https://urbanspacedesign.com/project/cielo/
+        - generic: Cielo HQ
+      - link "Independent Terrace":
+        - /url: https://urbanspacedesign.com/project/independent-terrace/
+        - generic: Independent Terrace
+      - link "The Proper Residence":
+        - /url: https://urbanspacedesign.com/project/proper-residence/
+        - generic: The Proper Residence
+      - link "Codependent":
+        - /url: https://urbanspacedesign.com/project/codependent/
+        - generic: Codependent
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

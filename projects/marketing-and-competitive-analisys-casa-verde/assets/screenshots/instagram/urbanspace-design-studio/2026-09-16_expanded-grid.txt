@@ -1,0 +1,254 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Furbanspacedesignstudio%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - link "Foto do perfil de urbanspacedesignstudio":
+    - /url: /urbanspacedesignstudio/
+    - img "Foto do perfil de urbanspacedesignstudio"
+  - heading "urbanspacedesignstudio" [level=2]:
+    - generic: urbanspacedesignstudio
+  - list:
+    - link "4.519 seguidores":
+      - /url: "#"
+      - generic "4.519"
+      - text: seguidores
+    - link "338 seguindo":
+      - /url: "#"
+      - generic: "338"
+      - text: seguindo
+  - generic: Urbanspace Design Studio
+  - button "Hardwired with a passion for design"
+  - button "Ícone de link urbanspacedesign.com e mais 2":
+    - img "Ícone de link"
+    - generic: urbanspacedesign.com e mais 2
+  - menu:
+    - list:
+      - link "Ver destaque de PROJECTS":
+        - /url: /stories/highlights/17914337885649781/
+        - button "Foto do story no destaque de urbanspacedesignstudio PROJECTS":
+          - button "Foto do story no destaque de urbanspacedesignstudio":
+            - img "Foto do story no destaque de urbanspacedesignstudio"
+          - generic: PROJECTS
+      - link "Ver destaque de VENDORS":
+        - /url: /stories/highlights/18213353032276592/
+        - button "Foto do story no destaque de urbanspacedesignstudio VENDORS":
+          - button "Foto do story no destaque de urbanspacedesignstudio":
+            - img "Foto do story no destaque de urbanspacedesignstudio"
+          - generic: VENDORS
+      - link "Ver destaque de DESIGN STUDIO":
+        - /url: /stories/highlights/17944821179435324/
+        - button "Foto do story no destaque de urbanspacedesignstudio DESIGN STUDIO":
+          - button "Foto do story no destaque de urbanspacedesignstudio":
+            - img "Foto do story no destaque de urbanspacedesignstudio"
+          - generic: DESIGN STUDIO
+  - tablist:
+    - link "Posts":
+      - /url: /urbanspacedesignstudio/
+      - img "Posts"
+    - link "Reels":
+      - /url: "#"
+      - img "Reels"
+    - link "Marcados":
+      - /url: "#"
+      - img "Marcados"
+  - tabpanel
+  - link "Photo by Urbanspace Design Studio on September 01, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/Dcv8DCOEazS/
+    - img "Photo by Urbanspace Design Studio on September 01, 2026."
+    - img "Carrossel"
+  - link "Photo by Modern Bar on September 12, 2026. Carrossel":
+    - /url: /modernbaratx/p/DdMePHkkWcz/
+    - img "Photo by Modern Bar on September 12, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de texto que diz \"WE'RE HIRING A designer er passionate about creating thoughtful, dynamic spaces with 5+ years experience. Leam more in the caption.\".":
+    - /url: /urbanspacedesignstudio/p/Dc4O7MJzdyF/
+    - img "Photo by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de texto que diz \"WE'RE HIRING A designer er passionate about creating thoughtful, dynamic spaces with 5+ years experience. Leam more in the caption.\"."
+  - link "Photo by Urbanspace Design Studio on September 15, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdUNUhhEeEO/
+    - img "Photo by Urbanspace Design Studio on September 15, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 10, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdHGe83kQj0/
+    - img "Photo by Urbanspace Design Studio on September 10, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 08, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdB_p4kkdPp/
+    - img "Photo by Urbanspace Design Studio on September 08, 2026."
+    - img "Carrossel"
+  - link "Video by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de iluminação, sofá, poltrona, sala de estar, ambiente fechado e texto. Clipe":
+    - /url: /urbanspacedesignstudio/reel/Dc3zKbPJaJr/
+    - img "Video by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de iluminação, sofá, poltrona, sala de estar, ambiente fechado e texto."
+    - img "Clipe"
+  - link "Photo by Merrill Alley on August 18, 2026. Carrossel":
+    - /url: /merrill_alley/p/DcNYQ1qjcph/
+    - img "Photo by Merrill Alley on August 18, 2026."
+    - img "Carrossel"
+  - link "Photo by Merrill Alley on August 18, 2026. Pode ser uma imagem de iluminação, abajur, sofá, poltrona, ambiente fechado, sala de estar e texto.":
+    - /url: /merrill_alley/p/DcNWCX4tD_q/
+    - img "Photo by Merrill Alley on August 18, 2026. Pode ser uma imagem de iluminação, abajur, sofá, poltrona, ambiente fechado, sala de estar e texto."
+  - link "Photo by Urbanspace Design Studio on August 12, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/Db9G1ucoHhM/
+    - img "Photo by Urbanspace Design Studio on August 12, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on August 03, 2026. Pode ser uma imagem em preto e branco de uma ou mais pessoas, terno, ambiente fechado, escritório e texto.":
+    - /url: /urbanspacedesignstudio/p/Dbl5cY2MMrL/
+    - img "Photo by Urbanspace Design Studio on August 03, 2026. Pode ser uma imagem em preto e branco de uma ou mais pessoas, terno, ambiente fechado, escritório e texto."
+  - link "Photo by Texas Media Specialists on July 22, 2026. Carrossel":
+    - /url: /cadreconcepts/p/DbG5uq_INr8/
+    - img "Photo by Texas Media Specialists on July 22, 2026."
+    - img "Carrossel"
+  - link "Video by Modern Bar on July 13, 2026. Pode ser uma imagem de uma ou mais pessoas e texto que diz \"M BAR MERRILL ALLEY Urbanspace's Principal of Development & Interiors A PAr SAI min\". Clipe":
+    - /url: /modernbaratx/reel/DavZyZLxhRZ/
+    - img "Video by Modern Bar on July 13, 2026. Pode ser uma imagem de uma ou mais pessoas e texto que diz \"M BAR MERRILL ALLEY Urbanspace's Principal of Development & Interiors A PAr SAI min\"."
+    - img "Clipe"
+  - link "Video by Skelly Build on July 10, 2026. Pode ser uma imagem de iluminação, bancada, ambiente fechado, cozinha e texto. Clipe":
+    - /url: /skellybuild/reel/DanRRXyRnVU/
+    - img "Video by Skelly Build on July 10, 2026. Pode ser uma imagem de iluminação, bancada, ambiente fechado, cozinha e texto."
+    - img "Clipe"
+  - link "Photo by Urbanspace Design Studio on June 26, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DaDR1eSkcJJ/
+    - img "Photo by Urbanspace Design Studio on June 26, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Real Estate on June 12, 2026. Carrossel":
+    - /url: /urbanspacerealtors/p/DZf0IcNkepH/
+    - img "Photo by Urbanspace Real Estate on June 12, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on May 22, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DYpmt9pEdhN/
+    - img "Photo by Urbanspace Design Studio on May 22, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on May 11, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DYM7LCSEa3C/
+    - img "Photo by Urbanspace Design Studio on May 11, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on April 30, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DXw3U3mEVpS/
+    - img "Photo by Urbanspace Design Studio on April 30, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on April 21, 2026.":
+    - /url: /urbanspacedesignstudio/p/DXaBofyEWet/
+    - img "Photo by Urbanspace Design Studio on April 21, 2026."
+  - link "Photo by Urbanspace Design Studio on April 14, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DXHhIfHEX36/
+    - img "Photo by Urbanspace Design Studio on April 14, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on April 07, 2026.":
+    - /url: /urbanspacedesignstudio/p/DW1sRaNETu4/
+    - img "Photo by Urbanspace Design Studio on April 07, 2026."
+  - link "Photo by Urbanspace Design Studio on April 02, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DWoquw1EYPi/
+    - img "Photo by Urbanspace Design Studio on April 02, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on March 25, 2026.":
+    - /url: /urbanspacedesignstudio/p/DWT3vsGjoQ5/
+    - img "Photo by Urbanspace Design Studio on March 25, 2026."
+- contentinfo:
+  - link "Meta":
+    - /url: https://about.meta.com/
+    - generic: Meta
+  - link "Sobre":
+    - /url: https://about.instagram.com/
+    - generic: Sobre
+  - link "Blog":
+    - /url: https://about.instagram.com/blog/
+    - generic: Blog
+  - link "Carreiras":
+    - /url: https://about.instagram.com/about-us/careers
+    - generic: Carreiras
+  - link "Ajuda":
+    - /url: https://help.instagram.com/
+    - generic: Ajuda
+  - link "API":
+    - /url: https://developers.facebook.com/docs/instagram
+    - generic: API
+  - link "Privacidade":
+    - /url: /legal/privacy/
+    - generic: Privacidade
+  - link "Termos":
+    - /url: /legal/terms/
+    - generic: Termos
+  - link "Localizações":
+    - /url: /explore/locations/
+    - generic: Localizações
+  - link "Popular":
+    - /url: /popular/
+    - generic: Popular
+  - link "Instagram Lite":
+    - /url: /web/lite/
+    - generic: Instagram Lite
+  - link "Meta AI":
+    - /url: https://www.meta.ai/?utm_source=foa_web_footer
+    - generic: Meta AI
+  - link "Muse":
+    - /url: https://muse.ai/
+    - generic: Muse
+  - link "Threads":
+    - /url: https://www.threads.com/
+    - generic: Threads
+  - link "Upload de contatos e não usuários":
+    - /url: https://www.facebook.com/help/instagram/261704639352628
+    - generic: Upload de contatos e não usuários
+  - link "Meta Verified":
+    - /url: /accounts/meta_verified/?entrypoint=web_footer
+    - generic: Meta Verified
+  - generic: Português (Brasil)
+  - img "Ícone de seta para baixo"
+  - combobox "Trocar idioma de exibição":
+    - option "Afrikaans"
+    - option "العربية"
+    - option "Čeština"
+    - option "Dansk"
+    - option "Deutsch"
+    - option "Ελληνικά"
+    - option "English"
+    - option "English (UK)"
+    - option "Español (España)"
+    - option "Español"
+    - option "فارسی"
+    - option "Suomi"
+    - option "Français"
+    - option "עברית"
+    - option "Bahasa Indonesia"
+    - option "Italiano"
+    - option "日本語"
+    - option "한국어"
+    - option "Bahasa Melayu"
+    - option "Norsk"
+    - option "Nederlands"
+    - option "Polski"
+    - option "Português (Brasil)" [selected]
+    - option "Português (Portugal)"
+    - option "Русский"
+    - option "Svenska"
+    - option "ภาษาไทย"
+    - option "Filipino"
+    - option "Türkçe"
+    - option "中文(简体)"
+    - option "中文(台灣)"
+    - option "বাংলা"
+    - option "ગુજરાતી"
+    - option "हिन्दी"
+    - option "Hrvatski"
+    - option "Magyar"
+    - option "ಕನ್ನಡ"
+    - option "മലയാളം"
+    - option "मराठी"
+    - option "नेपाली"
+    - option "ਪੰਜਾਬੀ"
+    - option "සිංහල"
+    - option "Slovenčina"
+    - option "தமிழ்"
+    - option "తెలుగు"
+    - option "اردو"
+    - option "Tiếng Việt"
+    - option "中文(香港)"
+    - option "Български"
+    - option "Français (Canada)"
+    - option "Română"
+    - option "Српски"
+    - option "Українська"
+  - generic: © 2026 Instagram from Meta

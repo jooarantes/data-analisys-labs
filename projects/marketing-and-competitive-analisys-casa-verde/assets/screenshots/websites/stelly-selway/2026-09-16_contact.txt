@@ -1,0 +1,49 @@
+- banner:
+  - link:
+    - /url: /
+  - button:
+- iframe
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Please reach out to us at" [level=1]
+- paragraph
+- paragraph
+- heading "INFO@STELLYSELWAY.COM" [level=1]:
+  - link "INFO@STELLYSELWAY.COM":
+    - /url: mailto:info@stellyselway.com
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We very much look forward to hearing from you." [level=1]
+- paragraph
+- iframe
+- contentinfo:
+  - link "Austin":
+    - /url: /Austin
+    - paragraph: Austin
+  - generic: 12:24:05 pm
+  - paragraph: 805 1/2 W 16th Street
+  - paragraph: The Perch
+  - paragraph: Austin, TX 78701
+  - link:
+    - /url: https://www.instagram.com/stellyselway/
+  - link:
+    - /url: https://www.facebook.com/stellyselway/
+  - link:
+    - /url: https://www.linkedin.com/company/stelly-selway
+  - link:
+    - /url: https://open.spotify.com/user/pm8hdcrx8dasi7f3jy1qtbdnf?si=IzkO2TJeSdKVfUnjuS13bQ
+  - link:
+    - /url: https://mailchi.mp/stellyselway/subscribe-to-the-newsletter
+  - link "info@stellyselway.com":
+    - /url: mailto:info@stellyselway.com
+  - link "London":
+    - /url: /London
+    - paragraph: London
+  - generic: 6:24:05 pm
+  - paragraph: 4 Bramber Court
+  - paragraph: 2 Bramber Road
+  - paragraph: London W14 9PW
+- alert

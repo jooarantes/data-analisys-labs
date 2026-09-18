@@ -1,0 +1,81 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "about",
+  "requestedURL": "https://jfisherinteriors.com/about/",
+  "url": "https://jfisherinteriors.com/about/",
+  "visitedAt": "2026-09-17T15:11:08.687Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_about.png"
+  ],
+  "shots": [
+    {
+      "file": "about_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 4018,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/about_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 4018,
+    "beforeY": null,
+    "title": "About J. Fisher Interiors | Austin Interior Designer",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nABOUT – J.FISHER INTERIORS\nLuxury Interior Design \nDesign With Soul\n\nAt J.Fisher Interiors, luxury isn’t about stiff perfection or rooms you’re afraid to enter. It’s about creating spaces with soul — homes and businesses that reflect the people who live and work in them.\n",
+    "images": [],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

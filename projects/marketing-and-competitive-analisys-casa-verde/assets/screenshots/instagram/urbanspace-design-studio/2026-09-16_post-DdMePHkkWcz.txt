@@ -1,0 +1,94 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Fmodernbaratx%2Fp%2FDdMePHkkWcz%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - article:
+    - link "Foto do perfil de urbanspacedesignstudio Foto do perfil de modernbaratx":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - link "Foto do perfil de urbanspacedesignstudio":
+        - img "Foto do perfil de urbanspacedesignstudio"
+      - link "Foto do perfil de modernbaratx":
+        - img "Foto do perfil de modernbaratx"
+    - link "modernbaratx":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - generic: e
+    - link "outras 2 pessoas":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - generic: •
+    - link "Seguir":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Seguir
+    - link "The Modern Austin":
+      - /url: /explore/locations/108412864871945/the-modern-austin/
+    - button "Mais opções":
+      - img "Mais opções"
+    - list:
+      - 'img "Photo by Modern Bar on September 12, 2026. Pode ser uma imagem de ‎texto que diz \"‎PR_SLNIING ING MEMENTO MORI 200円 FITFR: FAC SAX, XPANDFI CIV.IRF HANE زا INO.J nΑA. HAAT اج؟ CI N. CAN ΓΓbl NGS Sil Fil 김지 ll<THIFAD The new artwork by Steef Crombach, comm issioned for Modern Bar. JOIN US FOR THE PUBLIC UNVEILING +ARTIST &A: SUNDAY, SEPT. 20TH DOORS AT 4PM UNVEILING AT 6PM MODERN BAR‎\"‎."'
+      - img "Photo by Modern Bar on September 12, 2026. Pode ser uma imagem de uma ou mais pessoas, cabelo loiro, óculos, revista e texto."
+    - button "Avançar"
+    - button "Curtir":
+      - img "Curtir"
+    - button "Comentar":
+      - img "Comentar"
+    - link "Compartilhar":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Compartilhar"
+    - link "Salvar":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Salvar"
+    - generic: 78 curtidas
+    - link "modernbaratx":
+      - /url: /modernbaratx/
+      - generic: modernbaratx
+    - 'heading "PRESENTING: MEMENTO MORI" [level=1]'
+    - text: ...
+    - button "mais":
+      - generic: mais
+    - link "Ver todos os 5 comentários":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Ver todos os 5 comentários
+    - link "há 4 dias":
+      - /url: intent://instagram.com/modernbaratx/p/DdMePHkkWcz?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - time: há 4 dias
+  - separator
+  - text: Mais posts de
+  - link "modernbaratx":
+    - /url: /modernbaratx/
+  - link "Photo by Modern Bar on August 30, 2026. Pode ser uma imagem de texto. Carrossel":
+    - /url: /modernbaratx/p/Dcq_6cQmglG/
+    - img "Photo by Modern Bar on August 30, 2026. Pode ser uma imagem de texto."
+    - img "Carrossel"
+  - link "Photo by Modern Bar on September 15, 2026. Pode ser uma imagem de chá, suco e texto que diz \"MODERN BAR\".":
+    - /url: /modernbaratx/p/DdJ_9HfRKuC/
+    - img "Photo by Modern Bar on September 15, 2026. Pode ser uma imagem de chá, suco e texto que diz \"MODERN BAR\"."
+  - link "Photo by Modern Bar on September 08, 2026. Pode ser uma imagem de coquetel e texto.":
+    - /url: /modernbaratx/p/Dc4R3vZv6O0/
+    - img "Photo by Modern Bar on September 08, 2026. Pode ser uma imagem de coquetel e texto."
+  - link "Photo by Modern Bar on September 04, 2026. Carrossel":
+    - /url: /modernbaratx/p/Dc4FoY5EUur/
+    - img "Photo by Modern Bar on September 04, 2026."
+    - img "Carrossel"
+  - link "Video by Modern Bar on August 20, 2026. Pode ser uma imagem de bebida, pôster, coqueteleira e texto que diz \"M BAR TΜ BROUGHTON Modern Bar General Manager nИAAHии4 MODERNBAR\". Clipe":
+    - /url: /modernbaratx/reel/DcRP8NAhQol/
+    - img "Video by Modern Bar on August 20, 2026. Pode ser uma imagem de bebida, pôster, coqueteleira e texto que diz \"M BAR TΜ BROUGHTON Modern Bar General Manager nИAAHии4 MODERNBAR\"."
+    - img "Clipe"
+  - link "Photo by Modern Bar on August 13, 2026. Pode ser uma imagem de bebida e texto.":
+    - /url: /modernbaratx/p/DbwFE1XP69E/
+    - img "Photo by Modern Bar on August 13, 2026. Pode ser uma imagem de bebida e texto."
+  - link "Photo by Modern Bar on August 11, 2026. Pode ser uma imagem de melão, taça de vinho e texto.":
+    - /url: /modernbaratx/p/Db60i0uOT4s/
+    - img "Photo by Modern Bar on August 11, 2026. Pode ser uma imagem de melão, taça de vinho e texto."
+  - link "Photo by Modern Bar on August 05, 2026. Pode ser uma imagem de ‎limusine, conversível e ‎texto que diz \"‎MODERN BAR מחחו 田午品‎\"‎‎.":
+    - /url: /modernbaratx/p/DbeFApGPNEq/
+    - img "Photo by Modern Bar on August 05, 2026. Pode ser uma imagem de ‎limusine, conversível e ‎texto que diz \"‎MODERN BAR מחחו 田午品‎\"‎‎."
+  - link "Photo by Modern Bar on August 03, 2026. Pode ser uma imagem de coquetel e texto.":
+    - /url: /modernbaratx/p/DbeEGhBvavY/
+    - img "Photo by Modern Bar on August 03, 2026. Pode ser uma imagem de coquetel e texto."
+  - link "Ver mais posts":
+    - /url: /modernbaratx/
+    - generic: Ver mais posts
+  - separator

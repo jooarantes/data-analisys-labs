@@ -1,0 +1,750 @@
+{
+  "slug": "j-fisher-interiors",
+  "stem": "mid-atlantic",
+  "requestedURL": "https://jfisherinteriors.com/portfolio/mid-atlantic/",
+  "url": "https://jfisherinteriors.com/portfolio/mid-atlantic/",
+  "visitedAt": "2026-09-17T15:10:16.286Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_mid-atlantic.png"
+  ],
+  "shots": [
+    {
+      "file": "mid-atlantic_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 14950,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "mid-atlantic_gallery-02.png",
+          "mid-atlantic_gallery-03.png"
+        ],
+        "captions": {
+          "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+          "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+          "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+          "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+        }
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/mid-atlantic_full-page.png"
+    },
+    {
+      "file": "mid-atlantic_gallery-01.png",
+      "type": "gallery",
+      "section": "230919_JFisher__0451_lowres",
+      "imageIndex": 3,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0451_lowres.jpg",
+      "width": 662,
+      "height": 880,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "mid-atlantic_gallery-02.png",
+          "mid-atlantic_gallery-03.png"
+        ],
+        "captions": {
+          "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+          "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+          "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+          "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+        }
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/mid-atlantic_gallery-01.png"
+    },
+    {
+      "file": "mid-atlantic_gallery-02.png",
+      "type": "gallery",
+      "section": "230919_JFisher_0037_lowres",
+      "imageIndex": 9,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0037_lowres.jpg",
+      "width": 662,
+      "height": 980,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "mid-atlantic_gallery-02.png",
+          "mid-atlantic_gallery-03.png"
+        ],
+        "captions": {
+          "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+          "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+          "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+          "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+        }
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/mid-atlantic_gallery-02.png"
+    },
+    {
+      "file": "mid-atlantic_gallery-03.png",
+      "type": "gallery",
+      "section": "230919_JFisher__0184_lowres",
+      "imageIndex": 15,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres.jpg",
+      "width": 662,
+      "height": 449,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "mid-atlantic_gallery-02.png",
+          "mid-atlantic_gallery-03.png"
+        ],
+        "captions": {
+          "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+          "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+          "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+          "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+        }
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/mid-atlantic_gallery-03.png"
+    },
+    {
+      "file": "mid-atlantic_gallery-04.png",
+      "type": "gallery",
+      "section": "230919_JFisher__0405_lowres",
+      "imageIndex": 21,
+      "sourceImage": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0405_lowres.jpg",
+      "width": 662,
+      "height": 452,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "mid-atlantic_gallery-02.png",
+          "mid-atlantic_gallery-03.png"
+        ],
+        "captions": {
+          "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+          "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+          "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+          "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+        }
+      },
+      "relativePath": "assets/screenshots/websites/j-fisher-interiors/recapture-2026-09-17/mid-atlantic_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 14950,
+    "beforeY": 8753.171875,
+    "title": "Mid-Atlantic Portfolio | Austin Interior Design Company",
+    "text": " \n \nPORTFOLIO\nPROCESS\nSERVICES\nABOUT\nPRESS\nBLOG\nCONTACT\nBOOK A DISCOVERY CALL\nMID ATLANTIC\n\nAn empty 6,000-square-foot residence became a jewel-toned retreat defined by bold color, custom design, and richly layered interiors. Working with a repeat client, the goal was to transform a blank property into a home full of warmth and character. With no b",
+    "images": [
+      {
+        "i": 3,
+        "alt": "230919_JFisher__0451_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0451_lowres.jpg",
+        "x": 38,
+        "y": 856.796875,
+        "w": 661.5,
+        "h": 878.578125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 4,
+        "alt": "230919_JFisher__0090_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0090_lowres.jpg",
+        "x": 725,
+        "y": 856.796875,
+        "w": 661.5,
+        "h": 482.890625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 5,
+        "alt": "230919_JFisher__0142_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0142_lowres.jpg",
+        "x": 725,
+        "y": 1364.796875,
+        "w": 661.5,
+        "h": 452.015625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 6,
+        "alt": "230919_JFisher__0120_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0120_lowres.jpg",
+        "x": 38,
+        "y": 1760.796875,
+        "w": 661.5,
+        "h": 916.09375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 7,
+        "alt": "230919_JFisher__0165_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0165_lowres.jpg",
+        "x": 725,
+        "y": 1842.796875,
+        "w": 661.5,
+        "h": 455.875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 8,
+        "alt": "230919_JFisher__0027b_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0027b_lowres.jpg",
+        "x": 725,
+        "y": 2324.796875,
+        "w": 661.5,
+        "h": 439.0625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 9,
+        "alt": "230919_JFisher_0037_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0037_lowres.jpg",
+        "x": 38,
+        "y": 2702.796875,
+        "w": 661.5,
+        "h": 978.78125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 10,
+        "alt": "230919_JFisher__0071_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0071_lowres.jpg",
+        "x": 725,
+        "y": 2789.796875,
+        "w": 661.5,
+        "h": 483.15625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 11,
+        "alt": "230919_JFisher_0309_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0309_lowres.jpg",
+        "x": 725,
+        "y": 3299.796875,
+        "w": 661.5,
+        "h": 415.359375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 12,
+        "alt": "230919_JFisher__0329_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0329_lowres.jpg",
+        "x": 38,
+        "y": 3707.796875,
+        "w": 661.5,
+        "h": 480.953125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 13,
+        "alt": "230919_JFisher__0285_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0285_lowres.jpg",
+        "x": 725,
+        "y": 3740.796875,
+        "w": 661.5,
+        "h": 754.5625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 14,
+        "alt": "230919_JFisher__0274_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0274_lowres.jpg",
+        "x": 38,
+        "y": 4214.796875,
+        "w": 661.5,
+        "h": 436.578125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 15,
+        "alt": "230919_JFisher__0184_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0184_lowres.jpg",
+        "x": 725,
+        "y": 4520.796875,
+        "w": 661.5,
+        "h": 447.328125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 16,
+        "alt": "230919_JFisher__0436_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0436_lowres.jpg",
+        "x": 38,
+        "y": 4676.796875,
+        "w": 661.5,
+        "h": 457.8125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 17,
+        "alt": "best metallic gold paint for walls",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0229_lowres.jpg",
+        "x": 725,
+        "y": 4994.796875,
+        "w": 661.5,
+        "h": 916.625,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 18,
+        "alt": "230919_JFisher__0222_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0222_lowres.jpg",
+        "x": 38,
+        "y": 5160.796875,
+        "w": 661.5,
+        "h": 818.34375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 19,
+        "alt": "230919_JFisher_0208_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0208_lowres.jpg",
+        "x": 725,
+        "y": 5936.796875,
+        "w": 661.5,
+        "h": 705.59375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 20,
+        "alt": "230919_JFisher__0413_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0413_lowres-scaled.jpg",
+        "x": 38,
+        "y": 6005.796875,
+        "w": 661.5,
+        "h": 505.9375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 21,
+        "alt": "230919_JFisher__0405_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0405_lowres.jpg",
+        "x": 38,
+        "y": 6537.796875,
+        "w": 661.5,
+        "h": 450.921875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 22,
+        "alt": "bedroom pink bed",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0389_lowres.jpg",
+        "x": 725,
+        "y": 6668.796875,
+        "w": 661.5,
+        "h": 908.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 23,
+        "alt": "230919_JFisher__0257_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0257_lowres.jpg",
+        "x": 38,
+        "y": 7013.796875,
+        "w": 661.5,
+        "h": 836.453125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 24,
+        "alt": "230919_JFisher__0242_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0242_lowres.jpg",
+        "x": 725,
+        "y": 7602.796875,
+        "w": 661.5,
+        "h": 437.953125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 25,
+        "alt": "230919_JFisher__0253_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0253_lowres.jpg",
+        "x": 38,
+        "y": 7876.796875,
+        "w": 661.5,
+        "h": 832.9375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 26,
+        "alt": "230919_JFisher__0347_lowres",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/2023/12/230919_JFisher_4912MacArthurBlvd_0347_lowres.jpg",
+        "x": 725,
+        "y": 8066.796875,
+        "w": 661.5,
+        "h": 447.609375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 27,
+        "alt": "3rd floor landing",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/3rd-floor-landing-scaled.jpg",
+        "x": 38,
+        "y": 8799.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 28,
+        "alt": "billiard room to hall",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/billiard-room-to-hall-scaled.jpg",
+        "x": 496,
+        "y": 8799.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 29,
+        "alt": "Billiard room 1",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Billiard-room-1-scaled.jpg",
+        "x": 954,
+        "y": 8799.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 30,
+        "alt": "dining room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/dining-room-1-scaled.jpg",
+        "x": 38,
+        "y": 9149.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 31,
+        "alt": "Screenshot 2026-03-17 at 4.03.42 PM",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/Screenshot-2026-03-17-at-4.03.42-PM.png",
+        "x": 954,
+        "y": 9149.96875,
+        "w": 432.328125,
+        "h": 339.46875,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 32,
+        "alt": "billiard fireplace into lounge copy",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/billiard-fireplace-into-lounge-copy.jpg",
+        "x": 496,
+        "y": 9401.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 33,
+        "alt": "game room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/game-room-scaled.jpg",
+        "x": 38,
+        "y": 9499.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 34,
+        "alt": "from kitchen into family room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/from-kitchen-into-family-room-scaled.jpg",
+        "x": 954,
+        "y": 9514.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 35,
+        "alt": "living room 4",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/living-room-4-scaled.jpg",
+        "x": 496,
+        "y": 9751.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 36,
+        "alt": "top level hall into office",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/top-level-hall-into-office-scaled.jpg",
+        "x": 38,
+        "y": 9849.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 37,
+        "alt": "from family room into kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/from-family-room-into-kitchen-scaled.jpg",
+        "x": 954,
+        "y": 9864.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 38,
+        "alt": "master suite 2 (2)",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/master-suite-2-2-scaled.jpg",
+        "x": 496,
+        "y": 10101.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 39,
+        "alt": "from family room to front door",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/from-family-room-to-front-door-scaled.jpg",
+        "x": 954,
+        "y": 10215.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 40,
+        "alt": "office N",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/office-N-scaled.jpg",
+        "x": 38,
+        "y": 10452.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 41,
+        "alt": "living room 3",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/living-room-3-scaled.jpg",
+        "x": 496,
+        "y": 10704.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 42,
+        "alt": "downstairs guests room bed wall",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/downstairs-guests-room-bed-wall-scaled.jpg",
+        "x": 954,
+        "y": 10817.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 43,
+        "alt": "master suite 5",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/master-suite-5-scaled.jpg",
+        "x": 38,
+        "y": 11054.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 44,
+        "alt": "living room into dining",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/living-room-into-dining-scaled.jpg",
+        "x": 496,
+        "y": 11054.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 45,
+        "alt": "office 5",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/office-5-scaled.jpg",
+        "x": 954,
+        "y": 11167.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 46,
+        "alt": "lounge bookshelf wall",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/lounge-bookshelf-wall-scaled.jpg",
+        "x": 38,
+        "y": 11404.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 47,
+        "alt": "dining room 2",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/dining-room-2-scaled.jpg",
+        "x": 496,
+        "y": 11404.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 48,
+        "alt": "master suite 3",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/master-suite-3-scaled.jpg",
+        "x": 954,
+        "y": 11518.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 49,
+        "alt": "from 3rd floor landing downstairs",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/from-3rd-floor-landing-downstairs-scaled.jpg",
+        "x": 38,
+        "y": 11755.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 50,
+        "alt": "from foyer to kitchen",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/from-foyer-to-kitchen-scaled.jpg",
+        "x": 496,
+        "y": 11755.96875,
+        "w": 432.328125,
+        "h": 576.4375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 51,
+        "alt": "library 1",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/library-1-scaled.jpg",
+        "x": 954,
+        "y": 11868.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 52,
+        "alt": "family room",
+        "src": "https://jfisherinteriors.com/wp-content/uploads/family-room-1-scaled.jpg",
+        "x": 954,
+        "y": 12218.96875,
+        "w": 432.328125,
+        "h": 324.234375,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Previous slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 6"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 7"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "mid-atlantic_gallery-02.png",
+      "mid-atlantic_gallery-03.png"
+    ],
+    "captions": {
+      "mid-atlantic_gallery-01.png": "Front entrance and view into the hallway",
+      "mid-atlantic_gallery-02.png": "Dining room with table, seating, and pendant light",
+      "mid-atlantic_gallery-03.png": "Sitting area with curved seating and reflective wall finish",
+      "mid-atlantic_gallery-04.png": "Games area with table and arcade cabinets"
+    }
+  }
+}

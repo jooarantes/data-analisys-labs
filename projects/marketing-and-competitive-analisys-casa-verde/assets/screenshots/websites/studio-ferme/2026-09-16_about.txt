@@ -1,0 +1,76 @@
+- banner:
+  - heading "STUDIO FERME" [level=1]:
+    - link "STUDIO FERME":
+      - /url: /
+  - generic: 
+  - text: +
+- navigation:
+  - list:
+    - text: +
+    - link "Portfolio":
+      - /url: /
+    - list:
+      - link "Theresa Passive House":
+        - /url: /theresa-passive-house
+      - link "7th Street Cottage":
+        - /url: /7th-street-cottage
+      - link "Maude Street Millwork":
+        - /url: /maude-st-millwork
+      - link "Cedar Sukkah":
+        - /url: /cedarsukkah
+      - link "Europe":
+        - /url: /beast
+      - link "The Monochrome Series":
+        - /url: /monochrome-series-food
+    - link "About":
+      - /url: /about
+    - link "Blog":
+      - /url: /blog
+    - link "Contact":
+      - /url: /contact
+  - link:
+    - /url: https://www.instagram.com/studioferme/
+- main:
+  - heading "S T U D I O F E R M E is an award-winning, full-service interior design studio based in Austin, Texas. We offer residential design services, including new construction, renovations and additions, custom millwork and furniture design, interior decoration and styling. Our ethos is ‘mindful design’ — a holistic approach that considers nature, resiliency, well-being, inclusivity, and empathy in all design endeavors." [level=3]:
+    - strong: S T U D I O F E R M E is an award-winning, full-service interior design studio based in Austin, Texas. We offer residential design services, including new construction, renovations and additions, custom millwork and furniture design, interior decoration and styling.
+    - text: Our ethos is ‘mindful design’ — a holistic approach that considers nature, resiliency, well-being, inclusivity, and empathy in all design endeavors.
+  - paragraph: All design concepts and selections take into account environmental and health impacts and material life cycles, in hopes that our choices will leave a gentler footprint on the planet and promote wellbeing for people and the natural world. As climate change challenges us to be more conscious, proactive, and resilient, the standards and practices in the architecture and design and building communities are also changing. We encourage our clients to join this meaningful paradigm shift.
+  - paragraph: The scale and flexibility of spaces and structures, product quality and durability, climate resiliency, embodied carbon, local sourcing, indoor air quality and comfort, non-toxic and regenerative materials, repurposing and recycling, daylighting, indoor/outdoor connection, biophilia, water, solar energy and electrification, and ethical production are key among many considerations we take into account with a lens of sustainable design – all integrated seamlessly into the aesthetic goals of a project.
+  - paragraph: We articulate a felt sense of comfort and wellness in our work, and how inhabitants may feel the most inspired, welcomed, safe, healthy, energized, and relaxed and at peace. Together with our clients and consultants, we explore how a space can best serve inhabitants as they navigate the demands of modern life.
+  - paragraph: We strive to design for empathy for the human experience – physical, emotional and visceral – including what we aspire to feel and to share in a space. Empathic design ensures our interiors are thoughtful and respectful — from natural daylight, to efficient floor plans and useful storage, to handmade and natural items, to comfortable furnishings that positively engage our senses.
+  - paragraph: Our designs are warm, casual, and modern, and take inspiration from the Japanese concept of ‘wabi-sabi,’ honoring the simplicity and beautiful imperfections found in nature. These spaces may be minimalist and uncluttered, while they are also layered, vibrant, and inviting.
+  - paragraph: Client relationships are valued with the same level of care, with transparency, kindness, excellent communication, and an often-needed sense of humor. Our process, design phases, and construction observation are detailed in advance and tailored to the goals for each client.
+  - paragraph:
+    - text: Studio Ferme also provides consultant design services for affordable and supportive housing, educational facilities, and spaces for mission-driven non-profit organizations.
+    - text: At times we can offer Styling Services for architectural photography, editorial shoots, content shoots and other special projects. Please contact us
+    - link "here":
+      - /url: /contact
+    - text: for more information.
+  - paragraph:
+    - strong:
+      - emphasis: Updates //
+      - text: S T U D I O F E R M E is currently on sabbatical. For future inquiries or curiosities, new construction and major renovations we may be able to develop are projects guided by sustainable practices and mindful materials explicitly as a priority for all parties, working collaboratively with aligned architects. The projects also include a full-suite of design, with interior furnishings, decor and art pieces, in addition to hard finishes and fixtures — and can include turn-key offerings like linens, dishes, glassware, flatware, organizational containers, and even potted plants. If this sounds like a feasible and exciting fit for your project, please reach out to us, and feel free to
+    - link "contact us":
+      - /url: https://www.studioferme.com/contact
+      - strong: contact us
+    - strong: with any questions, anytime! :)
+  - figure
+  - heading "Adrienne Lee Farmer (she/her) is the principal designer at the helm of Studio Ferme." [level=3]:
+    - strong: Adrienne Lee Farmer (she/her)
+    - text: is the principal designer at the helm of Studio Ferme.
+  - paragraph: Adrienne has always been drawn to architecture and interiors, particularly stunning minimalist kitchens, retreat-style bathrooms with nature views, furniture and millwork design, and handmade textiles and ceramics. The creativity, the art forms, and the many emotional and cultural meanings in design sparked her energy over time. Ultimately, she immersed herself in the professional interior design industry a bit unconventionally and intuitively.
+  - paragraph: Via backgrounds in sociology and anthropology, environmental health and justice, community organizing and advocacy, holistic wellness, farm-to-table nutrition, cooking and teaching in commercial and private kitchens, and freelancing as a prop and food stylist for photography, Adrienne has carried her knowledge and eye to the trade, weaving common threads in these various fields into her emotive designs.
+  - paragraph: Influenced especially by her culinary experience, she has been recognized for her chef-worthy home kitchens that are both inspirational and functional. She designs kitchens for people who cook and for families who make messes. Though her attention to detail and stress-saving functionality will show up in every room!
+  - paragraph: As a designer and stylist, Adrienne collaborates with clients, architects, photographers, chefs, event designers, artists, carpenters, makers, and other creatives to compose a variety of spaces, experiences, and imagery. We love collaboration at Studio Ferme – please reach out to connect!
+  - paragraph: Adrienne integrates sustainability and wellness goals harmoniously into all projects. Studio Ferme utilizes sustainable, ethical and healthy materials standards and specifications — including LEED, WELL, Living Building Challenge, and Mindful Materials.
+  - figure
+  - paragraph:
+    - text: Adrienne currently lives in the Theresa Passive House project with a magical kindergartner and muse, who holds construction vehicles, Legos, human rights, and all things colorful in high esteem, along with a fluffy Great Pyrenees guardian dog.
+    - text: In her free time, Adrienne enjoys making low-pressure art work, meditation, gathering with community, food culture, nature, and is an advocate for social progress and justice, including issues of education, diversity, equity, felt safety, health, and inclusivity — and envisioning with hope and peaceful, radical change, that all people of all ages, backgrounds, identities, bodies, nervous systems, life experiences, contexts, reference points, histories, and cultures may someday, or more often than not, feel deeply loved, safe, empowered, and a sense of belonging for simply being who are they are.
+  - paragraph
+  - figure
+  - figure
+- contentinfo:
+  - paragraph: Studio Ferme, LLC
+  - paragraph: 801 Theresa Avenue
+  - paragraph: Austin, TX 78703

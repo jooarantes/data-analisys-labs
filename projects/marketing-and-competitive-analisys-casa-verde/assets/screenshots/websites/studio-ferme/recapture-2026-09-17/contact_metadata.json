@@ -1,0 +1,57 @@
+{
+  "slug": "studio-ferme",
+  "stem": "contact",
+  "requestedURL": "https://www.studioferme.com/contact",
+  "url": "https://www.studioferme.com/contact",
+  "visitedAt": "2026-09-17T15:29:38.927Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_contact.png"
+  ],
+  "shots": [
+    {
+      "file": "contact_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 1546,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "Embedded map is gray; contact text remains visible"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/contact_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 1546,
+    "beforeY": null,
+    "title": "Contact — STUDIO FERME",
+    "text": "STUDIO FERME\n\t\nPortfolio\n About Blog Contact \nContact Us\nPlease complete the form below and we’ll get back to you promptly. Thank you!\nName\nFirst Name\n(required)\nLast Name\n(required)\nEmail\n(required)\nSubject\n(required)\nMessage\n(required)\nSUBMIT\n\nInterested in visiting Theresa Passive House, home of Studio Ferme? Please fill out the contact form abo",
+    "images": [],
+    "controls": [
+      {
+        "text": "SUBMIT",
+        "aria": null
+      },
+      {
+        "text": "",
+        "aria": "Studio Ferme, LLC 801 Theresa Avenue Austin, TX, 78703, United States"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "Embedded map is gray; contact text remains visible"
+    ],
+    "preferred": []
+  }
+}

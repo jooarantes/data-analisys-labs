@@ -1,0 +1,50 @@
+- banner:
+  - heading "STUDIO FERME" [level=1]:
+    - link "STUDIO FERME":
+      - /url: /
+  - generic: 
+  - text: +
+- navigation:
+  - list:
+    - text: +
+    - link "Portfolio":
+      - /url: /
+    - list:
+      - link "Theresa Passive House":
+        - /url: /theresa-passive-house
+      - link "7th Street Cottage":
+        - /url: /7th-street-cottage
+      - link "Maude Street Millwork":
+        - /url: /maude-st-millwork
+      - link "Cedar Sukkah":
+        - /url: /cedarsukkah
+      - link "Europe":
+        - /url: /beast
+      - link "The Monochrome Series":
+        - /url: /monochrome-series-food
+    - link "About":
+      - /url: /about
+    - link "Blog":
+      - /url: /blog
+    - link "Contact":
+      - /url: /contact
+  - link:
+    - /url: https://www.instagram.com/studioferme/
+- main:
+  - link "Portfolio / Theresa Passive House":
+    - /url: /theresa-passive-house
+  - link "Portfolio / 7th Street Cottage":
+    - /url: /7th-street-cottage
+  - img "Maude St. Millwork"
+  - link "Portfolio / Maude Street Millwork":
+    - /url: /maude-st-millwork
+  - img "Cedar Sukkah"
+  - link "Portfolio / Cedar Sukkah":
+    - /url: /cedarsukkah
+  - img "Travels and study in Europe, 2015"
+  - link "Portfolio / Europe":
+    - /url: /beast
+  - img "Selections from the Monochrome Series"
+  - link "Portfolio / The Monochrome Series":
+    - /url: /monochrome-series-food
+  - generic: 

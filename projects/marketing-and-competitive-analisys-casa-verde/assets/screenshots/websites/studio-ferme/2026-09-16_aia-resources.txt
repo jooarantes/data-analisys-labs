@@ -1,0 +1,386 @@
+- link "Skip to main content":
+  - /url: "#main-content"
+- banner:
+  - link "The American Institute of Architects":
+    - /url: /
+    - img "The American Institute of Architects"
+  - link:
+    - /url: /user/login
+    - generic: 
+  - text: 
+  - button "Search":
+    - generic: 
+  - button "Open Menu":
+    - generic: Menu
+  - text:  
+- main:
+  - article:
+    - navigation "Breadcrumb":
+      - heading "Breadcrumb" [level=2]
+      - list:
+        - text: 
+        - link "Home":
+          - /url: /
+        - text: "|"
+        - link "Design excellence":
+          - /url: /design-excellence
+        - text: "|"
+        - link "Award winners":
+          - /url: /aia-award-winners
+        - text: "|"
+        - listitem: Theresa passive H...
+    - heading "Theresa Passive House" [level=1]
+    - generic: April 18, 2024
+    - paragraph: The award-winning design for Theresa Passive House in Austin, Texas is a trailblazer in sustainable design that integrates historic preservation, practical daily living, and community involvement.
+    - generic: Housing Award
+    - img "Theresa Passive House offers a path to engaging homebuilding with more mindfulness and persistence in climate action."
+    - generic:  Casey Dunn
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel "1 of 5":
+      - img "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family"
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - tabpanel:
+      - text: 
+    - button "Go to last slide":
+    - button "Next slide":
+    - tablist "Select a slide to show":
+      - tab "Go to slide 1" [selected]
+      - tab "Go to slide 2"
+      - tab "Go to slide 3"
+      - tab "Go to slide 4"
+      - tab "Go to slide 5"
+    - button "Go to slide 1":
+      - img "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family"
+    - button "Go to slide 2":
+      - img "The project’s mindful finishes and interior design, in harmony with thermal comfort and air quality, lend a feeling of ease and wellbeing in the home."
+    - button "Go to slide 3":
+      - img "Theresa Passive House is a highperformance renovation and addition that blends the historic preservation of a 1914 Craftsman bungalow with a modern volume and innovative sustainable design."
+    - button:
+    - button:
+    - generic:  Casey Dunn
+    - generic: The design team created a smart floor plan with ample storage for the everyday activities of an active, young family
+    - 'heading "Project highlights: Theresa Passive House" [level=2]'
+    - list:
+      - strong: "Architecture firms:"
+      - link "Forge Craft Architecture and Design":
+        - /url: https://forgexcraft.com/
+      - text: ","
+      - link "Hugh Jefferson Randolph Architects":
+        - /url: https://www.austinarchitect.com/
+      - strong: "Location:"
+      - text: Austin, Texas
+      - strong: "Category:"
+      - text: One
+      - strong: "Project site:"
+      - text: Previously developed
+      - strong: "Building program type(s):"
+      - text: Residential - single-family detached
+      - paragraph: In the Clarksville neighborhood of Austin, Texas, this high-performance renovation and addition marries the historic preservation of a 1914 Craftsman bungalow with a modern, sustainable volume. A partnership between the homeowners, design team, and a local architect who specializes in historic preservation, Theresa Passive House demonstrates climate resiliency without compromising design intent.
+      - paragraph: The clients, who are emerging design professionals, were presented with an opportunity to reimagine their historic home. They were deeply committed to designing for sustainability and health, with a particular focus on broadening community awareness of those vital issues. The design team responded with a smart floor plan that includes ample storage for the active family’s everyday activities. It also accommodates gatherings centered on the kitchen and cooking, draws in generous daylight, and provides deep connections to nature, their garden, and the surrounding neighborhood.
+      - paragraph: By prioritizing higher-cost density in a more compact footprint, the team shifted costs toward a robust envelope, a high-performing HVAC system, and solar panels. Rigorous targets for energy efficiency, air quality, thermal comfort, embodied carbon, and responsible material sourcing enhance the home’s programmatic and aesthetic goals, resulting in a resilient and beautiful home that perfectly suits the young family’s active lifestyle.
+    - generic: “Even though this is a small house with a modest footprint, the team did an incredible job. Its efficiency features and sustainability applications are stellar, and the thoughtfulness to include educating the public on passive house strategies is a wonderful attempt at community integration.”
+    - generic: Jury Comment
+    - paragraph: The project was completed in 2020 as a pilot project for the PHIUS 2018+ Source Zero standard and is among the first Passive House projects completed in a hot, humid climate. It has received the highest rating by Austin Energy Green Building to date and consumes 75% less energy than a typical new home.
+    - paragraph: Throughout the process, the clients and design team rallied building science experts in the community to showcase methods and present the house as a proof-of-concept. Experiences and results have been shared through presentations, articles, and tours, and the home continues to be a source for academic research. Many neighbors have toured the home during walk-through events and provided positive feedback on how the project enhances and engages their community.
+    - heading "Framework for Design Excellence measures" [level=2]
+    - button "Design for Integration ":
+      - generic: Design for Integration
+      - generic: 
+    - button "Design for Equitable Communities ":
+      - generic: Design for Equitable Communities
+      - generic: 
+    - button "Design for Ecosystems ":
+      - generic: Design for Ecosystems
+      - generic: 
+    - button "Design for Water ":
+      - generic: Design for Water
+      - generic: 
+    - button "Design for Energy ":
+      - generic: Design for Energy
+      - generic: 
+    - button "Design for Well-being ":
+      - generic: Design for Well-being
+      - generic: 
+    - button "Design for Resources ":
+      - generic: Design for Resources
+      - generic: 
+    - region "Design for Resources ":
+      - paragraph:
+        - strong: Were embodied carbon emissions estimated for this project?
+        - text: "Yes"
+      - paragraph
+    - button "Design for Change ":
+      - generic: Design for Change
+      - generic: 
+    - button "Design for Discovery ":
+      - generic: Design for Discovery
+      - generic: 
+    - heading "Project Team and Jury" [level=2]
+    - button "Project Attributes ":
+      - generic: Project Attributes
+      - generic: 
+    - button "Project Team " [active]:
+      - generic: Project Team
+      - generic: 
+    - region "Project Team ":
+      - paragraph:
+        - strong: "Architect:"
+        - text: Forge Craft Architecture + Design
+      - paragraph:
+        - strong: "Collaborating Architect:"
+        - text: Hugh Jefferson Randolph Architects
+      - paragraph:
+        - strong: "Structural Engineer:"
+        - text: Lester Germanio
+      - paragraph:
+        - strong: "Interior Design:"
+        - text: Studio Ferme
+      - paragraph:
+        - strong: "Landscape Architect:"
+        - text: Austin Outdoor Design
+      - paragraph:
+        - strong: "Energy Consultant:"
+        - text: Terracon
+      - paragraph:
+        - strong: "MEP Engineer:"
+        - text: Positive Energy
+      - paragraph:
+        - strong: "HVAC Installer:"
+        - text: New Results
+      - paragraph:
+        - strong: "Solar Installer:"
+        - text: Freedom
+      - paragraph:
+        - strong: "Solar Tile:"
+        - text: Ann Sacks
+      - paragraph:
+        - strong: "Windows:"
+        - text: Marvin
+      - paragraph:
+        - strong: "Doors:"
+        - text: BMC, Presidio Doors
+    - button "Jury, Housing Award 2024 ":
+      - generic: Jury, Housing Award 2024
+      - generic: 
+    - generic: About the Housing Award
+    - paragraph: AIA Housing Award recognizes the best in home design—showcasing how beauty, safety, sustainability, and comfort can come together.
+    - link "Learn more ":
+      - /url: https://www.aia.org/design-excellence/awards/housing-award
+    - generic: "Winners: Housing Award 2024"
+    - paragraph: Ten projects showcase the best in housing design.
+    - paragraph
+    - link "View the winners ":
+      - /url: https://www.aia.org/housing-award-2024
+    - generic: More award winners
+    - article:
+      - link:
+        - /url: /design-excellence/award-winners/housing-award-2026
+      - img "AlbinaOne_22_LaraSwimmer_3200x1800.jpg"
+      - generic: Housing Award
+      - generic: Housing Award 2026
+      - generic: June 10, 2026
+      - paragraph: Explore the AIA Housing Award 2026 recipients—recognized as the best in home and housing design across five categories.
+    - article:
+      - link:
+        - /url: /design-excellence/award-winners/housing-award-2025
+      - img "Completed in 2020, the home is a pilot project for the PHIUS 2018+ Source Zero standard and one of the first Passive House projects located in a hot, humid climate."
+      - generic: Housing Award
+      - generic: Housing Award 2025
+      - generic: June 5, 2025
+      - paragraph: Explore the Housing Award 2025 recipients, recognizing the best in home and housing design across five categories.
+    - article:
+      - link:
+        - /url: /design-excellence/award-winners/housing-award-2024
+      - img "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family"
+      - generic: Housing Award
+      - generic: Housing Award 2024
+      - generic: June 6, 2024
+      - paragraph: Explore the Housing Award 2024 winners—recognizing the best in home and housing design across five categories.
+      - paragraph
+- contentinfo:
+  - link "American Institute of Architects Logo":
+    - /url: https://www.aia.org/
+    - img "American Institute of Architects Logo"
+  - paragraph: Ready to advance your architecture career?
+  - paragraph: When you join AIA, you’re joining a community with global reach—and so much more.
+  - link "Become an AIA member ":
+    - /url: https://www.aia.org/membership
+  - text: We use cookies and other tracking technologies for performance, analytics, marketing, and more customized site experiences. By continuing to browse this site you are agreeing to our terms. Learn more about these in our
+  - link "Privacy Policy":
+    - /url: https://www.aia.org/pages/22691-privacy-policy
+  - text: . AIA reserves the right to delete content and suspend user accounts that it determines to be inappropriate.
+  - button "I consent to cookies"
+  - button "Want to know more?"
+  - complementary "Open Cookie Preferences Modal":
+    - link "Cookie Preferences, opens a dedicated popup modal window": Cookie Info
+  - navigation "Footer":
+    - heading "Footer" [level=2]
+    - list:
+      - link "This is the red and white Architects Foundation logo":
+        - /url: https://architectsfoundation.org/
+        - img "This is the red and white Architects Foundation logo"
+      - paragraph: Invest in the next generation of designers and the communities they serve.
+      - link "Donate today ":
+        - /url: https://architectsfoundation.networkforgood.com/projects/73819-architects-foundation-donations
+      - generic: About
+      - list:
+        - link "Membership":
+          - /url: /membership
+        - link "AIA Global Campus for Architecture & Design®":
+          - /url: https://www.aia.org/globalcampus
+        - link "Careers at AIA":
+          - /url: /about-aia/careers-at-aia
+        - link "Contact us":
+          - /url: /about-aia/contact-us
+        - link "FAQ":
+          - /url: /faq
+      - generic: AIA Network
+      - list:
+        - link "AIA Trust":
+          - /url: https://theaiatrust.com/
+        - link "Architects Foundation":
+          - /url: https://architectsfoundation.org/
+        - link "Find a chapter":
+          - /url: /community/chapters
+        - link "Become a partner":
+          - /url: /partner-aia
+        - link "Leadership Speaking Requests":
+          - /url: https://app.smartsheet.com/b/form/4f758ee12e784ebeab94dad6360de6f8
+      - generic: AEC Products & resources
+      - list:
+        - link "AIA Conference on Architecture & Design®":
+          - /url: https://conferenceonarchitecture.com/
+        - link "AIA Contract Documents®":
+          - /url: https://aiacontracts.com/
+        - link "MasterSpec®":
+          - /url: /masterspec
+        - link "AIAU®":
+          - /url: https://www.aia.org/career-growth/continuing-education/aiau
+        - link "AIA Design Shop":
+          - /url: https://designshop.aia.org/
+  - text: 
+  - link "Facebook":
+    - /url: https://www.facebook.com/AIANational/
+    - img "Facebook"
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/the-american-institute-of-architects-aia
+    - img "LinkedIn"
+  - link "Twitter":
+    - /url: https://twitter.com/AIANational
+    - img "Twitter"
+  - link "Instagram":
+    - /url: https://www.instagram.com/aianational/
+    - img "Instagram"
+  - paragraph:
+    - generic: Copyright
+    - text: ©
+    - link "2026 AIA":
+      - /url: https://www.aia.org/
+      - generic: 2026 AIA
+  - link "Privacy policy":
+    - /url: https://www.aia.org/privacy-policy
+  - link "Terms of use":
+    - /url: https://www.aia.org/terms-use
+- region "Site Menu":
+  - text: Privacy policy
+  - link:
+    - /url: https://www.aia.org/membership
+    - generic: Become a Member
+    - generic: 
+  - navigation "Main navigation":
+    - heading "Main navigation" [level=2]
+    - menubar:
+      - generic: To navigate items, use the arrow, home, and end keys.
+      - link:
+        - /url: /design-excellence
+        - text: Design Excellence
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+      - link:
+        - /url: /career-growth
+        - text: Careers
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+      - text:   
+      - link:
+        - /url: /community
+        - text: Community & Events
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+      - text:   
+      - link:
+        - /url: /advocacy
+        - text: Government Affairs
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+      - link:
+        - /url: /resource-center
+        - text: Resource Center
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+      - link:
+        - /url: /about-aia
+        - text: About
+      - button:
+        - generic: 
+        - generic: Toggle Submenu
+  - navigation "Utility Menu - Mobile":
+    - heading "Utility Menu - Mobile" [level=2]
+    - menubar:
+      - generic: To navigate items, use the arrow, home, and end keys.
+      - link:
+        - /url: /community/events
+        - text: Events
+      - link:
+        - /url: https://cecatalog.aia.org/coursecatalog
+        - text: Courses
+      - link:
+        - /url: https://www.aiacontracts.com/
+        - text: Contracts
+      - link:
+        - /url: /masterspec
+        - text: MasterSpec
+      - link:
+        - /url: https://www.aia.org/partner-aia
+        - text: Partner with AIA
+      - link:
+        - /url: https://www.aia.org/aia-architect
+        - text: AIA Architect
+      - link:
+        - /url: https://designshop.aia.org/
+        - text: AIA Design Shop
+      - link:
+        - /url: /globalcampus
+        - text: AIA Global Campus
+- button "Show survey - How likely is it that you would recommend this website to a friend or colleague?":
+  - generic: How likely is it that you would recommend this website to a friend or colleague?
+- region:
+  - heading: How likely is it that you would recommend this website to a friend or colleague?
+  - generic: Select an option from 0 to 10, with 0 being Not likely at all and 10 being Extremely likely
+  - slider: "0"
+  - list: 0 1 2 3 4 5 6 7 8 9 10
+  - generic: Not likely at all
+  - generic: Extremely likely
+  - button [disabled]: Next
+  - button: Skip
+- button "Open chat"
+- button "Close chatbot":
+- button "Open chat"

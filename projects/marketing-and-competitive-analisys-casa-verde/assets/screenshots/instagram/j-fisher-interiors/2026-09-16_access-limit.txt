@@ -1,0 +1,123 @@
+- link:
+  - /url: /
+- link:
+  - /url: /accounts/login/?next=%2Fjfisherinteriors%2F&source=desktop_nav
+  - text: Entrar
+- link:
+  - /url: /accounts/emailsignup/
+  - text: Cadastre-se
+- main:
+  - button:
+    - link:
+  - heading [level=2]:
+    - generic: jfisherinteriors
+  - list:
+    - link:
+      - /url: "#"
+      - generic: 12 mil
+      - text: seguidores
+    - link:
+      - /url: "#"
+      - generic: "2.790"
+      - text: seguindo
+  - generic: J.Fisher Interiors
+  - button: Austin-based interior designer creating soulful spaces built on craftsmanship, heart & great stories in Austin and
+  - text: ...
+  - button:
+    - generic: mais
+  - button:
+    - generic: jfisherinteriors.com e mais 1
+  - menu:
+    - list:
+      - link:
+        - /url: /stories/highlights/18101669926760923/
+        - button:
+          - button:
+          - generic: Reposts
+      - link:
+        - /url: /stories/highlights/18047426825395483/
+        - button:
+          - button:
+          - generic: My Home
+      - link:
+        - /url: /stories/highlights/17996523317282432/
+        - button:
+          - button:
+          - generic: 🦋Nursery
+      - link:
+        - /url: /stories/highlights/17883534977292654/
+        - button:
+          - button:
+          - generic: Pretty in Pink
+  - tablist:
+    - link:
+      - /url: /jfisherinteriors/
+    - link:
+      - /url: "#"
+    - link:
+      - /url: "#"
+  - separator
+  - link:
+    - /url: /jfisherinteriors/p/DdWWizeIC7U/
+  - link:
+    - /url: /jfisherinteriors/p/DdRPM7voMra/
+  - link:
+    - /url: /jfisherinteriors/p/DdJiiVeG8LJ/
+  - link:
+    - /url: /jfisherinteriors/p/DdB1UN6Dafz/
+  - link:
+    - /url: /jfisherinteriors/p/Dc6JMp5DgdH/
+  - link:
+    - /url: /jfisherinteriors/reel/Dc3ZAgeBK6X/
+  - link:
+    - /url: /jfisherinteriors/p/Dc1UZ2GIKbx/
+  - link:
+    - /url: /jfisherinteriors/p/Dcta-zjGbPU/
+  - link:
+    - /url: /jfisherinteriors/reel/DcoDp5qBiCT/
+  - link:
+    - /url: /jfisherinteriors/p/DclpIb_HDwE/
+  - link:
+    - /url: /jfisherinteriors/p/Dcgb6aXIJ-0/
+  - link:
+    - /url: /jfisherinteriors/p/DcbTsKkm9JE/
+  - link:
+    - /url: /jfisherinteriors/p/DcTfjxnG2gA/
+  - link:
+    - /url: /jfisherinteriors/p/DcJV3siIO2O/
+  - link:
+    - /url: /jfisherinteriors/p/DcEGOHInDVo/
+  - link:
+    - /url: /jfisherinteriors/p/DcBgR8gHL52/
+  - link:
+    - /url: /jfisherinteriors/p/Db8WHqEjdhG/
+  - link:
+    - /url: /jfisherinteriors/p/Db3L9fqm4AS/
+  - link:
+    - /url: /jfisherinteriors/p/DbvdkqVm9RF/
+  - link:
+    - /url: /jfisherinteriors/p/DbqUk87Ccw7/
+  - link:
+    - /url: /jfisherinteriors/p/DblO-N5kgox/
+  - link:
+    - /url: /jfisherinteriors/reel/DbjXZnZPSJX/
+  - link:
+    - /url: /jfisherinteriors/p/DbdpQxymw6c/
+  - link:
+    - /url: /jfisherinteriors/p/DbYVD0kE9Cv/
+  - progressbar:
+- dialog:
+  - img "Ilustração para fazer o upsell de Ver este story"
+  - generic: Continuar assistindo
+  - text: Mais fotos, vídeos e maneiras de se conectar com
+  - strong: jfisherinteriors
+  - text: .
+  - text: Ao continuar, você concorda com os
+  - link "Termos de Uso" [active]:
+    - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+  - text: e a
+  - link "Política de Privacidade":
+    - /url: https://privacycenter.instagram.com/policy/
+  - text: do Instagram.
+  - button "Cadastre-se"
+  - button "Entrar"

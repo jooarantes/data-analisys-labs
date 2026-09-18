@@ -1,0 +1,136 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+    - img "Urbane Design"
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- generic "Heading":
+  - heading "Misty Hill" [level=1]
+- generic "Text Editor":
+  - paragraph:
+    - text: location
+    - text: Austin, TX
+  - paragraph:
+    - text: year
+    - text: "2019"
+  - paragraph:
+    - text: category
+    - text: Remodel
+  - paragraph:
+    - text: photographer
+    - text: Chase Daniel
+- generic "Text Editor":
+  - paragraph: "The owners of this Northwest Austin home came to Urbane Design with a challenge: They needed to move their laundry room from the first floor to their second floor master bathroom. This move would enable them to use their master bath in a more functional way (and prevent them from lugging baskets of laundry up and down the stairs). In addition to adding a laundry room, the client wanted to enlarge the shower and vanity and create a separate water closet. Urbane Design project managed every step of the remodel—from drawing up floor plans to assisting in the right contractor for the job, selecting finishes, and being present for final walkthroughs."
+  - paragraph:
+    - text: "Services offered:"
+    - text: Floor plans
+    - text: Finish selections
+    - text: Contractor selection
+    - text: Permit Sets
+    - text: Project management
+  - paragraph: The clients’ style is eclectic and fun—the more visual interest, the better. A unique challenge of this remodel was the size of the master bath; packing all of the clients’ wish list into one bathroom was a tall order. Since square footage was not on our side, we opted for white cabinets, floors and countertops that reflect light and give the appearance of more space. We hid medicine cabinets behind the vanity mirrors and added contrast with carbon-finished plumbing and hardware. Additionally, we opted for a stackable washer and dryer set with storage space on top. Sliding barn doors made from reclaimed wood were added to the laundry room and water closet to save space, offer privacy, and add an element of surprise to the room.
+  - paragraph: The Misty Hill remodel is the perfect example of design that does not have to trade function for beauty—it accomplishes both seamlessly. By merging two of the most used rooms in the home, the client is able to save time on laundry day and get the most out of the place where they begin and end their day.
+- generic "HTML":
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

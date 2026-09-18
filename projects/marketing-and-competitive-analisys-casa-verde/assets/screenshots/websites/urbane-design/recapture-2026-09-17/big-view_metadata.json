@@ -1,0 +1,591 @@
+{
+  "slug": "urbane-design",
+  "stem": "big-view",
+  "requestedURL": "https://urbanedesignstudios.com/project/big-view-remodel/",
+  "url": "https://urbanedesignstudios.com/project/big-view-remodel/",
+  "visitedAt": "2026-09-17T15:47:03.480Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_big-view.png"
+  ],
+  "shots": [
+    {
+      "file": "big-view_document-01.png",
+      "type": "document-segment",
+      "section": "Document offset 0 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 0,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-01.png"
+    },
+    {
+      "file": "big-view_document-02.png",
+      "type": "document-segment",
+      "section": "Document offset 3850 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 3850,
+      "width": 1425,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-02.png"
+    },
+    {
+      "file": "big-view_document-03.png",
+      "type": "document-segment",
+      "section": "Document offset 7700 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 7700,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-03.png"
+    },
+    {
+      "file": "big-view_document-04.png",
+      "type": "document-segment",
+      "section": "Document offset 11550 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 11550,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-04.png"
+    },
+    {
+      "file": "big-view_document-05.png",
+      "type": "document-segment",
+      "section": "Document offset 15400 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 15400,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-05.png"
+    },
+    {
+      "file": "big-view_document-06.png",
+      "type": "document-segment",
+      "section": "Document offset 19250 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 19250,
+      "width": 1440,
+      "height": 4000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-06.png"
+    },
+    {
+      "file": "big-view_document-07.png",
+      "type": "document-segment",
+      "section": "Document offset 23100 CSS px, up to 4000 px high with 150 px overlap",
+      "y": 23100,
+      "width": 1440,
+      "height": 2306,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_document-07.png"
+    },
+    {
+      "file": "big-view_gallery-01.png",
+      "type": "gallery",
+      "section": "Visible project photograph 1",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2021/04/Big-View-Remodel-master-bathroom-barndoor-edit-photo-by-Sarah-Natsumi-Moore-1-scaled.jpg",
+      "width": 498,
+      "height": 750,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_gallery-01.png"
+    },
+    {
+      "file": "big-view_gallery-02.png",
+      "type": "gallery",
+      "section": "Visible project photograph 8",
+      "imageIndex": 9,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-18.jpg",
+      "width": 1000,
+      "height": 1540,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_gallery-02.png"
+    },
+    {
+      "file": "big-view_gallery-03.png",
+      "type": "gallery",
+      "section": "Visible project photograph 15",
+      "imageIndex": 16,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-11.jpg",
+      "width": 498,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_gallery-03.png"
+    },
+    {
+      "file": "big-view_gallery-04.png",
+      "type": "gallery",
+      "section": "Visible project photograph 22",
+      "imageIndex": 23,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/master-bath-detail-2.jpg",
+      "width": 498,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/big-view_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page capture unavailable; sequential document segments used"
+  ],
+  "state": {
+    "height": 25406,
+    "beforeY": null,
+    "title": "Big View – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\nBig View\n\nLOCATION\nAUSTIN, TX\n\nYEAR\n2020\n\nCATEGORY\nREMODEL\n\nPHOTOGRAPHER\nSARAH NATSUMI MOORE\n\nThe owners of this Northwest Austin home needed a major revamp to their master and guest bathroom.These rooms were uninspired with large, outdated appliances and not enough funct",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2021/04/Big-View-Remodel-master-bathroom-barndoor-edit-photo-by-Sarah-Natsumi-Moore-1-scaled.jpg",
+        "x": 198.5,
+        "y": 2161,
+        "w": 497.984375,
+        "h": 749.921875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-22.jpg",
+        "x": 198.5,
+        "y": 2942.921875,
+        "w": 1000,
+        "h": 667,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-23.jpg",
+        "x": 198.5,
+        "y": 3641.921875,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-24.jpg",
+        "x": 728.5,
+        "y": 3641.921875,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-20.jpg",
+        "x": 198.5,
+        "y": 4006.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-21.jpg",
+        "x": 198.5,
+        "y": 5538.078125,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-19.jpg",
+        "x": 728.5,
+        "y": 5538.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-18.jpg",
+        "x": 198.5,
+        "y": 6317.078125,
+        "w": 1000,
+        "h": 1539,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-17.jpg",
+        "x": 198.5,
+        "y": 7888.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-16.jpg",
+        "x": 728.5,
+        "y": 7888.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-15.jpg",
+        "x": 198.5,
+        "y": 8667.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-14.jpg",
+        "x": 198.5,
+        "y": 10199.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-13.jpg",
+        "x": 728.5,
+        "y": 10199.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-12.jpg",
+        "x": 198.5,
+        "y": 10978.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-11.jpg",
+        "x": 198.5,
+        "y": 12510.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-10.jpg",
+        "x": 728.5,
+        "y": 12510.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-9.jpg",
+        "x": 198.5,
+        "y": 13289.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr-6.jpg",
+        "x": 198.5,
+        "y": 14821.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/Urbane-Design_9550-Big-View-Dr.jpg",
+        "x": 728.5,
+        "y": 14821.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 21,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/master-bath-sink-detail.jpg",
+        "x": 198.5,
+        "y": 15600.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 22,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/master-bath-dog-landry.jpg",
+        "x": 198.5,
+        "y": 17132.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 23,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/master-bath-detail-2.jpg",
+        "x": 728.5,
+        "y": 17132.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 24,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/master-bath-detail.jpg",
+        "x": 198.5,
+        "y": 17911.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 25,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/guest-vanity-to-shower.jpg",
+        "x": 198.5,
+        "y": 19443.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 26,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/guest-vanity.jpg",
+        "x": 728.5,
+        "y": 19443.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 27,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/guest-bath-shower-2.jpg",
+        "x": 198.5,
+        "y": 20222.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 28,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/guest-bath-shower.jpg",
+        "x": 198.5,
+        "y": 21754.078125,
+        "w": 498,
+        "h": 747,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 29,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/guest-bath-full-shower.jpg",
+        "x": 728.5,
+        "y": 21754.078125,
+        "w": 497.984375,
+        "h": 332.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 30,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2020/02/barn-door.jpg",
+        "x": 198.5,
+        "y": 22533.078125,
+        "w": 1000,
+        "h": 1500,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": []
+  }
+}

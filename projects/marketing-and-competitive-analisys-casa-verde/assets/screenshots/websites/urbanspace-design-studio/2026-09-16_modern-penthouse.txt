@@ -1,0 +1,133 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - main:
+    - article:
+      - region "Project hero":
+        - img "Modern Penthouse"
+        - heading "Modern Penthouse" [level=1]
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142090004-1253x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142090002-1253x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060031-Edit-1097x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060024-1097x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060014-1024x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7073-1229x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-1019x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7686_K2-1-1229x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7623_K2-1-1536x1152.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7595_K-1097x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7586_K-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7540_K-1229x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7501_K-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7454_K-1229x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7430_K2-1024x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7412_K-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7393_K-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7378_K2-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7368_K2-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7303_K2-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7278_K2-1-1536x1097.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7250_K-1536x1152.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7226_K2-1-1536x1024.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7191_K2-1-1536x1229.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7169_K2-1536x1152.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7121_K2-1-1536x1152.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7105_K2-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7054_K2-2-1536x1152.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7009_K2-1229x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH6987_K2-1097x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH6952_K2-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6283-1-1024x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6266-1-1152x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6303-4-1536x1536.jpg
+        - img "Modern Penthouse"
+      - link "Modern Penthouse":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6363-noperson-1-1082x1536.jpg
+        - img "Modern Penthouse"
+      - navigation "Project navigation":
+        - link "Previous Project The Modern Austin Residences":
+          - /url: https://urbanspacedesign.com/project/themodern/
+          - generic: Previous Project
+          - generic: The Modern Austin Residences
+        - link "Next Project Clarksville Home":
+          - /url: https://urbanspacedesign.com/project/clarksville-home/
+          - generic: Next Project
+          - generic: Clarksville Home
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

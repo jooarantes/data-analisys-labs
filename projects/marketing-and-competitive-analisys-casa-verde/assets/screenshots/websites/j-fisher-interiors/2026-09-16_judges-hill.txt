@@ -1,0 +1,369 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+  - text:       
+- text: /
+- heading "Judges Hill" [level=1]
+- paragraph: This 5,500-square-foot Judges Hill residence was remodeled in close collaboration with a longtime friend who lovingly refers to me as her “housewife.” The project carried the ease and joy of working with family, making the process as meaningful as the finished design. Together, we set out to refresh a mid-century home that had seen several renovations over the years, with the goal of preserving its character while layering in new personality, color, and timeless details.
+- paragraph: Respecting the home’s bones, we made selective changes that had a big impact. The primary suite was elevated with new stone finishes, while outdated features, including a urinal in the bathroom, were replaced with elements that felt more aligned with the homeowner’s style. The back porch was reimagined for better connection to the interior, creating a stronger flow between indoor and outdoor living. Many existing pieces were reused and reworked, paired with new furnishings, finishes, and custom touches to add dimension and individuality without losing the spirit of what was already there.
+- paragraph: The result is a home that blends mid-century charm with updated elegance, infused with the humor, warmth, and creativity of a true collaboration between friends. Judges Hill reflects not only thoughtful design but also the trust and joy that come from working with someone who feels like family.
+- separator
+- heading "After" [level=3]
+- link "entry way":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00013.jpg
+  - img "entry way"
+- link "dining room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00000.jpg
+  - img "dining room"
+- link "view of living room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00001.jpg
+  - img "view of living room"
+- link "living room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00002.jpg
+  - img "living room"
+- link "cabinets":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00020.jpg
+  - img "cabinets"
+- link "kitchen":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00005.jpg
+  - img "kitchen"
+- link "kitchen":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00004.jpg
+  - img "kitchen"
+- link "sitting room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00018.jpg
+  - img "sitting room"
+- link "office":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00019.jpg
+  - img "office"
+- link "guest room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00028.jpg
+  - img "guest room"
+- link "vanity":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00012.jpg
+  - img "vanity"
+- link "hall way":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/13.jpg
+  - img "hall way"
+- link "vanity":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/24.jpg
+  - img "vanity"
+- link "vanity":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00011.jpg
+  - img "vanity"
+- link "bedroom":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/23.jpg
+  - img "bedroom"
+- link "walk-in closet":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/25.jpg
+  - img "walk-in closet"
+- link "small table":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00006.jpg
+  - img "small table"
+- link "bedroom":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00008.jpg
+  - img "bedroom"
+- link "kitchen and living room connection":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00010.jpg
+  - img "kitchen and living room connection"
+- link "kitchen":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00009.jpg
+  - img "kitchen"
+- link "bedroom":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00007.jpg
+  - img "bedroom"
+- link "game room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/26.jpg
+  - img "game room"
+- link "game room sitting area":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00025.jpg
+  - img "game room sitting area"
+- link "sitting room":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00026.jpg
+  - img "sitting room"
+- link "lighting fixture":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00029.jpg
+  - img "lighting fixture"
+- link "patio":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00003.jpg
+  - img "patio"
+- link "patio":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00016.jpg
+  - img "patio"
+- link "patio seating by pool":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/30.jpg
+  - img "patio seating by pool"
+- link "backyard pool":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00014.jpg
+  - img "backyard pool"
+- link "patio":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00015.jpg
+  - img "patio"
+- link "patio":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00017.jpg
+  - img "patio"
+- link "patio with view of pool":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/04/judge-hill-00027.jpg
+  - img "patio with view of pool"
+- heading "Before" [level=3]:
+  - strong: Before
+- link "IMG_0907":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0907-scaled-1.jpeg
+  - img "IMG_0907"
+- link "IMG_0872":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0872.jpeg
+  - img "IMG_0872"
+- link "IMG_0871":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0871-scaled-1.jpeg
+  - img "IMG_0871"
+- link "IMG_0876":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0876-scaled-1.jpeg
+  - img "IMG_0876"
+- link "IMG_0880":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0880-scaled-1.jpeg
+  - img "IMG_0880"
+- link "IMG_0886":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0886-scaled-1.jpeg
+  - img "IMG_0886"
+- link "IMG_0901":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0901-scaled-1.jpeg
+  - img "IMG_0901"
+- link "IMG_0889":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0889-scaled-1.jpeg
+  - img "IMG_0889"
+- link "IMG_0899":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0899-scaled-1.jpeg
+  - img "IMG_0899"
+- link "IMG_0893":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0893-scaled-1.jpeg
+  - img "IMG_0893"
+- link "IMG_0871":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0871-scaled-1.jpg
+  - img "IMG_0871"
+- link "IMG_0872":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0872.jpg
+  - img "IMG_0872"
+- link "IS62ljwz0cu68i0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IS62ljwz0cu68i0000000000.jpg
+  - img "IS62ljwz0cu68i0000000000"
+- link "IMG_0873":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0873-scaled-1.jpg
+  - img "IMG_0873"
+- link "IMG_0875":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0875-scaled-1.jpg
+  - img "IMG_0875"
+- link "IMG_0878":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0878-scaled-1.jpg
+  - img "IMG_0878"
+- link "IMG_0879":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0879-scaled-1.jpg
+  - img "IMG_0879"
+- link "IMG_0880":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0880-scaled-1.jpg
+  - img "IMG_0880"
+- link "IMG_0909":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0909.jpg
+  - img "IMG_0909"
+- link "IMG_0912":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0912.jpg
+  - img "IMG_0912"
+- link "IMG_0920":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0920-scaled-1.jpg
+  - img "IMG_0920"
+- link "IMG_0913":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0913.jpg
+  - img "IMG_0913"
+- link "IMG_0917 2":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0917-2-scaled-1.jpg
+  - img "IMG_0917 2"
+- link "IMG_0915":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0915.jpg
+  - img "IMG_0915"
+- link "IMG_0928":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0928-scaled-1.jpg
+  - img "IMG_0928"
+- link "IMG_0930":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0930-scaled-1.jpg
+  - img "IMG_0930"
+- link "IMG_0931 2":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0931-2-scaled-1.jpg
+  - img "IMG_0931 2"
+- link "IMG_0939":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0939-scaled-1.jpg
+  - img "IMG_0939"
+- link "IMG_0948":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0948-scaled-1.jpg
+  - img "IMG_0948"
+- link "ISaxnhy6fzzbvh0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/ISaxnhy6fzzbvh0000000000-1.jpg
+  - img "ISaxnhy6fzzbvh0000000000"
+- link "ISijejdgon5f8i0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/ISijejdgon5f8i0000000000-1.jpg
+  - img "ISijejdgon5f8i0000000000"
+- link "IMG_0949":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0949-scaled-1.jpg
+  - img "IMG_0949"
+- link "IMG_0952":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0952-scaled-1.jpg
+  - img "IMG_0952"
+- link "IMG_0959":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IMG_0959-scaled-1.jpg
+  - img "IMG_0959"
+- link "IS62ljwz0cu68i0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/IS62ljwz0cu68i0000000000-1.jpg
+  - img "IS62ljwz0cu68i0000000000"
+- link "ISqlhpgqakryfi0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/ISqlhpgqakryfi0000000000-1.jpg
+  - img "ISqlhpgqakryfi0000000000"
+- link "ISqpgvvmsvdc8i0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/ISqpgvvmsvdc8i0000000000-1.jpg
+  - img "ISqpgvvmsvdc8i0000000000"
+- link "ISyrj1zweszvfi0000000000":
+  - /url: https://jfisherinteriors.com/wp-content/uploads/2022/06/ISyrj1zweszvfi0000000000-1.jpg
+  - img "ISyrj1zweszvfi0000000000"
+- separator
+- region "Slides":
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - group "2 / 7":
+    - generic: "\"We worked with Jennifer and her team on designing and furnishing the interior of our new home over the course of 2 years. While we thought that we wanted a look that mimicked the style of homes we had seen in magazines, Jennifer had a unique vision that captured the essence of our home and who we are. She was able to understand our style and design the interior based on the features of our home, which made a significant difference. Our home was featured on the 2024 Modern Homes Tour, which showcased Jennifer’s exceptional work. Visitors praised the beautiful yet functional interior, highlighting the creative use of color and patterns. Highly recommend!\""
+    - img "Joanna Hackney"
+    - generic: Joanna Hackney
+  - group "3 / 7":
+    - generic: "\"Very professional, reasonable and creative services. Worked within my budget and was always timely on requests and suggestions while meeting the decor selections for my contractors scheduling deadlines. I would recommend J.Fisher Interiors to all of my friends.\""
+    - generic: Marc Buffkin
+  - group "4 / 7":
+    - generic: "\"My husband and I worked with J.Fisher Interiors to remodel our kitchen and baths and give our builder-grade home a much-needed facelift. Because we were out of state during the design and construction process, having Jennifer at the helm made all the difference. I genuinely don't know how anyone would complete a project like this without an experienced designer like her guiding the process. I come from a creative background (read: I have a lot of opinions), and Jennifer was great about collaborating to bring our vision to life, while still offering thoughtful guidance and knowing when to step in with her expertise. She helped us navigate millions of details, big and small, and introduced ideas that pushed us far enough out of our comfort zone to make the end result truly special. She also connected us with an incredible contractor and carpenter, some of the best we’ve ever worked with and acted as our eyes and ears on-site, ensuring everything came together beautifully. We’re so happy with how our home has transformed. It feels elevated, personal, and uniquely ours.\""
+    - img "Emily S."
+    - generic: Emily S.
+  - group "5 / 7":
+    - generic: "\"Can’t say enough great things about J. Fisher Interiors! Jennifer and her team have worked on several jobs for me and my clients over the years and they always take on a fresh perspective with timeless design elements in their approach, which I really appreciate. Additionally, they are a joy to work with and make sure that you end up loving your new space.\""
+    - generic: Wade Giles
+  - group "6 / 7":
+    - generic: "\"Jennifer jumped in to do a project for our office, and we couldn't be happier with the level of professionalism and skill with which she operates. She got the job done in a timely manner, her pricing was reasonable, and now, our team has been enjoying the space so much more. I'd highly recommend her expertise to other companies or individuals looking to freshen up their space.\""
+    - generic: NadaMoo Ice Cream
+  - group "7 / 7":
+    - generic: "\"As a recent divorcee, I rented a condo in a rush and it was a mess -- dark with an odd mixture of colors and styles. Jennifer worked quickly to completely transform the space using cost-effective options that made sense given that I might only be in the unit for one year. In addition to designing the space, she also served as a project manager for the work. She is very dedicated, works quickly and efficiently, and has a very professional and pleasant demeanor. She has a definite style and sensibility but also adapts well to her clients' tastes. I couldn't be happier with the result.\""
+    - img "best metallic gold paint for walls"
+    - generic: Jeff Binder
+  - group "1 / 7":
+    - generic: "``We had an excellent experience working with Jennifer during the design phase of our MCM custom home. From the outset, she took the time to understand how we wanted the home to feel and translated that into a clear, cohesive direction that genuinely reflects our taste. Jennifer brings an impeccable design point of view without ever imposing it. She guided us thoughtfully through tradeoffs in materials, finishes, and layout so decisions felt intentional and well considered. Interior design can quickly become overwhelming, and we especially appreciated her ability to narrow options decisively and provide confident recommendations we could trust. Her balance of aesthetics and practicality — particularly for a young family — was invaluable. Throughout the process, she was collaborative, responsive, and steady. We consistently felt supported and well advised. Even though construction is still underway, we’re confident in the direction we shaped together and excited to see it come to life. We’re grateful for her clarity, taste, and professionalism, and would highly recommend her to anyone building or renovating a home.``"
+    - generic: Chandler Wang
+  - button "Previous slide":
+    - generic: 
+  - button "Next slide":
+    - generic: 
+  - button "Go to slide 1"
+  - button "Go to slide 2"
+  - button "Go to slide 3"
+  - button "Go to slide 4"
+  - button "Go to slide 5"
+  - button "Go to slide 6"
+  - button "Go to slide 7"
+- heading "Let’s Start The Conversation" [level=2]
+- paragraph: We take on a limited number of projects each year to ensure a high level of attention and care.
+- paragraph: If our approach resonates, we’d love to learn more about your project. Please share a few details below so we can determine whether we’re the right fit.
+- status
+- list
+- form "Contact form":
+  - paragraph: J.Fisher Interiors offers full-service interior design and thoughtful project guidance tailored to each client’s needs.
+  - paragraph:
+    - textbox "First Name"
+  - paragraph:
+    - textbox "Last Name"
+  - paragraph: Project Type
+  - paragraph:
+    - checkbox "Residential Interior Design"
+    - text: Residential Interior Design
+    - checkbox "Commercial Interior Design"
+    - text: Commercial Interior Design
+    - checkbox "Furnishings & Styling"
+    - text: Furnishings & Styling
+    - checkbox "Not sure yet — looking for guidance"
+    - text: Not sure yet — looking for guidance
+  - paragraph: Where are you in the process?
+  - paragraph:
+    - checkbox "Actively planning a project and looking for a designer"
+    - text: Actively planning a project and looking for a designer
+    - checkbox "In early planning and gathering information"
+    - text: In early planning and gathering information
+    - checkbox "Just exploring ideas"
+    - text: Just exploring ideas
+  - paragraph:
+    - textbox "Email"
+  - paragraph:
+    - textbox "Phone (for scheduling if needed)"
+  - paragraph:
+    - textbox "Tell us briefly about your project — location, scope, timeline, and what prompted you to reach out now."
+  - paragraph
+  - paragraph:
+    - button "Submit Inquiry"
+  - paragraph: Submitting this form does not guarantee availability. We personally review every inquiry and respond to projects that align with our services.
+- contentinfo:
+  - heading "Subscribe To Our Newsletter" [level=4]
+  - generic: "* indicates required"
+  - generic: First Name
+  - textbox "First Name"
+  - generic: Last Name
+  - textbox "Last Name"
+  - generic: Email Address *
+  - textbox "Email Address *"
+  - text: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+  - textbox
+  - button "Subscribe"
+  - paragraph:
+    - link "Mailchimp - email marketing made easy and fun":
+      - /url: https://mailchimp.com/solutions/email-marketing-platform/?utm_source=freemium_newsletter&utm_medium=email&utm_campaign=referral_marketing&aid=4a0f3f8e26ae022398715e24f&afl=1
+  - heading "Follow Us" [level=4]
+  - list:
+    - link "":
+      - /url: https://www.instagram.com/jfisherinteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.facebook.com/JFisherInteriors/
+      - generic: 
+    - link "":
+      - /url: https://www.houzz.com/professionals/interior-designers-and-decorators/j-fisher-interiors-pfvwus-pf~2047964054
+      - generic: 
+    - link "":
+      - /url: https://www.linkedin.com/company/j-fisher-interiors
+      - generic: 
+    - link "":
+      - /url: https://www.pinterest.com/jfisherinteriors/
+      - generic: 
+  - heading "Company Links" [level=4]
+  - link "Our Privacy Policy":
+    - /url: https://jfisherinteriors.com/privacy-policy/
+  - heading "Menu" [level=4]
+  - list:
+    - link "Portfolio":
+      - /url: https://jfisherinteriors.com/portfolio/
+    - link "Process":
+      - /url: https://jfisherinteriors.com/luxury-interior-design-process/
+    - link "Services":
+      - /url: https://jfisherinteriors.com/services/
+    - link "About":
+      - /url: https://jfisherinteriors.com/about/
+    - link "Press":
+      - /url: https://jfisherinteriors.com/press/
+    - link "Blog":
+      - /url: https://jfisherinteriors.com/blog/
+    - link "Contact":
+      - /url: https://jfisherinteriors.com/contact/
+    - link "Newsletter":
+      - /url: /contact/
+  - generic: © Copyright 2026 J.Fisher Interiors. All rights reserved
+- generic: mobile
+- iframe [name="a-u3tshx8k2r0w"]:
+  - text: protegido por
+  - strong: reCAPTCHA

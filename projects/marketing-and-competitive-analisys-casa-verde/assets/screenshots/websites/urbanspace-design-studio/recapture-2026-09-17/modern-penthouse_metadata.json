@@ -1,0 +1,899 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "modern-penthouse",
+  "requestedURL": "https://urbanspacedesign.com/project/modern-penthouse/",
+  "url": "https://urbanspacedesign.com/project/modern-penthouse/",
+  "visitedAt": "2026-09-17T15:50:28.140Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_modern-penthouse.png"
+  ],
+  "shots": [
+    {
+      "file": "modern-penthouse_document-01.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 0 CSS px; sequential gallery coverage",
+      "y": 0,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-01.png"
+    },
+    {
+      "file": "modern-penthouse_document-02.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 900 CSS px; sequential gallery coverage",
+      "y": 900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-02.png"
+    },
+    {
+      "file": "modern-penthouse_document-03.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 1800 CSS px; sequential gallery coverage",
+      "y": 1800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-03.png"
+    },
+    {
+      "file": "modern-penthouse_document-04.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 2700 CSS px; sequential gallery coverage",
+      "y": 2700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-04.png"
+    },
+    {
+      "file": "modern-penthouse_document-05.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 3600 CSS px; sequential gallery coverage",
+      "y": 3600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-05.png"
+    },
+    {
+      "file": "modern-penthouse_document-06.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 4500 CSS px; sequential gallery coverage",
+      "y": 4500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-06.png"
+    },
+    {
+      "file": "modern-penthouse_document-07.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 5400 CSS px; sequential gallery coverage",
+      "y": 5400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-07.png"
+    },
+    {
+      "file": "modern-penthouse_document-08.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 6300 CSS px; sequential gallery coverage",
+      "y": 6300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-08.png"
+    },
+    {
+      "file": "modern-penthouse_document-09.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 7200 CSS px; sequential gallery coverage",
+      "y": 7200,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-09.png"
+    },
+    {
+      "file": "modern-penthouse_document-10.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 8100 CSS px; sequential gallery coverage",
+      "y": 8100,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-10.png"
+    },
+    {
+      "file": "modern-penthouse_document-11.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 9000 CSS px; sequential gallery coverage",
+      "y": 9000,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-11.png"
+    },
+    {
+      "file": "modern-penthouse_document-12.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 9900 CSS px; sequential gallery coverage",
+      "y": 9900,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-12.png"
+    },
+    {
+      "file": "modern-penthouse_document-13.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 10800 CSS px; sequential gallery coverage",
+      "y": 10800,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-13.png"
+    },
+    {
+      "file": "modern-penthouse_document-14.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 11700 CSS px; sequential gallery coverage",
+      "y": 11700,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-14.png"
+    },
+    {
+      "file": "modern-penthouse_document-15.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 12600 CSS px; sequential gallery coverage",
+      "y": 12600,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-15.png"
+    },
+    {
+      "file": "modern-penthouse_document-16.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 13500 CSS px; sequential gallery coverage",
+      "y": 13500,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-16.png"
+    },
+    {
+      "file": "modern-penthouse_document-17.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 14400 CSS px; sequential gallery coverage",
+      "y": 14400,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-17.png"
+    },
+    {
+      "file": "modern-penthouse_document-18.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 15300 CSS px; sequential gallery coverage",
+      "y": 15300,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-18.png"
+    },
+    {
+      "file": "modern-penthouse_document-19.png",
+      "type": "document-segment",
+      "section": "Visible viewport at document offset 15314 CSS px; sequential gallery coverage",
+      "y": 15314,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_document-19.png"
+    },
+    {
+      "file": "modern-penthouse_gallery-01.png",
+      "type": "gallery",
+      "section": "Modern Penthouse",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-scaled.jpg",
+      "width": 1440,
+      "height": 800,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_gallery-01.png"
+    },
+    {
+      "file": "modern-penthouse_gallery-02.png",
+      "type": "gallery",
+      "section": "Modern Penthouse",
+      "imageIndex": 11,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7623_K2-1-768x576.jpg",
+      "width": 797,
+      "height": 598,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_gallery-02.png"
+    },
+    {
+      "file": "modern-penthouse_gallery-03.png",
+      "type": "gallery",
+      "section": "Modern Penthouse",
+      "imageIndex": 20,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7378_K2-768x1024.jpg",
+      "width": 638,
+      "height": 850,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_gallery-03.png"
+    },
+    {
+      "file": "modern-penthouse_gallery-04.png",
+      "type": "gallery",
+      "section": "Modern Penthouse",
+      "imageIndex": 29,
+      "sourceImage": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7105_K2-768x1024.jpg",
+      "width": 460,
+      "height": 612,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+        "limitations": [],
+        "preferred": [
+          "modern-penthouse_gallery-03.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/modern-penthouse_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Full-page PNG rejected after visual review because gallery content below the opening failed to paint; complete overlapping viewport segments replace it"
+  ],
+  "state": {
+    "height": 16314,
+    "beforeY": null,
+    "title": "Modern Penthouse – Urbanspace Design Studio",
+    "text": "Skip to content\nMODERN PENTHOUSE\nPREVIOUS PROJECT\nThe Modern Austin Residences\nNEXT PROJECT\nClarksville Home\n301 West Ave #100, Austin, TX 78701\ndesign@urbanspaceinteriors.com · 512.457.0014\n©2026 Urbanspace Design Studio",
+    "images": [
+      {
+        "i": 2,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-scaled.jpg",
+        "x": 0,
+        "y": 150,
+        "w": 1425,
+        "h": 800,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142090004-1671x2048.jpg",
+        "x": 60.5,
+        "y": 998,
+        "w": 1304,
+        "h": 1598.515625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142090002-768x941.jpg",
+        "x": 60.5,
+        "y": 2626.515625,
+        "w": 679.28125,
+        "h": 832.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060031-Edit-731x1024.jpg",
+        "x": 769.78125,
+        "y": 2626.515625,
+        "w": 594.71875,
+        "h": 833.09375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060024-731x1024.jpg",
+        "x": 60.5,
+        "y": 3489.609375,
+        "w": 658.921875,
+        "h": 923.03125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060014-768x1152.jpg",
+        "x": 749.421875,
+        "y": 3489.609375,
+        "w": 615.078125,
+        "h": 922.609375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7073-768x960.jpg",
+        "x": 60.5,
+        "y": 4442.640625,
+        "w": 696.5,
+        "h": 870.625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-scaled.jpg",
+        "x": 787,
+        "y": 4442.640625,
+        "w": 577.5,
+        "h": 870.65625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7686_K2-1-768x960.jpg",
+        "x": 60.5,
+        "y": 5343.296875,
+        "w": 477.796875,
+        "h": 597.234375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7623_K2-1-768x576.jpg",
+        "x": 568.296875,
+        "y": 5343.296875,
+        "w": 796.203125,
+        "h": 597.140625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7595_K-731x1024.jpg",
+        "x": 60.5,
+        "y": 5970.53125,
+        "w": 621.421875,
+        "h": 870.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7586_K-768x1024.jpg",
+        "x": 711.921875,
+        "y": 5970.53125,
+        "w": 652.578125,
+        "h": 870.09375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7540_K-768x960.jpg",
+        "x": 60.5,
+        "y": 6871.03125,
+        "w": 657.59375,
+        "h": 821.984375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7501_K-768x1024.jpg",
+        "x": 748.09375,
+        "y": 6871.03125,
+        "w": 616.40625,
+        "h": 821.875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7454_K-768x960.jpg",
+        "x": 60.5,
+        "y": 7723.015625,
+        "w": 694.953125,
+        "h": 868.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7430_K2-768x1152.jpg",
+        "x": 785.453125,
+        "y": 7723.015625,
+        "w": 579.046875,
+        "h": 868.5625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7412_K-768x1024.jpg",
+        "x": 60.5,
+        "y": 8621.703125,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7393_K-768x1024.jpg",
+        "x": 727.5,
+        "y": 8621.703125,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7378_K2-768x1024.jpg",
+        "x": 60.5,
+        "y": 9501.03125,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 21,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7368_K2-768x1024.jpg",
+        "x": 727.5,
+        "y": 9501.03125,
+        "w": 637,
+        "h": 849.328125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 22,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7303_K2-768x1024.jpg",
+        "x": 60.5,
+        "y": 10380.359375,
+        "w": 444.375,
+        "h": 592.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 23,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7278_K2-1-768x549.jpg",
+        "x": 534.875,
+        "y": 10380.359375,
+        "w": 829.625,
+        "h": 593.046875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 24,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7250_K-768x576.jpg",
+        "x": 60.5,
+        "y": 11003.40625,
+        "w": 599.53125,
+        "h": 449.640625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 25,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7226_K2-1-768x512.jpg",
+        "x": 690.03125,
+        "y": 11003.40625,
+        "w": 674.46875,
+        "h": 449.640625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 26,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7191_K2-1-768x614.jpg",
+        "x": 60.5,
+        "y": 11483.046875,
+        "w": 616.40625,
+        "h": 492.796875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 27,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7169_K2-768x576.jpg",
+        "x": 706.90625,
+        "y": 11483.046875,
+        "w": 657.59375,
+        "h": 493.1875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 28,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7121_K2-1-768x576.jpg",
+        "x": 60.5,
+        "y": 12006.234375,
+        "w": 815.359375,
+        "h": 611.515625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 29,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7105_K2-768x1024.jpg",
+        "x": 905.859375,
+        "y": 12006.234375,
+        "w": 458.640625,
+        "h": 611.515625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 30,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7054_K2-2-768x576.jpg",
+        "x": 60.5,
+        "y": 12647.75,
+        "w": 796.203125,
+        "h": 597.140625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 31,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH7009_K2-768x960.jpg",
+        "x": 886.703125,
+        "y": 12647.75,
+        "w": 477.796875,
+        "h": 597.234375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 32,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH6987_K2-731x1024.jpg",
+        "x": 60.5,
+        "y": 13274.984375,
+        "w": 621.421875,
+        "h": 870.5,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 33,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20260204_Urbanspace_PH6952_K2-768x1024.jpg",
+        "x": 711.921875,
+        "y": 13274.984375,
+        "w": 652.578125,
+        "h": 870.09375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 34,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6283-1-768x1152.jpg",
+        "x": 60.5,
+        "y": 14175.484375,
+        "w": 599.53125,
+        "h": 899.296875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 35,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6266-1-768x1024.jpg",
+        "x": 690.03125,
+        "y": 14175.484375,
+        "w": 674.46875,
+        "h": 899.28125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 36,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6303-4-768x768.jpg",
+        "x": 60.5,
+        "y": 15104.78125,
+        "w": 747.46875,
+        "h": 747.46875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 37,
+        "alt": "Modern Penthouse",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20251204_The-Modern_PH6363-noperson-1-721x1024.jpg",
+        "x": 837.96875,
+        "y": 15104.78125,
+        "w": 526.53125,
+        "h": 747.796875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of sequential page coverage, including the page ending and supplemental photographs",
+    "limitations": [],
+    "preferred": [
+      "modern-penthouse_gallery-03.png"
+    ]
+  }
+}

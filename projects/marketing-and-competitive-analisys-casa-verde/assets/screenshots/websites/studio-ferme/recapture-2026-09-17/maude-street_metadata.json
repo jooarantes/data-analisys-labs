@@ -1,0 +1,72 @@
+{
+  "slug": "studio-ferme",
+  "stem": "maude-street",
+  "url": "https://www.studioferme.com/maude-st-millwork",
+  "requestedURL": "https://www.studioferme.com/maude-st-millwork",
+  "visitedAt": "2026-09-17T15:33:56.692Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_maude-street.png"
+  ],
+  "shots": [
+    {
+      "file": "maude-street_full-page.png",
+      "type": "full-page",
+      "section": "Opening state of horizontal gallery",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/maude-street_full-page.png"
+    },
+    {
+      "file": "maude-street_gallery-01.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 1 of 2",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1556468361794-QI28JIJ4L61OSJLA0CB7/Leonid_Furmansky_2019_Mar+19+201916850Mar+19+2019.jpg?format=750w",
+      "width": 747,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/maude-street_gallery-01.png"
+    },
+    {
+      "file": "maude-street_gallery-02.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 2 of 2",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1556468380832-BWO2IXCHRMWMU9CR5JIM/Leonid_Furmansky_2019_Mar+19+201916858Mar+19+2019.jpg?format=500w",
+      "width": 321,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/maude-street_gallery-02.png"
+    }
+  ],
+  "issues": [
+    "Horizontal gallery: the complete document screenshot records the opening state; supplemental photographs cover selected gallery positions"
+  ],
+  "state": {
+    "height": 1000,
+    "galleryImageCount": 2
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}

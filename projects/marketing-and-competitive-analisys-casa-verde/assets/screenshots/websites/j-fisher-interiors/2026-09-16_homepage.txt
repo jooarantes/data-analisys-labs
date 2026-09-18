@@ -1,0 +1,39 @@
+- banner:
+  - link "J.Fisher Interiors J.Fisher Interiors":
+    - /url: https://jfisherinteriors.com/
+    - img "J.Fisher Interiors"
+    - img "J.Fisher Interiors"
+  - link "Toggle Menu":
+    - /url: "#"
+    - generic: 
+- heading "Architectural Digest-Approved Luxury Interior Designer in Austin, Tx" [level=1]
+- heading "Every space deserves a soul" [level=3]
+- heading "Refined luxury interior design rooted in art, culture & lived character." [level=3]
+- paragraph: As luxury interior designers in Austin, Texas, we create homes with presence, spaces that feel lived in, layered, and distinctly personal.
+- paragraph: With more than 20 years of experience, our studio blends craftsmanship, intuition, and storytelling to craft interiors that feel as natural as they are elevated. From concept to completion, we transform custom homes, remodels, and commercial spaces into soulful reflections of the people who inhabit them.
+- link "our portfolio":
+  - /url: /portfolio/
+  - generic: our portfolio
+- 'heading "Our Projects: Luxury Interior Designers in Austin" [level=2]'
+- paragraph: As Austin interior designers, we work with clients who appreciate thoughtful detail, refined aesthetics, and exceptional craftsmanship. Our bespoke design process is intentionally tailored to create a home that feels timeless, luxurious, and unmistakably yours.
+- region "Carousel":
+  - group "1 of 8":
+    - link:
+      - /url: https://jfisherinteriors.com/portfolio/woodview/
+    - heading "Woodview" [level=3]
+  - group "2 of 8":
+    - link "wine rack":
+      - /url: https://jfisherinteriors.com/portfolio/portfolio-bell-mountain/
+      - img "wine rack"
+    - heading "Bell Mountain" [level=3]
+  - group "3 of 8":
+    - link:
+      - /url: https://jfisherinteriors.com/portfolio/mid-atlantic/
+    - heading "Mid Atlantic" [level=3]
+  - group "4 of 8":
+    - link:
+      - /url: https://jfisherinteriors.com/portfolio/willow-city-ranch/
+    - heading "Willow City Ranch" [level=3]
+  - group "5 of 8":
+    - link:
+      - /url: https://jfisherinteriors.com/portfolio/westlake-remodel/

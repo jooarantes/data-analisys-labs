@@ -1,0 +1,79 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - main:
+    - article:
+      - region "Project hero":
+        - img "Avon Retreat"
+        - heading "Avon Retreat" [level=1]
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Living-Coffee-Table-Detail-3-175mb-Corrected.jpg
+        - img "Avon Retreat"
+      - paragraph:
+        - strong: COMPLETED
+        - text: "2024"
+      - paragraph:
+        - strong: LOCATION
+        - text: Avon, Colorado
+      - paragraph:
+        - strong: TYPE
+        - text: Residential
+      - paragraph:
+        - strong: DESIGNER
+        - text: Merrill Alley, Jessica Nash, Natalie Hardej, Laura Kucan
+      - paragraph:
+        - strong: PHOTOGRAPHER
+        - text: David Patterson, Photography
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Powder-Room-212mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Bunk-Room-Seating-263mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Bunkbed-One-Point-235mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-1.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-River-Front-05-05-24-Secondary-Bedroom-183mb-Corrected-1215x1536.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-05-24-Hall-Primary-Bedroom-185mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-05-24-Primary-Bedroom-203mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-06-24-Kitchen-Detail-One-Point-129mb-Corrected-1536x1229.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Edge-Riverfront-06-06-24-Living-Room-166mb-Corrected.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-River-Front-05-05-24-Living-Coffee-Table-Detail-1-151mb.jpg
+        - img "Avon Retreat"
+      - link "Avon Retreat":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-2.jpg
+        - img "Avon Retreat"
+      - navigation "Project navigation":
+        - link "Previous Project Seaholm Penthouse":
+          - /url: https://urbanspacedesign.com/project/seaholmpenthouse/
+          - generic: Previous Project
+          - generic: Seaholm Penthouse
+        - link "Next Project The Modern Austin Residences":
+          - /url: https://urbanspacedesign.com/project/themodern/
+          - generic: Next Project
+          - generic: The Modern Austin Residences
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

@@ -1,0 +1,430 @@
+{
+  "slug": "studio-ferme",
+  "stem": "aia-corroboration",
+  "requestedURL": "https://www.aia.org/design-excellence/award-winners/theresa-passive-house",
+  "url": "https://www.aia.org/design-excellence/award-winners/theresa-passive-house",
+  "visitedAt": "2026-09-17T15:38:57.574Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_aia-corroboration.png",
+    "2026-09-16_aia-resources.png"
+  ],
+  "shots": [
+    {
+      "file": "aia-corroboration_full-page.png",
+      "type": "full-page",
+      "section": "Complete document with Resources and Project Team expanded; cookie notice and survey dismissed",
+      "width": 1425,
+      "height": 8125,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_full-page.png"
+    },
+    {
+      "file": "aia-corroboration_section-01.png",
+      "type": "section",
+      "section": "Document offset 1781 CSS px",
+      "y": 1781,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_section-01.png"
+    },
+    {
+      "file": "aia-corroboration_section-02.png",
+      "type": "section",
+      "section": "Document offset 3563 CSS px",
+      "y": 3563,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_section-02.png"
+    },
+    {
+      "file": "aia-corroboration_section-03.png",
+      "type": "section",
+      "section": "Document offset 5344 CSS px",
+      "y": 5344,
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_section-03.png"
+    },
+    {
+      "file": "aia-corroboration_carousel-1.png",
+      "type": "carousel",
+      "section": "AIA project gallery state after 1 Next actions",
+      "width": 871,
+      "height": 490,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_carousel-1.png"
+    },
+    {
+      "file": "aia-corroboration_carousel-2.png",
+      "type": "carousel",
+      "section": "AIA project gallery state after 2 Next actions",
+      "width": 871,
+      "height": 490,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/aia-corroboration_carousel-2.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 8125,
+    "beforeY": null,
+    "title": "Theresa Passive House | The American Institute of Architects",
+    "text": "Skip to main content\nUtility Menu - Desktop\nTo navigate items, use the arrow, home, and end keys.\nEvents\nCourses\nContracts\nMasterSpec\nPartner with AIA\nAIA Architect\nAIA Design Shop\nAIA Global Campus\nLOGIN\nBECOME A MEMBER\nSEARCH\nMENU\nBreadcrumb\nHome|Design excellence|Award winners|Theresa passive H...\nTheresa Passive House\nAPRIL 18, 2024\n\nThe award-",
+    "images": [
+      {
+        "i": 2,
+        "alt": "Theresa Passive House offers a path to engaging homebuilding with more mindfulness and persistence in climate action.",
+        "src": "https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-04/theresa_passive_house_-_01.jpg?h=0234675c&itok=uQG4FSAK",
+        "x": 668.984375,
+        "y": 165.54063415527344,
+        "w": 667,
+        "h": 375.043701171875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "Completed in 2020, the home is a pilot project for the PHIUS 2018+ Source Zero standard and one of the first Passive House projects located in a hot, humid climate.",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_05.jpg?itok=5HHodbeB",
+        "x": -1462.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "Theresa Passive House offers a path to engaging homebuilding with more mindfulness and persistence in climate action.",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_01.jpg?itok=hDF1gMS4",
+        "x": -592.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_02.jpg?itok=j3rSWWd0",
+        "x": 277.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "The project’s mindful finishes and interior design, in harmony with thermal comfort and air quality, lend a feeling of ease and wellbeing in the home. ",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-03.jpg?itok=8fqY-Mu6",
+        "x": 1147.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "Theresa Passive House is a highperformance renovation and addition that blends the historic preservation of a 1914 Craftsman bungalow with a modern volume and innovative sustainable design. ",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_04_0.jpg?itok=ClWYTL4B",
+        "x": 2017.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "Completed in 2020, the home is a pilot project for the PHIUS 2018+ Source Zero standard and one of the first Passive House projects located in a hot, humid climate.",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_05.jpg?itok=5HHodbeB",
+        "x": 2887.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "Theresa Passive House offers a path to engaging homebuilding with more mindfulness and persistence in climate action.",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_01.jpg?itok=hDF1gMS4",
+        "x": 3757.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-_02.jpg?itok=j3rSWWd0",
+        "x": 4627.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "The project’s mindful finishes and interior design, in harmony with thermal comfort and air quality, lend a feeling of ease and wellbeing in the home. ",
+        "src": "https://www.aia.org/sites/default/files/styles/max_1300x1300/public/2024-04/theresa_passive_house_-03.jpg?itok=8fqY-Mu6",
+        "x": 5497.5,
+        "y": 690.203125,
+        "w": 870,
+        "h": 489.203125,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "AlbinaOne_22_LaraSwimmer_3200x1800.jpg",
+        "src": "https://www.aia.org/sites/default/files/styles/square_650x650/public/2026-04/AlbinaOne_22_LaraSwimmer_3200x1800.jpg?h=f0fb51a5&itok=oUd7Y1m3",
+        "x": 132.5,
+        "y": 6794.171875,
+        "w": 325,
+        "h": 325,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 18,
+        "alt": "Completed in 2020, the home is a pilot project for the PHIUS 2018+ Source Zero standard and one of the first Passive House projects located in a hot, humid climate.",
+        "src": "https://www.aia.org/sites/default/files/styles/square_650x650/public/2024-04/theresa_passive_house_-_05.jpg?h=0234675c&itok=E2pqZIXG",
+        "x": 529.78125,
+        "y": 6794.171875,
+        "w": 325,
+        "h": 325,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "The design team created a smart floor plan with ample storage for the everyday activities of an active, young family",
+        "src": "https://www.aia.org/sites/default/files/styles/square_650x650/public/2024-04/theresa_passive_house_-_02.jpg?h=0234675c&itok=tR004cWR",
+        "x": 927.0625,
+        "y": 6794.171875,
+        "w": 325,
+        "h": 325,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "SEARCH",
+        "aria": "Search"
+      },
+      {
+        "text": "MENU",
+        "aria": "Open Menu"
+      },
+      {
+        "text": "\n          \n        ",
+        "aria": "Clear search input."
+      },
+      {
+        "text": "\n          \n        ",
+        "aria": "Search"
+      },
+      {
+        "text": "",
+        "aria": "Go to last slide"
+      },
+      {
+        "text": "",
+        "aria": "Next slide"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 1"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 2"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 3"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 4"
+      },
+      {
+        "text": "",
+        "aria": "Go to slide 5"
+      },
+      {
+        "text": "Design for Integration",
+        "aria": null
+      },
+      {
+        "text": "Design for Equitable Communities",
+        "aria": null
+      },
+      {
+        "text": "Design for Ecosystems",
+        "aria": null
+      },
+      {
+        "text": "Design for Water",
+        "aria": null
+      },
+      {
+        "text": "Design for Energy",
+        "aria": null
+      },
+      {
+        "text": "Design for Well-being",
+        "aria": null
+      },
+      {
+        "text": "Design for Resources",
+        "aria": null
+      },
+      {
+        "text": "Design for Change",
+        "aria": null
+      },
+      {
+        "text": "Design for Discovery",
+        "aria": null
+      },
+      {
+        "text": "Project Attributes",
+        "aria": null
+      },
+      {
+        "text": "Project Team",
+        "aria": null
+      },
+      {
+        "text": "Jury, Housing Award 2024",
+        "aria": null
+      },
+      {
+        "text": "I consent to cookies ",
+        "aria": null
+      },
+      {
+        "text": "Want to know more?",
+        "aria": null
+      },
+      {
+        "text": "Toggle Submenu",
+        "aria": "Design Excellence"
+      },
+      {
+        "text": "Toggle Submenu",
+        "aria": "Careers"
+      },
+      {
+        "text": "Toggle Submenu",
+        "aria": "Community & Events"
+      },
+      {
+        "text": "Toggle Submenu",
+        "aria": "Government Affairs"
+      },
+      {
+        "text": "Toggle Submenu",
+        "aria": "Resource Center"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "A fixed white strip crosses the full-page carousel. Separate carousel images provide readable photographs. Resources and Project Team panels are expanded; other panels retain their visible state"
+    ],
+    "preferred": []
+  }
+}

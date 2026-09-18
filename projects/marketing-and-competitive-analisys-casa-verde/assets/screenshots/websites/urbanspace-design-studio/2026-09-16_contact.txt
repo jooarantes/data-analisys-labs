@@ -1,0 +1,67 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - article:
+    - figure
+    - heading "HAVE A PROJECT IN MIND? LET’S CHAT" [level=2]:
+      - strong: HAVE A PROJECT IN MIND?
+      - text: LET’S CHAT
+    - generic: "Name:"
+    - textbox "Name:"
+    - generic: "Email:"
+    - textbox "Email:"
+    - generic: "Tell us a bit about your project:"
+    - textbox "Tell us a bit about your project:"
+    - group "How can we help? (select all that apply)":
+      - generic: How can we help? (select all that apply)
+      - checkbox "Commercial"
+      - generic: Commercial
+      - checkbox "Residential"
+      - generic: Residential
+      - checkbox "Other"
+      - generic: Other
+    - generic: Do you have a budget range in mind?
+    - radio "$50,000 – $100,000"
+    - generic: $50,000 – $100,000
+    - radio "$100,000 – $200,000"
+    - generic: $100,000 – $200,000
+    - radio "$200,000 – $300,000"
+    - generic: $200,000 – $300,000
+    - radio "$300,000+"
+    - generic: $300,000+
+    - group "How did you hear about us? (optional)":
+      - generic: How did you hear about us? (optional)
+      - checkbox "Referral"
+      - generic: Referral
+      - checkbox "Internet"
+      - generic: Internet
+      - checkbox "Friend"
+      - generic: Friend
+      - checkbox "Other"
+      - generic: Other
+    - button "SEND MESSAGE"
+    - heading "Just want to send an email?" [level=2]:
+      - strong: Just want to send an email?
+    - paragraph:
+      - text: Contact us at
+      - link "design@urbanspaceinteriors.com":
+        - /url: mailto:design@urbanspaceinteriors.com
+    - paragraph:
+      - text: This site is protected by reCAPTCHA and the Google
+      - link "Privacy Policy":
+        - /url: https://policies.google.com/privacy
+      - text: and
+      - link "Terms of Service":
+        - /url: https://policies.google.com/terms
+      - text: apply.
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

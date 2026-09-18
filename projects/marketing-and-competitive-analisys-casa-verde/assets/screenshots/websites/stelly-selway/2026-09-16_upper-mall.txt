@@ -1,0 +1,41 @@
+- banner:
+  - link:
+    - /url: /
+  - button:
+- link "Back":
+  - /url: /
+- heading "Upper Mall" [level=1]
+- heading "Upper Mall" [level=2]
+- generic: Victorian Townhouse Interior Design and Architecture in West London
+- paragraph: A Victorian townhouse interior design and interior architecture project on Upper Mall, West London, overlooking the River Thames. This full gut renovation included a new basement, loft and rear extension, transforming the property into a refined family home rooted in craftsmanship and a strong sense of place.
+- paragraph: Stelly Selway designed a bespoke kitchen, four bathrooms, four reception rooms, five bedrooms establishing a cohesive interior language across the entire house. Softly Limewashed walls, on the ground floor combine with natural materials and custom joinery creating warmth and atmosphere, drawing on the changing light and landscape of the river beyond.
+- paragraph: Bespoke elements define the project, including a custom George Smith sofas, shōji-style sliding doors crafted in timber and hemp linen wrap the basement and Primary, custom stone vanities in the bathrooms and sculptural lighting from Aerin, Bocci and Volker Haug.
+- figure
+- contentinfo:
+  - link "Austin":
+    - /url: /Austin
+    - paragraph: Austin
+  - generic: 12:23:52 pm
+  - paragraph: 805 1/2 W 16th Street
+  - paragraph: The Perch
+  - paragraph: Austin, TX 78701
+  - link:
+    - /url: https://www.instagram.com/stellyselway/
+  - link:
+    - /url: https://www.facebook.com/stellyselway/
+  - link:
+    - /url: https://www.linkedin.com/company/stelly-selway
+  - link:
+    - /url: https://open.spotify.com/user/pm8hdcrx8dasi7f3jy1qtbdnf?si=IzkO2TJeSdKVfUnjuS13bQ
+  - link:
+    - /url: https://mailchi.mp/stellyselway/subscribe-to-the-newsletter
+  - link "info@stellyselway.com":
+    - /url: mailto:info@stellyselway.com
+  - link "London":
+    - /url: /London
+    - paragraph: London
+  - generic: 6:23:52 pm
+  - paragraph: 4 Bramber Court
+  - paragraph: 2 Bramber Road
+  - paragraph: London W14 9PW
+- alert

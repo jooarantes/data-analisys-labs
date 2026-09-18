@@ -1,0 +1,90 @@
+- link:
+  - /url: /
+- link:
+  - /url: /accounts/login/?next=%2Ftheurbanedesign%2Fp%2FDctXtruMUX_%2F&source=desktop_nav
+  - text: Entrar
+- link:
+  - /url: /accounts/emailsignup/
+  - text: Cadastre-se
+- main:
+  - article:
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - link:
+        - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - text: theurbanedesign
+    - generic: •
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Seguir
+    - button:
+    - button:
+    - button:
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - generic: 121 curtidas
+    - link:
+      - /url: /theurbanedesign/
+      - generic: theurbanedesign
+    - heading [level=1]:
+      - text: Thank you
+      - link:
+        - /url: /austin_home/
+        - text: "@austin_home"
+      - text: for once again naming Urbane Design one of Austin’s Best Interior Designers for 2026.
+    - text: ...
+    - button:
+      - generic: mais
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Ver todos os 37 comentários
+    - link:
+      - /url: intent://instagram.com/theurbanedesign/p/DctXtruMUX_?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - time: 31 de agosto
+  - separator
+  - text: Mais posts de
+  - link:
+    - /url: /theurbanedesign/
+    - text: theurbanedesign
+  - link:
+    - /url: /theurbanedesign/p/DWrdpktAmml/
+  - link:
+    - /url: /theurbanedesign/p/Db3zfCKC7oy/
+  - link:
+    - /url: /theurbanedesign/reel/DblXmb3hLCJ/
+  - link:
+    - /url: /stardustranchtx/p/DdWc3UFEhct/
+  - link:
+    - /url: /theurbanedesign/p/DdUI3YlCjij/
+  - link:
+    - /url: /theurbanedesign/p/DdHbIL8Ghe-/
+  - link:
+    - /url: /stardustranchtx/p/DdEeIIljkyj/
+  - link:
+    - /url: /theurbanedesign/reel/DcpHyqtK-h_/
+  - link:
+    - /url: /theurbanedesign/p/Dcn-D3QMs8r/
+  - link:
+    - /url: /theurbanedesign/
+    - generic: Ver mais posts
+  - separator
+- dialog:
+  - button "Fechar" [active]:
+    - img "Fechar"
+  - button "Ir para o aplicativo":
+    - img "Ir para o aplicativo"
+  - generic: Tenha a experiência completa
+  - generic: Entre ou cadastre-se para ter a experiência completa.
+  - text: Ao continuar, você concorda com os
+  - link "Termos de Uso":
+    - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+  - text: e a
+  - link "Política de Privacidade":
+    - /url: https://privacycenter.instagram.com/policy/
+  - text: do Instagram.
+  - button "Cadastre-se"
+  - button "Entrar"

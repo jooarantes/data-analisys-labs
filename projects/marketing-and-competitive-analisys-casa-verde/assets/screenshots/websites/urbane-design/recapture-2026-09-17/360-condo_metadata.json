@@ -1,0 +1,342 @@
+{
+  "slug": "urbane-design",
+  "stem": "360-condo",
+  "requestedURL": "https://urbanedesignstudios.com/project/360-condo/",
+  "url": "https://urbanedesignstudios.com/project/360-condo/",
+  "visitedAt": "2026-09-17T15:39:54.212Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_360-condo.png"
+  ],
+  "shots": [
+    {
+      "file": "360-condo_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 14363,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "360-condo_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/360-condo_full-page.png"
+    },
+    {
+      "file": "360-condo_gallery-01.png",
+      "type": "gallery",
+      "section": "Visible project photograph 1",
+      "imageIndex": 2,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-5-scaled.jpg",
+      "width": 499,
+      "height": 747,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "360-condo_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/360-condo_gallery-01.png"
+    },
+    {
+      "file": "360-condo_gallery-02.png",
+      "type": "gallery",
+      "section": "Visible project photograph 4",
+      "imageIndex": 5,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-1-scaled.jpg",
+      "width": 499,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "360-condo_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/360-condo_gallery-02.png"
+    },
+    {
+      "file": "360-condo_gallery-03.png",
+      "type": "gallery",
+      "section": "Visible project photograph 8",
+      "imageIndex": 9,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-10-scaled.jpg",
+      "width": 1029,
+      "height": 1543,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "360-condo_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/360-condo_gallery-03.png"
+    },
+    {
+      "file": "360-condo_gallery-04.png",
+      "type": "gallery",
+      "section": "Visible project photograph 12",
+      "imageIndex": 13,
+      "sourceImage": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-17-scaled.jpg",
+      "width": 498,
+      "height": 748,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "360-condo_gallery-01.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/urbane-design/recapture-2026-09-17/360-condo_gallery-04.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 14363,
+    "beforeY": null,
+    "title": "360 Condo – Urbane Design",
+    "text": "Skip to content\nPROJECTS\nSERVICES\nAPPROACH\nABOUT\nCONTACT\nDESIGN NOTES\nHIRE US\n360 Condo\n\nLOCATION\nAUSTIN, TX\n\nYEAR\n2023\n\nCATEGORY\nREMODEL\n\nPHOTOGRAPHER\n\n\nContact Us\n\nInterested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.\n\nemail: jlove@urbanedesignstudios.com\n\ncall: 512-522-6035\n\n",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-5-scaled.jpg",
+        "x": 198.5,
+        "y": 1337,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 3,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-7-scaled.jpg",
+        "x": 198.5,
+        "y": 2115.84375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-8.jpg",
+        "x": 198.5,
+        "y": 3689.53125,
+        "w": 497.96875,
+        "h": 331.90625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-1-scaled.jpg",
+        "x": 728.5,
+        "y": 3689.53125,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-2-scaled.jpg",
+        "x": 198.5,
+        "y": 4468.375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-3-scaled.jpg",
+        "x": 198.5,
+        "y": 6042.0625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-9-scaled.jpg",
+        "x": 728.5,
+        "y": 6042.0625,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-10-scaled.jpg",
+        "x": 198.5,
+        "y": 6820.90625,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-13-scaled.jpg",
+        "x": 198.5,
+        "y": 8394.59375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-20-scaled.jpg",
+        "x": 728.5,
+        "y": 8394.59375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-16.jpg",
+        "x": 198.5,
+        "y": 9173.4375,
+        "w": 1027.984375,
+        "h": 685.15625,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 13,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-17-scaled.jpg",
+        "x": 198.5,
+        "y": 9890.59375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-19-scaled.jpg",
+        "x": 728.5,
+        "y": 9890.59375,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-21-scaled.jpg",
+        "x": 198.5,
+        "y": 10669.4375,
+        "w": 1027.984375,
+        "h": 1541.6875,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanedesignstudios.com/wp-content/uploads/2023/10/360-Condos-Austin-TX-2023-23-scaled.jpg",
+        "x": 198.5,
+        "y": 12243.125,
+        "w": 497.984375,
+        "h": 746.84375,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "HIRE US",
+        "aria": "Hire Us"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t",
+        "aria": "Main menu toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Menu Toggle"
+      },
+      {
+        "text": "\n                \n                ",
+        "aria": "Toggle Menu"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "360-condo_gallery-01.png"
+    ]
+  }
+}

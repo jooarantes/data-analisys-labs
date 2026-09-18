@@ -1,0 +1,89 @@
+- link "Instagram":
+  - /url: /
+  - img "Instagram"
+- link "Entrar":
+  - /url: /accounts/login/?next=%2Furbanspacedesignstudio%2Fp%2FDc4O7MJzdyF%2F&source=desktop_nav
+- link "Cadastre-se":
+  - /url: /accounts/emailsignup/
+- main:
+  - article:
+    - link "Foto do perfil de urbanspacedesignstudio":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - link "Foto do perfil de urbanspacedesignstudio":
+        - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+        - img "Foto do perfil de urbanspacedesignstudio"
+    - link "urbanspacedesignstudio":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+    - generic: •
+    - link "Seguir":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - generic: Seguir
+    - link "Austin, Texas":
+      - /url: /explore/locations/103023564486265/austin-texas/
+    - button "Mais opções":
+      - img "Mais opções"
+    - img "Photo by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de texto que diz \"WE'RE HIRING A designer er passionate about creating thoughtful, dynamic spaces with 5+ years experience. Leam more in the caption.\"."
+    - button "Curtir":
+      - img "Curtir"
+    - button "Comentar":
+      - img "Comentar"
+    - link "Compartilhar":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Compartilhar"
+    - link "Salvar":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - img "Salvar"
+    - generic: 38 curtidas
+    - link "urbanspacedesignstudio":
+      - /url: /urbanspacedesignstudio/
+      - generic: urbanspacedesignstudio
+    - heading "Life’s too short for boring interiors." [level=1]
+    - text: ...
+    - button "mais":
+      - generic: mais
+    - link "4 de setembro":
+      - /url: intent://instagram.com/urbanspacedesignstudio/p/Dc4O7MJzdyF?ig_mid=29081547-E5D7-466E-B52A-588900EC4CCF&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=ms-windows-store%3A%2F%2Fpdp%2F%3Fproductid%3D9nblggh5l9xt%26referrer%3Dappbadge%26source%3Dwww.instagram.com%26mode%3Dmini%26pos%3D1280%2C696%2C1280%2C696;end
+      - time: 4 de setembro
+  - separator
+  - text: Mais posts de
+  - link "urbanspacedesignstudio":
+    - /url: /urbanspacedesignstudio/
+  - link "Photo by Urbanspace Design Studio on September 01, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/Dcv8DCOEazS/
+    - img "Photo by Urbanspace Design Studio on September 01, 2026."
+    - img "Carrossel"
+  - link "Photo by Modern Bar on September 12, 2026. Carrossel":
+    - /url: /modernbaratx/p/DdMePHkkWcz/
+    - img "Photo by Modern Bar on September 12, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 15, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdUNUhhEeEO/
+    - img "Photo by Urbanspace Design Studio on September 15, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 10, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdHGe83kQj0/
+    - img "Photo by Urbanspace Design Studio on September 10, 2026."
+    - img "Carrossel"
+  - link "Photo by Urbanspace Design Studio on September 08, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/DdB_p4kkdPp/
+    - img "Photo by Urbanspace Design Studio on September 08, 2026."
+    - img "Carrossel"
+  - link "Video by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de iluminação, sofá, poltrona, sala de estar, ambiente fechado e texto. Clipe":
+    - /url: /urbanspacedesignstudio/reel/Dc3zKbPJaJr/
+    - img "Video by Urbanspace Design Studio on September 04, 2026. Pode ser uma imagem de iluminação, sofá, poltrona, sala de estar, ambiente fechado e texto."
+    - img "Clipe"
+  - link "Photo by Merrill Alley on August 18, 2026. Carrossel":
+    - /url: /merrill_alley/p/DcNYQ1qjcph/
+    - img "Photo by Merrill Alley on August 18, 2026."
+    - img "Carrossel"
+  - link "Photo by Merrill Alley on August 18, 2026. Pode ser uma imagem de iluminação, abajur, sofá, poltrona, ambiente fechado, sala de estar e texto.":
+    - /url: /merrill_alley/p/DcNWCX4tD_q/
+    - img "Photo by Merrill Alley on August 18, 2026. Pode ser uma imagem de iluminação, abajur, sofá, poltrona, ambiente fechado, sala de estar e texto."
+  - link "Photo by Urbanspace Design Studio on August 12, 2026. Carrossel":
+    - /url: /urbanspacedesignstudio/p/Db9G1ucoHhM/
+    - img "Photo by Urbanspace Design Studio on August 12, 2026."
+    - img "Carrossel"
+  - link "Ver mais posts":
+    - /url: /urbanspacedesignstudio/
+    - generic: Ver mais posts
+  - separator

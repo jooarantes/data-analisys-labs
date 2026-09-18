@@ -1,0 +1,87 @@
+{
+  "slug": "stelly-selway",
+  "stem": "about",
+  "requestedURL": "https://www.stellyselway.com/about",
+  "url": "https://www.stellyselway.com/about",
+  "visitedAt": "2026-09-17T15:27:49.244Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_about.png"
+  ],
+  "shots": [
+    {
+      "file": "about_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 4356,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [
+          "The embedded video is recorded in its paused state"
+        ],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/stelly-selway/recapture-2026-09-17/about_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 4356,
+    "beforeY": null,
+    "title": "Stelly Selway | About",
+    "text": "LUXURY INTERIOR DESIGN STUDIO IN AUSTIN & LONDON\n\n\nStelly Selway is an interior design studio creating refined, characterful spaces for private clients, developers and hospitality projects, working across London, England and Austin, Texas.\n\nWe design interiors that balance architectural rigor with warmth and individuality. Our projects range from p",
+    "images": [
+      {
+        "i": 0,
+        "alt": "",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F4b9cfc7783fc4d17880ea51c9c9befcc?format=webp&width=1600",
+        "x": 0,
+        "y": 0,
+        "w": 1425,
+        "h": 1068.75,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 1,
+        "alt": "post-chiswick-road-london-Chiswick-Road-London-1 image",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F353a6e7ff5ea49929cbc230644b6d665?format=webp&width=1600",
+        "x": 765.5,
+        "y": 1128.75,
+        "w": 599.5,
+        "h": 799.125,
+        "loaded": true,
+        "opacity": "1"
+      },
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://cdn.builder.io/api/v1/image/assets%2F7e232d41c2494e9f92e68456d83a886c%2F27a8c258ae5f467bac6479c1e9ef845a?format=webp&width=1600",
+        "x": 0,
+        "y": 2614.875,
+        "w": 1425,
+        "h": 939.0625,
+        "loaded": true,
+        "opacity": "1"
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": null
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [
+      "The embedded video is recorded in its paused state"
+    ],
+    "preferred": []
+  }
+}

@@ -1,0 +1,180 @@
+- link "Skip to content":
+  - /url: "#content"
+- banner:
+  - link "Urbane Design":
+    - /url: https://urbanedesignstudios.com/
+    - img "Urbane Design"
+  - navigation "Primary Site Navigation":
+    - list:
+      - link "Projects":
+        - /url: https://urbanedesignstudios.com/projects/
+        - generic: Projects
+      - link "Services":
+        - /url: https://urbanedesignstudios.com/services/
+        - generic: Services
+      - link "Approach":
+        - /url: /urbane/approach
+        - generic: Approach
+      - link "About Menu Toggle":
+        - /url: /urbane/about
+        - generic: About
+        - button "Menu Toggle":
+      - link "Contact Menu Toggle":
+        - /url: /urbane/contact
+        - generic: Contact
+        - button "Menu Toggle":
+      - link "Design Notes":
+        - /url: https://urbanedesignstudios.com/design-notes/
+        - generic: Design Notes
+  - button "Hire Us":
+    - generic: Hire Us
+- main:
+  - article:
+    - generic "Fancy Text":
+      - heading "Prefix Suffix" [level=1]:
+        - generic "Prefix"
+        - generic "Suffix"
+    - generic "Text Editor":
+      - paragraph: Urbane Design is a full-service interior design firm specializing in remodeling, new construction, furniture, and virtual services. We partner closely with our clients, walking them through every step of the design process—from initial concepts to material selection, installation, final walkthroughs, and everything in between. Read on to learn more about our entire suite of services.
+    - generic "Heading":
+      - heading "Remodeling" [level=2]:
+        - link "Remodeling":
+          - /url: https://urbanedesignstudios.com/remodeling-services/
+    - generic "Image":
+      - link "JessicaLove_Pemberton-6":
+        - /url: https://urbanedesignstudios.com/remodeling-services/
+        - img "JessicaLove_Pemberton-6"
+    - generic "Heading":
+      - heading "Furniture" [level=2]:
+        - link "Furniture":
+          - /url: https://urbanedesignstudios.com/furniture-services/
+    - generic "Image":
+      - link "JessicaLove_Pemberton-2":
+        - /url: https://urbanedesignstudios.com/furniture-services/
+        - img "JessicaLove_Pemberton-2"
+    - generic "Heading":
+      - heading "New Construction" [level=2]:
+        - link "New Construction":
+          - /url: https://urbanedesignstudios.com/new-construction-services/
+    - generic "Image":
+      - link "(new construction) 465-Barton-Creek-Drive-2022-5":
+        - /url: https://urbanedesignstudios.com/new-construction-services/
+        - img "(new construction) 465-Barton-Creek-Drive-2022-5"
+    - generic "Heading":
+      - heading "Misty Hill Remodel" [level=2]
+    - generic "Image Comparison":
+      - generic: Before
+      - generic: After
+    - generic "Photo":
+      - figure:
+        - img "ConceptDevelopmenResizedt"
+    - generic "Heading":
+      - heading "Concept Development" [level=2]
+    - generic "Text Editor":
+      - paragraph: A strong concept is critical to the success of a project. We translate your ideas and inspirations into a detailed design plan that represents your unique budget, personality, habits and priorities. We help you discover the design identity you never knew you had.
+    - generic "Separator"
+    - generic "Photo":
+      - figure:
+        - img "FloorPlan_MistyHillResized"
+    - generic "Heading":
+      - heading "Floor Plan" [level=2]
+    - generic "Text Editor":
+      - paragraph: A detailed floor plan drawn in AutoCAD ensures that each room of your home is planned and spaced correctly. Floor plans are one-dimensional drawings that show what the room will look like from above, and they help both designer and client agree on exactly what the flow and layout of each room will be. Furthermore, they provide necessary measurements for contractors to fully understand the scope of work.
+    - generic "Separator"
+    - generic "Photo":
+      - figure:
+        - img "ElevationResized"
+    - generic "Heading":
+      - heading "Elevation" [level=2]
+    - generic "Text Editor":
+      - paragraph: AutoCAD elevations are an additional perspective from floor plans. They are two-dimensional illustrations that help you visualize how furniture, appliances, windows, and more will look in proportion to one another. This step is helpful in understanding how the room will look at scale.
+    - generic "Separator"
+    - generic "Photo":
+      - figure:
+        - img "(Photo-Realistic-3D-Rendering)01-PERAGINE-1"
+    - generic "Heading":
+      - heading "Photo Realistic 3D Rendering" [level=2]
+    - generic "Text Editor":
+      - paragraph: Once a floor plan, AutoCAD elevation and design concept are complete, we are able to create a three-dimensional photo-realistic rendering of your space, down to the very last detail. This will give you the fullest picture of your home; our renderings are often indistinguishable from photographs. This step is important because it allows our clients to see exactly what the finished product will look like before production starts.
+    - generic "Button":
+      - link "See examples":
+        - /url: /photo-realistic-3d-rendering-examples/
+- contentinfo:
+  - generic "Heading":
+    - heading "Contact Us" [level=2]
+  - generic "Text Editor":
+    - paragraph: Interested in working together? Fill out the form below to contact Urbane Design to schedule an in-home design consultation.
+    - paragraph: "email: jlove@urbanedesignstudios.com"
+    - paragraph: "call: 512-522-6035"
+  - generic "HTML":
+    - status
+    - list
+    - form "Contact form":
+      - paragraph
+      - paragraph: Name*
+      - paragraph:
+        - textbox
+      - paragraph: Email*
+      - paragraph:
+        - textbox
+      - paragraph: Message*
+      - paragraph:
+        - textbox
+      - paragraph:
+        - button "Get in Touch"
+  - generic "Heading":
+    - heading "Location" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - link "6201 Guadalupe St":
+        - /url: https://goo.gl/maps/gR2YgP1ffsXoFkpR9
+      - text: Austin TX 78752
+      - link "jlove@urbanedesignstudios.com":
+        - /url: mailto:jlove@urbanedesignstudios.com
+  - generic "Heading":
+    - heading "Hours of Operation" [level=4]
+  - generic "Text Editor":
+    - paragraph:
+      - text: Monday - Friday
+      - text: 9am - 6pm
+      - text: By Appointment Only
+  - generic "Heading":
+    - heading "Design Services" [level=4]
+  - generic "Menu":
+    - navigation "Navigation Menu":
+      - list:
+        - link "Projects":
+          - /url: https://urbanedesignstudios.com/projects/
+        - link "Services":
+          - /url: https://urbanedesignstudios.com/services/
+        - link "Approach":
+          - /url: https://urbanedesignstudios.com/approach/
+        - link "About":
+          - /url: https://urbanedesignstudios.com/about/
+        - link "Contact":
+          - /url: https://urbanedesignstudios.com/contact/
+        - link "Design Notes":
+          - /url: https://urbanedesignstudios.com/design-notes/
+  - generic "Heading":
+    - heading "Subscribe to Our Blog" [level=4]
+  - generic "HTML":
+    - generic: Email Address *
+    - textbox "Email Address *"
+    - textbox
+    - button "Subscribe"
+    - list:
+      - link:
+        - /url: https://www.facebook.com/theurbanedesign/?fref=ts&ref=br_tf
+      - link:
+        - /url: https://twitter.com/UrbaneIDesign
+      - link:
+        - /url: https://www.linkedin.com/in/urbanedesign
+      - link:
+        - /url: https://www.houzz.com/pro/urbanedesign/urbane-design
+      - link:
+        - /url: https://www.instagram.com/theurbanedesign/
+      - link:
+        - /url: https://www.pinterest.com/urbanedesign/
+      - link:
+        - /url: https://www.youtube.com/channel/UCuQrAG2XI5I5HGR7y1r_UlA
+- status

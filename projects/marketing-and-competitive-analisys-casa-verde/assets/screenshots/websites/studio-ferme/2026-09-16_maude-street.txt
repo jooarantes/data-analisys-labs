@@ -1,0 +1,41 @@
+- banner:
+  - heading "STUDIO FERME" [level=1]:
+    - link "STUDIO FERME":
+      - /url: /
+  - generic: 
+  - text: +
+- navigation:
+  - list:
+    - text: +
+    - link "Portfolio":
+      - /url: /
+    - list:
+      - link "Theresa Passive House":
+        - /url: /theresa-passive-house
+      - link "7th Street Cottage":
+        - /url: /7th-street-cottage
+      - link "Maude Street Millwork":
+        - /url: /maude-st-millwork
+      - link "Cedar Sukkah":
+        - /url: /cedarsukkah
+      - link "Europe":
+        - /url: /beast
+      - link "The Monochrome Series":
+        - /url: /monochrome-series-food
+    - link "About":
+      - /url: /about
+    - link "Blog":
+      - /url: /blog
+    - link "Contact":
+      - /url: /contact
+  - link:
+    - /url: https://www.instagram.com/studioferme/
+- main:
+  - img "Maude St. Millwork"
+  - generic: Maude St. Millwork
+  - paragraph:
+    - text: Millwork design by Studio Ferme
+    - text: Architecture by Murray Legge
+    - text: Photography by Lenoid Furmansky
+  - img "Leonid_Furmansky_2019_Mar 19 201916858Mar 19 2019.jpg"
+  - text: 

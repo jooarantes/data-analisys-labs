@@ -1,0 +1,114 @@
+{
+  "slug": "studio-ferme",
+  "stem": "theresa-passive-house",
+  "url": "https://www.studioferme.com/theresa-passive-house",
+  "requestedURL": "https://www.studioferme.com/theresa-passive-house",
+  "visitedAt": "2026-09-17T15:34:09.306Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_theresa-passive-house.png"
+  ],
+  "shots": [
+    {
+      "file": "theresa-passive-house_full-page.png",
+      "type": "full-page",
+      "section": "Opening state of horizontal gallery",
+      "width": 1440,
+      "height": 1000,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "theresa-passive-house_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/theresa-passive-house_full-page.png"
+    },
+    {
+      "file": "theresa-passive-house_gallery-01.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 1 of 28",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1635301285603-OUX1YN042L8HFNWQU58T/image-asset.jpeg?format=750w",
+      "width": 644,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "theresa-passive-house_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/theresa-passive-house_gallery-01.png"
+    },
+    {
+      "file": "theresa-passive-house_gallery-02.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 8 of 28",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1635299889146-IBYCZLBC3GPQL8R52ZKP/kitchenother35967+25.jpg?format=500w",
+      "width": 385,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "theresa-passive-house_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/theresa-passive-house_gallery-02.png"
+    },
+    {
+      "file": "theresa-passive-house_gallery-03.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 15 of 28",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1670088114015-WS5Z6ZNNFHEIIB72NNNR/image-asset.jpeg?format=500w",
+      "width": 376,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "theresa-passive-house_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/theresa-passive-house_gallery-03.png"
+    },
+    {
+      "file": "theresa-passive-house_gallery-04.png",
+      "type": "gallery",
+      "section": "Horizontal gallery photograph 22 of 28",
+      "sourceImage": "https://images.squarespace-cdn.com/content/v1/5b942b86aa49a16d8b92f445/1670087959441-UTVCCRNA4QF5RUGQA0T2/image-asset.jpeg?format=750w",
+      "width": 668,
+      "height": 500,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": [
+          "theresa-passive-house_gallery-02.png"
+        ]
+      },
+      "relativePath": "assets/screenshots/websites/studio-ferme/recapture-2026-09-17/theresa-passive-house_gallery-04.png"
+    }
+  ],
+  "issues": [
+    "Horizontal gallery: the complete document screenshot records the opening state; supplemental photographs cover selected gallery positions"
+  ],
+  "state": {
+    "height": 1000,
+    "galleryImageCount": 28
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": [
+      "theresa-passive-house_gallery-02.png"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+- link "Urbanspace Design Studio":
+  - /url: https://urbanspacedesign.com/
+  - img "Urbanspace Design Studio"
+- button "Open menu"
+- link "Skip to content":
+  - /url: "#main"
+- banner
+- main:
+  - main:
+    - article:
+      - region "Project hero":
+        - img "Clarksville Home"
+        - heading "Clarksville Home" [level=1]
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0048_K-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0064_K-1536x1024.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0091_K-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0110_K-1536x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0121_K2-1536x1229.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0138_K2-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0177_K-1536x1024.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K2-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K4-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0251_K5-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0272_K-1536x1097.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0236_K-1-1536x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0290_K-1-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0310_K-1024x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0363_K-1536x1229.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K2-1097x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K4-1097x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0386_K6-1097x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0402_K-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0418_K-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0435_K-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0452_K-1152x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0477_K2-1536x1229.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0495_K-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0520_K2-1097x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0520_K3-1097x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0544_K-1229x1536.jpg
+        - img "Clarksville Home"
+      - link "Clarksville Home":
+        - /url: https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0558_K-1024x1536.jpg
+        - img "Clarksville Home"
+      - navigation "Project navigation":
+        - link "Previous Project Modern Penthouse":
+          - /url: https://urbanspacedesign.com/project/modern-penthouse/
+          - generic: Previous Project
+          - generic: Modern Penthouse
+        - link "Next Project Modern Bar":
+          - /url: https://urbanspacedesign.com/project/modern-bar/
+          - generic: Next Project
+          - generic: Modern Bar
+- contentinfo:
+  - strong: "301 West Ave #100, Austin, TX 78701"
+  - link "design@urbanspaceinteriors.com":
+    - /url: mailto:design@urbanspaceinteriors.com
+  - text: · 512.457.0014
+  - generic: ©2026 Urbanspace Design Studio

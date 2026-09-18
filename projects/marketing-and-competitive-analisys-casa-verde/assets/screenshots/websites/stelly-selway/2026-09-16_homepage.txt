@@ -1,0 +1,233 @@
+- banner:
+  - link:
+    - /url: /
+  - button:
+- paragraph
+- heading "LUXURY INTERIOR DESIGN STUDIO in AUSTIN & LONDON" [level=1]:
+  - strong: LUXURY INTERIOR DESIGN STUDIO in AUSTIN & LONDON
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Stelly Selway is an interior design studio creating refined, characterful spaces for private clients, developers and hospitality projects, working across London, England and Austin, Texas." [level=1]:
+  - text: Stelly Selway is an interior design studio creating
+  - emphasis: refined, characterful
+  - text: spaces for private clients, developers and hospitality projects, working across London, England and Austin, Texas.
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We design interiors that balance architectural rigor with warmth and individuality. Our projects range from private residential homes to boutique hospitality and developer-led schemes, managed from first concept through to completion. Our aesthetic is defined by clarity and restraint, combining contemporary design with material depth and a strong sense of place. We work with each client to articulate their individual personalities, histories and stories through their spaces, weaving wordliness and a kaleidoscope of cultural references into every design decision. A global network of relationships with vendors and makers enables us to realize custom design strategies, while a deep understanding of material and architectural behavior grants us unique insight into crafting interiors that are durable, artful and built to endure." [level=1]:
+  - text: We design interiors that balance architectural rigor with warmth and individuality. Our projects range from private residential homes to boutique hospitality and developer-led schemes, managed from first concept through to completion.
+  - text: Our aesthetic is defined by clarity and restraint, combining contemporary design with material depth and a strong sense of place. We work with each client to articulate their individual personalities, histories and stories through their spaces, weaving wordliness and a kaleidoscope of cultural references into every design decision.
+  - text: A global network of relationships with vendors and makers enables us to realize custom design strategies, while a deep understanding of material and architectural behavior grants us unique insight into crafting interiors that are durable, artful and built to endure.
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Start a project." [level=1]:
+  - emphasis:
+    - link "Start a project.":
+      - /url: https://www.stellyselway.com/contact
+      - strong
+      - text: Start a project.
+- paragraph
+- img "post-chiswick-road-london-Chiswick-Road-London-1 image"
+- generic: Interior Design Services
+- paragraph
+- heading "01" [level=1]:
+  - generic: "01"
+- paragraph
+- paragraph
+- heading "INTERIOR ARCHITECTURE and SPATIAL PLANNING" [level=1]:
+  - generic: INTERIOR ARCHITECTURE and SPATIAL PLANNING
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Rethinking the bones of a space to improve flow, proportion and livability. We work closely with architects and contractors to ensure the interior vision is embedded from the earliest stage." [level=1]:
+  - generic: Rethinking the bones of a space to improve flow, proportion and livability. We work closely with architects and contractors to ensure the interior vision is embedded from the earliest stage.
+- paragraph
+- paragraph
+- heading "02" [level=1]:
+  - generic: "02"
+- paragraph
+- paragraph
+- heading "CONCEPT DESIGN and DESIGN DEVELOPMENT" [level=1]:
+  - generic: CONCEPT DESIGN and DESIGN DEVELOPMENT
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Developing a clear design language for each project, one that responds to the architecture, the client's lifestyle and the character of the location. We refine the concept through material samples, mood boards and spatial drawings." [level=1]:
+  - generic: Developing a clear design language for each project, one that responds to the architecture, the client's lifestyle and the character of the location. We refine the concept through material samples, mood boards and spatial drawings.
+- paragraph
+- paragraph
+- heading "03" [level=1]:
+  - generic: "03"
+- paragraph
+- paragraph
+- heading "FF&E Specification and procurement" [level=1]:
+  - generic: FF&E Specification and procurement
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Specifying and sourcing furniture, fixtures and finishes that bring the design to life. We draw on a curated network of vendors and makers, combining bespoke pieces with carefully selected contemporary and vintage furniture." [level=1]:
+  - generic: Specifying and sourcing furniture, fixtures and finishes that bring the design to life. We draw on a curated network of vendors and makers, combining bespoke pieces with carefully selected contemporary and vintage furniture.
+- paragraph
+- paragraph
+- heading "04" [level=1]:
+  - generic: "04"
+- paragraph
+- paragraph
+- heading "BESPOKE JOINERY AND FURNITURE DESIGN" [level=1]:
+  - generic: BESPOKE JOINERY AND FURNITURE DESIGN
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Designing furniture, custom cabinetry and built-in storage pieces that are integral to the architecture. Each bespoke element is drawn and detailed in-house and made by trusted craftspeople." [level=1]
+- paragraph
+- paragraph
+- heading "05" [level=1]:
+  - emphasis: "05"
+- paragraph
+- paragraph
+- heading "Project coordination and installation" [level=1]:
+  - generic: Project coordination and installation
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Managing the full delivery of a project, liasing with contractors, suppliers and trades to ensure the design is realized to the highest standard. We oversee installation and final dressing to completion." [level=1]:
+  - generic: Managing the full delivery of a project, liasing with contractors, suppliers and trades to ensure the design is realized to the highest standard. We oversee installation and final dressing to completion.
+- paragraph
+- paragraph
+- heading "*" [level=1]:
+  - generic: "*"
+- paragraph
+- paragraph
+- heading "A Complete, turnkey service." [level=1]:
+  - generic: A Complete, turnkey service.
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Specifying and sourcing furniture, fixtures and finishes that bring the design to life. We draw on a curated network of vendors and makers, combining bespoke pieces with carefully selected contemporary and vintage furniture." [level=1]:
+  - generic: Specifying and sourcing furniture, fixtures and finishes that bring the design to life. We draw on a curated network of vendors and makers, combining bespoke pieces with carefully selected contemporary and vintage furniture.
+- paragraph
+- paragraph
+- heading "Get in touch to begin." [level=1]:
+  - link "Get in touch to begin.":
+    - /url: https://www.stellyselway.com/contact
+- paragraph
+- generic: Our Values
+- paragraph
+- heading "a" [level=1]:
+  - generic: a
+- paragraph
+- paragraph
+- heading "personality in every space" [level=1]:
+  - generic: personality in every space
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We work with each client to articulate their individual personalities, histories and stories through their interiors. No two Stelly Selway projects look the same, because no two clients are the same." [level=1]
+- paragraph
+- paragraph
+- heading "B" [level=1]:
+  - generic: B
+- paragraph
+- paragraph
+- heading "MATERIAL INTELLIGENCE" [level=1]:
+  - generic: MATERIAL INTELLIGENCE
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "A deep understanding of material and architectural behavior informs every decision we make. We combine natural materials, considered textures and a controlled palette to create interiors that feel balanced, tactile and built to endure." [level=1]
+- paragraph
+- paragraph
+- heading "C" [level=1]:
+  - generic: C
+- paragraph
+- paragraph
+- heading "A GLOBAL POINT OF VIEW" [level=1]:
+  - generic: A GLOBAL POINT OF VIEW
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "Our global network of relationships with vendors, makers and designers enables us to realize custom design strateg shaped by London, Austin and everywhere in between" [level=1]
+- paragraph
+- paragraph
+- heading "D" [level=1]:
+  - generic: D
+- paragraph
+- paragraph
+- heading "TRANSPARENCY AND TRUST" [level=1]:
+  - generic: TRANSPARENCY AND TRUST
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We build every working relationship on clear communication, honest budget management and meticulous attention to detail. Our clients always know where their project stands." [level=1]
+- paragraph
+- paragraph
+- heading "E" [level=1]:
+  - emphasis: E
+- paragraph
+- paragraph
+- heading "CRAFT AND SUSTAINABILITY" [level=1]:
+  - generic: CRAFT AND SUSTAINABILITY
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We source a considered mix of trade-only, vintage, bespoke and retail pieces, working with makers who produce with social and ecological responsibility in mind. Quality and longevity are never negotiable." [level=1]:
+  - generic: We source a considered mix of trade-only, vintage, bespoke and retail pieces, working with makers who produce with social and ecological responsibility in mind. Quality and longevity are never negotiable.
+- paragraph
+- paragraph
+- heading "F" [level=1]:
+  - generic: F
+- paragraph
+- paragraph
+- heading "Collaboration AS PRACTICE" [level=1]:
+  - generic: Collaboration AS PRACTICE
+- paragraph
+- paragraph
+- heading [level=1]:
+  - strong
+- heading "We thrive on working closely with clients and collaborators alike. Whether joining an existing team or assembling one from our network, we welcome the varied perspectives that elevate every project." [level=1]:
+  - generic: We thrive on working closely with clients and collaborators alike. Whether joining an existing team or assembling one from our network, we welcome the varied perspectives that elevate every project.
+- paragraph
+- contentinfo:
+  - link "Austin":
+    - /url: /Austin
+    - paragraph: Austin
+  - generic: 12:23:49 pm
+  - paragraph: 805 1/2 W 16th Street
+  - paragraph: The Perch
+  - paragraph: Austin, TX 78701
+  - link:
+    - /url: https://www.instagram.com/stellyselway/
+  - link:
+    - /url: https://www.facebook.com/stellyselway/
+  - link:
+    - /url: https://www.linkedin.com/company/stelly-selway
+  - link:
+    - /url: https://open.spotify.com/user/pm8hdcrx8dasi7f3jy1qtbdnf?si=IzkO2TJeSdKVfUnjuS13bQ
+  - link:
+    - /url: https://mailchi.mp/stellyselway/subscribe-to-the-newsletter
+  - link "info@stellyselway.com":
+    - /url: mailto:info@stellyselway.com
+  - link "London":
+    - /url: /London
+    - paragraph: London
+  - generic: 6:23:49 pm
+  - paragraph: 4 Bramber Court
+  - paragraph: 2 Bramber Road
+  - paragraph: London W14 9PW
+- alert

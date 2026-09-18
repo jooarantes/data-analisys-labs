@@ -1,0 +1,274 @@
+{
+  "slug": "urbanspace-design-studio",
+  "stem": "portfolio",
+  "requestedURL": "https://urbanspacedesign.com/portfolio/residential/",
+  "url": "https://urbanspacedesign.com/portfolio/residential/",
+  "visitedAt": "2026-09-17T15:44:41.851Z",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "originals": [
+    "2026-09-16_portfolio.png"
+  ],
+  "shots": [
+    {
+      "file": "portfolio_full-page.png",
+      "type": "full-page",
+      "section": "Complete document, current visible gallery states",
+      "width": 1425,
+      "height": 4452,
+      "format": "PNG",
+      "visualReview": {
+        "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+        "limitations": [],
+        "preferred": []
+      },
+      "relativePath": "assets/screenshots/websites/urbanspace-design-studio/recapture-2026-09-17/portfolio_full-page.png"
+    }
+  ],
+  "issues": [],
+  "state": {
+    "height": 4452,
+    "beforeY": null,
+    "title": "Residential Portfolio – Urbanspace Design Studio",
+    "text": "Skip to content\nEXPLORE OUR PORTFOLIO\nALL PROJECTS\nRESIDENTIAL\nCOMMERCIAL\nTHE HILLS\nCLARKSVILLE HOME\nMODERN PENTHOUSE\nTHE MODERN AUSTIN RESIDENCES\nAVON RETREAT\nSEAHOLM PENTHOUSE\nTHE EAST RESIDENCE\nWEST AVE PENTHOUSE\nROCK CREEK DRIVE\nSECOND STREET CONDO\nINDEPENDENT PENTHOUSE\nMOUNTAIN RETREAT\nW RESIDENCES\nSKI HOME\nINDEPENDENT TERRACE\nTHE PROPER RESID",
+    "images": [
+      {
+        "i": 2,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/08/Bruder-1-1024x768.jpg",
+        "x": 87.5,
+        "y": 353.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 4,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/20250130_Urbanspace_Campisano0036_K-1024x683.jpg",
+        "x": 718.5,
+        "y": 353.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 5,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2026/06/000142060032-scaled.jpg",
+        "x": 87.5,
+        "y": 829.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 6,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/12/Level-1-Exterior-Modern-Bar-patio-with-model-20250714_TheModern8052_K2-web-1024x683.jpeg",
+        "x": 718.5,
+        "y": 829.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 7,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Urban-Space-Riverfront-06-05-24-Living-Dining-Kitchen-179mb2-758x1024.jpg",
+        "x": 87.5,
+        "y": 1306.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 8,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Seaholm-Penthouse_20240624_Urbanspace_Seaholm-Penthouse7801-Base-1024x819.jpg",
+        "x": 718.5,
+        "y": 1306.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 9,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/20240821_Urbanspace_44-East3374_lights-on_01-1024x683.jpg",
+        "x": 87.5,
+        "y": 1782.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 10,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/sophieeptonphotographyindependentpenthouse-79-1024x683.jpg",
+        "x": 718.5,
+        "y": 1782.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 11,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2025/01/Final-Images__DSF7211-1024x732.jpg",
+        "x": 87.5,
+        "y": 2258.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 12,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/12/Urbanspace_W-16-1024x779.jpg",
+        "x": 718.5,
+        "y": 2258.59375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 14,
+        "alt": "Contemporary living room with floor-to-ceiling windows and a city view",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2024/05/3_Urbanspace_TheIndependent-8Edit2-e1715362164504-1024x538.jpg",
+        "x": 87.5,
+        "y": 2734.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 15,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/urban-retreat-01-1024x682.jpg",
+        "x": 718.5,
+        "y": 2734.84375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 16,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/W-Residence-1024x719.jpg",
+        "x": 87.5,
+        "y": 3211.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 17,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/Ski-Home-1024x355.jpg",
+        "x": 718.5,
+        "y": 3211.09375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 19,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/Independent-Terrace-1024x719.jpg",
+        "x": 87.5,
+        "y": 3687.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      },
+      {
+        "i": 20,
+        "alt": "",
+        "src": "https://urbanspacedesign.com/wp-content/uploads/2023/11/The-Proper-Residence-1024x719.jpg",
+        "x": 718.5,
+        "y": 3687.34375,
+        "w": 619,
+        "h": 464.25,
+        "loaded": true,
+        "opacity": "1",
+        "visible": true
+      }
+    ],
+    "controls": [
+      {
+        "text": "",
+        "aria": "Open menu"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Residential"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of Commercial"
+      },
+      {
+        "text": "",
+        "aria": "Child menu of About"
+      },
+      {
+        "text": "\n\t\t\t\t\t\tToggle Menu\n\t\t\t\t\n\t\t",
+        "aria": "Open menu"
+      },
+      {
+        "text": "\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+        "aria": "Close menu"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      },
+      {
+        "text": "Toggle child menuExpand\n\t\t\t\t",
+        "aria": "Expand"
+      }
+    ]
+  },
+  "visualReview": {
+    "result": "Accepted after visual inspection of the complete page and every supplemental capture",
+    "limitations": [],
+    "preferred": []
+  }
+}
