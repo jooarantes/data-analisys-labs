@@ -68,7 +68,7 @@ limited by signup walls or incomplete access.
 ## Repository Architecture
 
 ```text
-marketing-and-competitive-analisys-casa-verde/
+casa-verde-competitive-intelligence/
 ├── AGENTS.md
 ├── README.md
 ├── .agents/

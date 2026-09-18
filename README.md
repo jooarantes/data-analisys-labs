@@ -31,7 +31,7 @@ deliverables available for that project.
 
 | Project | Problem addressed | Methods and tools | Deliverables |
 | --- | --- | --- | --- |
-| [Casa Verde Competitive Intelligence](./projects/marketing-and-competitive-analisys-casa-verde/) | Build an evidence-led view of sustainable residential interior design in Austin and the nearby Hill Country to support positioning decisions. | Structured competitive research, primary-source review, evidence capture, comparison, and visual reporting. | Research framework, competitor profiles, comparison materials, positioning deck, white paper, infographic, and sharing copy. |
+| [Casa Verde Competitive Intelligence](./projects/casa-verde-competitive-intelligence/) | Build an evidence-led view of sustainable residential interior design in Austin and the nearby Hill Country to support positioning decisions. | Structured competitive research, primary-source review, evidence capture, comparison, and visual reporting. | Research framework, competitor profiles, comparison materials, positioning deck, white paper, infographic, and sharing copy. |
 
 ### Operations & People Analysis
 
@@ -76,7 +76,7 @@ data-analisys-labs/
 ├── README.md
 ├── LICENSE
 └── projects/
-    └── marketing-and-competitive-analisys-casa-verde/
+    └── casa-verde-competitive-intelligence/
 ```
 
 ## Related Repositories
