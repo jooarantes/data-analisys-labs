@@ -1,0 +1,12 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+.env
+
+# IDEs / Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
