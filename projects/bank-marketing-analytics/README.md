@@ -16,7 +16,6 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 - É possível afirmar que 66% dos clientes não têm Ensino Superior, considerando também a categoria de formação desconhecida?
 - Quais características apresentam maior poder de distinção entre quem comprou e quem não comprou?
 - Como a taxa observada de compra varia conforme o número de ligações?
-- Sobre a linha de comunicação, foi sugerido direcionar ao público com idade entre 30-40, pois, dos 4.778 clientes que compraram o produto, essa foi a faixa com maior quantidade. Você concorda com essa análise? Qual seria a sua sugestão?
 
 ## 3. Entregáveis
 
@@ -25,8 +24,8 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 - [Dashboard de conversão da campanha](reports/dashboard-conversao-campanha.html) — compras, incerteza, taxas por segmento e análise de ligações.
 
 ## 4. Dados e premissas
-
-O arquivo `bank_marketing.xlsx` foi disponibilizado pela Preditiva Analytics como material complementar de um estudo de caso. O workbook está em [`data/bank_marketing.xlsx`](data/bank_marketing.xlsx).
+### Fonte dos Dados
+O arquivo `bank_marketing.xlsx` foi disponibilizado pela **Preditiva Analytics** como material complementar de um estudo de caso. O workbook está em [`data/bank_marketing.xlsx`](data/bank_marketing.xlsx).
 
 ### Estrutura dos dados
 
@@ -34,18 +33,16 @@ Cada linha representa um cliente e contém características de perfil e relacion
 
 Variáveis usadas na análise incluem:
 
-- Perfil: idade, profissão, estado civil e formação;
-- Relacionamento financeiro: saldo em conta, inadimplência, hipoteca e empréstimo;
-- Campanha: quantidade de ligações realizadas;
-- Resultado: contratação do título (`Sim` ou `Não`).
+- **Perfil**: idade, profissão, estado civil e formação;
+- **Relacionamento financeiro**: saldo em conta, inadimplência, hipoteca e empréstimo;
+- **Campanha**: quantidade de ligações realizadas;
+- **Resultado**: contratação do título (`Sim` ou `Não`).
 
 ### Premissas de implementação
 
 - A análise assume que cada registro deve corresponder a um cliente. Foram identificados 278 registros duplicados entre 9.684 linhas e removidos, resultando em 9.406 observações analisadas. A duplicidade foi tratada como repetição indevida, embora não haja identificador de cliente documentado que permita confirmar isso de forma independente.
 - `Sim` é tratado como evento de compra e `Não` como não compra.
 - A categoria `Desconhecido` em formação não é presumida como ausência de Ensino Superior; por isso, a proporção depende do tratamento dado a esse grupo.
-- As faixas numéricas são escolhas analíticas para facilitar comparações e podem afetar as taxas por segmento.
-- A taxa de 47,96% descreve a amostra analisada. Sua generalização depende de a amostra representar adequadamente o público de interesse.
 
 ## 5. Métodos, técnicas e ferramentas
 
@@ -124,8 +121,7 @@ bank-marketing-analytics/
 
 ## 9. Veja também
 
-- Artigo no Medium com a lógica e os detalhes da análise — **link a adicionar após a publicação**.
-- [Data Analysis Labs — repositório principal](../../README.md).
+- [Como encontrar bons públicos para uma campanha: uma investigação com dados bancários](https://medium.com/@jooaarantes/como-encontrar-bons-p%C3%BAblicos-para-uma-campanha-uma-investiga%C3%A7%C3%A3o-com-dados-banc%C3%A1rios-db1f0f21b6da?postPublishedType=initial) — artigo no Medium com a lógica e os detalhes da análise.
 
 ## 10. Autoria e licença
 
@@ -133,7 +129,6 @@ bank-marketing-analytics/
 - **LinkedIn:** [João Arantes](https://www.linkedin.com/in/joao-arantes-ds/)
 - **Portfólio:** link a adicionar quando o site for publicado.
 - **Código:** licenciado sob [MIT](../../LICENSE), conforme a licença na raiz do repositório.
-- **Dados:** a licença de uso e redistribuição do arquivo fornecido para o estudo de caso não foi informada neste projeto.
 
 ## [← Voltar ao README do Data Analysis Labs](../../README.md)
 

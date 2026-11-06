@@ -46,7 +46,7 @@ O `AGENTS.md` informa diretamente as cores extraídas da [referência visual do 
 - **Conversão e segmentos.** A seção 3 fundamenta as taxas por grupo, as faixas de idade e saldo e o mapa de calor. As tabelas preservam a diferença entre participação no total de compradores e taxa dentro do grupo.
 - **Ligações.** A seção 5 fundamenta os grupos acumulados. O gerador monta cada série pelo limiar e pela condição, evitando depender da ordem de uma tabela classificada pela taxa. Os grupos acumulados se sobrepõem. As faixas 1, 2, 3, 4 e 5+ são disjuntas.
 - **Incerteza.** O intervalo de Wilson de 95% é a referência principal. Clopper–Pearson e t de Student aparecem como comparações. A leitura populacional depende de premissas de amostragem.
-- **IV e WoE.** O IV mede separação observada entre as classes e depende das categorias e dos cortes adotados. O WoE segue a convenção `ln(proporção de Não / proporção de Sim)`. As contagens e taxas exibidas são observadas.
+- **IV e WoE.** O IV mede separação observada entre as classes e depende das categorias e dos cortes adotados. O WoE segue a convenção `ln(% Não Evento / % Evento)`. As contagens e taxas exibidas são observadas.
 
 ## Como regenerar os dashboards
 
