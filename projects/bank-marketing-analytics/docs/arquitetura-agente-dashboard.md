@@ -58,3 +58,24 @@ uv run python .agents/skills/dashboard-html/scripts/gerar_dashboards.py
 ```
 
 Abra os dois arquivos em `reports/` no navegador. Os estilos, SVGs e dados agregados ficam incorporados no HTML. Gráficos Chart.js carregam a biblioteca por CDN e precisam de internet. Cada canvas tem rótulo acessível e texto ou tabela com os valores correspondentes.
+
+## Como publicar no GitHub Pages
+
+O catálogo do Data Analysis Labs fica em [`docs/index.html` na raiz do repositório](../../../docs/index.html). O GitHub Pages deve usar **Deploy from a branch**, com a branch `main` e a pasta `/docs`.
+
+Depois de regenerar os painéis, execute o bloco abaixo na pasta do projeto. Ele copia os dois HTMLs para o catálogo e aponta os links de rodapé das cópias para o notebook e esta documentação no GitHub.
+
+```powershell
+$publicacao = New-Item -ItemType Directory -Force -Path '../../docs/projects/bank-marketing-analytics/dashboards'
+$projeto = 'https://github.com/jooarantes/data-analisys-labs/blob/main/projects/bank-marketing-analytics'
+
+foreach ($nome in 'dashboard-perfil-clientes.html', 'dashboard-conversao-campanha.html') {
+    $html = [IO.File]::ReadAllText((Join-Path $PWD "reports/$nome"))
+    $html = $html.Replace('href="../notebooks/', ('href="' + $projeto + '/notebooks/'))
+    $html = $html.Replace('href="../docs/', ('href="' + $projeto + '/docs/'))
+    $html = $html -replace '(?m)^[ \t]+(?=\r?$)', ''
+    [IO.File]::WriteAllText((Join-Path $publicacao.FullName $nome), $html)
+}
+```
+
+Inclua as versões de `reports/` e as cópias do catálogo no mesmo commit. Após o envio à `main`, o GitHub Pages publica os arquivos que estão no `docs/` da raiz.

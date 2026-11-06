@@ -1,0 +1,1522 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Conversão da campanha | Banco XPTOKW</title>
+  <style>:root {
+  --texto: #171717;
+  --ouro: #C5A15A;
+  --fundo: #F4F0E7;
+  --papel: #fffdf9;
+  --linha: #ded5c5;
+  --suave: #655b4e;
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: var(--texto);
+  background: var(--fundo);
+  line-height: 1.55;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+html { scroll-behavior: smooth; }
+:focus-visible { outline: 3px solid var(--ouro); outline-offset: 4px; }
+[hidden] { display: none !important; }
+h1, h2, h3, .numero { font-family: Georgia, serif; line-height: 1.12; }
+h1 { margin: .6rem 0 1rem; font-size: clamp(2.25rem, 5vw, 4rem); letter-spacing: -.035em; }
+h2 { margin: 0 0 .8rem; font-size: clamp(1.6rem, 2.6vw, 2.2rem); }
+h3 { margin: 0 0 .65rem; font-size: 1.3rem; }
+p { margin: 0 0 .85rem; }
+p:last-child { margin-bottom: 0; }
+a { color: inherit; text-underline-offset: .2em; }
+small, .nota, caption { color: var(--suave); }
+
+.largura { width: min(1160px, calc(100% - 2rem)); margin-inline: auto; }
+.topo { background: var(--texto); color: var(--fundo); border-bottom: 5px solid var(--ouro); }
+.topo .largura { padding-block: 1.5rem 2.8rem; }
+.marca-banco { display: flex; align-items: center; gap: .65rem; font-weight: 650; }
+.simbolo {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  border: 1px solid var(--ouro);
+  color: var(--ouro);
+  font: 1.1rem Georgia, serif;
+}
+.sobretitulo { margin: 1.8rem 0 0; color: var(--ouro); }
+.sobretitulo, .rotulo {
+  font-size: .76rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .11em;
+}
+.introducao { max-width: 52ch; color: #e2dacc; }
+.nav { display: flex; flex-wrap: wrap; gap: .5rem; padding-block: .8rem; }
+.nav a { padding: .55rem 1rem; min-height: 44px; display: inline-flex; align-items: center; border: 1px solid var(--linha); border-radius: 2rem; text-decoration: none; font-size: .9rem; }
+.nav a[aria-current="page"] { color: var(--papel); background: var(--texto); border-color: var(--texto); }
+.nav a:hover { border-color: var(--texto); }
+
+.kpis, .grade { display: grid; gap: 1.25rem; margin-block: 1.25rem; }
+.kpis { grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); }
+.grade { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.kpi, .painel { padding: clamp(1rem, 2.4vw, 1.75rem); border: 1px solid var(--linha); border-radius: 16px; background: var(--papel); box-shadow: 0 4px 18px #17171705; }
+.kpi { border-top: 3px solid var(--ouro); }
+.kpis-centralizados .kpi { text-align: center; }
+.kpi .rotulo { color: var(--suave); }
+.numero { display: block; margin: .35rem 0 .5rem; font-size: clamp(1.65rem, 3vw, 2.65rem); }
+.kpi:last-child .numero { font-size: clamp(1.5rem, 2.5vw, 2.15rem); }
+.painel { margin-block: 1.25rem; scroll-margin-top: 1rem; min-width: 0; }
+.grade .painel { margin: 0; }
+.destaque { border-left: 3px solid var(--ouro); padding: .85rem 1rem; background: var(--fundo); border-radius: 0 8px 8px 0; }
+.indice { padding-block: .8rem; border-top: 1px solid var(--linha); }
+.indice a { padding: .25rem .65rem; }
+.grafico { display: block; width: 100%; height: auto; margin: .85rem auto; }
+.visualizacao { margin: 1rem 0; min-width: 0; }
+.chart-container { display: none; position: relative; width: 100%; height: var(--altura, 310px); min-width: 0; }
+.graficos-prontos .chart-container { display: block; }
+.dados-grafico { margin-top: .75rem; }
+.dados-grafico summary { color: var(--suave); font-size: .86rem; }
+.grade > div, .kpi { min-width: 0; }
+
+.rolagem { overflow-x: auto; max-width: 100%; margin-block: .75rem; }
+table { border-collapse: collapse; width: 100%; font-size: .88rem; font-variant-numeric: tabular-nums; }
+caption { text-align: left; padding: 0 0 .5rem; }
+th, td { text-align: left; padding: .55rem .65rem; border-bottom: 1px solid var(--linha); white-space: nowrap; }
+th { background: var(--fundo); font-weight: 650; }
+.mapa-conteiner { max-width: 100%; margin-block: .5rem; }
+.mapa { table-layout: fixed; font-size: .68rem; }
+.mapa th, .mapa td { padding: .35rem .3rem; white-space: normal; overflow-wrap: normal; }
+.mapa th:first-child { width: 7rem; }
+.mapa td { text-align: center; background: rgb(197 161 90 / var(--intensidade, 0)); }
+.mapa small { display: block; color: var(--texto); }
+.mapa .sem-dados { color: var(--suave); }
+details { border-top: 1px solid var(--linha); padding: .7rem 0; }
+summary { font-weight: 650; cursor: pointer; padding-block: .4rem; min-height: 44px; }
+details p { margin-top: .65rem; }
+footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid var(--linha); font-size: .87rem; }
+
+@media (max-width: 720px) {
+  .grade { grid-template-columns: 1fr; }
+  .topo .largura { padding-bottom: 2rem; }
+  .largura { width: calc(100% - 1.25rem); }
+  .chart-container { height: max(230px, var(--altura, 310px)); }
+  .kpis { gap: .65rem; }
+  .kpi .numero { font-size: 1.85rem; }
+  .indice { gap: .25rem; }
+  .indice a { padding-inline: .65rem; }
+  .mapa { font-size: .58rem; }
+  .mapa th, .mapa td { padding: .3rem .2rem; }
+  .mapa th:first-child { position: sticky; left: 0; width: 5rem; }
+  .mapa td small { font-size: .52rem; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+</style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+  <header class="topo">
+    <div class="largura">
+      <div class="marca-banco"><span class="simbolo" aria-hidden="true">X</span> Banco XPTOKW</div>
+      <p class="sobretitulo">Estudo de campanha · Título de investimento</p>
+      <h1>Conversão da campanha</h1>
+      <p class="introducao">Qual foi a taxa de compra e como ela variou entre os grupos analisados?</p>
+    </div>
+  </header>
+  <main class="largura">
+    <nav class="nav" aria-label="Dashboards"><a href="dashboard-perfil-clientes.html">Perfil dos clientes</a><a href="dashboard-conversao-campanha.html" aria-current="page">Conversão da campanha</a></nav>
+    <p class="aviso-graficos destaque" role="status" hidden>Os gráficos não carregaram.
+    Consulte as tabelas de dados abaixo ou recarregue a página com conexão à internet.</p>
+    <noscript><p class="destaque">Ative JavaScript para explorar os gráficos.
+    Os valores estão disponíveis nas tabelas de cada seção.</p></noscript>
+
+    <div class="kpis kpis-centralizados" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Taxa de compra</span><strong class="numero">47,96%</strong><small>4.511 compras em 9.406 clientes</small></div><div class="kpi"><span class="rotulo">Não compraram</span><strong class="numero">4.895</strong><small>52,04% dos clientes</small></div><div class="kpi"><span class="rotulo">IC de 95% · Wilson</span><strong class="numero">46,95% a 48,97%</strong><small>Incerteza amostral da taxa de compra</small></div></div>
+    <nav class="nav indice" aria-label="Perguntas sobre a conversão da campanha">
+      <a href="#estimativa">Quantos clientes compraram?</a>
+      <a href="#segmentos">Em quais grupos a taxa foi maior?</a>
+      <a href="#ligacoes">Como a taxa varia com as ligações?</a>
+      <a href="#associacao">Quais variáveis mais distinguem compradores?</a>
+    </nav>
+    <section id="estimativa" class="painel">
+      <h2>47,96% dos clientes analisados compraram o título</h2>
+      <p>Foram 4.511 compras entre 9.406 clientes. O intervalo de 95% de Wilson vai de 46,95% a 48,97%.</p>
+      <figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Clientes por resultado de compra">Clientes por resultado de compra</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Sim", "Não"], "datasets": [{"label": "Clientes por resultado de compra", "data": [47.958749734212205, 52.041250265787795], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["48,0% · 4.511 clientes", "52,0% · 4.895 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Clientes por resultado de compra"><table class="dataframe"><caption>Clientes por resultado de compra</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sim</td>
+      <td>48,0% · 4.511 clientes</td>
+    </tr>
+    <tr>
+      <td>Não</td>
+      <td>52,0% · 4.895 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+      <p>Generalizar a estimativa exige uma amostra representativa e condições comparáveis de público, oferta e abordagem.</p>
+      <details>
+        <summary>Comparar métodos de intervalo de confiança</summary>
+        <div class="rolagem" tabindex="0" role="region" aria-label="Intervalos de confiança de 95%"><table class="dataframe"><caption>Intervalos de confiança de 95%</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Método</th>
+      <th>Limite inferior</th>
+      <th>Limite superior</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wilson</td>
+      <td>46,95%</td>
+      <td>48,97%</td>
+    </tr>
+    <tr>
+      <td>Clopper–Pearson</td>
+      <td>46,94%</td>
+      <td>48,97%</td>
+    </tr>
+    <tr>
+      <td>t de Student</td>
+      <td>46,95%</td>
+      <td>48,97%</td>
+    </tr>
+  </tbody>
+</table></div>
+        <p>Em amostragens repetidas, um método com cobertura de 95% produz intervalos que contêm a proporção
+        populacional em cerca de 95% das repetições, sob as premissas do método.</p>
+      </details>
+    </section>
+    <section id="segmentos" class="painel">
+      <h2>A taxa de compra foi 20,5 p.p. maior entre clientes sem hipoteca</h2>
+      <p>A taxa de cada grupo divide o número de compras pelo total de clientes daquele grupo.
+      A linha tracejada indica a taxa geral de <strong>47,96%</strong>.</p>
+      <div class="grade">
+        <div>
+          <h3>Na faixa de 66 anos ou mais, 79,08% compraram</h3>
+          <p class="nota">Foram 276 compras em 349 clientes,
+          a maior taxa observada entre as faixas etárias.</p>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:333px"><canvas role="img" aria-label="Taxa de compra por faixa etária">Taxa de compra por faixa etária</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["18–25", "26–35", "36–45", "46–55", "56–65", "66+"], "datasets": [{"label": "Taxa de compra por faixa etária", "data": [70.96, 48.24, 41.7, 41.72, 55.18, 79.08], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["70,96% · 281 de 396", "48,24% · 1.613 de 3.344", "41,70% · 1.087 de 2.607", "41,72% · 748 de 1.793", "55,18% · 506 de 917", "79,08% · 276 de 349"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por faixa etária"><table class="dataframe"><caption>Taxa de compra por faixa etária</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18–25</td>
+      <td>70,96% · 281 de 396</td>
+    </tr>
+    <tr>
+      <td>26–35</td>
+      <td>48,24% · 1.613 de 3.344</td>
+    </tr>
+    <tr>
+      <td>36–45</td>
+      <td>41,70% · 1.087 de 2.607</td>
+    </tr>
+    <tr>
+      <td>46–55</td>
+      <td>41,72% · 748 de 1.793</td>
+    </tr>
+    <tr>
+      <td>56–65</td>
+      <td>55,18% · 506 de 917</td>
+    </tr>
+    <tr>
+      <td>66+</td>
+      <td>79,08% · 276 de 349</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+        </div>
+        <div>
+          <h3>Taxa de 57,49% sem hipoteca e de 36,99% com hipoteca</h3>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Taxa de compra por situação de hipoteca">Taxa de compra por situação de hipoteca</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Não", "Sim"], "datasets": [{"label": "Taxa de compra por situação de hipoteca", "data": [57.49, 36.99], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["57,49% · 2.894 de 5.034", "36,99% · 1.617 de 4.372"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por situação de hipoteca"><table class="dataframe"><caption>Taxa de compra por situação de hipoteca</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>57,49% · 2.894 de 5.034</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>36,99% · 1.617 de 4.372</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+        </div>
+      </div>
+      <details><summary>Faixa etária x Profissão x Taxa de Compra</summary>
+        <p>O cruzamento ajuda a contextualizar as taxas mais altas entre estudantes e aposentados.
+        Leia cada taxa junto ao tamanho do grupo. O traço indica combinações sem observações.</p>
+        <div class="mapa-conteiner" role="region" aria-label="Mapa de calor por idade e profissão"><table class="mapa"><caption>Taxa de compra e tamanho de cada grupo</caption><thead><tr><th scope="col">Faixa etária</th><th scope="col">Administrador</th><th scope="col">Aposentado</th><th scope="col">Autônomo</th><th scope="col">Desconhecido</th><th scope="col">Desempregado</th><th scope="col">Diarista</th><th scope="col">Empresário</th><th scope="col">Estudante</th><th scope="col">Operário</th><th scope="col">Serviços Gerais</th><th scope="col">Técnico</th></tr></thead><tbody><tr><th scope="row">18–25</th><td style="--intensidade:0.619"><strong>61,9%</strong><small>n = 84</small></td><td class="sem-dados">—</td><td style="--intensidade:0.700"><strong>70,0%</strong><small>n = 10</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 6</small></td><td style="--intensidade:0.667"><strong>66,7%</strong><small>n = 3</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 3</small></td><td style="--intensidade:0.793"><strong>79,3%</strong><small>n = 164</small></td><td style="--intensidade:0.653"><strong>65,3%</strong><small>n = 49</small></td><td style="--intensidade:0.622"><strong>62,2%</strong><small>n = 37</small></td><td style="--intensidade:0.675"><strong>67,5%</strong><small>n = 40</small></td></tr><tr><th scope="row">26–35</th><td style="--intensidade:0.532"><strong>53,2%</strong><small>n = 1.296</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.503"><strong>50,3%</strong><small>n = 153</small></td><td style="--intensidade:0.538"><strong>53,8%</strong><small>n = 13</small></td><td style="--intensidade:0.602"><strong>60,2%</strong><small>n = 103</small></td><td style="--intensidade:0.452"><strong>45,2%</strong><small>n = 31</small></td><td style="--intensidade:0.308"><strong>30,8%</strong><small>n = 65</small></td><td style="--intensidade:0.676"><strong>67,6%</strong><small>n = 139</small></td><td style="--intensidade:0.400"><strong>40,0%</strong><small>n = 572</small></td><td style="--intensidade:0.390"><strong>39,0%</strong><small>n = 308</small></td><td style="--intensidade:0.453"><strong>45,3%</strong><small>n = 662</small></td></tr><tr><th scope="row">36–45</th><td style="--intensidade:0.455"><strong>45,5%</strong><small>n = 977</small></td><td style="--intensidade:0.100"><strong>10,0%</strong><small>n = 10</small></td><td style="--intensidade:0.407"><strong>40,7%</strong><small>n = 91</small></td><td style="--intensidade:0.231"><strong>23,1%</strong><small>n = 13</small></td><td style="--intensidade:0.511"><strong>51,1%</strong><small>n = 92</small></td><td style="--intensidade:0.262"><strong>26,2%</strong><small>n = 65</small></td><td style="--intensidade:0.375"><strong>37,5%</strong><small>n = 104</small></td><td style="--intensidade:0.625"><strong>62,5%</strong><small>n = 16</small></td><td style="--intensidade:0.339"><strong>33,9%</strong><small>n = 519</small></td><td style="--intensidade:0.383"><strong>38,3%</strong><small>n = 256</small></td><td style="--intensidade:0.461"><strong>46,1%</strong><small>n = 464</small></td></tr><tr><th scope="row">46–55</th><td style="--intensidade:0.480"><strong>48,0%</strong><small>n = 638</small></td><td style="--intensidade:0.359"><strong>35,9%</strong><small>n = 64</small></td><td style="--intensidade:0.293"><strong>29,3%</strong><small>n = 58</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 20</small></td><td style="--intensidade:0.566"><strong>56,6%</strong><small>n = 76</small></td><td style="--intensidade:0.410"><strong>41,0%</strong><small>n = 83</small></td><td style="--intensidade:0.319"><strong>31,9%</strong><small>n = 69</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.340"><strong>34,0%</strong><small>n = 368</small></td><td style="--intensidade:0.366"><strong>36,6%</strong><small>n = 131</small></td><td style="--intensidade:0.419"><strong>41,9%</strong><small>n = 284</small></td></tr><tr><th scope="row">56–65</th><td style="--intensidade:0.583"><strong>58,3%</strong><small>n = 278</small></td><td style="--intensidade:0.616"><strong>61,6%</strong><small>n = 289</small></td><td style="--intensidade:0.519"><strong>51,9%</strong><small>n = 27</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 10</small></td><td style="--intensidade:0.655"><strong>65,5%</strong><small>n = 29</small></td><td style="--intensidade:0.429"><strong>42,9%</strong><small>n = 42</small></td><td style="--intensidade:0.357"><strong>35,7%</strong><small>n = 28</small></td><td class="sem-dados">—</td><td style="--intensidade:0.389"><strong>38,9%</strong><small>n = 90</small></td><td style="--intensidade:0.361"><strong>36,1%</strong><small>n = 36</small></td><td style="--intensidade:0.591"><strong>59,1%</strong><small>n = 88</small></td></tr><tr><th scope="row">66+</th><td style="--intensidade:0.750"><strong>75,0%</strong><small>n = 16</small></td><td style="--intensidade:0.792"><strong>79,2%</strong><small>n = 307</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 5</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 4</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 12</small></td><td class="sem-dados">—</td><td class="sem-dados">—</td><td class="sem-dados">—</td><td style="--intensidade:0.000"><strong>0,0%</strong><small>n = 1</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 4</small></td></tr></tbody></table></div>
+      </details>
+      <details><summary>Faixa etária</summary><p>A maior taxa observada foi de 79,08% no grupo “66+”, com 276 compras em 349 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:333px"><canvas role="img" aria-label="Taxa de compra por faixa etária">Taxa de compra por faixa etária</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["18–25", "26–35", "36–45", "46–55", "56–65", "66+"], "datasets": [{"label": "Taxa de compra por faixa etária", "data": [70.96, 48.24, 41.7, 41.72, 55.18, 79.08], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["70,96% · 281 de 396", "48,24% · 1.613 de 3.344", "41,70% · 1.087 de 2.607", "41,72% · 748 de 1.793", "55,18% · 506 de 917", "79,08% · 276 de 349"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por faixa etária"><table class="dataframe"><caption>Taxa de compra por faixa etária</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18–25</td>
+      <td>70,96% · 281 de 396</td>
+    </tr>
+    <tr>
+      <td>26–35</td>
+      <td>48,24% · 1.613 de 3.344</td>
+    </tr>
+    <tr>
+      <td>36–45</td>
+      <td>41,70% · 1.087 de 2.607</td>
+    </tr>
+    <tr>
+      <td>46–55</td>
+      <td>41,72% · 748 de 1.793</td>
+    </tr>
+    <tr>
+      <td>56–65</td>
+      <td>55,18% · 506 de 917</td>
+    </tr>
+    <tr>
+      <td>66+</td>
+      <td>79,08% · 276 de 349</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Faixa etária · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Faixa etária · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18–25</td>
+      <td>115</td>
+      <td>281</td>
+      <td>396</td>
+      <td>4,21%</td>
+      <td>2,35%</td>
+      <td>6,23%</td>
+      <td>70,96%</td>
+      <td>-0,9751</td>
+      <td>0,0378</td>
+    </tr>
+    <tr>
+      <td>26–35</td>
+      <td>1.731</td>
+      <td>1.613</td>
+      <td>3.344</td>
+      <td>35,55%</td>
+      <td>35,36%</td>
+      <td>35,76%</td>
+      <td>48,24%</td>
+      <td>-0,0111</td>
+      <td>0,0000</td>
+    </tr>
+    <tr>
+      <td>36–45</td>
+      <td>1.520</td>
+      <td>1.087</td>
+      <td>2.607</td>
+      <td>27,72%</td>
+      <td>31,05%</td>
+      <td>24,10%</td>
+      <td>41,70%</td>
+      <td>0,2536</td>
+      <td>0,0176</td>
+    </tr>
+    <tr>
+      <td>46–55</td>
+      <td>1.045</td>
+      <td>748</td>
+      <td>1.793</td>
+      <td>19,06%</td>
+      <td>21,35%</td>
+      <td>16,58%</td>
+      <td>41,72%</td>
+      <td>0,2527</td>
+      <td>0,0120</td>
+    </tr>
+    <tr>
+      <td>56–65</td>
+      <td>411</td>
+      <td>506</td>
+      <td>917</td>
+      <td>9,75%</td>
+      <td>8,40%</td>
+      <td>11,22%</td>
+      <td>55,18%</td>
+      <td>-0,2896</td>
+      <td>0,0082</td>
+    </tr>
+    <tr>
+      <td>66+</td>
+      <td>73</td>
+      <td>276</td>
+      <td>349</td>
+      <td>3,71%</td>
+      <td>1,49%</td>
+      <td>6,12%</td>
+      <td>79,08%</td>
+      <td>-1,4116</td>
+      <td>0,0653</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Profissão</summary><p>A maior taxa observada foi de 73,21% no grupo “Estudante”, com 235 compras em 321 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:573px"><canvas role="img" aria-label="Taxa de compra por profissão">Taxa de compra por profissão</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Administrador", "Aposentado", "Autônomo", "Desconhecido", "Desempregado", "Diarista", "Empresário", "Estudante", "Operário", "Serviços Gerais", "Técnico"], "datasets": [{"label": "Taxa de compra por profissão", "data": [50.65, 66.37, 45.64, 45.0, 57.52, 40.25, 34.94, 73.21, 37.36, 39.27, 46.43], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["50,65% · 1.666 de 3.289", "66,37% · 446 de 672", "45,64% · 157 de 344", "45,00% · 27 de 60", "57,52% · 176 de 306", "40,25% · 95 de 236", "34,94% · 94 de 269", "73,21% · 235 de 321", "37,36% · 597 de 1.598", "39,27% · 302 de 769", "46,43% · 716 de 1.542"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por profissão"><table class="dataframe"><caption>Taxa de compra por profissão</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Administrador</td>
+      <td>50,65% · 1.666 de 3.289</td>
+    </tr>
+    <tr>
+      <td>Aposentado</td>
+      <td>66,37% · 446 de 672</td>
+    </tr>
+    <tr>
+      <td>Autônomo</td>
+      <td>45,64% · 157 de 344</td>
+    </tr>
+    <tr>
+      <td>Desconhecido</td>
+      <td>45,00% · 27 de 60</td>
+    </tr>
+    <tr>
+      <td>Desempregado</td>
+      <td>57,52% · 176 de 306</td>
+    </tr>
+    <tr>
+      <td>Diarista</td>
+      <td>40,25% · 95 de 236</td>
+    </tr>
+    <tr>
+      <td>Empresário</td>
+      <td>34,94% · 94 de 269</td>
+    </tr>
+    <tr>
+      <td>Estudante</td>
+      <td>73,21% · 235 de 321</td>
+    </tr>
+    <tr>
+      <td>Operário</td>
+      <td>37,36% · 597 de 1.598</td>
+    </tr>
+    <tr>
+      <td>Serviços Gerais</td>
+      <td>39,27% · 302 de 769</td>
+    </tr>
+    <tr>
+      <td>Técnico</td>
+      <td>46,43% · 716 de 1.542</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Profissão · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Profissão · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Administrador</td>
+      <td>1.623</td>
+      <td>1.666</td>
+      <td>3.289</td>
+      <td>34,97%</td>
+      <td>33,16%</td>
+      <td>36,93%</td>
+      <td>50,65%</td>
+      <td>-0,1078</td>
+      <td>0,0041</td>
+    </tr>
+    <tr>
+      <td>Aposentado</td>
+      <td>226</td>
+      <td>446</td>
+      <td>672</td>
+      <td>7,14%</td>
+      <td>4,62%</td>
+      <td>9,89%</td>
+      <td>66,37%</td>
+      <td>-0,7615</td>
+      <td>0,0401</td>
+    </tr>
+    <tr>
+      <td>Autônomo</td>
+      <td>187</td>
+      <td>157</td>
+      <td>344</td>
+      <td>3,66%</td>
+      <td>3,82%</td>
+      <td>3,48%</td>
+      <td>45,64%</td>
+      <td>0,0932</td>
+      <td>0,0003</td>
+    </tr>
+    <tr>
+      <td>Desconhecido</td>
+      <td>33</td>
+      <td>27</td>
+      <td>60</td>
+      <td>0,64%</td>
+      <td>0,67%</td>
+      <td>0,60%</td>
+      <td>45,00%</td>
+      <td>0,1190</td>
+      <td>0,0001</td>
+    </tr>
+    <tr>
+      <td>Desempregado</td>
+      <td>130</td>
+      <td>176</td>
+      <td>306</td>
+      <td>3,25%</td>
+      <td>2,66%</td>
+      <td>3,90%</td>
+      <td>57,52%</td>
+      <td>-0,3846</td>
+      <td>0,0048</td>
+    </tr>
+    <tr>
+      <td>Diarista</td>
+      <td>141</td>
+      <td>95</td>
+      <td>236</td>
+      <td>2,51%</td>
+      <td>2,88%</td>
+      <td>2,11%</td>
+      <td>40,25%</td>
+      <td>0,3132</td>
+      <td>0,0024</td>
+    </tr>
+    <tr>
+      <td>Empresário</td>
+      <td>175</td>
+      <td>94</td>
+      <td>269</td>
+      <td>2,86%</td>
+      <td>3,58%</td>
+      <td>2,08%</td>
+      <td>34,94%</td>
+      <td>0,5398</td>
+      <td>0,0080</td>
+    </tr>
+    <tr>
+      <td>Estudante</td>
+      <td>86</td>
+      <td>235</td>
+      <td>321</td>
+      <td>3,41%</td>
+      <td>1,76%</td>
+      <td>5,21%</td>
+      <td>73,21%</td>
+      <td>-1,0869</td>
+      <td>0,0375</td>
+    </tr>
+    <tr>
+      <td>Operário</td>
+      <td>1.001</td>
+      <td>597</td>
+      <td>1.598</td>
+      <td>16,99%</td>
+      <td>20,45%</td>
+      <td>13,23%</td>
+      <td>37,36%</td>
+      <td>0,4351</td>
+      <td>0,0314</td>
+    </tr>
+    <tr>
+      <td>Serviços Gerais</td>
+      <td>467</td>
+      <td>302</td>
+      <td>769</td>
+      <td>8,18%</td>
+      <td>9,54%</td>
+      <td>6,69%</td>
+      <td>39,27%</td>
+      <td>0,3542</td>
+      <td>0,0101</td>
+    </tr>
+    <tr>
+      <td>Técnico</td>
+      <td>826</td>
+      <td>716</td>
+      <td>1.542</td>
+      <td>16,39%</td>
+      <td>16,87%</td>
+      <td>15,87%</td>
+      <td>46,43%</td>
+      <td>0,0612</td>
+      <td>0,0006</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Formação</summary><p>A maior taxa observada foi de 54,40% no grupo “Ensino Superior”, com 1.701 compras em 3.127 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:237px"><canvas role="img" aria-label="Taxa de compra por formação">Taxa de compra por formação</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Desconhecido", "Ensino Médio", "Ensino Superior", "Fundamental"], "datasets": [{"label": "Taxa de compra por formação", "data": [52.5, 45.07, 54.4, 40.84], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["52,50% · 231 de 440", "45,07% · 2.071 de 4.595", "54,40% · 1.701 de 3.127", "40,84% · 508 de 1.244"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por formação"><table class="dataframe"><caption>Taxa de compra por formação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desconhecido</td>
+      <td>52,50% · 231 de 440</td>
+    </tr>
+    <tr>
+      <td>Ensino Médio</td>
+      <td>45,07% · 2.071 de 4.595</td>
+    </tr>
+    <tr>
+      <td>Ensino Superior</td>
+      <td>54,40% · 1.701 de 3.127</td>
+    </tr>
+    <tr>
+      <td>Fundamental</td>
+      <td>40,84% · 508 de 1.244</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Formação · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Formação · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desconhecido</td>
+      <td>209</td>
+      <td>231</td>
+      <td>440</td>
+      <td>4,68%</td>
+      <td>4,27%</td>
+      <td>5,12%</td>
+      <td>52,50%</td>
+      <td>-0,1818</td>
+      <td>0,0015</td>
+    </tr>
+    <tr>
+      <td>Ensino Médio</td>
+      <td>2.524</td>
+      <td>2.071</td>
+      <td>4.595</td>
+      <td>48,85%</td>
+      <td>51,56%</td>
+      <td>45,91%</td>
+      <td>45,07%</td>
+      <td>0,1161</td>
+      <td>0,0066</td>
+    </tr>
+    <tr>
+      <td>Ensino Superior</td>
+      <td>1.426</td>
+      <td>1.701</td>
+      <td>3.127</td>
+      <td>33,24%</td>
+      <td>29,13%</td>
+      <td>37,71%</td>
+      <td>54,40%</td>
+      <td>-0,2580</td>
+      <td>0,0221</td>
+    </tr>
+    <tr>
+      <td>Fundamental</td>
+      <td>736</td>
+      <td>508</td>
+      <td>1.244</td>
+      <td>13,23%</td>
+      <td>15,04%</td>
+      <td>11,26%</td>
+      <td>40,84%</td>
+      <td>0,2891</td>
+      <td>0,0109</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Estado civil</summary><p>A maior taxa observada foi de 54,26% no grupo “Solteiro”, com 1.657 compras em 3.054 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:189px"><canvas role="img" aria-label="Taxa de compra por estado civil">Taxa de compra por estado civil</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Casado", "Divorciado", "Solteiro"], "datasets": [{"label": "Taxa de compra por estado civil", "data": [44.11, 49.13, 54.26], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["44,11% · 2.344 de 5.314", "49,13% · 510 de 1.038", "54,26% · 1.657 de 3.054"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por estado civil"><table class="dataframe"><caption>Taxa de compra por estado civil</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casado</td>
+      <td>44,11% · 2.344 de 5.314</td>
+    </tr>
+    <tr>
+      <td>Divorciado</td>
+      <td>49,13% · 510 de 1.038</td>
+    </tr>
+    <tr>
+      <td>Solteiro</td>
+      <td>54,26% · 1.657 de 3.054</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Estado civil · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Estado civil · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casado</td>
+      <td>2.970</td>
+      <td>2.344</td>
+      <td>5.314</td>
+      <td>56,50%</td>
+      <td>60,67%</td>
+      <td>51,96%</td>
+      <td>44,11%</td>
+      <td>0,1550</td>
+      <td>0,0135</td>
+    </tr>
+    <tr>
+      <td>Divorciado</td>
+      <td>528</td>
+      <td>510</td>
+      <td>1.038</td>
+      <td>11,04%</td>
+      <td>10,79%</td>
+      <td>11,31%</td>
+      <td>49,13%</td>
+      <td>-0,0470</td>
+      <td>0,0002</td>
+    </tr>
+    <tr>
+      <td>Solteiro</td>
+      <td>1.397</td>
+      <td>1.657</td>
+      <td>3.054</td>
+      <td>32,47%</td>
+      <td>28,54%</td>
+      <td>36,73%</td>
+      <td>54,26%</td>
+      <td>-0,2524</td>
+      <td>0,0207</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Inadimplência</summary><p>A maior taxa observada foi de 48,11% no grupo “Não”, com 4.494 compras em 9.341 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Taxa de compra por inadimplência">Taxa de compra por inadimplência</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Não", "Sim"], "datasets": [{"label": "Taxa de compra por inadimplência", "data": [48.11, 26.15], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["48,11% · 4.494 de 9.341", "26,15% · 17 de 65"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por inadimplência"><table class="dataframe"><caption>Taxa de compra por inadimplência</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>48,11% · 4.494 de 9.341</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>26,15% · 17 de 65</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Inadimplência · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Inadimplência · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>4.847</td>
+      <td>4.494</td>
+      <td>9.341</td>
+      <td>99,31%</td>
+      <td>99,02%</td>
+      <td>99,62%</td>
+      <td>48,11%</td>
+      <td>-0,0061</td>
+      <td>0,0000</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>48</td>
+      <td>17</td>
+      <td>65</td>
+      <td>0,69%</td>
+      <td>0,98%</td>
+      <td>0,38%</td>
+      <td>26,15%</td>
+      <td>0,9563</td>
+      <td>0,0058</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Hipoteca</summary><p>A maior taxa observada foi de 57,49% no grupo “Não”, com 2.894 compras em 5.034 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Taxa de compra por hipoteca">Taxa de compra por hipoteca</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Não", "Sim"], "datasets": [{"label": "Taxa de compra por hipoteca", "data": [57.49, 36.99], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["57,49% · 2.894 de 5.034", "36,99% · 1.617 de 4.372"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por hipoteca"><table class="dataframe"><caption>Taxa de compra por hipoteca</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>57,49% · 2.894 de 5.034</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>36,99% · 1.617 de 4.372</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Hipoteca · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Hipoteca · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>2.140</td>
+      <td>2.894</td>
+      <td>5.034</td>
+      <td>53,52%</td>
+      <td>43,72%</td>
+      <td>64,15%</td>
+      <td>57,49%</td>
+      <td>-0,3835</td>
+      <td>0,0784</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>2.755</td>
+      <td>1.617</td>
+      <td>4.372</td>
+      <td>46,48%</td>
+      <td>56,28%</td>
+      <td>35,85%</td>
+      <td>36,99%</td>
+      <td>0,4511</td>
+      <td>0,0922</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Empréstimo pessoal</summary><p>A maior taxa observada foi de 49,99% no grupo “Não”, com 4.142 compras em 8.286 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Taxa de compra por empréstimo pessoal">Taxa de compra por empréstimo pessoal</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Não", "Sim"], "datasets": [{"label": "Taxa de compra por empréstimo pessoal", "data": [49.99, 32.95], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["49,99% · 4.142 de 8.286", "32,95% · 369 de 1.120"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por empréstimo pessoal"><table class="dataframe"><caption>Taxa de compra por empréstimo pessoal</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>49,99% · 4.142 de 8.286</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>32,95% · 369 de 1.120</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Empréstimo pessoal · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Empréstimo pessoal · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Não</td>
+      <td>4.144</td>
+      <td>4.142</td>
+      <td>8.286</td>
+      <td>88,09%</td>
+      <td>84,66%</td>
+      <td>91,82%</td>
+      <td>49,99%</td>
+      <td>-0,0812</td>
+      <td>0,0058</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>751</td>
+      <td>369</td>
+      <td>1.120</td>
+      <td>11,91%</td>
+      <td>15,34%</td>
+      <td>8,18%</td>
+      <td>32,95%</td>
+      <td>0,6289</td>
+      <td>0,0450</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Saldo em conta corrente</summary><p>A maior taxa observada foi de 56,01% no grupo “R$ 1.500 a 4.999”, com 1.273 compras em 2.273 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:237px"><canvas role="img" aria-label="Taxa de compra por saldo em conta corrente">Taxa de compra por saldo em conta corrente</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Até R$ 499", "R$ 500 a 1.499", "R$ 1.500 a 4.999", "R$ 5 mil ou mais"], "datasets": [{"label": "Taxa de compra por saldo em conta corrente", "data": [41.8, 47.68, 56.01, 55.86], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["41,80% · 1.580 de 3.780", "47,68% · 1.253 de 2.628", "56,01% · 1.273 de 2.273", "55,86% · 405 de 725"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por saldo em conta corrente"><table class="dataframe"><caption>Taxa de compra por saldo em conta corrente</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Até R$ 499</td>
+      <td>41,80% · 1.580 de 3.780</td>
+    </tr>
+    <tr>
+      <td>R$ 500 a 1.499</td>
+      <td>47,68% · 1.253 de 2.628</td>
+    </tr>
+    <tr>
+      <td>R$ 1.500 a 4.999</td>
+      <td>56,01% · 1.273 de 2.273</td>
+    </tr>
+    <tr>
+      <td>R$ 5 mil ou mais</td>
+      <td>55,86% · 405 de 725</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Saldo em conta corrente · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Saldo em conta corrente · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Até R$ 499</td>
+      <td>2.200</td>
+      <td>1.580</td>
+      <td>3.780</td>
+      <td>40,19%</td>
+      <td>44,94%</td>
+      <td>35,03%</td>
+      <td>41,80%</td>
+      <td>0,2493</td>
+      <td>0,0247</td>
+    </tr>
+    <tr>
+      <td>R$ 500 a 1.499</td>
+      <td>1.375</td>
+      <td>1.253</td>
+      <td>2.628</td>
+      <td>27,94%</td>
+      <td>28,09%</td>
+      <td>27,78%</td>
+      <td>47,68%</td>
+      <td>0,0112</td>
+      <td>0,0000</td>
+    </tr>
+    <tr>
+      <td>R$ 1.500 a 4.999</td>
+      <td>1.000</td>
+      <td>1.273</td>
+      <td>2.273</td>
+      <td>24,17%</td>
+      <td>20,43%</td>
+      <td>28,22%</td>
+      <td>56,01%</td>
+      <td>-0,3231</td>
+      <td>0,0252</td>
+    </tr>
+    <tr>
+      <td>R$ 5 mil ou mais</td>
+      <td>320</td>
+      <td>405</td>
+      <td>725</td>
+      <td>7,71%</td>
+      <td>6,54%</td>
+      <td>8,98%</td>
+      <td>55,86%</td>
+      <td>-0,3173</td>
+      <td>0,0077</td>
+    </tr>
+  </tbody>
+</table></div></details><details><summary>Quantidade de ligações</summary><p>A maior taxa observada foi de 53,20% no grupo “1”, com 2.121 compras em 3.987 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:285px"><canvas role="img" aria-label="Taxa de compra por quantidade de ligações">Taxa de compra por quantidade de ligações</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["1", "2", "3", "4", "5+"], "datasets": [{"label": "Taxa de compra por quantidade de ligações", "data": [53.2, 47.79, 47.59, 42.45, 32.14], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["53,20% · 2.121 de 3.987", "47,79% · 1.233 de 2.580", "47,59% · 543 de 1.141", "42,45% · 281 de 662", "32,14% · 333 de 1.036"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por quantidade de ligações"><table class="dataframe"><caption>Taxa de compra por quantidade de ligações</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>53,20% · 2.121 de 3.987</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>47,79% · 1.233 de 2.580</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>47,59% · 543 de 1.141</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>42,45% · 281 de 662</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td>32,14% · 333 de 1.036</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Quantidade de ligações · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Quantidade de ligações · contagens, taxas e medidas de associação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Não</th>
+      <th>Sim</th>
+      <th>Total</th>
+      <th>Freq Rel (%)</th>
+      <th>% Não</th>
+      <th>% Sim</th>
+      <th>Taxa de compra</th>
+      <th>WoE</th>
+      <th>IV Parcial</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1.866</td>
+      <td>2.121</td>
+      <td>3.987</td>
+      <td>42,39%</td>
+      <td>38,12%</td>
+      <td>47,02%</td>
+      <td>53,20%</td>
+      <td>-0,2098</td>
+      <td>0,0187</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>1.347</td>
+      <td>1.233</td>
+      <td>2.580</td>
+      <td>27,43%</td>
+      <td>27,52%</td>
+      <td>27,33%</td>
+      <td>47,79%</td>
+      <td>0,0067</td>
+      <td>0,0000</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>598</td>
+      <td>543</td>
+      <td>1.141</td>
+      <td>12,13%</td>
+      <td>12,22%</td>
+      <td>12,04%</td>
+      <td>47,59%</td>
+      <td>0,0148</td>
+      <td>0,0000</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>381</td>
+      <td>281</td>
+      <td>662</td>
+      <td>7,04%</td>
+      <td>7,78%</td>
+      <td>6,23%</td>
+      <td>42,45%</td>
+      <td>0,2227</td>
+      <td>0,0035</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td>703</td>
+      <td>333</td>
+      <td>1.036</td>
+      <td>11,01%</td>
+      <td>14,36%</td>
+      <td>7,38%</td>
+      <td>32,14%</td>
+      <td>0,6655</td>
+      <td>0,0465</td>
+    </tr>
+  </tbody>
+</table></div></details>
+      <details><summary>Detalhamento dos saldos a partir de R$ 5 mil</summary>
+        <p>O corte em R$ 1.500 é exploratório. Acima dele, as taxas são semelhantes.
+        O desdobramento em R$ 10 mil cria grupos menores, o que limita a leitura da diferença.</p>
+        <figure class="visualizacao"><div class="chart-container" style="--altura:285px"><canvas role="img" aria-label="Taxa de compra com detalhamento dos saldos">Taxa de compra com detalhamento dos saldos</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["Até R$ 499", "R$ 500 a 1.499", "R$ 1.500 a 4.999", "R$ 5 mil a 9.999", "R$ 10 mil ou mais"], "datasets": [{"label": "Taxa de compra com detalhamento dos saldos", "data": [41.8, 47.68, 56.01, 55.17, 57.64], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["41,80% · 1.580 de 3.780", "47,68% · 1.253 de 2.628", "56,01% · 1.273 de 2.273", "55,17% · 288 de 522", "57,64% · 117 de 203"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra com detalhamento dos saldos"><table class="dataframe"><caption>Taxa de compra com detalhamento dos saldos</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Até R$ 499</td>
+      <td>41,80% · 1.580 de 3.780</td>
+    </tr>
+    <tr>
+      <td>R$ 500 a 1.499</td>
+      <td>47,68% · 1.253 de 2.628</td>
+    </tr>
+    <tr>
+      <td>R$ 1.500 a 4.999</td>
+      <td>56,01% · 1.273 de 2.273</td>
+    </tr>
+    <tr>
+      <td>R$ 5 mil a 9.999</td>
+      <td>55,17% · 288 de 522</td>
+    </tr>
+    <tr>
+      <td>R$ 10 mil ou mais</td>
+      <td>57,64% · 117 de 203</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+      </details>
+    </section>
+    <section id="ligacoes" class="painel">
+      <h2>A taxa foi de 53,20% no grupo de uma ligação e de 32,14% no de cinco ou mais</h2>
+      <div class="grade">
+        <div><h3>Cada faixa reúne um grupo distinto de clientes</h3>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:285px"><canvas role="img" aria-label="Taxa de compra por faixa de ligações">Taxa de compra por faixa de ligações</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["1", "2", "3", "4", "5+"], "datasets": [{"label": "Taxa de compra por faixa de ligações", "data": [53.2, 47.79, 47.59, 42.45, 32.14], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["53,20% · 2.121 de 3.987", "47,79% · 1.233 de 2.580", "47,59% · 543 de 1.141", "42,45% · 281 de 662", "32,14% · 333 de 1.036"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por faixa de ligações"><table class="dataframe"><caption>Taxa de compra por faixa de ligações</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>53,20% · 2.121 de 3.987</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>47,79% · 1.233 de 2.580</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>47,59% · 543 de 1.141</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>42,45% · 281 de 662</td>
+    </tr>
+    <tr>
+      <td>5+</td>
+      <td>32,14% · 333 de 1.036</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+          <p class="nota">Cada cliente aparece em uma única faixa. O máximo observado foi
+          de 63 ligações.</p></div>
+        <div><h3>Entre quem recebeu duas ligações ou mais, 44,10% compraram</h3><figure class="visualizacao"><div class="chart-container" style="--altura:310px"><canvas role="img" aria-label="Compra por condição acumulada de ligações">Compra por condição acumulada de ligações</canvas></div><script type="application/json" class="chart-data">{"type": "line", "metric": "percentual", "legend": true, "reference": 47.958749734212205, "max": 100, "axisTitle": "Limiar de ligações (k)", "data": {"labels": [2, 3, 4, 5], "datasets": [{"label": "Até k ligações", "data": [51.07354956601188, 50.55786196159834, 49.91636798088411, 49.45383465562838], "borderColor": "#C5A15A", "backgroundColor": "#C5A15A", "pointStyle": "circle", "pointRadius": 5, "borderWidth": 2.5, "tension": 0, "details": ["3.354 compras em 6.567 clientes", "3.897 compras em 7.708 clientes", "4.178 compras em 8.370 clientes", "4.301 compras em 8.697 clientes"]}, {"label": "k ou mais ligações", "data": [44.104078243218304, 40.75378654455794, 36.160188457008246, 32.142857142857146], "borderColor": "#171717", "backgroundColor": "#171717", "pointStyle": "rect", "pointRadius": 5, "borderWidth": 2.5, "tension": 0, "details": ["2.390 compras em 5.419 clientes", "1.157 compras em 2.839 clientes", "614 compras em 1.698 clientes", "333 compras em 1.036 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Compra por condição acumulada de ligações"><table class="dataframe"><caption>Compra por condição acumulada de ligações</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Condição</th>
+      <th>k</th>
+      <th>Clientes</th>
+      <th>Compras</th>
+      <th>Taxa</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Até k ligações</td>
+      <td>2</td>
+      <td>6567</td>
+      <td>3354</td>
+      <td>51,07%</td>
+    </tr>
+    <tr>
+      <td>k ou mais ligações</td>
+      <td>2</td>
+      <td>5419</td>
+      <td>2390</td>
+      <td>44,10%</td>
+    </tr>
+    <tr>
+      <td>Até k ligações</td>
+      <td>3</td>
+      <td>7708</td>
+      <td>3897</td>
+      <td>50,56%</td>
+    </tr>
+    <tr>
+      <td>k ou mais ligações</td>
+      <td>3</td>
+      <td>2839</td>
+      <td>1157</td>
+      <td>40,75%</td>
+    </tr>
+    <tr>
+      <td>Até k ligações</td>
+      <td>4</td>
+      <td>8370</td>
+      <td>4178</td>
+      <td>49,92%</td>
+    </tr>
+    <tr>
+      <td>k ou mais ligações</td>
+      <td>4</td>
+      <td>1698</td>
+      <td>614</td>
+      <td>36,16%</td>
+    </tr>
+    <tr>
+      <td>Até k ligações</td>
+      <td>5</td>
+      <td>8697</td>
+      <td>4301</td>
+      <td>49,45%</td>
+    </tr>
+    <tr>
+      <td>k ou mais ligações</td>
+      <td>5</td>
+      <td>1036</td>
+      <td>333</td>
+      <td>32,14%</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+          <p class="nota">Os grupos por limiar se sobrepõem. “Até k” inclui quem recebeu k ligações ou menos.
+          “k ou mais” inclui quem recebeu k ligações ou mais.</p></div>
+      </div>
+      <p class="destaque">A taxa observada é menor nos grupos com mais ligações. Clientes com menor interesse
+      podem ter recebido mais tentativas, e as ligações podem ter cessado após a compra.</p>
+    </section>
+    <section id="associacao" class="painel">
+      <h2>Hipoteca teve o maior Information Value (IV), de 0,1706</h2>
+      <div class="grade">
+        <div><figure class="visualizacao"><div class="chart-container" style="--altura:477px"><canvas role="img" aria-label="Information Value (IV)">Information Value (IV)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "decimal", "max": 0.3, "reference": null, "data": {"labels": ["Hipoteca", "Faixa etária", "Profissão", "Quantidade de ligações", "Saldo em conta corrente", "Empréstimo pessoal", "Formação", "Estado civil", "Inadimplência"], "datasets": [{"label": "Information Value (IV)", "data": [0.1706, 0.141, 0.1395, 0.0686, 0.0577, 0.0509, 0.0412, 0.0344, 0.0058], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["0,1706 · Médio", "0,1410 · Médio", "0,1395 · Médio", "0,0686 · Fraco", "0,0577 · Fraco", "0,0509 · Fraco", "0,0412 · Fraco", "0,0344 · Fraco", "0,0058 · Muito fraco"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Information Value (IV)"><table class="dataframe"><caption>Information Value (IV)</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hipoteca</td>
+      <td>0,1706 · Médio</td>
+    </tr>
+    <tr>
+      <td>Faixa etária</td>
+      <td>0,1410 · Médio</td>
+    </tr>
+    <tr>
+      <td>Profissão</td>
+      <td>0,1395 · Médio</td>
+    </tr>
+    <tr>
+      <td>Quantidade de ligações</td>
+      <td>0,0686 · Fraco</td>
+    </tr>
+    <tr>
+      <td>Saldo em conta corrente</td>
+      <td>0,0577 · Fraco</td>
+    </tr>
+    <tr>
+      <td>Empréstimo pessoal</td>
+      <td>0,0509 · Fraco</td>
+    </tr>
+    <tr>
+      <td>Formação</td>
+      <td>0,0412 · Fraco</td>
+    </tr>
+    <tr>
+      <td>Estado civil</td>
+      <td>0,0344 · Fraco</td>
+    </tr>
+    <tr>
+      <td>Inadimplência</td>
+      <td>0,0058 · Muito fraco</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+          <p class="nota">O IV resume a capacidade de distinção observada de cada variável, isoladamente.
+          As faixas e categorias adotadas influenciam essa medida.</p></div>
+        <div><h3>Faixa etária · 66+ teve o WoE de maior magnitude</h3><figure class="visualizacao"><div class="chart-container" style="--altura:525px"><canvas role="img" aria-label="Dez maiores magnitudes de Weight of Evidence (WoE)">Dez maiores magnitudes de Weight of Evidence (WoE)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "decimal", "max": 1.4116, "reference": null, "data": {"labels": ["Faixa etária · 66+", "Profissão · Estudante", "Faixa etária · 18–25", "Inadimplência · Sim", "Profissão · Aposentado", "Quantidade de ligações · 5+", "Empréstimo pessoal · Sim", "Profissão · Empresário", "Hipoteca · Sim", "Profissão · Operário"], "datasets": [{"label": "Dez maiores magnitudes de Weight of Evidence (WoE)", "data": [-1.4116, -1.0869, -0.9751, 0.9563, -0.7615, 0.6655, 0.6289, 0.5398, 0.4511, 0.4351], "backgroundColor": ["#171717", "#171717", "#171717", "#C5A15A", "#171717", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["-1,4116 · n = 349", "-1,0869 · n = 321", "-0,9751 · n = 396", "0,9563 · n = 65", "-0,7615 · n = 672", "0,6655 · n = 1.036", "0,6289 · n = 1.120", "0,5398 · n = 269", "0,4511 · n = 4.372", "0,4351 · n = 1.598"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Dez maiores magnitudes de Weight of Evidence (WoE)"><table class="dataframe"><caption>Dez maiores magnitudes de Weight of Evidence (WoE)</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Faixa etária · 66+</td>
+      <td>-1,4116 · n = 349</td>
+    </tr>
+    <tr>
+      <td>Profissão · Estudante</td>
+      <td>-1,0869 · n = 321</td>
+    </tr>
+    <tr>
+      <td>Faixa etária · 18–25</td>
+      <td>-0,9751 · n = 396</td>
+    </tr>
+    <tr>
+      <td>Inadimplência · Sim</td>
+      <td>0,9563 · n = 65</td>
+    </tr>
+    <tr>
+      <td>Profissão · Aposentado</td>
+      <td>-0,7615 · n = 672</td>
+    </tr>
+    <tr>
+      <td>Quantidade de ligações · 5+</td>
+      <td>0,6655 · n = 1.036</td>
+    </tr>
+    <tr>
+      <td>Empréstimo pessoal · Sim</td>
+      <td>0,6289 · n = 1.120</td>
+    </tr>
+    <tr>
+      <td>Profissão · Empresário</td>
+      <td>0,5398 · n = 269</td>
+    </tr>
+    <tr>
+      <td>Hipoteca · Sim</td>
+      <td>0,4511 · n = 4.372</td>
+    </tr>
+    <tr>
+      <td>Profissão · Operário</td>
+      <td>0,4351 · n = 1.598</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+          <p class="nota">WoE negativo indica maior representação proporcional entre compradores.
+          WoE positivo indica maior representação proporcional entre quem não comprou.</p></div>
+      </div>
+      <p class="destaque">IV e WoE descrevem associações na base. Interprete os valores junto às frequências
+      e à taxa de compra, principalmente quando o grupo é pequeno.</p>
+    </section>
+
+    <footer>
+      <p>Fonte: planilha Bank Marketing, disponibilizada pela Preditiva Analytics.
+      A análise considera os registros após a remoção de duplicatas exatas, conforme a premissa do estudo.</p>
+      <p><a href="https://github.com/jooarantes/data-analisys-labs/blob/main/projects/bank-marketing-analytics/notebooks/banco-analise-campanha.ipynb">Notebook de referência</a>
+      · <a href="https://github.com/jooarantes/data-analisys-labs/blob/main/projects/bank-marketing-analytics/docs/arquitetura-agente-dashboard.md">Arquitetura e reprodução</a></p>
+      <p>Os gráficos interativos precisam de conexão à internet. As tabelas permanecem disponíveis no arquivo.</p>
+    </footer>
+  </main>
+  <script>/* Renderização dos agregados incorporados pelo gerador Python. */
+document.addEventListener("DOMContentLoaded", () => {
+  const figuras = [...document.querySelectorAll(".visualizacao")];
+  const aviso = document.querySelector(".aviso-graficos");
+  if (typeof Chart === "undefined") {
+    aviso.hidden = false;
+    figuras.forEach(figura => { figura.querySelector(".dados-grafico").open = true; });
+    return;
+  }
+
+  document.body.classList.add("graficos-prontos");
+  Chart.defaults.color = "#655b4e";
+  Chart.defaults.font.family = "system-ui, sans-serif";
+  Chart.defaults.font.size = 12;
+  const decimal = new Intl.NumberFormat("pt-BR", { maximumFractionDigits: 2 });
+  const medida = (valor, tipo) => {
+    if (valor === null) return "Sem observações";
+    if (tipo === "decimal") return new Intl.NumberFormat("pt-BR", { maximumFractionDigits: 4 }).format(valor);
+    return decimal.format(valor) + (tipo === "percentual" ? "%" : "");
+  };
+  const quebrarRotulo = (rotulo, limite) => {
+    const linhas = [""];
+    for (const palavra of String(rotulo).split(" ")) {
+      const atual = linhas.length - 1;
+      if (linhas[atual] && linhas[atual].length + palavra.length > limite) linhas.push(palavra);
+      else linhas[atual] += (linhas[atual] ? " " : "") + palavra;
+    }
+    return linhas;
+  };
+
+  const referencia = {
+    id: "referencia",
+    afterDraw(chart, args, options) {
+      if (options.value === null || options.value === undefined) return;
+      const { ctx, chartArea, scales } = chart;
+      const horizontal = chart.options.indexAxis === "y";
+      const posicao = (horizontal ? scales.x : scales.y).getPixelForValue(options.value);
+      ctx.save();
+      ctx.strokeStyle = "#655b4e";
+      ctx.setLineDash([5, 4]);
+      ctx.lineWidth = 1.2;
+      ctx.beginPath();
+      ctx.moveTo(horizontal ? posicao : chartArea.left, horizontal ? chartArea.top : posicao);
+      ctx.lineTo(horizontal ? posicao : chartArea.right, horizontal ? chartArea.bottom : posicao);
+      ctx.stroke();
+      ctx.restore();
+    },
+  };
+
+  function renderizar(figura) {
+    const canvas = figura.querySelector("canvas");
+    // Details fechados não têm dimensões. A criação ocorre quando forem abertos.
+    if (figura.closest("details:not([open])") || !canvas.getClientRects().length) return;
+    const existente = Chart.getChart(canvas);
+    if (existente) {
+      existente.resize();
+      return;
+    }
+    const config = JSON.parse(figura.querySelector(".chart-data").textContent);
+    const horizontal = config.horizontal ?? false;
+    const valor = {
+      beginAtZero: true,
+      max: config.max,
+      grid: { color: "#e8e1d5" },
+      border: { display: false },
+      ticks: { callback: v => medida(v, config.metric), maxTicksLimit: 6 },
+    };
+    const categoria = {
+      grid: { display: false },
+      border: { display: false },
+      ticks: {
+        autoSkip: !horizontal,
+        maxTicksLimit: horizontal ? undefined : 7,
+        maxRotation: 0,
+        callback: function (v) {
+          return quebrarRotulo(this.getLabelForValue(v), horizontal ? 18 : 12);
+        },
+      },
+    };
+    if (config.axisTitle) categoria.title = { display: true, text: config.axisTitle };
+    const scales = horizontal ? { x: valor, y: categoria } : { x: categoria, y: valor };
+    if (config.secondary) {
+      scales.y.title = { display: true, text: "Clientes" };
+      scales.y1 = {
+        position: "right", min: 0, max: 100,
+        grid: { drawOnChartArea: false }, border: { display: false },
+        ticks: { callback: v => medida(v, "percentual"), maxTicksLimit: 6 },
+      };
+    }
+    new Chart(canvas, {
+      type: config.type,
+      data: config.data,
+      plugins: [referencia],
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        indexAxis: horizontal ? "y" : "x",
+        locale: "pt-BR",
+        resizeDelay: 80,
+        animation: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? false : { duration: 350 },
+        interaction: { mode: config.type === "line" ? "index" : "nearest", intersect: false },
+        plugins: {
+          referencia: { value: config.reference },
+          legend: {
+            display: config.legend ?? false, position: "bottom",
+            labels: { usePointStyle: true, boxWidth: 9, padding: 16 },
+          },
+          tooltip: {
+            backgroundColor: "#171717", titleColor: "#F4F0E7", bodyColor: "#F4F0E7",
+            padding: 12, displayColors: !!config.legend,
+            callbacks: {
+              title: items => quebrarRotulo(items[0]?.label ?? "", 32),
+              label: context => {
+                const tipo = context.dataset.yAxisID === "y1" ? "percentual" : config.metric;
+                const numero = horizontal ? context.parsed.x : context.parsed.y;
+                return context.dataset.label + " · " + medida(numero, tipo);
+              },
+              afterLabel: context => context.dataset.details?.[context.dataIndex] ?? "",
+            },
+          },
+        },
+        scales,
+      },
+    });
+  }
+
+  figuras.forEach(renderizar);
+  document.querySelectorAll("details").forEach(detalhe => {
+    detalhe.addEventListener("toggle", () => {
+      if (detalhe.open) requestAnimationFrame(() => detalhe.querySelectorAll(".visualizacao").forEach(renderizar));
+    });
+  });
+});
+</script>
+</body>
+</html>

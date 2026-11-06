@@ -20,8 +20,8 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 ## 3. Entregáveis
 
 - [Notebook de análise da campanha](notebooks/banco-analise-campanha.ipynb) — exploração, perguntas de negócio, análise de conversão, Information Value e estimativa de incerteza.
-- [Dashboard de perfil dos clientes](reports/dashboard-perfil-clientes.html) — composição demográfica, profissional e financeira da base.
-- [Dashboard de conversão da campanha](reports/dashboard-conversao-campanha.html) — compras, incerteza, taxas por segmento e análise de ligações.
+- [Dashboard de perfil dos clientes](https://jooarantes.github.io/data-analisys-labs/projects/bank-marketing-analytics/dashboards/dashboard-perfil-clientes.html) — composição demográfica, profissional e financeira da base.
+- [Dashboard de conversão da campanha](https://jooarantes.github.io/data-analisys-labs/projects/bank-marketing-analytics/dashboards/dashboard-conversao-campanha.html) — compras, incerteza, taxas por segmento e análise de ligações.
 
 ## 4. Dados e premissas
 ### Fonte dos Dados

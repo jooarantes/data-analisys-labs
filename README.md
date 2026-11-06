@@ -8,6 +8,8 @@ This repository is a curated lab and portfolio hub. Some projects live here,
 while selected analyses remain in their own repositories and are referenced
 when that structure provides a clearer project boundary.
 
+Browse the [interactive artifacts on GitHub Pages](https://jooarantes.github.io/data-analisys-labs/).
+
 ## Repository Scope
 
 - **Customer Analysis:** marketing, behavior, journey, retention, and
