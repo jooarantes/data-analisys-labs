@@ -27,6 +27,12 @@ deliverables available for that project.
 
 ## Projects
 
+### Customer Analysis
+
+| Project | Problem addressed | Methods and tools | Deliverables |
+| --- | --- | --- | --- |
+| [Bank Marketing Analytics](./projects/bank-marketing-analytics/) | Describe the customer profile and observed conversion in a bank campaign, with explicit uncertainty and causal limits. | Exploratory analysis, conversion rates, confidence intervals, WoE/IV, Python, pandas, SciPy, and Jupyter Notebook. | Analytical notebook, customer profile dashboard, and campaign conversion dashboard. |
+
 ### Business Analysis
 
 | Project | Problem addressed | Methods and tools | Deliverables |
@@ -76,6 +82,7 @@ data-analisys-labs/
 ├── README.md
 ├── LICENSE
 └── projects/
+    ├── bank-marketing-analytics/
     └── casa-verde-competitive-intelligence/
 ```
 

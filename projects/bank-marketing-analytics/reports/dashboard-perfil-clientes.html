@@ -1,0 +1,817 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Perfil dos clientes | Banco XPTOKW</title>
+  <style>:root {
+  --texto: #171717;
+  --ouro: #C5A15A;
+  --fundo: #F4F0E7;
+  --papel: #fffdf9;
+  --linha: #ded5c5;
+  --suave: #655b4e;
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: var(--texto);
+  background: var(--fundo);
+  line-height: 1.55;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; }
+html { scroll-behavior: smooth; }
+:focus-visible { outline: 3px solid var(--ouro); outline-offset: 4px; }
+[hidden] { display: none !important; }
+h1, h2, h3, .numero { font-family: Georgia, serif; line-height: 1.12; }
+h1 { margin: .6rem 0 1rem; font-size: clamp(2.25rem, 5vw, 4rem); letter-spacing: -.035em; }
+h2 { margin: 0 0 .8rem; font-size: clamp(1.6rem, 2.6vw, 2.2rem); }
+h3 { margin: 0 0 .65rem; font-size: 1.3rem; }
+p { margin: 0 0 .85rem; }
+p:last-child { margin-bottom: 0; }
+a { color: inherit; text-underline-offset: .2em; }
+small, .nota, caption { color: var(--suave); }
+
+.largura { width: min(1160px, calc(100% - 2rem)); margin-inline: auto; }
+.topo { background: var(--texto); color: var(--fundo); border-bottom: 5px solid var(--ouro); }
+.topo .largura { padding-block: 1.5rem 2.8rem; }
+.marca-banco { display: flex; align-items: center; gap: .65rem; font-weight: 650; }
+.simbolo {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  border: 1px solid var(--ouro);
+  color: var(--ouro);
+  font: 1.1rem Georgia, serif;
+}
+.sobretitulo { margin: 1.8rem 0 0; color: var(--ouro); }
+.sobretitulo, .rotulo {
+  font-size: .76rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .11em;
+}
+.introducao { max-width: 52ch; color: #e2dacc; }
+.nav { display: flex; flex-wrap: wrap; gap: .5rem; padding-block: .8rem; }
+.nav a { padding: .55rem 1rem; min-height: 44px; display: inline-flex; align-items: center; border: 1px solid var(--linha); border-radius: 2rem; text-decoration: none; font-size: .9rem; }
+.nav a[aria-current="page"] { color: var(--papel); background: var(--texto); border-color: var(--texto); }
+.nav a:hover { border-color: var(--texto); }
+
+.kpis, .grade { display: grid; gap: 1.25rem; margin-block: 1.25rem; }
+.kpis { grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); }
+.grade { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.kpi, .painel { padding: clamp(1rem, 2.4vw, 1.75rem); border: 1px solid var(--linha); border-radius: 16px; background: var(--papel); box-shadow: 0 4px 18px #17171705; }
+.kpi { border-top: 3px solid var(--ouro); }
+.kpi .rotulo { color: var(--suave); }
+.numero { display: block; margin: .35rem 0 .5rem; font-size: clamp(1.65rem, 3vw, 2.65rem); }
+.kpi:last-child .numero { font-size: clamp(1.5rem, 2.5vw, 2.15rem); }
+.painel { margin-block: 1.25rem; scroll-margin-top: 1rem; min-width: 0; }
+.grade .painel { margin: 0; }
+.destaque { border-left: 3px solid var(--ouro); padding: .85rem 1rem; background: var(--fundo); border-radius: 0 8px 8px 0; }
+.indice { padding-block: .8rem; border-top: 1px solid var(--linha); }
+.indice a { padding: .25rem .65rem; }
+.grafico { display: block; width: 100%; height: auto; margin: .85rem auto; }
+.visualizacao { margin: 1rem 0; min-width: 0; }
+.chart-container { display: none; position: relative; width: 100%; height: var(--altura, 310px); min-width: 0; }
+.graficos-prontos .chart-container { display: block; }
+.dados-grafico { margin-top: .75rem; }
+.dados-grafico summary { color: var(--suave); font-size: .86rem; }
+.grade > div, .kpi { min-width: 0; }
+
+.rolagem { overflow-x: auto; max-width: 100%; margin-block: .75rem; }
+table { border-collapse: collapse; width: 100%; font-size: .88rem; font-variant-numeric: tabular-nums; }
+caption { text-align: left; padding: 0 0 .5rem; }
+th, td { text-align: left; padding: .55rem .65rem; border-bottom: 1px solid var(--linha); white-space: nowrap; }
+th { background: var(--fundo); font-weight: 650; }
+.mapa td { text-align: center; background: rgb(197 161 90 / var(--intensidade, 0)); }
+.mapa small { display: block; color: var(--texto); }
+.mapa .sem-dados { color: var(--suave); }
+details { border-top: 1px solid var(--linha); padding: .7rem 0; }
+summary { font-weight: 650; cursor: pointer; padding-block: .4rem; min-height: 44px; }
+details p { margin-top: .65rem; }
+footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid var(--linha); font-size: .87rem; }
+
+@media (max-width: 720px) {
+  .grade { grid-template-columns: 1fr; }
+  .topo .largura { padding-bottom: 2rem; }
+  .largura { width: calc(100% - 1.25rem); }
+  .chart-container { height: max(230px, var(--altura, 310px)); }
+  .kpis { gap: .65rem; }
+  .kpi .numero { font-size: 1.85rem; }
+  .indice { gap: .25rem; }
+  .indice a { padding-inline: .65rem; }
+  .mapa th:first-child { position: sticky; left: 0; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+</style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js" defer></script>
+</head>
+<body>
+  <header class="topo">
+    <div class="largura">
+      <div class="marca-banco"><span class="simbolo" aria-hidden="true">X</span> Banco XPTOKW</div>
+      <p class="sobretitulo">Estudo de campanha · Título de investimento</p>
+      <h1>Perfil dos clientes</h1>
+      <p class="introducao">Quem são os clientes que receberam a oferta de investimento?</p>
+    </div>
+  </header>
+  <main class="largura">
+    <nav class="nav" aria-label="Dashboards"><a href="dashboard-perfil-clientes.html" aria-current="page">Perfil dos clientes</a><a href="dashboard-conversao-campanha.html">Conversão da campanha</a></nav>
+    <p class="aviso-graficos destaque" role="status" hidden>Os gráficos não carregaram.
+    Consulte as tabelas de dados abaixo ou recarregue a página com conexão à internet.</p>
+    <noscript><p class="destaque">Ative JavaScript para explorar os gráficos.
+    Os valores estão disponíveis nas tabelas de cada seção.</p></noscript>
+    
+    <div class="kpis" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Clientes analisados</span><strong class="numero">9.406</strong><small>278 duplicatas removidas</small></div><div class="kpi"><span class="rotulo">Idade mediana</span><strong class="numero">38 anos</strong><small>Média de 41,2 anos</small></div><div class="kpi"><span class="rotulo">Saldo mediano</span><strong class="numero">R$ 726,00</strong><small>Saldo em conta corrente</small></div></div>
+    <nav class="nav indice" aria-label="Perguntas sobre o perfil dos clientes">
+      <a href="#profissoes">Quais profissões concentram a base?</a>
+      <a href="#demografia">Qual é o perfil demográfico?</a>
+      <a href="#formacao">Qual é o nível de formação?</a>
+      <a href="#financeiro">Como é o perfil financeiro?</a>
+    </nav>
+    <section class="painel" id="profissoes">
+      <h2>83,7% da base se concentra em 5 profissões</h2>
+      <p>Em ordem de frequência, os grupos são Administrador, Operário, Técnico, Serviços Gerais, Aposentado.</p>
+      <figure class="visualizacao"><div class="chart-container" style="--altura:380px"><canvas role="img" aria-label="Pareto por profissão — clientes e participação acumulada">Pareto por profissão — clientes e participação acumulada</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "metric": "contagem", "secondary": true, "legend": true, "data": {"labels": ["Administrador", "Operário", "Técnico", "Serviços Gerais", "Aposentado", "Autônomo", "Estudante", "Desempregado", "Empresário", "Diarista", "Desconhecido"], "datasets": [{"label": "Clientes", "data": [3289, 1598, 1542, 769, 672, 344, 321, 306, 269, 236, 60], "backgroundColor": "#C5A15A", "borderRadius": 4, "yAxisID": "y", "order": 2}, {"type": "line", "label": "Participação acumulada", "data": [34.96704231341697, 51.956198171379974, 68.3499893684882, 76.52562194344036, 83.66999787369764, 87.3272379332341, 90.73995322134807, 93.99319583244737, 96.8530725069105, 99.36210929194131, 100.0], "borderColor": "#171717", "backgroundColor": "#171717", "pointRadius": 3, "yAxisID": "y1", "order": 1}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Pareto por profissão — clientes e participação acumulada"><table class="dataframe"><caption>Pareto por profissão — clientes e participação acumulada</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Profissão</th>
+      <th>Clientes</th>
+      <th>% acumulado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Administrador</td>
+      <td>3.289</td>
+      <td>35,0%</td>
+    </tr>
+    <tr>
+      <td>Operário</td>
+      <td>1.598</td>
+      <td>52,0%</td>
+    </tr>
+    <tr>
+      <td>Técnico</td>
+      <td>1.542</td>
+      <td>68,3%</td>
+    </tr>
+    <tr>
+      <td>Serviços Gerais</td>
+      <td>769</td>
+      <td>76,5%</td>
+    </tr>
+    <tr>
+      <td>Aposentado</td>
+      <td>672</td>
+      <td>83,7%</td>
+    </tr>
+    <tr>
+      <td>Autônomo</td>
+      <td>344</td>
+      <td>87,3%</td>
+    </tr>
+    <tr>
+      <td>Estudante</td>
+      <td>321</td>
+      <td>90,7%</td>
+    </tr>
+    <tr>
+      <td>Desempregado</td>
+      <td>306</td>
+      <td>94,0%</td>
+    </tr>
+    <tr>
+      <td>Empresário</td>
+      <td>269</td>
+      <td>96,9%</td>
+    </tr>
+    <tr>
+      <td>Diarista</td>
+      <td>236</td>
+      <td>99,4%</td>
+    </tr>
+    <tr>
+      <td>Desconhecido</td>
+      <td>60</td>
+      <td>100,0%</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+    </section>
+    <section id="demografia" class="painel">
+      <h2>Metade dos clientes está entre 32 e 49 anos</h2>
+      <div class="grade">
+        <div>
+          <p>As idades observadas vão de 18 a 95 anos.</p>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:310px"><canvas role="img" aria-label="Distribuição de idade (anos)">Distribuição de idade (anos)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "metric": "contagem", "axisTitle": "Idade (anos)", "data": {"labels": ["18,0 – 20,6", "20,6 – 23,1", "23,1 – 25,7", "25,7 – 28,3", "28,3 – 30,8", "30,8 – 33,4", "33,4 – 36,0", "36,0 – 38,5", "38,5 – 41,1", "41,1 – 43,7", "43,7 – 46,2", "46,2 – 48,8", "48,8 – 51,4", "51,4 – 53,9", "53,9 – 56,5", "56,5 – 59,1", "59,1 – 61,6", "61,6 – 64,2", "64,2 – 66,8", "66,8 – 69,3", "69,3 – 71,9", "71,9 – 74,5", "74,5 – 77,0", "77,0 – 79,6", "79,6 – 82,2", "82,2 – 84,7", "84,7 – 87,3", "87,3 – 89,9", "89,9 – 92,4", "92,4 – 95,0"], "datasets": [{"label": "Clientes", "data": [36, 129, 231, 662, 673, 1221, 788, 965, 803, 439, 613, 391, 521, 350, 462, 447, 197, 104, 52, 61, 45, 67, 60, 29, 30, 8, 13, 3, 4, 2], "backgroundColor": "#C5A15A", "barPercentage": 1, "categoryPercentage": 1, "borderColor": "#fffdf9", "borderWidth": 1}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Distribuição de idade (anos)"><table class="dataframe"><caption>Distribuição de idade (anos)</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Intervalo</th>
+      <th>Clientes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>18,0 – 20,6</td>
+      <td>36</td>
+    </tr>
+    <tr>
+      <td>20,6 – 23,1</td>
+      <td>129</td>
+    </tr>
+    <tr>
+      <td>23,1 – 25,7</td>
+      <td>231</td>
+    </tr>
+    <tr>
+      <td>25,7 – 28,3</td>
+      <td>662</td>
+    </tr>
+    <tr>
+      <td>28,3 – 30,8</td>
+      <td>673</td>
+    </tr>
+    <tr>
+      <td>30,8 – 33,4</td>
+      <td>1.221</td>
+    </tr>
+    <tr>
+      <td>33,4 – 36,0</td>
+      <td>788</td>
+    </tr>
+    <tr>
+      <td>36,0 – 38,5</td>
+      <td>965</td>
+    </tr>
+    <tr>
+      <td>38,5 – 41,1</td>
+      <td>803</td>
+    </tr>
+    <tr>
+      <td>41,1 – 43,7</td>
+      <td>439</td>
+    </tr>
+    <tr>
+      <td>43,7 – 46,2</td>
+      <td>613</td>
+    </tr>
+    <tr>
+      <td>46,2 – 48,8</td>
+      <td>391</td>
+    </tr>
+    <tr>
+      <td>48,8 – 51,4</td>
+      <td>521</td>
+    </tr>
+    <tr>
+      <td>51,4 – 53,9</td>
+      <td>350</td>
+    </tr>
+    <tr>
+      <td>53,9 – 56,5</td>
+      <td>462</td>
+    </tr>
+    <tr>
+      <td>56,5 – 59,1</td>
+      <td>447</td>
+    </tr>
+    <tr>
+      <td>59,1 – 61,6</td>
+      <td>197</td>
+    </tr>
+    <tr>
+      <td>61,6 – 64,2</td>
+      <td>104</td>
+    </tr>
+    <tr>
+      <td>64,2 – 66,8</td>
+      <td>52</td>
+    </tr>
+    <tr>
+      <td>66,8 – 69,3</td>
+      <td>61</td>
+    </tr>
+    <tr>
+      <td>69,3 – 71,9</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>71,9 – 74,5</td>
+      <td>67</td>
+    </tr>
+    <tr>
+      <td>74,5 – 77,0</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>77,0 – 79,6</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>79,6 – 82,2</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>82,2 – 84,7</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>84,7 – 87,3</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>87,3 – 89,9</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>89,9 – 92,4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>92,4 – 95,0</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><details><summary>Ver boxplot</summary><img class="grafico" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjQxMS41OTk1MnB0IiBoZWlnaHQ9Ijg3LjU5OTUycHQiIHZpZXdCb3g9IjAgMCA0MTEuNTk5NTIgODcuNTk5NTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIj4KIDxtZXRhZGF0YT4KICA8cmRmOlJERiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgIDxjYzpXb3JrPgogICAgPGRjOnR5cGUgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIvPgogICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+CiAgICA8ZGM6Y3JlYXRvcj4KICAgICA8Y2M6QWdlbnQ+CiAgICAgIDxkYzp0aXRsZT5NYXRwbG90bGliIHYzLjExLjIsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvPC9kYzp0aXRsZT4KICAgICA8L2NjOkFnZW50PgogICAgPC9kYzpjcmVhdG9yPgogICA8L2NjOldvcms+CiAgPC9yZGY6UkRGPgogPC9tZXRhZGF0YT4KIDxkZWZzPgogIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+KntzdHJva2UtbGluZWpvaW46IHJvdW5kOyBzdHJva2UtbGluZWNhcDogYnV0dH08L3N0eWxlPgogPC9kZWZzPgogPGcgaWQ9ImZpZ3VyZV8xIj4KICA8ZyBpZD0icGF0Y2hfMSI+CiAgIDxwYXRoIGQ9Ik0gMCA4Ny41OTk1MiAKTCA0MTEuNTk5NTIgODcuNTk5NTIgCkwgNDExLjU5OTUyIDAgCkwgMCAwIApMIDAgODcuNTk5NTIgCnoKIiBzdHlsZT0iZmlsbDogbm9uZSIvPgogIDwvZz4KICA8ZyBpZD0iYXhlc18xIj4KICAgPGcgaWQ9InBhdGNoXzIiPgogICAgPHBhdGggZD0iTSA3LjIgNjMuMzk5NTIgCkwgNDA0LjM5OTUyIDYzLjM5OTUyIApMIDQwNC4zOTk1MiA3LjIgCkwgNy4yIDcuMiAKTCA3LjIgNjMuMzk5NTIgCnoKIiBzdHlsZT0iZmlsbDogbm9uZSIvPgogICA8L2c+CiAgIDxnIGlkPSJtYXRwbG90bGliLmF4aXNfMSI+CiAgICA8ZyBpZD0ieHRpY2tfMSI+CiAgICAgPGcgaWQ9ImxpbmUyZF8xIj4KICAgICAgPGRlZnM+CiAgICAgICA8cGF0aCBpZD0ibTViYmVlMTBlNDYiIGQ9Ik0gMCAwIApMIDAgMy41IAoiIHN0eWxlPSJzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS13aWR0aDogMC44Ii8+CiAgICAgIDwvZGVmcz4KICAgICAgPGc+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNtNWJiZWUxMGU0NiIgeD0iMzguMTUwNjEyIiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF8xIj4KICAgICAgPCEtLSAyMCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzEuNzg4MTEyIDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTE1IiBkPSJNIDEyMjggNTMxIApMIDM0MzEgNTMxIApMIDM0MzEgMCAKTCA0NjkgMCAKTCA0NjkgNTMxIApRIDgyOCA5MDMgMTQ0OCAxNTI5IApRIDIwNjkgMjE1NiAyMjI4IDIzMzggClEgMjUzMSAyNjc4IDI2NTEgMjkxNCAKUSAyNzcyIDMxNTAgMjc3MiAzMzc4IApRIDI3NzIgMzc1MCAyNTExIDM5ODQgClEgMjI1MCA0MjE5IDE4MzEgNDIxOSAKUSAxNTM0IDQyMTkgMTIwNCA0MTE2IApRIDg3NSA0MDEzIDUwMCAzODAzIApMIDUwMCA0NDQxIApRIDg4MSA0NTk0IDEyMTIgNDY3MiAKUSAxNTQ0IDQ3NTAgMTgxOSA0NzUwIApRIDI1NDQgNDc1MCAyOTc1IDQzODcgClEgMzQwNiA0MDI1IDM0MDYgMzQxOSAKUSAzNDA2IDMxMzEgMzI5OCAyODczIApRIDMxOTEgMjYxNiAyOTA2IDIyNjYgClEgMjgyOCAyMTc1IDI0MDkgMTc0MiAKUSAxOTkxIDEzMDkgMTIyOCA1MzEgCnoKIiB0cmFuc2Zvcm09InNjYWxlKDAuMDE1NjI1KSIvPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTEzIiBkPSJNIDIwMzQgNDI1MCAKUSAxNTQ3IDQyNTAgMTMwMSAzNzcwIApRIDEwNTYgMzI5MSAxMDU2IDIzMjggClEgMTA1NiAxMzY5IDEzMDEgODg5IApRIDE1NDcgNDA5IDIwMzQgNDA5IApRIDI1MjUgNDA5IDI3NzAgODg5IApRIDMwMTYgMTM2OSAzMDE2IDIzMjggClEgMzAxNiAzMjkxIDI3NzAgMzc3MCAKUSAyNTI1IDQyNTAgMjAzNCA0MjUwIAp6Ck0gMjAzNCA0NzUwIApRIDI4MTkgNDc1MCAzMjMzIDQxMjkgClEgMzY0NyAzNTA5IDM2NDcgMjMyOCAKUSAzNjQ3IDExNTAgMzIzMyA1MjkgClEgMjgxOSAtOTEgMjAzNCAtOTEgClEgMTI1MCAtOTEgODM2IDUyOSAKUSA0MjIgMTE1MCA0MjIgMjMyOCAKUSA0MjIgMzUwOSA4MzYgNDEyOSAKUSAxMjUwIDQ3NTAgMjAzNCA0NzUwIAp6CiIgdHJhbnNmb3JtPSJzY2FsZSgwLjAxNTYyNSkiLz4KICAgICAgIDwvZGVmcz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTUiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYzLjYyNSAwKSIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgPC9nPgogICAgPGcgaWQ9Inh0aWNrXzIiPgogICAgIDxnIGlkPSJsaW5lMmRfMiI+CiAgICAgIDxnPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjbTViYmVlMTBlNDYiIHg9IjEwMi42MzEwNTQiIHk9IjYzLjM5OTUyIiBzdHlsZT0ic3Ryb2tlOiAjMDAwMDAwOyBzdHJva2Utd2lkdGg6IDAuOCIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgIDxnIGlkPSJ0ZXh0XzIiPgogICAgICA8IS0tIDMwIC0tPgogICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5Ni4yNjg1NTQgNzcuOTk3MTc2KSBzY2FsZSgwLjEgLTAuMSkiPgogICAgICAgPGRlZnM+CiAgICAgICAgPHBhdGggaWQ9IkRlamFWdVNhbnMtMTYiIGQ9Ik0gMjU5NyAyNTE2IApRIDMwNTAgMjQxOSAzMzA0IDIxMTIgClEgMzU1OSAxODA2IDM1NTkgMTM1NiAKUSAzNTU5IDY2NiAzMDg0IDI4NyAKUSAyNjA5IC05MSAxNzM0IC05MSAKUSAxNDQxIC05MSAxMTMwIC0zMyAKUSA4MTkgMjUgNDg4IDE0MSAKTCA0ODggNzUwIApRIDc1MCA1OTcgMTA2MiA1MTkgClEgMTM3NSA0NDEgMTcxNiA0NDEgClEgMjMwOSA0NDEgMjYyMCA2NzUgClEgMjkzMSA5MDkgMjkzMSAxMzU2IApRIDI5MzEgMTc2OSAyNjQyIDIwMDEgClEgMjM1MyAyMjM0IDE4MzggMjIzNCAKTCAxMjk0IDIyMzQgCkwgMTI5NCAyNzUzIApMIDE4NjMgMjc1MyAKUSAyMzI4IDI3NTMgMjU3NSAyOTM5IApRIDI4MjIgMzEyNSAyODIyIDM0NzUgClEgMjgyMiAzODM0IDI1NjcgNDAyNiAKUSAyMzEzIDQyMTkgMTgzOCA0MjE5IApRIDE1NzggNDIxOSAxMjgxIDQxNjIgClEgOTg0IDQxMDYgNjI4IDM5ODggCkwgNjI4IDQ1NTAgClEgOTg4IDQ2NTAgMTMwMiA0NzAwIApRIDE2MTYgNDc1MCAxODk0IDQ3NTAgClEgMjYxMyA0NzUwIDMwMzEgNDQyMyAKUSAzNDUwIDQwOTcgMzQ1MCAzNTQxIApRIDM0NTAgMzE1MyAzMjI4IDI4ODYgClEgMzAwNiAyNjE5IDI1OTcgMjUxNiAKegoiIHRyYW5zZm9ybT0ic2NhbGUoMC4wMTU2MjUpIi8+CiAgICAgICA8L2RlZnM+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTE2Ii8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTEzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2My42MjUgMCkiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgIDwvZz4KICAgIDxnIGlkPSJ4dGlja18zIj4KICAgICA8ZyBpZD0ibGluZTJkXzMiPgogICAgICA8Zz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI201YmJlZTEwZTQ2IiB4PSIxNjcuMTExNDk1IiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF8zIj4KICAgICAgPCEtLSA0MCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTYwLjc0ODk5NSA3Ny45OTcxNzYpIHNjYWxlKDAuMSAtMC4xKSI+CiAgICAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iRGVqYVZ1U2Fucy0xNyIgZD0iTSAyNDE5IDQxMTYgCkwgODI1IDE2MjUgCkwgMjQxOSAxNjI1IApMIDI0MTkgNDExNiAKegpNIDIyNTMgNDY2NiAKTCAzMDQ3IDQ2NjYgCkwgMzA0NyAxNjI1IApMIDM3MTMgMTYyNSAKTCAzNzEzIDExMDAgCkwgMzA0NyAxMTAwIApMIDMwNDcgMCAKTCAyNDE5IDAgCkwgMjQxOSAxMTAwIApMIDMxMyAxMTAwIApMIDMxMyAxNzA5IApMIDIyNTMgNDY2NiAKegoiIHRyYW5zZm9ybT0ic2NhbGUoMC4wMTU2MjUpIi8+CiAgICAgICA8L2RlZnM+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTE3Ii8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTEzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2My42MjUgMCkiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgIDwvZz4KICAgIDxnIGlkPSJ4dGlja180Ij4KICAgICA8ZyBpZD0ibGluZTJkXzQiPgogICAgICA8Zz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI201YmJlZTEwZTQ2IiB4PSIyMzEuNTkxOTM3IiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF80Ij4KICAgICAgPCEtLSA1MCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjI1LjIyOTQzNyA3Ny45OTcxNzYpIHNjYWxlKDAuMSAtMC4xKSI+CiAgICAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iRGVqYVZ1U2Fucy0xOCIgZD0iTSA2OTEgNDY2NiAKTCAzMTY5IDQ2NjYgCkwgMzE2OSA0MTM0IApMIDEyNjkgNDEzNCAKTCAxMjY5IDI5OTEgClEgMTQwNiAzMDM4IDE1NDMgMzA2MSAKUSAxNjgxIDMwODQgMTgxOSAzMDg0IApRIDI2MDAgMzA4NCAzMDU2IDI2NTYgClEgMzUxMyAyMjI4IDM1MTMgMTQ5NyAKUSAzNTEzIDc0NCAzMDQ0IDMyNiAKUSAyNTc1IC05MSAxNzIyIC05MSAKUSAxNDI4IC05MSAxMTIzIC00MSAKUSA4MTkgOSA0OTQgMTA5IApMIDQ5NCA3NDQgClEgNzc1IDU5MSAxMDc1IDUxNiAKUSAxMzc1IDQ0MSAxNzA5IDQ0MSAKUSAyMjUwIDQ0MSAyNTY1IDcyNSAKUSAyODgxIDEwMDkgMjg4MSAxNDk3IApRIDI4ODEgMTk4NCAyNTY1IDIyNjggClEgMjI1MCAyNTUzIDE3MDkgMjU1MyAKUSAxNDU2IDI1NTMgMTIwNCAyNDk3IApRIDk1MyAyNDQxIDY5MSAyMzIyIApMIDY5MSA0NjY2IAp6CiIgdHJhbnNmb3JtPSJzY2FsZSgwLjAxNTYyNSkiLz4KICAgICAgIDwvZGVmcz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTgiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYzLjYyNSAwKSIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgPC9nPgogICAgPGcgaWQ9Inh0aWNrXzUiPgogICAgIDxnIGlkPSJsaW5lMmRfNSI+CiAgICAgIDxnPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjbTViYmVlMTBlNDYiIHg9IjI5Ni4wNzIzNzgiIHk9IjYzLjM5OTUyIiBzdHlsZT0ic3Ryb2tlOiAjMDAwMDAwOyBzdHJva2Utd2lkdGg6IDAuOCIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgIDxnIGlkPSJ0ZXh0XzUiPgogICAgICA8IS0tIDYwIC0tPgogICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyODkuNzA5ODc4IDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTE5IiBkPSJNIDIxMTMgMjU4NCAKUSAxNjg4IDI1ODQgMTQzOSAyMjkzIApRIDExOTEgMjAwMyAxMTkxIDE0OTcgClEgMTE5MSA5OTQgMTQzOSA3MDEgClEgMTY4OCA0MDkgMjExMyA0MDkgClEgMjUzOCA0MDkgMjc4NiA3MDEgClEgMzAzNCA5OTQgMzAzNCAxNDk3IApRIDMwMzQgMjAwMyAyNzg2IDIyOTMgClEgMjUzOCAyNTg0IDIxMTMgMjU4NCAKegpNIDMzNjYgNDU2MyAKTCAzMzY2IDM5ODggClEgMzEyOCA0MTAwIDI4ODYgNDE1OSAKUSAyNjQ0IDQyMTkgMjQwNiA0MjE5IApRIDE3ODEgNDIxOSAxNDUxIDM3OTcgClEgMTEyMiAzMzc1IDEwNzUgMjUyMiAKUSAxMjU5IDI3OTQgMTUzNyAyOTM5IApRIDE4MTYgMzA4NCAyMTUwIDMwODQgClEgMjg1MyAzMDg0IDMyNjEgMjY1NyAKUSAzNjY5IDIyMzEgMzY2OSAxNDk3IApRIDM2NjkgNzc4IDMyNDQgMzQzIApRIDI4MTkgLTkxIDIxMTMgLTkxIApRIDEzMDMgLTkxIDg3NSA1MjkgClEgNDQ3IDExNTAgNDQ3IDIzMjggClEgNDQ3IDM0MzQgOTcyIDQwOTIgClEgMTQ5NyA0NzUwIDIzODEgNDc1MCAKUSAyNjE5IDQ3NTAgMjg2MSA0NzAzIApRIDMxMDMgNDY1NiAzMzY2IDQ1NjMgCnoKIiB0cmFuc2Zvcm09InNjYWxlKDAuMDE1NjI1KSIvPgogICAgICAgPC9kZWZzPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xOSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjMuNjI1IDApIi8+CiAgICAgIDwvZz4KICAgICA8L2c+CiAgICA8L2c+CiAgICA8ZyBpZD0ieHRpY2tfNiI+CiAgICAgPGcgaWQ9ImxpbmUyZF82Ij4KICAgICAgPGc+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNtNWJiZWUxMGU0NiIgeD0iMzYwLjU1MjgyIiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF82Ij4KICAgICAgPCEtLSA3MCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzU0LjE5MDMyIDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTFhIiBkPSJNIDUyNSA0NjY2IApMIDM1MjUgNDY2NiAKTCAzNTI1IDQzOTcgCkwgMTgzMSAwIApMIDExNzIgMCAKTCAyNzY2IDQxMzQgCkwgNTI1IDQxMzQgCkwgNTI1IDQ2NjYgCnoKIiB0cmFuc2Zvcm09InNjYWxlKDAuMDE1NjI1KSIvPgogICAgICAgPC9kZWZzPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xYSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjMuNjI1IDApIi8+CiAgICAgIDwvZz4KICAgICA8L2c+CiAgICA8L2c+CiAgIDwvZz4KICAgPGcgaWQ9Im1hdHBsb3RsaWIuYXhpc18yIi8+CiAgIDxnIGlkPSJwYXRjaF8zIj4KICAgIDxwYXRoIGQ9Ik0gMTE1LjUyNzE0MiAzOS41MTQ3MjQgCkwgMTE1LjUyNzE0MiAzMS4wODQ3OTYgCkwgMjI1LjE0Mzg5MiAzMS4wODQ3OTYgCkwgMjI1LjE0Mzg5MiAzOS41MTQ3MjQgCkwgMTE1LjUyNzE0MiAzOS41MTQ3MjQgCnoKIiBjbGlwLXBhdGg9InVybCgjcGQ2Yjk0ZjhiOTYpIiBzdHlsZT0iZmlsbDogI2M1YTE1YTsgc3Ryb2tlOiAjMDAwMDAwOyBzdHJva2UtbGluZWpvaW46IG1pdGVyIi8+CiAgIDwvZz4KICAgPGcgaWQ9ImxpbmUyZF83Ij4KICAgIDxwYXRoIGQ9Ik0gMTE1LjUyNzE0MiAzNS4yOTk3NiAKTCAyNS4yNTQ1MjQgMzUuMjk5NzYgCiIgY2xpcC1wYXRoPSJ1cmwoI3BkNmI5NGY4Yjk2KSIgc3R5bGU9ImZpbGw6IG5vbmU7IHN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZSIvPgogICA8L2c+CiAgIDxnIGlkPSJsaW5lMmRfOCI+CiAgICA8cGF0aCBkPSJNIDIyNS4xNDM4OTIgMzUuMjk5NzYgCkwgMzg2LjM0NDk5NiAzNS4yOTk3NiAKIiBjbGlwLXBhdGg9InVybCgjcGQ2Yjk0ZjhiOTYpIiBzdHlsZT0iZmlsbDogbm9uZTsgc3Ryb2tlOiAjMDAwMDAwOyBzdHJva2UtbGluZWNhcDogc3F1YXJlIi8+CiAgIDwvZz4KICAgPGcgaWQ9ImxpbmUyZF85Ij4KICAgIDxwYXRoIGQ9Ik0gMjUuMjU0NTI0IDM3LjQwNzI0MiAKTCAyNS4yNTQ1MjQgMzMuMTkyMjc4IAoiIGNsaXAtcGF0aD0idXJsKCNwZDZiOTRmOGI5NikiIHN0eWxlPSJmaWxsOiBub25lOyBzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS1saW5lY2FwOiBzcXVhcmUiLz4KICAgPC9nPgogICA8ZyBpZD0ibGluZTJkXzEwIj4KICAgIDxwYXRoIGQ9Ik0gMzg2LjM0NDk5NiAzNy40MDcyNDIgCkwgMzg2LjM0NDk5NiAzMy4xOTIyNzggCiIgY2xpcC1wYXRoPSJ1cmwoI3BkNmI5NGY4Yjk2KSIgc3R5bGU9ImZpbGw6IG5vbmU7IHN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZSIvPgogICA8L2c+CiAgIDxnIGlkPSJsaW5lMmRfMTEiPgogICAgPHBhdGggZD0iTSAxNTQuMjE1NDA3IDM5LjUxNDcyNCAKTCAxNTQuMjE1NDA3IDMxLjA4NDc5NiAKIiBjbGlwLXBhdGg9InVybCgjcGQ2Yjk0ZjhiOTYpIiBzdHlsZT0iZmlsbDogbm9uZTsgc3Ryb2tlOiAjMTcxNzE3OyBzdHJva2Utd2lkdGg6IDIiLz4KICAgPC9nPgogICA8ZyBpZD0icGF0Y2hfNCI+CiAgICA8cGF0aCBkPSJNIDcuMiA2My4zOTk1MiAKTCA0MDQuMzk5NTIgNjMuMzk5NTIgCiIgc3R5bGU9ImZpbGw6IG5vbmU7IHN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjg7IHN0cm9rZS1saW5lam9pbjogbWl0ZXI7IHN0cm9rZS1saW5lY2FwOiBzcXVhcmUiLz4KICAgPC9nPgogIDwvZz4KIDwvZz4KIDxkZWZzPgogIDxjbGlwUGF0aCBpZD0icGQ2Yjk0ZjhiOTYiPgogICA8cmVjdCB4PSI3LjIiIHk9IjcuMiIgd2lkdGg9IjM5Ny4xOTk1MiIgaGVpZ2h0PSI1Ni4xOTk1MiIvPgogIDwvY2xpcFBhdGg+CiA8L2RlZnM+Cjwvc3ZnPgo=" alt="Boxplot de Idade (anos)"></details>
+          <details><summary>Ver estatísticas descritivas</summary><div class="rolagem" tabindex="0" role="region" aria-label="Estatísticas descritivas"><table class="dataframe"><caption>Estatísticas descritivas</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Medida</th>
+      <th>Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Média</td>
+      <td>41,19</td>
+    </tr>
+    <tr>
+      <td>Desvio padrão</td>
+      <td>12,03</td>
+    </tr>
+    <tr>
+      <td>Mínimo</td>
+      <td>18,00</td>
+    </tr>
+    <tr>
+      <td>Primeiro quartil</td>
+      <td>32,00</td>
+    </tr>
+    <tr>
+      <td>Mediana</td>
+      <td>38,00</td>
+    </tr>
+    <tr>
+      <td>Terceiro quartil</td>
+      <td>49,00</td>
+    </tr>
+    <tr>
+      <td>Máximo</td>
+      <td>95,00</td>
+    </tr>
+    <tr>
+      <td>Valores atípicos pelo critério de 1,5 × IQR</td>
+      <td>1,58%</td>
+    </tr>
+  </tbody>
+</table></div><p class="nota">O histograma inclui todos os valores. O boxplot resume a distribuição sem marcar os pontos atípicos individualmente.</p></details>
+        </div>
+        <div>
+          <h3>“Casado” é o estado civil mais frequente, com 56,5% da base</h3>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:189px"><canvas role="img" aria-label="Clientes por estado civil">Clientes por estado civil</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Casado", "Solteiro", "Divorciado"], "datasets": [{"label": "Clientes por estado civil", "data": [56.49585371039762, 32.46863704018711, 11.035509249415266], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["56,5% · 5.314 clientes", "32,5% · 3.054 clientes", "11,0% · 1.038 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Clientes por estado civil"><table class="dataframe"><caption>Clientes por estado civil</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Casado</td>
+      <td>56,5% · 5.314 clientes</td>
+    </tr>
+    <tr>
+      <td>Solteiro</td>
+      <td>32,5% · 3.054 clientes</td>
+    </tr>
+    <tr>
+      <td>Divorciado</td>
+      <td>11,0% · 1.038 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+        </div>
+      </div>
+    </section>
+    <section id="formacao" class="painel">
+      <h2>A parcela sem Ensino Superior fica entre 62,1% e 66,8%</h2>
+      <p>O limite inferior conta os 5.839 clientes com formação até o Ensino Médio.
+      O limite superior supõe que nenhum dos 440 clientes com formação “Desconhecido”
+      tenha Ensino Superior.</p>
+      <figure class="visualizacao"><div class="chart-container" style="--altura:237px"><canvas role="img" aria-label="Clientes por nível de formação">Clientes por nível de formação</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Fundamental", "Ensino Médio", "Ensino Superior", "Desconhecido"], "datasets": [{"label": "Clientes por nível de formação", "data": [13.225600680416756, 48.85179672549437, 33.24473740165852, 4.677865192430364], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["13,2% · 1.244 clientes", "48,9% · 4.595 clientes", "33,2% · 3.127 clientes", "4,7% · 440 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Clientes por nível de formação"><table class="dataframe"><caption>Clientes por nível de formação</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fundamental</td>
+      <td>13,2% · 1.244 clientes</td>
+    </tr>
+    <tr>
+      <td>Ensino Médio</td>
+      <td>48,9% · 4.595 clientes</td>
+    </tr>
+    <tr>
+      <td>Ensino Superior</td>
+      <td>33,2% · 3.127 clientes</td>
+    </tr>
+    <tr>
+      <td>Desconhecido</td>
+      <td>4,7% · 440 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure>
+    </section>
+    <section id="financeiro" class="painel">
+      <h2>O saldo mediano em conta corrente foi de R$ 726,00</h2>
+      <div class="grade">
+        <div>
+          <p>Metade dos saldos fica entre R$ 257,00 e R$ 2.002,75.
+          A média foi de R$ 1.698,47.</p>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:310px"><canvas role="img" aria-label="Distribuição de saldo (r$)">Distribuição de saldo (r$)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "metric": "contagem", "axisTitle": "Saldo (R$)", "data": {"labels": ["1,0 – 979,0", "979,0 – 1.956,9", "1.956,9 – 2.934,9", "2.934,9 – 3.912,9", "3.912,9 – 4.890,8", "4.890,8 – 5.868,8", "5.868,8 – 6.846,8", "6.846,8 – 7.824,7", "7.824,7 – 8.802,7", "8.802,7 – 9.780,7", "9.780,7 – 10.758,6", "10.758,6 – 11.736,6", "11.736,6 – 12.714,6", "12.714,6 – 13.692,5", "13.692,5 – 14.670,5", "14.670,5 – 15.648,5", "15.648,5 – 16.626,4", "16.626,4 – 17.604,4", "17.604,4 – 18.582,4", "18.582,4 – 19.560,3", "19.560,3 – 20.538,3", "20.538,3 – 21.516,3", "21.516,3 – 22.494,2", "22.494,2 – 23.472,2", "23.472,2 – 24.450,2", "24.450,2 – 25.428,1", "25.428,1 – 26.406,1", "26.406,1 – 27.384,1", "27.384,1 – 28.362,0", "28.362,0 – 29.340,0"], "datasets": [{"label": "Clientes", "data": [5432, 1572, 835, 508, 307, 204, 126, 93, 73, 47, 39, 31, 31, 23, 13, 11, 2, 4, 10, 7, 2, 6, 4, 9, 5, 2, 1, 1, 4, 4], "backgroundColor": "#C5A15A", "barPercentage": 1, "categoryPercentage": 1, "borderColor": "#fffdf9", "borderWidth": 1}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Distribuição de saldo (r$)"><table class="dataframe"><caption>Distribuição de saldo (r$)</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Intervalo</th>
+      <th>Clientes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1,0 – 979,0</td>
+      <td>5.432</td>
+    </tr>
+    <tr>
+      <td>979,0 – 1.956,9</td>
+      <td>1.572</td>
+    </tr>
+    <tr>
+      <td>1.956,9 – 2.934,9</td>
+      <td>835</td>
+    </tr>
+    <tr>
+      <td>2.934,9 – 3.912,9</td>
+      <td>508</td>
+    </tr>
+    <tr>
+      <td>3.912,9 – 4.890,8</td>
+      <td>307</td>
+    </tr>
+    <tr>
+      <td>4.890,8 – 5.868,8</td>
+      <td>204</td>
+    </tr>
+    <tr>
+      <td>5.868,8 – 6.846,8</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td>6.846,8 – 7.824,7</td>
+      <td>93</td>
+    </tr>
+    <tr>
+      <td>7.824,7 – 8.802,7</td>
+      <td>73</td>
+    </tr>
+    <tr>
+      <td>8.802,7 – 9.780,7</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <td>9.780,7 – 10.758,6</td>
+      <td>39</td>
+    </tr>
+    <tr>
+      <td>10.758,6 – 11.736,6</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>11.736,6 – 12.714,6</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>12.714,6 – 13.692,5</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>13.692,5 – 14.670,5</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>14.670,5 – 15.648,5</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>15.648,5 – 16.626,4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>16.626,4 – 17.604,4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>17.604,4 – 18.582,4</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>18.582,4 – 19.560,3</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>19.560,3 – 20.538,3</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>20.538,3 – 21.516,3</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>21.516,3 – 22.494,2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>22.494,2 – 23.472,2</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>23.472,2 – 24.450,2</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>24.450,2 – 25.428,1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>25.428,1 – 26.406,1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>26.406,1 – 27.384,1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>27.384,1 – 28.362,0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>28.362,0 – 29.340,0</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table></div></details></figure><details><summary>Ver boxplot</summary><img class="grafico" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjQxMS41OTk1MnB0IiBoZWlnaHQ9Ijg3LjU5OTUycHQiIHZpZXdCb3g9IjAgMCA0MTEuNTk5NTIgODcuNTk5NTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIj4KIDxtZXRhZGF0YT4KICA8cmRmOlJERiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgIDxjYzpXb3JrPgogICAgPGRjOnR5cGUgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIvPgogICAgPGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+CiAgICA8ZGM6Y3JlYXRvcj4KICAgICA8Y2M6QWdlbnQ+CiAgICAgIDxkYzp0aXRsZT5NYXRwbG90bGliIHYzLjExLjIsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvPC9kYzp0aXRsZT4KICAgICA8L2NjOkFnZW50PgogICAgPC9kYzpjcmVhdG9yPgogICA8L2NjOldvcms+CiAgPC9yZGY6UkRGPgogPC9tZXRhZGF0YT4KIDxkZWZzPgogIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+KntzdHJva2UtbGluZWpvaW46IHJvdW5kOyBzdHJva2UtbGluZWNhcDogYnV0dH08L3N0eWxlPgogPC9kZWZzPgogPGcgaWQ9ImZpZ3VyZV8xIj4KICA8ZyBpZD0icGF0Y2hfMSI+CiAgIDxwYXRoIGQ9Ik0gMCA4Ny41OTk1MiAKTCA0MTEuNTk5NTIgODcuNTk5NTIgCkwgNDExLjU5OTUyIDAgCkwgMCAwIApMIDAgODcuNTk5NTIgCnoKIiBzdHlsZT0iZmlsbDogbm9uZSIvPgogIDwvZz4KICA8ZyBpZD0iYXhlc18xIj4KICAgPGcgaWQ9InBhdGNoXzIiPgogICAgPHBhdGggZD0iTSA3LjIgNjMuMzk5NTIgCkwgNDA0LjM5OTUyIDYzLjM5OTUyIApMIDQwNC4zOTk1MiA3LjIgCkwgNy4yIDcuMiAKTCA3LjIgNjMuMzk5NTIgCnoKIiBzdHlsZT0iZmlsbDogbm9uZSIvPgogICA8L2c+CiAgIDxnIGlkPSJtYXRwbG90bGliLmF4aXNfMSI+CiAgICA8ZyBpZD0ieHRpY2tfMSI+CiAgICAgPGcgaWQ9ImxpbmUyZF8xIj4KICAgICAgPGRlZnM+CiAgICAgICA8cGF0aCBpZD0ibTViYmVlMTBlNDYiIGQ9Ik0gMCAwIApMIDAgMy41IAoiIHN0eWxlPSJzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS13aWR0aDogMC44Ii8+CiAgICAgIDwvZGVmcz4KICAgICAgPGc+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNtNWJiZWUxMGU0NiIgeD0iMjUuMTc2MjMiIHk9IjYzLjM5OTUyIiBzdHlsZT0ic3Ryb2tlOiAjMDAwMDAwOyBzdHJva2Utd2lkdGg6IDAuOCIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgIDxnIGlkPSJ0ZXh0XzEiPgogICAgICA8IS0tIDAgLS0+CiAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIxLjk5NDk4IDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTEzIiBkPSJNIDIwMzQgNDI1MCAKUSAxNTQ3IDQyNTAgMTMwMSAzNzcwIApRIDEwNTYgMzI5MSAxMDU2IDIzMjggClEgMTA1NiAxMzY5IDEzMDEgODg5IApRIDE1NDcgNDA5IDIwMzQgNDA5IApRIDI1MjUgNDA5IDI3NzAgODg5IApRIDMwMTYgMTM2OSAzMDE2IDIzMjggClEgMzAxNiAzMjkxIDI3NzAgMzc3MCAKUSAyNTI1IDQyNTAgMjAzNCA0MjUwIAp6Ck0gMjAzNCA0NzUwIApRIDI4MTkgNDc1MCAzMjMzIDQxMjkgClEgMzY0NyAzNTA5IDM2NDcgMjMyOCAKUSAzNjQ3IDExNTAgMzIzMyA1MjkgClEgMjgxOSAtOTEgMjAzNCAtOTEgClEgMTI1MCAtOTEgODM2IDUyOSAKUSA0MjIgMTE1MCA0MjIgMjMyOCAKUSA0MjIgMzUwOSA4MzYgNDEyOSAKUSAxMjUwIDQ3NTAgMjAzNCA0NzUwIAp6CiIgdHJhbnNmb3JtPSJzY2FsZSgwLjAxNTYyNSkiLz4KICAgICAgIDwvZGVmcz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgIDwvZz4KICAgIDxnIGlkPSJ4dGlja18yIj4KICAgICA8ZyBpZD0ibGluZTJkXzIiPgogICAgICA8Zz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI201YmJlZTEwZTQ2IiB4PSIxMDMuNDY5OTE0IiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF8yIj4KICAgICAgPCEtLSAxLjAwMCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODkuMTU1ODUyIDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTE0IiBkPSJNIDc5NCA1MzEgCkwgMTgyNSA1MzEgCkwgMTgyNSA0MDkxIApMIDcwMyAzODY2IApMIDcwMyA0NDQxIApMIDE4MTkgNDY2NiAKTCAyNDUwIDQ2NjYgCkwgMjQ1MCA1MzEgCkwgMzQ4MSA1MzEgCkwgMzQ4MSAwIApMIDc5NCAwIApMIDc5NCA1MzEgCnoKIiB0cmFuc2Zvcm09InNjYWxlKDAuMDE1NjI1KSIvPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTExIiBkPSJNIDY4NCA3OTQgCkwgMTM0NCA3OTQgCkwgMTM0NCAwIApMIDY4NCAwIApMIDY4NCA3OTQgCnoKIiB0cmFuc2Zvcm09InNjYWxlKDAuMDE1NjI1KSIvPgogICAgICAgPC9kZWZzPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xNCIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjMuNjI1IDApIi8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTEzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5NS40MDYyNSAwKSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTU5LjAzMTI1IDApIi8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTEzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMjIuNjU2MjUgMCkiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgIDwvZz4KICAgIDxnIGlkPSJ4dGlja18zIj4KICAgICA8ZyBpZD0ibGluZTJkXzMiPgogICAgICA8Zz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI201YmJlZTEwZTQ2IiB4PSIxODEuNzYzNTk5IiB5PSI2My4zOTk1MiIgc3R5bGU9InN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLXdpZHRoOiAwLjgiLz4KICAgICAgPC9nPgogICAgIDwvZz4KICAgICA8ZyBpZD0idGV4dF8zIj4KICAgICAgPCEtLSAyLjAwMCAtLT4KICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTY3LjQ0OTUzNiA3Ny45OTcxNzYpIHNjYWxlKDAuMSAtMC4xKSI+CiAgICAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iRGVqYVZ1U2Fucy0xNSIgZD0iTSAxMjI4IDUzMSAKTCAzNDMxIDUzMSAKTCAzNDMxIDAgCkwgNDY5IDAgCkwgNDY5IDUzMSAKUSA4MjggOTAzIDE0NDggMTUyOSAKUSAyMDY5IDIxNTYgMjIyOCAyMzM4IApRIDI1MzEgMjY3OCAyNjUxIDI5MTQgClEgMjc3MiAzMTUwIDI3NzIgMzM3OCAKUSAyNzcyIDM3NTAgMjUxMSAzOTg0IApRIDIyNTAgNDIxOSAxODMxIDQyMTkgClEgMTUzNCA0MjE5IDEyMDQgNDExNiAKUSA4NzUgNDAxMyA1MDAgMzgwMyAKTCA1MDAgNDQ0MSAKUSA4ODEgNDU5NCAxMjEyIDQ2NzIgClEgMTU0NCA0NzUwIDE4MTkgNDc1MCAKUSAyNTQ0IDQ3NTAgMjk3NSA0Mzg3IApRIDM0MDYgNDAyNSAzNDA2IDM0MTkgClEgMzQwNiAzMTMxIDMyOTggMjg3MyAKUSAzMTkxIDI2MTYgMjkwNiAyMjY2IApRIDI4MjggMjE3NSAyNDA5IDE3NDIgClEgMTk5MSAxMzA5IDEyMjggNTMxIAp6CiIgdHJhbnNmb3JtPSJzY2FsZSgwLjAxNTYyNSkiLz4KICAgICAgIDwvZGVmcz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTUiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYzLjYyNSAwKSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTUuNDA2MjUgMCkiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1OS4wMzEyNSAwKSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjIyLjY1NjI1IDApIi8+CiAgICAgIDwvZz4KICAgICA8L2c+CiAgICA8L2c+CiAgICA8ZyBpZD0ieHRpY2tfNCI+CiAgICAgPGcgaWQ9ImxpbmUyZF80Ij4KICAgICAgPGc+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNtNWJiZWUxMGU0NiIgeD0iMjYwLjA1NzI4MyIgeT0iNjMuMzk5NTIiIHN0eWxlPSJzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS13aWR0aDogMC44Ii8+CiAgICAgIDwvZz4KICAgICA8L2c+CiAgICAgPGcgaWQ9InRleHRfNCI+CiAgICAgIDwhLS0gMy4wMDAgLS0+CiAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI0NS43NDMyMjEgNzcuOTk3MTc2KSBzY2FsZSgwLjEgLTAuMSkiPgogICAgICAgPGRlZnM+CiAgICAgICAgPHBhdGggaWQ9IkRlamFWdVNhbnMtMTYiIGQ9Ik0gMjU5NyAyNTE2IApRIDMwNTAgMjQxOSAzMzA0IDIxMTIgClEgMzU1OSAxODA2IDM1NTkgMTM1NiAKUSAzNTU5IDY2NiAzMDg0IDI4NyAKUSAyNjA5IC05MSAxNzM0IC05MSAKUSAxNDQxIC05MSAxMTMwIC0zMyAKUSA4MTkgMjUgNDg4IDE0MSAKTCA0ODggNzUwIApRIDc1MCA1OTcgMTA2MiA1MTkgClEgMTM3NSA0NDEgMTcxNiA0NDEgClEgMjMwOSA0NDEgMjYyMCA2NzUgClEgMjkzMSA5MDkgMjkzMSAxMzU2IApRIDI5MzEgMTc2OSAyNjQyIDIwMDEgClEgMjM1MyAyMjM0IDE4MzggMjIzNCAKTCAxMjk0IDIyMzQgCkwgMTI5NCAyNzUzIApMIDE4NjMgMjc1MyAKUSAyMzI4IDI3NTMgMjU3NSAyOTM5IApRIDI4MjIgMzEyNSAyODIyIDM0NzUgClEgMjgyMiAzODM0IDI1NjcgNDAyNiAKUSAyMzEzIDQyMTkgMTgzOCA0MjE5IApRIDE1NzggNDIxOSAxMjgxIDQxNjIgClEgOTg0IDQxMDYgNjI4IDM5ODggCkwgNjI4IDQ1NTAgClEgOTg4IDQ2NTAgMTMwMiA0NzAwIApRIDE2MTYgNDc1MCAxODk0IDQ3NTAgClEgMjYxMyA0NzUwIDMwMzEgNDQyMyAKUSAzNDUwIDQwOTcgMzQ1MCAzNTQxIApRIDM0NTAgMzE1MyAzMjI4IDI4ODYgClEgMzAwNiAyNjE5IDI1OTcgMjUxNiAKegoiIHRyYW5zZm9ybT0ic2NhbGUoMC4wMTU2MjUpIi8+CiAgICAgICA8L2RlZnM+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTE2Ii8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTExIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2My42MjUgMCkiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDk1LjQwNjI1IDApIi8+CiAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNEZWphVnVTYW5zLTEzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNTkuMDMxMjUgMCkiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIyMi42NTYyNSAwKSIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgPC9nPgogICAgPGcgaWQ9Inh0aWNrXzUiPgogICAgIDxnIGlkPSJsaW5lMmRfNSI+CiAgICAgIDxnPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjbTViYmVlMTBlNDYiIHg9IjMzOC4zNTA5NjgiIHk9IjYzLjM5OTUyIiBzdHlsZT0ic3Ryb2tlOiAjMDAwMDAwOyBzdHJva2Utd2lkdGg6IDAuOCIvPgogICAgICA8L2c+CiAgICAgPC9nPgogICAgIDxnIGlkPSJ0ZXh0XzUiPgogICAgICA8IS0tIDQuMDAwIC0tPgogICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMjQuMDM2OTA1IDc3Ljk5NzE3Nikgc2NhbGUoMC4xIC0wLjEpIj4KICAgICAgIDxkZWZzPgogICAgICAgIDxwYXRoIGlkPSJEZWphVnVTYW5zLTE3IiBkPSJNIDI0MTkgNDExNiAKTCA4MjUgMTYyNSAKTCAyNDE5IDE2MjUgCkwgMjQxOSA0MTE2IAp6Ck0gMjI1MyA0NjY2IApMIDMwNDcgNDY2NiAKTCAzMDQ3IDE2MjUgCkwgMzcxMyAxNjI1IApMIDM3MTMgMTEwMCAKTCAzMDQ3IDExMDAgCkwgMzA0NyAwIApMIDI0MTkgMCAKTCAyNDE5IDExMDAgCkwgMzEzIDExMDAgCkwgMzEzIDE3MDkgCkwgMjI1MyA0NjY2IAp6CiIgdHJhbnNmb3JtPSJzY2FsZSgwLjAxNTYyNSkiLz4KICAgICAgIDwvZGVmcz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTciLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYzLjYyNSAwKSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTUuNDA2MjUgMCkiLz4KICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI0RlamFWdVNhbnMtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1OS4wMzEyNSAwKSIvPgogICAgICAgPHVzZSB4bGluazpocmVmPSIjRGVqYVZ1U2Fucy0xMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjIyLjY1NjI1IDApIi8+CiAgICAgIDwvZz4KICAgICA8L2c+CiAgICA8L2c+CiAgIDwvZz4KICAgPGcgaWQ9Im1hdHBsb3RsaWIuYXhpc18yIi8+CiAgIDxnIGlkPSJwYXRjaF8zIj4KICAgIDxwYXRoIGQ9Ik0gNDUuMjk3NzA3IDM5LjUxNDcyNCAKTCA0NS4yOTc3MDcgMzEuMDg0Nzk2IApMIDE4MS45Nzg5MDcgMzEuMDg0Nzk2IApMIDE4MS45Nzg5MDcgMzkuNTE0NzI0IApMIDQ1LjI5NzcwNyAzOS41MTQ3MjQgCnoKIiBjbGlwLXBhdGg9InVybCgjcDYzMzA5MDhlZDApIiBzdHlsZT0iZmlsbDogI2M1YTE1YTsgc3Ryb2tlOiAjMDAwMDAwOyBzdHJva2UtbGluZWpvaW46IG1pdGVyIi8+CiAgIDwvZz4KICAgPGcgaWQ9ImxpbmUyZF82Ij4KICAgIDxwYXRoIGQ9Ik0gNDUuMjk3NzA3IDM1LjI5OTc2IApMIDI1LjI1NDUyNCAzNS4yOTk3NiAKIiBjbGlwLXBhdGg9InVybCgjcDYzMzA5MDhlZDApIiBzdHlsZT0iZmlsbDogbm9uZTsgc3Ryb2tlOiAjMDAwMDAwOyBzdHJva2UtbGluZWNhcDogc3F1YXJlIi8+CiAgIDwvZz4KICAgPGcgaWQ9ImxpbmUyZF83Ij4KICAgIDxwYXRoIGQ9Ik0gMTgxLjk3ODkwNyAzNS4yOTk3NiAKTCAzODYuMzQ0OTk2IDM1LjI5OTc2IAoiIGNsaXAtcGF0aD0idXJsKCNwNjMzMDkwOGVkMCkiIHN0eWxlPSJmaWxsOiBub25lOyBzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS1saW5lY2FwOiBzcXVhcmUiLz4KICAgPC9nPgogICA8ZyBpZD0ibGluZTJkXzgiPgogICAgPHBhdGggZD0iTSAyNS4yNTQ1MjQgMzcuNDA3MjQyIApMIDI1LjI1NDUyNCAzMy4xOTIyNzggCiIgY2xpcC1wYXRoPSJ1cmwoI3A2MzMwOTA4ZWQwKSIgc3R5bGU9ImZpbGw6IG5vbmU7IHN0cm9rZTogIzAwMDAwMDsgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZSIvPgogICA8L2c+CiAgIDxnIGlkPSJsaW5lMmRfOSI+CiAgICA8cGF0aCBkPSJNIDM4Ni4zNDQ5OTYgMzcuNDA3MjQyIApMIDM4Ni4zNDQ5OTYgMzMuMTkyMjc4IAoiIGNsaXAtcGF0aD0idXJsKCNwNjMzMDkwOGVkMCkiIHN0eWxlPSJmaWxsOiBub25lOyBzdHJva2U6ICMwMDAwMDA7IHN0cm9rZS1saW5lY2FwOiBzcXVhcmUiLz4KICAgPC9nPgogICA8ZyBpZD0ibGluZTJkXzEwIj4KICAgIDxwYXRoIGQ9Ik0gODIuMDE3NDQ1IDM5LjUxNDcyNCAKTCA4Mi4wMTc0NDUgMzEuMDg0Nzk2IAoiIGNsaXAtcGF0aD0idXJsKCNwNjMzMDkwOGVkMCkiIHN0eWxlPSJmaWxsOiBub25lOyBzdHJva2U6ICMxNzE3MTc7IHN0cm9rZS13aWR0aDogMiIvPgogICA8L2c+CiAgIDxnIGlkPSJwYXRjaF80Ij4KICAgIDxwYXRoIGQ9Ik0gNy4yIDYzLjM5OTUyIApMIDQwNC4zOTk1MiA2My4zOTk1MiAKIiBzdHlsZT0iZmlsbDogbm9uZTsgc3Ryb2tlOiAjMDAwMDAwOyBzdHJva2Utd2lkdGg6IDAuODsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZSIvPgogICA8L2c+CiAgPC9nPgogPC9nPgogPGRlZnM+CiAgPGNsaXBQYXRoIGlkPSJwNjMzMDkwOGVkMCI+CiAgIDxyZWN0IHg9IjcuMiIgeT0iNy4yIiB3aWR0aD0iMzk3LjE5OTUyIiBoZWlnaHQ9IjU2LjE5OTUyIi8+CiAgPC9jbGlwUGF0aD4KIDwvZGVmcz4KPC9zdmc+Cg==" alt="Boxplot de Saldo (R$)"></details>
+          <details><summary>Ver estatísticas descritivas</summary><div class="rolagem" tabindex="0" role="region" aria-label="Estatísticas descritivas"><table class="dataframe"><caption>Estatísticas descritivas</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Medida</th>
+      <th>Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Média</td>
+      <td>1.698,47</td>
+    </tr>
+    <tr>
+      <td>Desvio padrão</td>
+      <td>2.731,62</td>
+    </tr>
+    <tr>
+      <td>Mínimo</td>
+      <td>1,00</td>
+    </tr>
+    <tr>
+      <td>Primeiro quartil</td>
+      <td>257,00</td>
+    </tr>
+    <tr>
+      <td>Mediana</td>
+      <td>726,00</td>
+    </tr>
+    <tr>
+      <td>Terceiro quartil</td>
+      <td>2.002,75</td>
+    </tr>
+    <tr>
+      <td>Máximo</td>
+      <td>29.340,00</td>
+    </tr>
+    <tr>
+      <td>Valores atípicos pelo critério de 1,5 × IQR</td>
+      <td>8,91%</td>
+    </tr>
+  </tbody>
+</table></div><p class="nota">O histograma inclui todos os valores. O boxplot resume a distribuição sem marcar os pontos atípicos individualmente.</p></details>
+        </div>
+        <div><h3>0,7% dos clientes tinham registro de inadimplência</h3><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Inadimplência">Inadimplência</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Sim", "Não"], "datasets": [{"label": "Inadimplência", "data": [0.6910482670635765, 99.30895173293642], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["0,7% · 65 clientes", "99,3% · 9.341 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Inadimplência"><table class="dataframe"><caption>Inadimplência</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sim</td>
+      <td>0,7% · 65 clientes</td>
+    </tr>
+    <tr>
+      <td>Não</td>
+      <td>99,3% · 9.341 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure></div><div><h3>46,5% dos clientes tinham hipoteca</h3><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Hipoteca">Hipoteca</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Sim", "Não"], "datasets": [{"label": "Hipoteca", "data": [46.480969593876246, 53.519030406123754], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["46,5% · 4.372 clientes", "53,5% · 5.034 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Hipoteca"><table class="dataframe"><caption>Hipoteca</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sim</td>
+      <td>46,5% · 4.372 clientes</td>
+    </tr>
+    <tr>
+      <td>Não</td>
+      <td>53,5% · 5.034 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure></div><div><h3>11,9% dos clientes tinham empréstimo pessoal</h3><figure class="visualizacao"><div class="chart-container" style="--altura:170px"><canvas role="img" aria-label="Empréstimo pessoal">Empréstimo pessoal</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": null, "data": {"labels": ["Sim", "Não"], "datasets": [{"label": "Empréstimo pessoal", "data": [11.907293217095472, 88.09270678290453], "backgroundColor": ["#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["11,9% · 1.120 clientes", "88,1% · 8.286 clientes"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Empréstimo pessoal"><table class="dataframe"><caption>Empréstimo pessoal</caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Grupo</th>
+      <th>Resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sim</td>
+      <td>11,9% · 1.120 clientes</td>
+    </tr>
+    <tr>
+      <td>Não</td>
+      <td>88,1% · 8.286 clientes</td>
+    </tr>
+  </tbody>
+</table></div></details></figure></div>
+      </div>
+    </section>
+    
+    <footer>
+      <p>Fonte: planilha Bank Marketing, disponibilizada pela Preditiva Analytics.
+      A análise considera os registros após a remoção de duplicatas exatas, conforme a premissa do estudo.</p>
+      <p><a href="../notebooks/banco-analise-campanha.ipynb">Notebook de referência</a>
+      · <a href="../docs/arquitetura-agente-dashboard.md">Arquitetura e reprodução</a></p>
+      <p>Os gráficos interativos precisam de conexão à internet. As tabelas permanecem disponíveis no arquivo.</p>
+    </footer>
+  </main>
+  <script>/* Renderização dos agregados incorporados pelo gerador Python. */
+document.addEventListener("DOMContentLoaded", () => {
+  const figuras = [...document.querySelectorAll(".visualizacao")];
+  const aviso = document.querySelector(".aviso-graficos");
+  if (typeof Chart === "undefined") {
+    aviso.hidden = false;
+    figuras.forEach(figura => { figura.querySelector(".dados-grafico").open = true; });
+    return;
+  }
+
+  document.body.classList.add("graficos-prontos");
+  Chart.defaults.color = "#655b4e";
+  Chart.defaults.font.family = "system-ui, sans-serif";
+  Chart.defaults.font.size = 12;
+  const decimal = new Intl.NumberFormat("pt-BR", { maximumFractionDigits: 2 });
+  const medida = (valor, tipo) => {
+    if (valor === null) return "Sem observações";
+    if (tipo === "decimal") return new Intl.NumberFormat("pt-BR", { maximumFractionDigits: 4 }).format(valor);
+    return decimal.format(valor) + (tipo === "percentual" ? "%" : "");
+  };
+  const quebrarRotulo = (rotulo, limite) => {
+    const linhas = [""];
+    for (const palavra of String(rotulo).split(" ")) {
+      const atual = linhas.length - 1;
+      if (linhas[atual] && linhas[atual].length + palavra.length > limite) linhas.push(palavra);
+      else linhas[atual] += (linhas[atual] ? " " : "") + palavra;
+    }
+    return linhas;
+  };
+
+  const referencia = {
+    id: "referencia",
+    afterDraw(chart, args, options) {
+      if (options.value === null || options.value === undefined) return;
+      const { ctx, chartArea, scales } = chart;
+      const horizontal = chart.options.indexAxis === "y";
+      const posicao = (horizontal ? scales.x : scales.y).getPixelForValue(options.value);
+      ctx.save();
+      ctx.strokeStyle = "#655b4e";
+      ctx.setLineDash([5, 4]);
+      ctx.lineWidth = 1.2;
+      ctx.beginPath();
+      ctx.moveTo(horizontal ? posicao : chartArea.left, horizontal ? chartArea.top : posicao);
+      ctx.lineTo(horizontal ? posicao : chartArea.right, horizontal ? chartArea.bottom : posicao);
+      ctx.stroke();
+      ctx.restore();
+    },
+  };
+
+  function renderizar(figura) {
+    const canvas = figura.querySelector("canvas");
+    // Details fechados não têm dimensões. A criação ocorre quando forem abertos.
+    if (figura.closest("details:not([open])") || !canvas.getClientRects().length) return;
+    const existente = Chart.getChart(canvas);
+    if (existente) {
+      existente.resize();
+      return;
+    }
+    const config = JSON.parse(figura.querySelector(".chart-data").textContent);
+    const horizontal = config.horizontal ?? false;
+    const valor = {
+      beginAtZero: true,
+      max: config.max,
+      grid: { color: "#e8e1d5" },
+      border: { display: false },
+      ticks: { callback: v => medida(v, config.metric), maxTicksLimit: 6 },
+    };
+    const categoria = {
+      grid: { display: false },
+      border: { display: false },
+      ticks: {
+        autoSkip: !horizontal,
+        maxTicksLimit: horizontal ? undefined : 7,
+        maxRotation: 0,
+        callback: function (v) {
+          return quebrarRotulo(this.getLabelForValue(v), horizontal ? 18 : 12);
+        },
+      },
+    };
+    if (config.axisTitle) categoria.title = { display: true, text: config.axisTitle };
+    const scales = horizontal ? { x: valor, y: categoria } : { x: categoria, y: valor };
+    if (config.secondary) {
+      scales.y.title = { display: true, text: "Clientes" };
+      scales.y1 = {
+        position: "right", min: 0, max: 100,
+        grid: { drawOnChartArea: false }, border: { display: false },
+        ticks: { callback: v => medida(v, "percentual"), maxTicksLimit: 6 },
+      };
+    }
+    new Chart(canvas, {
+      type: config.type,
+      data: config.data,
+      plugins: [referencia],
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        indexAxis: horizontal ? "y" : "x",
+        locale: "pt-BR",
+        resizeDelay: 80,
+        animation: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? false : { duration: 350 },
+        interaction: { mode: config.type === "line" ? "index" : "nearest", intersect: false },
+        plugins: {
+          referencia: { value: config.reference },
+          legend: {
+            display: config.legend ?? false, position: "bottom",
+            labels: { usePointStyle: true, boxWidth: 9, padding: 16 },
+          },
+          tooltip: {
+            backgroundColor: "#171717", titleColor: "#F4F0E7", bodyColor: "#F4F0E7",
+            padding: 12, displayColors: !!config.legend,
+            callbacks: {
+              title: items => quebrarRotulo(items[0]?.label ?? "", 32),
+              label: context => {
+                const tipo = context.dataset.yAxisID === "y1" ? "percentual" : config.metric;
+                const numero = horizontal ? context.parsed.x : context.parsed.y;
+                return context.dataset.label + " · " + medida(numero, tipo);
+              },
+              afterLabel: context => context.dataset.details?.[context.dataIndex] ?? "",
+            },
+          },
+        },
+        scales,
+      },
+    });
+  }
+
+  figuras.forEach(renderizar);
+  document.querySelectorAll("details").forEach(detalhe => {
+    detalhe.addEventListener("toggle", () => {
+      if (detalhe.open) requestAnimationFrame(() => detalhe.querySelectorAll(".visualizacao").forEach(renderizar));
+    });
+  });
+});
+</script>
+</body>
+</html>

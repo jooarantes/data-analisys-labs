@@ -20,8 +20,8 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 ## 3. Entregáveis
 
 - [Notebook de análise da campanha](notebooks/banco-analise-campanha.ipynb) — exploração, perguntas de negócio, análise de conversão, Information Value e estimativa de incerteza.
-- [Dashboard de perfil dos clientes](reports/dashboard-perfil-clientes.html) — planejado; o arquivo ainda será gerado.
-- [Dashboard de conversão da campanha](reports/dashboard-conversao-campanha.html) — planejado; o arquivo ainda será gerado.
+- [Dashboard de perfil dos clientes](reports/dashboard-perfil-clientes.html) — composição demográfica, profissional e financeira da base.
+- [Dashboard de conversão da campanha](reports/dashboard-conversao-campanha.html) — compras, incerteza, taxas por segmento e análise de ligações.
 
 ## 4. Dados e premissas
 
@@ -48,7 +48,7 @@ Variáveis usadas na análise incluem:
 
 ## 5. Métodos, técnicas e ferramentas
 
-O notebook segue este fluxo:
+O projeto segue este fluxo:
 
 1. Carrega a planilha e verifica estrutura, valores ausentes, duplicidades, domínios e valores extremos.
 2. Resume o perfil dos clientes e responde às perguntas de negócio. Para identificar as profissões que concentram aproximadamente 80% da base, usa frequências e frequência acumulada em uma análise de Pareto.
@@ -56,8 +56,13 @@ O notebook segue este fluxo:
 4. Calcula *Weight of Evidence* (WoE) e *Information Value* (IV) para explorar o poder de separação de cada variável. O IV é usado como indicador exploratório, não como prova de causalidade ou critério isolado para seleção de público.
 5. Estima a proporção observada de compras e compara intervalos de confiança de Wilson e Clopper–Pearson, além de uma aproximação por t de Student.
 6. Explora probabilidades condicionais para grupos definidos pelo número de ligações e discute explicações alternativas para a associação observada.
+7. Foi utilizado um agente para construir os dashboards a partir das análises do notebook. A [arquitetura do agente de dashboard](docs/arquitetura-agente-dashboard.md) descreve o fluxo, a skill, os scripts e como regenerar os painéis.
+
+> Os dashboards são gerados pelo script de entrada em `.agents/skills/dashboard-html/scripts/gerar_dashboards.py`. Seus módulos auxiliares ficam junto da skill. Os gráficos Chart.js carregam a biblioteca pela CDN e precisam de conexão com a internet.
+
 
 **Stack:** Python 3.12+, Jupyter Notebook, pandas, NumPy, SciPy, Matplotlib, Seaborn e openpyxl. A implementação de IV e WoE está em [`src/analise_IV.py`](src/analise_IV.py), com testes em [`tests/test_analise_iv.py`](tests/test_analise_iv.py). As dependências estão declaradas em [`pyproject.toml`](pyproject.toml).
+
 
 ## 6. Limitações e cuidados
 
@@ -78,7 +83,6 @@ O notebook segue este fluxo:
 - Ajustar um modelo de regressão logística para analisar a associação entre perfil e compra em conjunto, validar seu desempenho fora da amostra e verificar calibração. Isso não substituiria um desenho causal para medir o efeito da campanha.
 - Estratificar a relação entre ligações e conversão por idade, profissão, formação e histórico de campanhas, para investigar possíveis fatores de confusão.
 - Com dados temporais e de contato mais completos, analisar o momento da conversão, a sequência de tentativas e o efeito incremental de contatos adicionais.
-- Desenvolver os dashboards planejados para comunicar perfil e conversão a públicos de negócio.
 - Consolidar os resultados em relatório executivo, com recomendações validadas junto ao Marketing.
 
 ## 8. Estrutura do repositório
@@ -87,15 +91,31 @@ O notebook segue este fluxo:
 bank-marketing-analytics/
 ├── data/
 │   └── bank_marketing.xlsx
+├── docs/
+│   └── arquitetura-agente-dashboard.md
+├── .agents/
+│   └── skills/dashboard-html/
+│       ├── SKILL.md
+│       └── scripts/
+│           ├── dados_dashboard.py
+│           ├── dashboard.css
+│           ├── dashboard.js
+│           ├── gerar_dashboards.py
+│           └── visualizacoes_dashboard.py
+├── images/
+│   └── identidade-visual-banco-xptokw.png
 ├── notebooks/
 │   └── banco-analise-campanha.ipynb
-├── reports/                 # reservado para relatórios e dashboards futuros
+├── reports/
+│   ├── dashboard-perfil-clientes.html
+│   └── dashboard-conversao-campanha.html
 ├── src/
 │   ├── __init__.py
 │   └── analise_IV.py
 ├── tests/
 │   └── test_analise_iv.py
 ├── .gitignore
+├── AGENTS.md
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
