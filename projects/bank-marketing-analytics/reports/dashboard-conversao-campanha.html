@@ -63,6 +63,7 @@ small, .nota, caption { color: var(--suave); }
 .grade { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .kpi, .painel { padding: clamp(1rem, 2.4vw, 1.75rem); border: 1px solid var(--linha); border-radius: 16px; background: var(--papel); box-shadow: 0 4px 18px #17171705; }
 .kpi { border-top: 3px solid var(--ouro); }
+.kpis-centralizados .kpi { text-align: center; }
 .kpi .rotulo { color: var(--suave); }
 .numero { display: block; margin: .35rem 0 .5rem; font-size: clamp(1.65rem, 3vw, 2.65rem); }
 .kpi:last-child .numero { font-size: clamp(1.5rem, 2.5vw, 2.15rem); }
@@ -84,6 +85,10 @@ table { border-collapse: collapse; width: 100%; font-size: .88rem; font-variant-
 caption { text-align: left; padding: 0 0 .5rem; }
 th, td { text-align: left; padding: .55rem .65rem; border-bottom: 1px solid var(--linha); white-space: nowrap; }
 th { background: var(--fundo); font-weight: 650; }
+.mapa-conteiner { max-width: 100%; margin-block: .5rem; }
+.mapa { table-layout: fixed; font-size: .68rem; }
+.mapa th, .mapa td { padding: .35rem .3rem; white-space: normal; overflow-wrap: normal; }
+.mapa th:first-child { width: 7rem; }
 .mapa td { text-align: center; background: rgb(197 161 90 / var(--intensidade, 0)); }
 .mapa small { display: block; color: var(--texto); }
 .mapa .sem-dados { color: var(--suave); }
@@ -101,7 +106,10 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   .kpi .numero { font-size: 1.85rem; }
   .indice { gap: .25rem; }
   .indice a { padding-inline: .65rem; }
-  .mapa th:first-child { position: sticky; left: 0; }
+  .mapa { font-size: .58rem; }
+  .mapa th, .mapa td { padding: .3rem .2rem; }
+  .mapa th:first-child { position: sticky; left: 0; width: 5rem; }
+  .mapa td small { font-size: .52rem; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 </style>
@@ -123,7 +131,7 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
     <noscript><p class="destaque">Ative JavaScript para explorar os gráficos.
     Os valores estão disponíveis nas tabelas de cada seção.</p></noscript>
     
-    <div class="kpis" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Taxa de compra</span><strong class="numero">47,96%</strong><small>4.511 compras em 9.406 clientes</small></div><div class="kpi"><span class="rotulo">Não compraram</span><strong class="numero">4.895</strong><small>52,04%</small></div><div class="kpi"><span class="rotulo">IC de 95% · Wilson</span><strong class="numero">46,95% a 48,97%</strong><small>Incerteza amostral da taxa de compra</small></div></div>
+    <div class="kpis kpis-centralizados" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Taxa de compra</span><strong class="numero">47,96%</strong><small>4.511 compras em 9.406 clientes</small></div><div class="kpi"><span class="rotulo">Não compraram</span><strong class="numero">4.895</strong><small>52,04% dos clientes</small></div><div class="kpi"><span class="rotulo">IC de 95% · Wilson</span><strong class="numero">46,95% a 48,97%</strong><small>Incerteza amostral da taxa de compra</small></div></div>
     <nav class="nav indice" aria-label="Perguntas sobre a conversão da campanha">
       <a href="#estimativa">Quantos clientes compraram?</a>
       <a href="#segmentos">Em quais grupos a taxa foi maior?</a>
@@ -250,13 +258,11 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure>
         </div>
       </div>
-      <details><summary>Faixa etária × profissão</summary>
+      <details><summary>Faixa etária x Profissão x Taxa de Compra</summary>
         <p>O cruzamento ajuda a contextualizar as taxas mais altas entre estudantes e aposentados.
         Leia cada taxa junto ao tamanho do grupo. O traço indica combinações sem observações.</p>
-        <div class="rolagem" tabindex="0" role="region" aria-label="Mapa de calor por idade e profissão"><table class="mapa"><caption>Taxa de compra e tamanho de cada grupo</caption><thead><tr><th scope="col">Faixa etária</th><th scope="col">Administrador</th><th scope="col">Aposentado</th><th scope="col">Autônomo</th><th scope="col">Desconhecido</th><th scope="col">Desempregado</th><th scope="col">Diarista</th><th scope="col">Empresário</th><th scope="col">Estudante</th><th scope="col">Operário</th><th scope="col">Serviços Gerais</th><th scope="col">Técnico</th></tr></thead><tbody><tr><th scope="row">18–25</th><td style="--intensidade:0.619"><strong>61,9%</strong><small>n = 84</small></td><td class="sem-dados">—</td><td style="--intensidade:0.700"><strong>70,0%</strong><small>n = 10</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 6</small></td><td style="--intensidade:0.667"><strong>66,7%</strong><small>n = 3</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 3</small></td><td style="--intensidade:0.793"><strong>79,3%</strong><small>n = 164</small></td><td style="--intensidade:0.653"><strong>65,3%</strong><small>n = 49</small></td><td style="--intensidade:0.622"><strong>62,2%</strong><small>n = 37</small></td><td style="--intensidade:0.675"><strong>67,5%</strong><small>n = 40</small></td></tr><tr><th scope="row">26–35</th><td style="--intensidade:0.532"><strong>53,2%</strong><small>n = 1.296</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.503"><strong>50,3%</strong><small>n = 153</small></td><td style="--intensidade:0.538"><strong>53,8%</strong><small>n = 13</small></td><td style="--intensidade:0.602"><strong>60,2%</strong><small>n = 103</small></td><td style="--intensidade:0.452"><strong>45,2%</strong><small>n = 31</small></td><td style="--intensidade:0.308"><strong>30,8%</strong><small>n = 65</small></td><td style="--intensidade:0.676"><strong>67,6%</strong><small>n = 139</small></td><td style="--intensidade:0.400"><strong>40,0%</strong><small>n = 572</small></td><td style="--intensidade:0.390"><strong>39,0%</strong><small>n = 308</small></td><td style="--intensidade:0.453"><strong>45,3%</strong><small>n = 662</small></td></tr><tr><th scope="row">36–45</th><td style="--intensidade:0.455"><strong>45,5%</strong><small>n = 977</small></td><td style="--intensidade:0.100"><strong>10,0%</strong><small>n = 10</small></td><td style="--intensidade:0.407"><strong>40,7%</strong><small>n = 91</small></td><td style="--intensidade:0.231"><strong>23,1%</strong><small>n = 13</small></td><td style="--intensidade:0.511"><strong>51,1%</strong><small>n = 92</small></td><td style="--intensidade:0.262"><strong>26,2%</strong><small>n = 65</small></td><td style="--intensidade:0.375"><strong>37,5%</strong><small>n = 104</small></td><td style="--intensidade:0.625"><strong>62,5%</strong><small>n = 16</small></td><td style="--intensidade:0.339"><strong>33,9%</strong><small>n = 519</small></td><td style="--intensidade:0.383"><strong>38,3%</strong><small>n = 256</small></td><td style="--intensidade:0.461"><strong>46,1%</strong><small>n = 464</small></td></tr><tr><th scope="row">46–55</th><td style="--intensidade:0.480"><strong>48,0%</strong><small>n = 638</small></td><td style="--intensidade:0.359"><strong>35,9%</strong><small>n = 64</small></td><td style="--intensidade:0.293"><strong>29,3%</strong><small>n = 58</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 20</small></td><td style="--intensidade:0.566"><strong>56,6%</strong><small>n = 76</small></td><td style="--intensidade:0.410"><strong>41,0%</strong><small>n = 83</small></td><td style="--intensidade:0.319"><strong>31,9%</strong><small>n = 69</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.340"><strong>34,0%</strong><small>n = 368</small></td><td style="--intensidade:0.366"><strong>36,6%</strong><small>n = 131</small></td><td style="--intensidade:0.419"><strong>41,9%</strong><small>n = 284</small></td></tr><tr><th scope="row">56–65</th><td style="--intensidade:0.583"><strong>58,3%</strong><small>n = 278</small></td><td style="--intensidade:0.616"><strong>61,6%</strong><small>n = 289</small></td><td style="--intensidade:0.519"><strong>51,9%</strong><small>n = 27</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 10</small></td><td style="--intensidade:0.655"><strong>65,5%</strong><small>n = 29</small></td><td style="--intensidade:0.429"><strong>42,9%</strong><small>n = 42</small></td><td style="--intensidade:0.357"><strong>35,7%</strong><small>n = 28</small></td><td class="sem-dados">—</td><td style="--intensidade:0.389"><strong>38,9%</strong><small>n = 90</small></td><td style="--intensidade:0.361"><strong>36,1%</strong><small>n = 36</small></td><td style="--intensidade:0.591"><strong>59,1%</strong><small>n = 88</small></td></tr><tr><th scope="row">66+</th><td style="--intensidade:0.750"><strong>75,0%</strong><small>n = 16</small></td><td style="--intensidade:0.792"><strong>79,2%</strong><small>n = 307</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 5</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 4</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 12</small></td><td class="sem-dados">—</td><td class="sem-dados">—</td><td class="sem-dados">—</td><td style="--intensidade:0.000"><strong>0,0%</strong><small>n = 1</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 4</small></td></tr></tbody></table></div>
+        <div class="mapa-conteiner" role="region" aria-label="Mapa de calor por idade e profissão"><table class="mapa"><caption>Taxa de compra e tamanho de cada grupo</caption><thead><tr><th scope="col">Faixa etária</th><th scope="col">Administrador</th><th scope="col">Aposentado</th><th scope="col">Autônomo</th><th scope="col">Desconhecido</th><th scope="col">Desempregado</th><th scope="col">Diarista</th><th scope="col">Empresário</th><th scope="col">Estudante</th><th scope="col">Operário</th><th scope="col">Serviços Gerais</th><th scope="col">Técnico</th></tr></thead><tbody><tr><th scope="row">18–25</th><td style="--intensidade:0.619"><strong>61,9%</strong><small>n = 84</small></td><td class="sem-dados">—</td><td style="--intensidade:0.700"><strong>70,0%</strong><small>n = 10</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 6</small></td><td style="--intensidade:0.667"><strong>66,7%</strong><small>n = 3</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 3</small></td><td style="--intensidade:0.793"><strong>79,3%</strong><small>n = 164</small></td><td style="--intensidade:0.653"><strong>65,3%</strong><small>n = 49</small></td><td style="--intensidade:0.622"><strong>62,2%</strong><small>n = 37</small></td><td style="--intensidade:0.675"><strong>67,5%</strong><small>n = 40</small></td></tr><tr><th scope="row">26–35</th><td style="--intensidade:0.532"><strong>53,2%</strong><small>n = 1.296</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.503"><strong>50,3%</strong><small>n = 153</small></td><td style="--intensidade:0.538"><strong>53,8%</strong><small>n = 13</small></td><td style="--intensidade:0.602"><strong>60,2%</strong><small>n = 103</small></td><td style="--intensidade:0.452"><strong>45,2%</strong><small>n = 31</small></td><td style="--intensidade:0.308"><strong>30,8%</strong><small>n = 65</small></td><td style="--intensidade:0.676"><strong>67,6%</strong><small>n = 139</small></td><td style="--intensidade:0.400"><strong>40,0%</strong><small>n = 572</small></td><td style="--intensidade:0.390"><strong>39,0%</strong><small>n = 308</small></td><td style="--intensidade:0.453"><strong>45,3%</strong><small>n = 662</small></td></tr><tr><th scope="row">36–45</th><td style="--intensidade:0.455"><strong>45,5%</strong><small>n = 977</small></td><td style="--intensidade:0.100"><strong>10,0%</strong><small>n = 10</small></td><td style="--intensidade:0.407"><strong>40,7%</strong><small>n = 91</small></td><td style="--intensidade:0.231"><strong>23,1%</strong><small>n = 13</small></td><td style="--intensidade:0.511"><strong>51,1%</strong><small>n = 92</small></td><td style="--intensidade:0.262"><strong>26,2%</strong><small>n = 65</small></td><td style="--intensidade:0.375"><strong>37,5%</strong><small>n = 104</small></td><td style="--intensidade:0.625"><strong>62,5%</strong><small>n = 16</small></td><td style="--intensidade:0.339"><strong>33,9%</strong><small>n = 519</small></td><td style="--intensidade:0.383"><strong>38,3%</strong><small>n = 256</small></td><td style="--intensidade:0.461"><strong>46,1%</strong><small>n = 464</small></td></tr><tr><th scope="row">46–55</th><td style="--intensidade:0.480"><strong>48,0%</strong><small>n = 638</small></td><td style="--intensidade:0.359"><strong>35,9%</strong><small>n = 64</small></td><td style="--intensidade:0.293"><strong>29,3%</strong><small>n = 58</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 20</small></td><td style="--intensidade:0.566"><strong>56,6%</strong><small>n = 76</small></td><td style="--intensidade:0.410"><strong>41,0%</strong><small>n = 83</small></td><td style="--intensidade:0.319"><strong>31,9%</strong><small>n = 69</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 2</small></td><td style="--intensidade:0.340"><strong>34,0%</strong><small>n = 368</small></td><td style="--intensidade:0.366"><strong>36,6%</strong><small>n = 131</small></td><td style="--intensidade:0.419"><strong>41,9%</strong><small>n = 284</small></td></tr><tr><th scope="row">56–65</th><td style="--intensidade:0.583"><strong>58,3%</strong><small>n = 278</small></td><td style="--intensidade:0.616"><strong>61,6%</strong><small>n = 289</small></td><td style="--intensidade:0.519"><strong>51,9%</strong><small>n = 27</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 10</small></td><td style="--intensidade:0.655"><strong>65,5%</strong><small>n = 29</small></td><td style="--intensidade:0.429"><strong>42,9%</strong><small>n = 42</small></td><td style="--intensidade:0.357"><strong>35,7%</strong><small>n = 28</small></td><td class="sem-dados">—</td><td style="--intensidade:0.389"><strong>38,9%</strong><small>n = 90</small></td><td style="--intensidade:0.361"><strong>36,1%</strong><small>n = 36</small></td><td style="--intensidade:0.591"><strong>59,1%</strong><small>n = 88</small></td></tr><tr><th scope="row">66+</th><td style="--intensidade:0.750"><strong>75,0%</strong><small>n = 16</small></td><td style="--intensidade:0.792"><strong>79,2%</strong><small>n = 307</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 5</small></td><td style="--intensidade:0.500"><strong>50,0%</strong><small>n = 4</small></td><td class="sem-dados">—</td><td style="--intensidade:0.833"><strong>83,3%</strong><small>n = 12</small></td><td class="sem-dados">—</td><td class="sem-dados">—</td><td class="sem-dados">—</td><td style="--intensidade:0.000"><strong>0,0%</strong><small>n = 1</small></td><td style="--intensidade:1.000"><strong>100,0%</strong><small>n = 4</small></td></tr></tbody></table></div>
       </details>
-      <p class="nota">Nas tabelas, “% Sim” indica quanto cada grupo representa no total de compradores.
-      “Taxa de compra” indica quanto os compradores representam dentro do próprio grupo.</p>
       <details><summary>Faixa etária</summary><p>A maior taxa observada foi de 79,08% no grupo “66+”, com 276 compras em 349 clientes.</p><figure class="visualizacao"><div class="chart-container" style="--altura:333px"><canvas role="img" aria-label="Taxa de compra por faixa etária">Taxa de compra por faixa etária</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "horizontal": true, "metric": "percentual", "max": 100, "reference": 47.958749734212205, "data": {"labels": ["18–25", "26–35", "36–45", "46–55", "56–65", "66+"], "datasets": [{"label": "Taxa de compra por faixa etária", "data": [70.96, 48.24, 41.7, 41.72, 55.18, 79.08], "backgroundColor": ["#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A", "#C5A15A"], "borderRadius": 5, "maxBarThickness": 26, "details": ["70,96% · 281 de 396", "48,24% · 1.613 de 3.344", "41,70% · 1.087 de 2.607", "41,72% · 748 de 1.793", "55,18% · 506 de 917", "79,08% · 276 de 349"]}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Taxa de compra por faixa etária"><table class="dataframe"><caption>Taxa de compra por faixa etária</caption>
   <thead>
     <tr style="text-align: right;">
@@ -293,7 +299,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Faixa etária · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Faixa etária · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -308,7 +313,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>18–25</td>
       <td>115</td>
       <td>281</td>
@@ -321,7 +325,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0378</td>
     </tr>
     <tr>
-      <th></th>
       <td>26–35</td>
       <td>1.731</td>
       <td>1.613</td>
@@ -334,7 +337,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0000</td>
     </tr>
     <tr>
-      <th></th>
       <td>36–45</td>
       <td>1.520</td>
       <td>1.087</td>
@@ -347,7 +349,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0176</td>
     </tr>
     <tr>
-      <th></th>
       <td>46–55</td>
       <td>1.045</td>
       <td>748</td>
@@ -360,7 +361,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0120</td>
     </tr>
     <tr>
-      <th></th>
       <td>56–65</td>
       <td>411</td>
       <td>506</td>
@@ -373,7 +373,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0082</td>
     </tr>
     <tr>
-      <th></th>
       <td>66+</td>
       <td>73</td>
       <td>276</td>
@@ -442,7 +441,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Profissão · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Profissão · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -457,7 +455,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Administrador</td>
       <td>1.623</td>
       <td>1.666</td>
@@ -470,7 +467,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0041</td>
     </tr>
     <tr>
-      <th></th>
       <td>Aposentado</td>
       <td>226</td>
       <td>446</td>
@@ -483,7 +479,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0401</td>
     </tr>
     <tr>
-      <th></th>
       <td>Autônomo</td>
       <td>187</td>
       <td>157</td>
@@ -496,7 +491,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0003</td>
     </tr>
     <tr>
-      <th></th>
       <td>Desconhecido</td>
       <td>33</td>
       <td>27</td>
@@ -509,7 +503,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0001</td>
     </tr>
     <tr>
-      <th></th>
       <td>Desempregado</td>
       <td>130</td>
       <td>176</td>
@@ -522,7 +515,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0048</td>
     </tr>
     <tr>
-      <th></th>
       <td>Diarista</td>
       <td>141</td>
       <td>95</td>
@@ -535,7 +527,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0024</td>
     </tr>
     <tr>
-      <th></th>
       <td>Empresário</td>
       <td>175</td>
       <td>94</td>
@@ -548,7 +539,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0080</td>
     </tr>
     <tr>
-      <th></th>
       <td>Estudante</td>
       <td>86</td>
       <td>235</td>
@@ -561,7 +551,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0375</td>
     </tr>
     <tr>
-      <th></th>
       <td>Operário</td>
       <td>1.001</td>
       <td>597</td>
@@ -574,7 +563,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0314</td>
     </tr>
     <tr>
-      <th></th>
       <td>Serviços Gerais</td>
       <td>467</td>
       <td>302</td>
@@ -587,7 +575,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0101</td>
     </tr>
     <tr>
-      <th></th>
       <td>Técnico</td>
       <td>826</td>
       <td>716</td>
@@ -628,7 +615,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Formação · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Formação · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -643,7 +629,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Desconhecido</td>
       <td>209</td>
       <td>231</td>
@@ -656,7 +641,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0015</td>
     </tr>
     <tr>
-      <th></th>
       <td>Ensino Médio</td>
       <td>2.524</td>
       <td>2.071</td>
@@ -669,7 +653,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0066</td>
     </tr>
     <tr>
-      <th></th>
       <td>Ensino Superior</td>
       <td>1.426</td>
       <td>1.701</td>
@@ -682,7 +665,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0221</td>
     </tr>
     <tr>
-      <th></th>
       <td>Fundamental</td>
       <td>736</td>
       <td>508</td>
@@ -719,7 +701,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Estado civil · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Estado civil · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -734,7 +715,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Casado</td>
       <td>2.970</td>
       <td>2.344</td>
@@ -747,7 +727,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0135</td>
     </tr>
     <tr>
-      <th></th>
       <td>Divorciado</td>
       <td>528</td>
       <td>510</td>
@@ -760,7 +739,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0002</td>
     </tr>
     <tr>
-      <th></th>
       <td>Solteiro</td>
       <td>1.397</td>
       <td>1.657</td>
@@ -793,7 +771,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Inadimplência · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Inadimplência · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -808,7 +785,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Não</td>
       <td>4.847</td>
       <td>4.494</td>
@@ -821,7 +797,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0000</td>
     </tr>
     <tr>
-      <th></th>
       <td>Sim</td>
       <td>48</td>
       <td>17</td>
@@ -854,7 +829,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Hipoteca · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Hipoteca · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -869,7 +843,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Não</td>
       <td>2.140</td>
       <td>2.894</td>
@@ -882,7 +855,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0784</td>
     </tr>
     <tr>
-      <th></th>
       <td>Sim</td>
       <td>2.755</td>
       <td>1.617</td>
@@ -915,7 +887,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Empréstimo pessoal · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Empréstimo pessoal · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -930,7 +901,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Não</td>
       <td>4.144</td>
       <td>4.142</td>
@@ -943,7 +913,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0058</td>
     </tr>
     <tr>
-      <th></th>
       <td>Sim</td>
       <td>751</td>
       <td>369</td>
@@ -984,7 +953,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Saldo em conta corrente · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Saldo em conta corrente · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -999,7 +967,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>Até R$ 499</td>
       <td>2.200</td>
       <td>1.580</td>
@@ -1012,7 +979,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0247</td>
     </tr>
     <tr>
-      <th></th>
       <td>R$ 500 a 1.499</td>
       <td>1.375</td>
       <td>1.253</td>
@@ -1025,7 +991,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0000</td>
     </tr>
     <tr>
-      <th></th>
       <td>R$ 1.500 a 4.999</td>
       <td>1.000</td>
       <td>1.273</td>
@@ -1038,7 +1003,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0252</td>
     </tr>
     <tr>
-      <th></th>
       <td>R$ 5 mil ou mais</td>
       <td>320</td>
       <td>405</td>
@@ -1083,7 +1047,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
 </table></div></details></figure><div class="rolagem" tabindex="0" role="region" aria-label="Quantidade de ligações · contagens, taxas e medidas de associação"><table class="dataframe"><caption>Quantidade de ligações · contagens, taxas e medidas de associação</caption>
   <thead>
     <tr style="text-align: right;">
-      <th>col_0</th>
       <th>Grupo</th>
       <th>Não</th>
       <th>Sim</th>
@@ -1098,7 +1061,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   </thead>
   <tbody>
     <tr>
-      <th></th>
       <td>1</td>
       <td>1.866</td>
       <td>2.121</td>
@@ -1111,7 +1073,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0187</td>
     </tr>
     <tr>
-      <th></th>
       <td>2</td>
       <td>1.347</td>
       <td>1.233</td>
@@ -1124,7 +1085,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0000</td>
     </tr>
     <tr>
-      <th></th>
       <td>3</td>
       <td>598</td>
       <td>543</td>
@@ -1137,7 +1097,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0000</td>
     </tr>
     <tr>
-      <th></th>
       <td>4</td>
       <td>381</td>
       <td>281</td>
@@ -1150,7 +1109,6 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
       <td>0,0035</td>
     </tr>
     <tr>
-      <th></th>
       <td>5+</td>
       <td>703</td>
       <td>333</td>

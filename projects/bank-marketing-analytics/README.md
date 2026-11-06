@@ -16,6 +16,7 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 - É possível afirmar que 66% dos clientes não têm Ensino Superior, considerando também a categoria de formação desconhecida?
 - Quais características apresentam maior poder de distinção entre quem comprou e quem não comprou?
 - Como a taxa observada de compra varia conforme o número de ligações?
+- Sobre a linha de comunicação, foi sugerido direcionar ao público com idade entre 30-40, pois, dos 4.778 clientes que compraram o produto, essa foi a faixa com maior quantidade. Você concorda com essa análise? Qual seria a sua sugestão?
 
 ## 3. Entregáveis
 
@@ -25,7 +26,7 @@ O objetivo é apoiar decisões de segmentação com evidências sobre idade, pro
 
 ## 4. Dados e premissas
 
-O arquivo `bank_marketing.xlsx` foi disponibilizado pela Preditiva Analytics como material complementar de um estudo de caso. O workbook está em [`data/bank_marketing.xlsx`](data/bank_marketing.xlsx). Não foi localizada uma licença específica para redistribuição dos dados; a licença MIT do código deste repositório não deve ser entendida como licença da base.
+O arquivo `bank_marketing.xlsx` foi disponibilizado pela Preditiva Analytics como material complementar de um estudo de caso. O workbook está em [`data/bank_marketing.xlsx`](data/bank_marketing.xlsx).
 
 ### Estrutura dos dados
 

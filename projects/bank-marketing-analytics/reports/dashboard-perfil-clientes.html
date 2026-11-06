@@ -63,6 +63,7 @@ small, .nota, caption { color: var(--suave); }
 .grade { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .kpi, .painel { padding: clamp(1rem, 2.4vw, 1.75rem); border: 1px solid var(--linha); border-radius: 16px; background: var(--papel); box-shadow: 0 4px 18px #17171705; }
 .kpi { border-top: 3px solid var(--ouro); }
+.kpis-centralizados .kpi { text-align: center; }
 .kpi .rotulo { color: var(--suave); }
 .numero { display: block; margin: .35rem 0 .5rem; font-size: clamp(1.65rem, 3vw, 2.65rem); }
 .kpi:last-child .numero { font-size: clamp(1.5rem, 2.5vw, 2.15rem); }
@@ -84,6 +85,10 @@ table { border-collapse: collapse; width: 100%; font-size: .88rem; font-variant-
 caption { text-align: left; padding: 0 0 .5rem; }
 th, td { text-align: left; padding: .55rem .65rem; border-bottom: 1px solid var(--linha); white-space: nowrap; }
 th { background: var(--fundo); font-weight: 650; }
+.mapa-conteiner { max-width: 100%; margin-block: .5rem; }
+.mapa { table-layout: fixed; font-size: .68rem; }
+.mapa th, .mapa td { padding: .35rem .3rem; white-space: normal; overflow-wrap: normal; }
+.mapa th:first-child { width: 7rem; }
 .mapa td { text-align: center; background: rgb(197 161 90 / var(--intensidade, 0)); }
 .mapa small { display: block; color: var(--texto); }
 .mapa .sem-dados { color: var(--suave); }
@@ -101,7 +106,10 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
   .kpi .numero { font-size: 1.85rem; }
   .indice { gap: .25rem; }
   .indice a { padding-inline: .65rem; }
-  .mapa th:first-child { position: sticky; left: 0; }
+  .mapa { font-size: .58rem; }
+  .mapa th, .mapa td { padding: .3rem .2rem; }
+  .mapa th:first-child { position: sticky; left: 0; width: 5rem; }
+  .mapa td small { font-size: .52rem; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 </style>
@@ -123,7 +131,7 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
     <noscript><p class="destaque">Ative JavaScript para explorar os gráficos.
     Os valores estão disponíveis nas tabelas de cada seção.</p></noscript>
     
-    <div class="kpis" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Clientes analisados</span><strong class="numero">9.406</strong><small>278 duplicatas removidas</small></div><div class="kpi"><span class="rotulo">Idade mediana</span><strong class="numero">38 anos</strong><small>Média de 41,2 anos</small></div><div class="kpi"><span class="rotulo">Saldo mediano</span><strong class="numero">R$ 726,00</strong><small>Saldo em conta corrente</small></div></div>
+    <div class="kpis kpis-centralizados" aria-label="Indicadores principais"><div class="kpi"><span class="rotulo">Clientes analisados</span><strong class="numero">9.406</strong><small>278 duplicatas removidas</small></div><div class="kpi"><span class="rotulo">Idade mediana</span><strong class="numero">38 anos</strong><small>Média de 41,2 anos</small></div><div class="kpi"><span class="rotulo">Saldo mediano</span><strong class="numero">R$ 726,00</strong><small>Saldo em conta corrente</small></div></div>
     <nav class="nav indice" aria-label="Perguntas sobre o perfil dos clientes">
       <a href="#profissoes">Quais profissões concentram a base?</a>
       <a href="#demografia">Qual é o perfil demográfico?</a>
@@ -443,7 +451,7 @@ footer { margin-top: 2rem; padding-block: 1.35rem 2.25rem; border-top: 1px solid
         <div>
           <p>Metade dos saldos fica entre R$ 257,00 e R$ 2.002,75.
           A média foi de R$ 1.698,47.</p>
-          <figure class="visualizacao"><div class="chart-container" style="--altura:310px"><canvas role="img" aria-label="Distribuição de saldo (r$)">Distribuição de saldo (r$)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "metric": "contagem", "axisTitle": "Saldo (R$)", "data": {"labels": ["1,0 – 979,0", "979,0 – 1.956,9", "1.956,9 – 2.934,9", "2.934,9 – 3.912,9", "3.912,9 – 4.890,8", "4.890,8 – 5.868,8", "5.868,8 – 6.846,8", "6.846,8 – 7.824,7", "7.824,7 – 8.802,7", "8.802,7 – 9.780,7", "9.780,7 – 10.758,6", "10.758,6 – 11.736,6", "11.736,6 – 12.714,6", "12.714,6 – 13.692,5", "13.692,5 – 14.670,5", "14.670,5 – 15.648,5", "15.648,5 – 16.626,4", "16.626,4 – 17.604,4", "17.604,4 – 18.582,4", "18.582,4 – 19.560,3", "19.560,3 – 20.538,3", "20.538,3 – 21.516,3", "21.516,3 – 22.494,2", "22.494,2 – 23.472,2", "23.472,2 – 24.450,2", "24.450,2 – 25.428,1", "25.428,1 – 26.406,1", "26.406,1 – 27.384,1", "27.384,1 – 28.362,0", "28.362,0 – 29.340,0"], "datasets": [{"label": "Clientes", "data": [5432, 1572, 835, 508, 307, 204, 126, 93, 73, 47, 39, 31, 31, 23, 13, 11, 2, 4, 10, 7, 2, 6, 4, 9, 5, 2, 1, 1, 4, 4], "backgroundColor": "#C5A15A", "barPercentage": 1, "categoryPercentage": 1, "borderColor": "#fffdf9", "borderWidth": 1}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Distribuição de saldo (r$)"><table class="dataframe"><caption>Distribuição de saldo (r$)</caption>
+          <figure class="visualizacao"><div class="chart-container" style="--altura:310px"><canvas role="img" aria-label="Distribuição de saldo (R$)">Distribuição de saldo (R$)</canvas></div><script type="application/json" class="chart-data">{"type": "bar", "metric": "contagem", "axisTitle": "Saldo (R$)", "data": {"labels": ["1,0 – 979,0", "979,0 – 1.956,9", "1.956,9 – 2.934,9", "2.934,9 – 3.912,9", "3.912,9 – 4.890,8", "4.890,8 – 5.868,8", "5.868,8 – 6.846,8", "6.846,8 – 7.824,7", "7.824,7 – 8.802,7", "8.802,7 – 9.780,7", "9.780,7 – 10.758,6", "10.758,6 – 11.736,6", "11.736,6 – 12.714,6", "12.714,6 – 13.692,5", "13.692,5 – 14.670,5", "14.670,5 – 15.648,5", "15.648,5 – 16.626,4", "16.626,4 – 17.604,4", "17.604,4 – 18.582,4", "18.582,4 – 19.560,3", "19.560,3 – 20.538,3", "20.538,3 – 21.516,3", "21.516,3 – 22.494,2", "22.494,2 – 23.472,2", "23.472,2 – 24.450,2", "24.450,2 – 25.428,1", "25.428,1 – 26.406,1", "26.406,1 – 27.384,1", "27.384,1 – 28.362,0", "28.362,0 – 29.340,0"], "datasets": [{"label": "Clientes", "data": [5432, 1572, 835, 508, 307, 204, 126, 93, 73, 47, 39, 31, 31, 23, 13, 11, 2, 4, 10, 7, 2, 6, 4, 9, 5, 2, 1, 1, 4, 4], "backgroundColor": "#C5A15A", "barPercentage": 1, "categoryPercentage": 1, "borderColor": "#fffdf9", "borderWidth": 1}]}}</script><details class="dados-grafico"><summary>Ver dados do gráfico</summary><div class="rolagem" tabindex="0" role="region" aria-label="Distribuição de saldo (R$)"><table class="dataframe"><caption>Distribuição de saldo (R$)</caption>
   <thead>
     <tr style="text-align: right;">
       <th>Intervalo</th>

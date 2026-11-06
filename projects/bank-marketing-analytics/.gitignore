@@ -3,10 +3,41 @@ venv/
 .venv/
 env/
 .env
+*.env
+!.env.example
+
+# Cache e arquivos gerados pelo Python
+.uv-cache-dashboard/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
 
 # IDEs / Editores
 .vscode/
 .idea/
-*.swp
-*.swo
 

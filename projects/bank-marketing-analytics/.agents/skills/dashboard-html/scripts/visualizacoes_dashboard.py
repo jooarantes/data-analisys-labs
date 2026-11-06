@@ -24,6 +24,8 @@ def percentual(valor: float, casas: int = 2) -> str:
 
 
 def tabela(dados: pd.DataFrame, legenda: str) -> str:
+    dados = dados.drop(columns=["col_0"], errors="ignore").reset_index(drop=True)
+    dados.columns = dados.columns.set_names([None] * dados.columns.nlevels)
     html = dados.to_html(index=False, border=0, escape=True)
     html = html.replace(">", f"><caption>{escape(legenda)}</caption>", 1)
     return f'<div class="rolagem" tabindex="0" role="region" aria-label="{escape(legenda)}">{html}</div>'
@@ -70,7 +72,8 @@ def distribuicao(serie: pd.Series, unidade: str) -> str:
         }]},
     }
     quadro = pd.DataFrame({"Intervalo": rotulos, "Clientes": [numero(v) for v in contagens]})
-    histograma = grafico(config, f"Distribuição de {unidade.lower()}", quadro)
+    legenda = unidade.lower().replace("r$", "R$")
+    histograma = grafico(config, f"Distribuição de {legenda}", quadro)
     # Chart.js básico não inclui boxplot. Preserva-se o resumo do notebook em SVG.
     figura = Figure(figsize=(5.6, 1.1), layout="constrained")
     eixo = figura.subplots()
@@ -138,7 +141,7 @@ def mapa_calor(cruzamento: pd.DataFrame) -> str:
                            f'</strong><small>n = {numero(total)}</small></td>')
         linhas.append(f'<tr><th scope="row">{escape(str(idade))}</th>{"".join(celulas)}</tr>')
     return (
-        '<div class="rolagem" tabindex="0" role="region" aria-label="Mapa de calor por idade e profissão"><table class="mapa">'
+        '<div class="mapa-conteiner" role="region" aria-label="Mapa de calor por idade e profissão"><table class="mapa">'
         '<caption>Taxa de compra e tamanho de cada grupo</caption>'
         f'<thead><tr><th scope="col">Faixa etária</th>{cabecalho}</tr></thead>'
         f'<tbody>{"".join(linhas)}</tbody></table></div>'

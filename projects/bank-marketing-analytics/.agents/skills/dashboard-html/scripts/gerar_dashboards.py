@@ -137,6 +137,7 @@ def perfil(dados: pd.DataFrame, total_bruto: int) -> str:
         ("Idade mediana", f"{numero(idade.median())} anos", f"Média de {numero(idade.mean(), 1)} anos"),
         ("Saldo mediano", f"R$ {numero(saldo.median(), 2)}", "Saldo em conta corrente"),
     ])
+    kpis = kpis.replace('class="kpis"', 'class="kpis kpis-centralizados"')
     conteudo = f"""
     {kpis}
     <nav class="nav indice" aria-label="Perguntas sobre o perfil dos clientes">
@@ -280,9 +281,10 @@ def conversao(dados: pd.DataFrame) -> str:
     ], escala=max(ranking["IV"].max(), .3), metrica="decimal", descricao="Information Value (IV)")
     kpis = indicadores([
         ("Taxa de compra", percentual(taxa_geral), f"{numero(compras)} compras em {numero(total)} clientes"),
-        ("Não compraram", numero(total - compras), percentual(100 - taxa_geral)),
+        ("Não compraram", numero(total - compras), f"{percentual(100 - taxa_geral)} dos clientes"),
         ("IC de 95% · Wilson", wilson, "Incerteza amostral da taxa de compra"),
     ])
+    kpis = kpis.replace('class="kpis"', 'class="kpis kpis-centralizados"')
     conteudo = f"""
     {kpis}
     <nav class="nav indice" aria-label="Perguntas sobre a conversão da campanha">
@@ -319,13 +321,11 @@ def conversao(dados: pd.DataFrame) -> str:
           {taxas_segmento(tabelas["Tem_Hipoteca?"], taxa_geral, "Taxa de compra por situação de hipoteca")}
         </div>
       </div>
-      <details><summary>Faixa etária × profissão</summary>
+      <details><summary>Faixa etária x Profissão x Taxa de Compra</summary>
         <p>O cruzamento ajuda a contextualizar as taxas mais altas entre estudantes e aposentados.
         Leia cada taxa junto ao tamanho do grupo. O traço indica combinações sem observações.</p>
         {mapa_calor(cruzamento)}
       </details>
-      <p class="nota">Nas tabelas, “% Sim” indica quanto cada grupo representa no total de compradores.
-      “Taxa de compra” indica quanto os compradores representam dentro do próprio grupo.</p>
       {segmentos}
       <details><summary>Detalhamento dos saldos a partir de R$ 5 mil</summary>
         <p>O corte em R$ 1.500 é exploratório. Acima dele, as taxas são semelhantes.
