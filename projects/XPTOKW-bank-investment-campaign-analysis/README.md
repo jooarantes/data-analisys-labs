@@ -1,4 +1,4 @@
-# Bank Marketing Analytics
+# XPTOKW Bank Investment Campaign Analysis
 
 Análise exploratória do perfil de clientes e dos resultados de uma campanha de venda de um produto de investimento do Banco XPTOKW.
 

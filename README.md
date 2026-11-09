@@ -21,7 +21,7 @@ Browse the [interactive artifacts on GitHub Pages](https://jooarantes.github.io/
 
 ## Technologies and Tools
 
-Python · pandas · NumPy · SQL · Jupyter Notebook · statistical inference ·
+Python · Pandas · NumPy · SQL · Jupyter Notebook · statistical inference ·
 data visualization · structured research · analytical reports
 
 The tools listed for each project reflect the documented implementation and
@@ -33,7 +33,7 @@ deliverables available for that project.
 
 | Project | Problem addressed | Methods and tools | Deliverables |
 | --- | --- | --- | --- |
-| [Bank Marketing Analytics](./projects/bank-marketing-analytics/) | Describe the customer profile and observed conversion in a bank campaign, with explicit uncertainty and causal limits. | Exploratory analysis, conversion rates, confidence intervals, WoE/IV, Python, pandas, SciPy, and Jupyter Notebook. | Analytical notebook, customer profile dashboard, and campaign conversion dashboard. |
+| [XPTOKW Bank Investment Campaign Analysis](./projects/XPTOKW-bank-investment-campaign-analysis/) | Describe the customer profile and observed conversion in a bank campaign, with explicit uncertainty and causal limits. | Exploratory analysis, conversion rates, confidence intervals, WoE/IV, Python, pandas, SciPy, and Jupyter Notebook. | Analytical notebook, customer profile dashboard, and campaign conversion dashboard. |
 
 ### Business Analysis
 
@@ -52,41 +52,6 @@ deliverables available for that project.
 > Its current repository status indicates that modularization and project
 > structuring are still in progress.
 
-## How to Add a New Project
-
-1. Choose the category that best represents the project's primary decision
-   context.
-2. Create the project directory and its own README when the project is hosted
-   in this repository.
-3. Add one row to the relevant category table with a verifiable problem,
-   methods, and deliverables.
-4. Link to the external repository when the project is intentionally maintained
-   elsewhere.
-5. Keep claims aligned with the current artifacts and clearly identify work in
-   progress.
-
-## Project Conventions
-
-Each project should communicate:
-
-- Business or analytical question
-- Dataset and data limitations
-- Analytical approach
-- Key findings
-- Visualizations or reports
-- Recommendations or decision implications
-- Reproduction instructions, when applicable
-
-## Repository Structure
-
-```text
-data-analisys-labs/
-├── README.md
-├── LICENSE
-└── projects/
-    ├── bank-marketing-analytics/
-    └── casa-verde-competitive-intelligence/
-```
 
 ## Related Repositories
 
