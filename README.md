@@ -33,6 +33,7 @@ deliverables available for that project.
 
 | Project | Problem addressed | Methods and tools | Deliverables |
 | --- | --- | --- | --- |
+| [AtendeBem Customer Support Analysis](./projects/atendebem-customer-support/) | Investigate how wait time, resolution, satisfaction, NPS, feedback sentiment, channels, and problem types are associated with customer-support outcomes. | Exploratory analysis, association measures, WoE/IV, confidence intervals, Python, pandas, SciPy, Matplotlib, Seaborn, openpyxl, and Jupyter Notebook. | Customer-support analysis notebook and technical recommendation report. |
 | [XPTOKW Bank Investment Campaign Analysis](./projects/XPTOKW-bank-investment-campaign-analysis/) | Describe the customer profile and observed conversion in a bank campaign, with explicit uncertainty and causal limits. | Exploratory analysis, conversion rates, confidence intervals, WoE/IV, Python, pandas, SciPy, and Jupyter Notebook. | Analytical notebook, customer profile dashboard, and campaign conversion dashboard. |
 
 ### Business Analysis
