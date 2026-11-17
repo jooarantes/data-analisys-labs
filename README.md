@@ -46,6 +46,7 @@ deliverables available for that project.
 
 | Project | Problem addressed | Methods and tools | Deliverables |
 | --- | --- | --- | --- |
+| [Evaluating Delivery Reports](./projects/avaliacao-casos-reclamacao-entregas/) | Explore delivery trips and investigate operational indicators associated with customer complaints. | Exploratory analysis, correlations, WoE/IV, descriptive statistics, Python, pandas, SciPy, Matplotlib, Seaborn, and Jupyter Notebook. | Analysis notebook and delivery complaints report. |
 | [Healthcare Costs Inferential Analysis](https://github.com/jooarantes/healthcare-costs-inferential-analysis) | Identify variables associated with higher healthcare costs and translate statistically supported findings into practical recommendations. | Exploratory data analysis, statistical tests, confidence intervals, bootstrap, GLMs, residual analysis, Python, pandas, scikit-learn, statsmodels, SciPy, Matplotlib, Seaborn, and Jupyter Notebook. | Analytical notebook, statistical and visual reports, model coefficient interpretation, and an action plan. |
 
 > Healthcare Costs Inferential Analysis is maintained in its own GitHub
