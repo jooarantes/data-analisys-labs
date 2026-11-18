@@ -54,6 +54,12 @@ deliverables available for that project.
 > Its current repository status indicates that modularization and project
 > structuring are still in progress.
 
+### Statistics
+
+| Project | Problem addressed | Methods and tools | Deliverables |
+| --- | --- | --- | --- |
+| [Summarizing a Dataset with Statistical Techniques](./projects/resumindo-dados-marketing/) | Explore e-commerce customer data through univariate and bivariate analysis. | Descriptive statistics, distributions, relationship analysis, Python, pandas, NumPy, SciPy, Matplotlib, Seaborn, and Jupyter Notebook. | Univariate and bivariate analysis notebooks with visualizations. |
+
 
 ## Related Repositories
 
