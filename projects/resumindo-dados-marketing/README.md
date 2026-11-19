@@ -13,8 +13,8 @@ Esse projeto não apresenta um contexto de negócio específico. O objetivo é i
 - Qual é o nível de associação entre tempo de cliente e avaliação?
 
 ## 3. Entregáveis
-- [Notebook 1 - Análise Univariada](notebooks\analise-univariada.ipynb)
-- [Notebook 2 - Análise Bivariada](notebooks\analise-bivariada.ipynb)
+- [Notebook 1 - Análise Univariada](notebooks/analise-univariada.ipynb)
+- [Notebook 2 - Análise Bivariada](notebooks/analise-bivariada.ipynb)
 
 ## 4. Dados e Premissas
 ### Fonte dos Dados
