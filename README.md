@@ -59,6 +59,7 @@ deliverables available for that project.
 | Project | Problem addressed | Methods and tools | Deliverables |
 | --- | --- | --- | --- |
 | [Summarizing a Dataset with Statistical Techniques](./projects/resumindo-dados-marketing/) | Explore e-commerce customer data through univariate and bivariate analysis. | Descriptive statistics, distributions, relationship analysis, Python, pandas, NumPy, SciPy, Matplotlib, Seaborn, and Jupyter Notebook. | Univariate and bivariate analysis notebooks with visualizations. |
+| [A/B Testing for Brazil’s Human Development Index](./projects/ab-teste-idh-brazil/) | Didactic exercise comparing IDHM Education samples from Brazil’s North, Northeast, and South regions. | Educational introduction to hypothesis testing, sample comparisons, statistical significance, and p-values using Python, pandas, SciPy, and Jupyter Notebook. | [Didactic notebook](./projects/ab-teste-idh-brazil/notebooks/ab-testing-idhm-brazil.ipynb). |
 
 
 ## Related Repositories
